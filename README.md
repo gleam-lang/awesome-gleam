@@ -5,4 +5,4 @@ to the list.
 
 Looking for something to build? Check out [the suggestions tracker][suggestions].
 
-[suggestions]: https://github.com/gleam-lang/suggestions/issues.
+[suggestions]: https://github.com/gleam-lang/suggestions/issues
