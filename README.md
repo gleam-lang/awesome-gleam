@@ -25,6 +25,7 @@ Libraries that define generic data structures for use in Gleam projects.
 - [gleam-experiments/iterator](https://github.com/gleam-experiments/iterator) - Lazily evaluated sequences with low memory usage.
 - [gleam-lang/bitwise](https://github.com/gleam-lang/bitwise) - Bitwise operations on integers.
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - Core data structures and types for Gleam.
+- [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
 
 ## Erlang/OTP
 
