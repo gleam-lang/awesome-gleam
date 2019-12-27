@@ -15,9 +15,9 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 # Libraries
 
 - [Data structures](#data-structures)
-- [Parsing](#parsing)
 - [Erlang/OTP](#erlangotp)
 - [HTTP servers](#http-servers)
+- [Parsing](#parsing)
 
 ## Data structures
 
@@ -27,16 +27,11 @@ Libraries that define generic data structures for use in Gleam projects.
 - [gleam-lang/bitwise](https://github.com/gleam-lang/bitwise) - Bitwise operations on integers.
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - Core data structures and types for Gleam.
 
-## Parsing
-
-Libraries for parsing different kinds of data.
-
-- [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
-
 ## Erlang/OTP
 
 Libraries for working with Erlang and OTP.
 
+- [gleam-experiments/otp_agent](https://github.com/gleam-experiments/otp_agent) - Generic stateful OTP compatible processes.
 - [gleam-experiments/otp_process](https://github.com/gleam-experiments/otp_process) - Create lightweight threads and send messages.
 
 ## HTTP servers
@@ -44,6 +39,12 @@ Libraries for working with Erlang and OTP.
 Libraries for serving traffic over HTTP.
 
 - [gleam-experiments/elli](https://github.com/gleam-experiments/elli) - Gleam bindings to the Elli Erlang web server.
+
+## Parsing
+
+Libraries for parsing different kinds of data.
+
+- [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
 
 
 # Projects
