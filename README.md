@@ -16,7 +16,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 
 - [Data structures](#data-structures)
 - [Erlang/OTP](#erlangotp)
-- [HTTP servers](#http-servers)
+- [HTTP](#http)
 - [Parsing](#parsing)
 
 ## Data structures
@@ -39,6 +39,7 @@ Libraries for working with Erlang and OTP.
 Libraries for serving traffic over HTTP.
 
 - [gleam-experiments/elli](https://github.com/gleam-experiments/elli) - Gleam bindings to the Elli Erlang web server.
+- [gleam-lang/http](https://github.com/gleam-lang/http) - Types for HTTP servers and clients
 
 ## Parsing
 
