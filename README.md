@@ -16,7 +16,8 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 
 - [Data structures](#data-structures)
 - [Erlang/OTP](#erlangotp)
-- [HTTP](#http)
+- [HTTP clients](#http-clients)
+- [HTTP servers](#http-servers)
 - [Parsing](#parsing)
 
 ## Data structures
@@ -33,6 +34,12 @@ Libraries for working with Erlang and OTP.
 
 - [gleam-experiments/otp_agent](https://github.com/gleam-experiments/otp_agent) - Generic stateful OTP compatible processes.
 - [gleam-experiments/otp_process](https://github.com/gleam-experiments/otp_process) - Create lightweight threads and send messages.
+
+## HTTP clients
+
+Libraries for making HTTP requests.
+
+- [gleam-experiments/httpc](https://github.com/gleam-experiments/httpc) - Bindings to Erlang's built in HTTP client, httpc.
 
 ## HTTP servers
 
