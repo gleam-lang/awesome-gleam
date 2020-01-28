@@ -19,6 +19,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 - [HTTP clients](#http-clients)
 - [HTTP servers](#http-servers)
 - [Parsing](#parsing)
+- [Templating](#templating)
 
 ## Data structures
 
@@ -56,6 +57,11 @@ Libraries for parsing different kinds of data.
 
 - [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
 
+## Templating
+
+Libraries for rendering strings from templates.
+
+- [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
 
 # Projects
 
