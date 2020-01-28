@@ -8,18 +8,20 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 [suggestions]: https://github.com/gleam-lang/suggestions/issues
 
 - [Libraries](#libraries)
+  - [Data structures](#data-structures)
+  - [Erlang/OTP](#erlangotp)
+  - [HTTP clients](#http-clients)
+  - [HTTP servers](#http-servers)
+  - [Parsing](#parsing)
+  - [Templating](#templating)
 - [Projects](#projects)
+  - [Compilers](#compilers)
+  - [Web applications](#web-applications)
 - [Resources](#resources)
+  - [Websites](#websites)
 
 
 # Libraries
-
-- [Data structures](#data-structures)
-- [Erlang/OTP](#erlangotp)
-- [HTTP clients](#http-clients)
-- [HTTP servers](#http-servers)
-- [Parsing](#parsing)
-- [Templating](#templating)
 
 ## Data structures
 
@@ -65,9 +67,6 @@ Libraries for rendering strings from templates.
 
 # Projects
 
-- [Compilers](#compilers)
-- [Web applications](#web-applications)
-
 ## Compilers
 
 Compilers for Gleam and compilers written in Gleam.
@@ -82,8 +81,6 @@ Web applications written in Gleam.
 
 
 # Resources
-
-- [Websites](#websites)
 
 ## Websites
 
