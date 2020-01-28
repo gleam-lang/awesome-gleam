@@ -34,6 +34,7 @@ Libraries for working with Erlang and OTP.
 
 - [gleam-experiments/otp_agent](https://github.com/gleam-experiments/otp_agent) - Generic stateful OTP compatible processes.
 - [gleam-experiments/otp_process](https://github.com/gleam-experiments/otp_process) - Create lightweight threads and send messages.
+- [gleam-experiments/otp_supervisor](https://github.com/gleam-experiments/otp_supervisor) - Bring failed processes back to life with supervisors.
 
 ## HTTP clients
 
