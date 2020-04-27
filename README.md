@@ -14,6 +14,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [HTTP servers](#http-servers)
   - [Parsing](#parsing)
   - [Templating](#templating)
+  - [Configuration](#configuration)
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
@@ -64,6 +65,10 @@ Libraries for parsing different kinds of data.
 Libraries for rendering strings from templates.
 
 - [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
+
+## Configuration
+
+- [mpope9/config](https://github.com/mpope9/config) - A Gleam toml configuration backend.
 
 # Projects
 
