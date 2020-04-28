@@ -8,13 +8,14 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 [suggestions]: https://github.com/gleam-lang/suggestions/issues
 
 - [Libraries](#libraries)
+  - [Configuration](#configuration)
   - [Data structures](#data-structures)
   - [Erlang/OTP](#erlangotp)
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
+  - [JSON](#json)
   - [Parsing](#parsing)
   - [Templating](#templating)
-  - [Configuration](#configuration)
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
@@ -23,6 +24,10 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 
 
 # Libraries
+
+## Configuration
+
+- [mpope9/config](https://github.com/mpope9/config) - A Gleam toml configuration backend.
 
 ## Data structures
 
@@ -54,6 +59,10 @@ Libraries for serving traffic over HTTP.
 - [gleam-experiments/elli](https://github.com/gleam-experiments/elli) - Gleam bindings to the Elli Erlang web server.
 - [gleam-lang/http](https://github.com/gleam-lang/http) - Types for HTTP servers and clients
 
+## JSON
+
+- [rjdellecese/gleam_jsone](https://github.com/rjdellecese/gleam_jsone) - Gleam bindings to the jsone JSON library.
+
 ## Parsing
 
 Libraries for parsing different kinds of data.
@@ -66,9 +75,6 @@ Libraries for rendering strings from templates.
 
 - [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
 
-## Configuration
-
-- [mpope9/config](https://github.com/mpope9/config) - A Gleam toml configuration backend.
 
 # Projects
 
