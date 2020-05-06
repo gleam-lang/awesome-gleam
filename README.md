@@ -98,3 +98,14 @@ Web applications written in Gleam.
 Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website and introductory guide
+
+## Social Media
+
+### Twitter
+
+* [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
+* [@louispilfold](https://twitter.com/louispilfold)
+
+### Reddit
+
+* [r/gleamlang](https://reddit.com/r/gleamlang/)
