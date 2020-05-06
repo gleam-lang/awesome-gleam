@@ -21,6 +21,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Web applications](#web-applications)
 - [Resources](#resources)
   - [Websites](#websites)
+  - [Social media](#social-media)
 
 
 # Libraries
@@ -104,7 +105,7 @@ Websites with Gleam related content.
 ### Twitter
 
 * [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
-* [@louispilfold](https://twitter.com/louispilfold)
+* [@louispilfold](https://twitter.com/louispilfold) - The creator of Gleam.
 
 ### Reddit
 
