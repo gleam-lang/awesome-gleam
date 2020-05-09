@@ -58,7 +58,8 @@ Libraries for making HTTP requests.
 Libraries for serving traffic over HTTP.
 
 - [gleam-experiments/elli](https://github.com/gleam-experiments/elli) - Gleam bindings to the Elli Erlang web server.
-- [gleam-lang/http](https://github.com/gleam-lang/http) - Types for HTTP servers and clients
+- [midas-framework/midas(https://github.com/midas-framework/midas) - A web framework for Gleam.
+- [gleam-lang/http](https://github.com/gleam-lang/http) - Types for HTTP servers and clients.
 
 ## JSON
 
