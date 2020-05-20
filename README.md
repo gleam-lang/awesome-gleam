@@ -72,6 +72,10 @@ Libraries for parsing different kinds of data.
 
 - [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
 
+## Mimetypes
+
+- [davecaos/benetnasch](https://github.com/davecaos/benetnasch) - Benetnasch a mimetypes library for Gleam.
+
 ## Templating
 
 Libraries for rendering strings from templates.
