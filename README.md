@@ -19,6 +19,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
+- [Tools](#tools)
 - [Resources](#resources)
   - [Websites](#websites)
   - [Social media](#social-media)
@@ -92,6 +93,13 @@ Web applications written in Gleam.
 
 - [gleam-lang/example-url-shortener](https://github.com/gleam-lang/example-url-shortener) - An example Gleam web application.
 
+# Tools
+
+## Editor support
+
+- [gleam-lang/gleam.vim](https://github.com/gleam-lang/gleam.vim) - Gleam support for Vim/Neovim.
+- [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code with support for `gleam format`.
+- [gleam-lang/gleam-mode](https://github.com/gleam-lang/gleam-mode) - An emacs major mode for the Gleam programming language.
 
 # Resources
 
