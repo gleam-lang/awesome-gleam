@@ -43,7 +43,7 @@ Libraries that define generic data structures for use in Gleam projects.
 
 Libraries for working with Erlang and OTP.
 
-- [gleam-experiments/otp](https://github.com/gleam-land/otp) - Write fault tolerant multicore programs with Erlang/OTP.
+- [gleam-lang/otp](https://github.com/gleam-lang/otp) - Write fault tolerant multicore programs with Erlang/OTP.
 - [gleam-experiments/otp_agent](https://github.com/gleam-experiments/otp_agent) - Generic stateful OTP compatible processes.
 - [gleam-experiments/otp_code](https://github.com/gleam-experiments/otp_code) - Work with Erlang code at runtime.
 - [gleam-experiments/otp_supervisor](https://github.com/gleam-experiments/otp_supervisor) - Bring failed processes back to life with supervisors.
