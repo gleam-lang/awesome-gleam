@@ -9,6 +9,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 
 - [Libraries](#libraries)
   - [Configuration](#configuration)
+  - [Cryptography](#cryptography)
   - [Data structures](#data-structures)
   - [Erlang/OTP](#erlangotp)
   - [HTTP clients](#http-clients)
@@ -30,6 +31,10 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 ## Configuration
 
 - [mpope9/config](https://github.com/mpope9/config) - A Gleam toml configuration backend.
+
+## Cryptography
+
+- [midas-framework/crypto](https://github.com/midas-framework/crypto) - A Gleam library for the Beam cryptography functions.
 
 ## Data structures
 
