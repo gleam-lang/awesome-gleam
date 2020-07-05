@@ -76,6 +76,7 @@ Libraries for serving traffic over HTTP.
 Libraries for parsing different kinds of data.
 
 - [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
+- [delucks/pathlib](https://github.com/delucks/pathlib) - Manipulate Unix-style filesystem paths.
 
 ## Mimetypes
 
