@@ -12,6 +12,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Cryptography](#cryptography)
   - [Data structures](#data-structures)
   - [Erlang/OTP](#erlangotp)
+  - [HTTP](#http)
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
   - [JSON](#json)
@@ -53,6 +54,10 @@ Libraries for working with Erlang and OTP.
 - [gleam-experiments/otp_code](https://github.com/gleam-experiments/otp_code) - Work with Erlang code at runtime.
 - [gleam-experiments/otp_supervisor](https://github.com/gleam-experiments/otp_supervisor) - Bring failed processes back to life with supervisors.
 
+## HTTP
+
+- [gleam-lang/http](https://github.com/gleam-lang/http) - Types and functions for HTTP clients and servers!
+
 ## HTTP clients
 
 Libraries for making HTTP requests.
@@ -65,7 +70,6 @@ Libraries for serving traffic over HTTP.
 
 - [gleam-experiments/elli](https://github.com/gleam-experiments/elli) - A Gleam HTTP service adapter for the Elli web server.
 - [midas-framework/midas](https://github.com/midas-framework/midas) - A web framework for Gleam.
-- [gleam-lang/http](https://github.com/gleam-lang/http) - Types for HTTP servers and clients.
 
 ## JSON
 
