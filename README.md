@@ -105,7 +105,7 @@ Compilers for Gleam and compilers written in Gleam.
 
 Web applications written in Gleam.
 
-- [gleam-lang/example-url-shortener](https://github.com/gleam-lang/example-url-shortener) - An example Gleam web application.
+- [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-url-shortener) - An example Gleam web application.
 
 # Tools
 
