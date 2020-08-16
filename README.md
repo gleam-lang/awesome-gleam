@@ -35,7 +35,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 
 ## Cryptography
 
-- [midas-framework/crypto](https://github.com/midas-framework/crypto) - A Gleam library for the Beam cryptography functions.
+- [gleam-experiments/crypto](https://github.com/gleam-experiments/crypto) - A Gleam library for the Beam cryptography functions.
 
 ## Data structures
 
