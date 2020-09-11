@@ -105,6 +105,8 @@ Compilers for Gleam and compilers written in Gleam.
 Web applications written in Gleam.
 
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-url-shortener) - An example Gleam web application.
+- [toranb/elixir-gleam-match](https://github.com/toranb/elixir-gleam-match) - A game built with Gleam and Phoenix LiveView
+- [michallepicki/gleam-realworld-example-app](https://github.com/michallepicki/gleam-realworld-example-app) - A RealWorld example app written in Gleam
 
 # Tools
 
