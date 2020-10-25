@@ -116,6 +116,7 @@ Web applications written in Gleam.
 - [gleam-lang/gleam.vim](https://github.com/gleam-lang/gleam.vim) - Gleam support for Vim/Neovim.
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code with support for `gleam format`.
 - [gleam-lang/gleam-mode](https://github.com/gleam-lang/gleam-mode) - An emacs major mode for the Gleam programming language.
+- [molnarmark/sublime-gleam](https://github.com/molnarmark/sublime-gleam) - Gleam Syntax Definitions & Formatting for Sublime Text 3
 
 # Resources
 
