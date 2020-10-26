@@ -18,6 +18,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [JSON](#json)
   - [Parsing](#parsing)
   - [Templating](#templating)
+  - [Validation](#validation)
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
@@ -91,6 +92,9 @@ Libraries for rendering strings from templates.
 
 - [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
 
+## Validation
+
+- (sporto/gleam-validator)[https://github.com/sporto/gleam-validator] - A library for validating custom types.
 
 # Projects
 
