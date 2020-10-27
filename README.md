@@ -135,6 +135,7 @@ Websites with Gleam related content.
 ### Twitter
 
 * [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
+* [@gleamlang](https://twitter.com/gleamlang) - The official twitter account.
 * [@louispilfold](https://twitter.com/louispilfold) - The creator of Gleam.
 
 ### Reddit
