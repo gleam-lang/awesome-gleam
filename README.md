@@ -94,7 +94,7 @@ Libraries for rendering strings from templates.
 
 ## Validation
 
-- (sporto/gleam-validator)[https://github.com/sporto/gleam-validator] - A library for validating custom types.
+- [sporto/gleam-validator](https://github.com/sporto/gleam-validator) - A library for validating custom types.
 
 # Projects
 
