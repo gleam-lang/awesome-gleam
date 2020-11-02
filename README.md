@@ -18,6 +18,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [JSON](#json)
   - [Parsing](#parsing)
   - [Templating](#templating)
+  - [Unique IDs](#unique-ids)
   - [Validation](#validation)
 - [Projects](#projects)
   - [Compilers](#compilers)
@@ -91,6 +92,12 @@ Libraries for parsing different kinds of data.
 Libraries for rendering strings from templates.
 
 - [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
+
+## Unique IDs
+
+Libraries for generating unique ids and strings
+
+- [lrosa007/ids](https://github.com/lrosa007/ids) - A library for generating unique id strings such as a cuid and UUID
 
 ## Validation
 
