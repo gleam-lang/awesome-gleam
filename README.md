@@ -95,9 +95,9 @@ Libraries for rendering strings from templates.
 
 ## Unique IDs
 
-Libraries for generating unique ids and strings
+Libraries for generating unique id strings.
 
-- [lrosa007/ids](https://github.com/lrosa007/ids) - A library for generating unique id strings such as a cuid and UUID
+- [lrosa007/ids](https://github.com/lrosa007/ids) - A library for generating unique ids such as a cuid or UUID.
 
 ## Validation
 
