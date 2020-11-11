@@ -97,7 +97,7 @@ Libraries for rendering strings from templates.
 
 Libraries for parsing and manipulating text and numbers.
 
-- [lrosa007/ids](https://github.com/lrosa007/ids) - A library for generating unique ids such as a cuid or UUID.
+- [rvcas/ids](https://github.com/rvcas/ids) - A library for generating unique ids such as a cuid or UUID.
 
 ## Validation
 
