@@ -26,6 +26,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
 - [Tools](#tools)
 - [Resources](#resources)
   - [Websites](#websites)
+  - [Courses](#courses)
   - [Social media](#social-media)
 
 
@@ -139,6 +140,10 @@ Web applications written in Gleam.
 Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website and introductory guide
+
+## Courses
+
+- [Exercism's Gleam track](https://github.com/exercism/gleam/) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 
 ## Social Media
 
