@@ -98,6 +98,7 @@ Libraries for rendering strings from templates.
 
 Libraries for parsing and manipulating text and numbers.
 
+- [greggreg/gleam_uuid](https://gitlab.com/greggreg/gleam_uuid) - UUID generation and decoding in Gleam.
 - [rvcas/ids](https://github.com/rvcas/ids) - A library for generating unique ids such as a cuid or UUID.
 
 ## Validation
