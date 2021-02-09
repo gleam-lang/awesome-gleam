@@ -52,6 +52,7 @@ Libraries that define generic data structures for use in Gleam projects.
 
 Libraries for working with Erlang and OTP.
 
+- [midas-framework/beam](https://github.com/midas-framework/beam) - Library for interoperating with specific functionality in the erlang runtime (BEAM). 
 - [gleam-lang/otp](https://github.com/gleam-lang/otp) - Write fault tolerant multicore programs with Erlang/OTP.
 - [gleam-experiments/otp_code](https://github.com/gleam-experiments/otp_code) - Work with Erlang code at runtime.
 
