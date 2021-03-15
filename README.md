@@ -13,6 +13,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Data structures](#data-structures)
   - [Erlang/OTP](#erlangotp)
   - [File IO](#file-io) 
+  - [Generators](#generators) 
   - [HTTP](#http)
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
@@ -59,6 +60,10 @@ Libraries for working with Erlang and OTP.
 ## File IO
 
 - [greggreg/gleam_file](https://gitlab.com/greggreg/gleam_file) - File, Directory, and Path handling in Gleam.
+
+## Generators
+
+- [mrdimosthenis/minigen](https://github.com/mrdimosthenis/minigen) - A library for generating data in the Erlang ecosystem, written in Gleam.
 
 ## HTTP
 
