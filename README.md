@@ -63,7 +63,7 @@ Libraries for working with Erlang and OTP.
 
 ## Generators
 
-- [mrdimosthenis/minigen](https://github.com/mrdimosthenis/minigen) - A library for generating data in the Erlang ecosystem, written in Gleam.
+- [mrdimosthenis/minigen](https://github.com/mrdimosthenis/minigen) - A library for generating random data in the Erlang ecosystem, written in Gleam.
 
 ## HTTP
 
