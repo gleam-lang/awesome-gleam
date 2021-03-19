@@ -18,6 +18,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
   - [JSON](#json)
+  - [Machine learning](#machine-learning)
   - [Parsing](#parsing)
   - [Templating](#templating)
   - [Text and numbers](#text-and-numbers)
@@ -87,6 +88,10 @@ Libraries for serving traffic over HTTP.
 ## JSON
 
 - [rjdellecese/gleam_jsone](https://github.com/rjdellecese/gleam_jsone) - Gleam bindings to the jsone JSON library.
+
+## Machine learning
+
+- [mrdimosthenis/gleam_synapses](https://github.com/mrdimosthenis/gleam_synapses) - A lightweight library for neural networks.
 
 ## Parsing
 
