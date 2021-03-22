@@ -12,6 +12,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Cryptography](#cryptography)
   - [Data structures](#data-structures)
   - [Erlang/OTP](#erlangotp)
+  - [Error handling](#error-handling)
   - [File IO](#file-io) 
   - [Generators](#generators) 
   - [HTTP](#http)
@@ -58,9 +59,13 @@ Libraries for working with Erlang and OTP.
 - [gleam-lang/otp](https://github.com/gleam-lang/otp) - Write fault tolerant multicore programs with Erlang/OTP.
 - [gleam-experiments/otp_code](https://github.com/gleam-experiments/otp_code) - Work with Erlang code at runtime.
 
+## Error handling
+
+Libraries for working with errors and computations that can fail.
+
 ## File IO
 
-- [greggreg/gleam_file](https://gitlab.com/greggreg/gleam_file) - File, Directory, and Path handling in Gleam.
+- [gleam-experiments/snag](https://github.com/gleam-experiments/snag) - A boilerplate-free ad-hoc error type.
 
 ## Generators
 
