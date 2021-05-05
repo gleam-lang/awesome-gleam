@@ -13,14 +13,15 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Data structures](#data-structures)
   - [Erlang/OTP](#erlangotp)
   - [Error handling](#error-handling)
-  - [File IO](#file-io) 
-  - [Generators](#generators) 
+  - [File IO](#file-io)
+  - [Generators](#generators)
   - [HTTP](#http)
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
   - [JSON](#json)
   - [Machine learning](#machine-learning)
   - [Parsing](#parsing)
+  - [Mimetypes](#mimetypes)
   - [Templating](#templating)
   - [Text and numbers](#text-and-numbers)
   - [Validation](#validation)
@@ -28,11 +29,11 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
 - [Tools](#tools)
+  - [Editor support](#editor-support)
 - [Resources](#resources)
   - [Websites](#websites)
   - [Courses](#courses)
-  - [Social media](#social-media)
-
+  - [Social Media](#social-media)
 
 # Libraries
 
@@ -70,6 +71,7 @@ Libraries for working with errors and computations that can fail.
 ## Generators
 
 - [mrdimosthenis/minigen](https://github.com/mrdimosthenis/minigen) - A library for generating random data in the Erlang ecosystem, written in Gleam.
+- [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A library for generating and working with random numbers, distributions and statistics.
 
 ## HTTP
 
