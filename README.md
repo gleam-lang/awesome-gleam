@@ -106,6 +106,7 @@ Libraries for parsing different kinds of data.
 
 - [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
 - [delucks/pathlib](https://github.com/delucks/pathlib) - Manipulate Unix-style filesystem paths.
+- [sporto/gleam_codec](https://github.com/sporto/gleam_codec) - Build codecs (Encode and decode) to transform data structures between Gleam and Elixir.
 
 ## Mimetypes
 
