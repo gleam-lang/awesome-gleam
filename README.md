@@ -64,9 +64,9 @@ Libraries for working with Erlang and OTP.
 
 Libraries for working with errors and computations that can fail.
 
-## File IO
-
 - [gleam-experiments/snag](https://github.com/gleam-experiments/snag) - A boilerplate-free ad-hoc error type.
+
+## File IO
 
 ## Generators
 
