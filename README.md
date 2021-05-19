@@ -109,6 +109,7 @@ Libraries for parsing different kinds of data.
 - [sporto/gleam_codec](https://github.com/sporto/gleam_codec) - Build codecs (Encode and decode) to transform data structures between Gleam and Elixir.
 - [Arkham/gleam_parser](https://github.com/Arkham/gleam_parser) - A parser combinator library in Gleam, heavily inspired by elm-parser
 - [pd-andy/gleam-string-parser](https://github.com/pd-andy/gleam-string-parser) - A simple parser combinator package written in Gleam.
+- [sporto/gleam_qs](https://github.com/sporto/gleam_qs) - Parse and work with query strings
 
 ## Mimetypes
 
