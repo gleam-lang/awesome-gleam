@@ -25,6 +25,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Templating](#templating)
   - [Text and numbers](#text-and-numbers)
   - [Validation](#validation)
+- [Templates](#templates)
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
@@ -133,6 +134,13 @@ Libraries for parsing and manipulating text and numbers.
 ## Validation
 
 - [sporto/gleam-validator](https://github.com/sporto/gleam-validator) - A library for validating custom types.
+
+# Templates
+
+## Serverless
+
+- [nicklasxyz/gleam_openfaas](https://github.com/NicklasXYZ/gleam_openfaas) - Gleam function templates to be used with the serverless framework OpenFaaS.
+- [nicklasxyz/gleam_openwhisk](https://github.com/NicklasXYZ/gleam_openwhisk) - Gleam function templates to be used with the serverless framework OpenWhisk.
 
 # Projects
 
