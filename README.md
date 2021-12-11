@@ -139,7 +139,7 @@ Libraries for parsing and manipulating text and numbers.
 
 ## Websockets
 
-- [lpil/nerf](https://github.com/lpil/nerf) - Gleam bindings to the Erlang gun HTTP/1.1, HTTP/2 and Websocket client.
+- [lpil/nerf](https://github.com/lpil/nerf) - Gleam bindings to gun, the Erlang HTTP/1.1, HTTP/2 and Websocket client.
 
 # Templates
 
