@@ -25,6 +25,7 @@ Looking for something to build? Check out [the suggestions tracker][suggestions]
   - [Templating](#templating)
   - [Text and numbers](#text-and-numbers)
   - [Validation](#validation)
+  - [Websockets](#websockets)
 - [Templates](#templates)
 - [Projects](#projects)
   - [Compilers](#compilers)
@@ -135,6 +136,10 @@ Libraries for parsing and manipulating text and numbers.
 ## Validation
 
 - [sporto/gleam-validator](https://github.com/sporto/gleam-validator) - A library for validating custom types.
+
+## Websockets
+
+- [lpil/nerf](https://github.com/lpil/nerf) - Gleam bindings to the Erlang gun HTTP/1.1, HTTP/2 and Websocket client.
 
 # Templates
 
