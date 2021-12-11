@@ -83,7 +83,7 @@ Libraries for working with errors and computations that can fail.
 
 Libraries for making HTTP requests.
 
-- [gleam-experiments/httpc](https://github.com/gleam-experiments/httpc) - Bindings to Erlang's built in HTTP client, httpc.
+- [gleam-lang/httpc](https://github.com/gleam-lang/httpc) - Bindings to Erlang's built in HTTP client, httpc.
 
 ## HTTP servers
 
