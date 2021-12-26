@@ -84,6 +84,7 @@ Libraries for working with errors and computations that can fail.
 
 Libraries for making HTTP requests.
 
+- [gleam-lang/hackney](https://github.com/gleam-lang/hackney) - Bindings to Hackney, the simple Erlang HTTP client.
 - [gleam-lang/httpc](https://github.com/gleam-lang/httpc) - Bindings to Erlang's built in HTTP client, httpc.
 
 ## HTTP servers
