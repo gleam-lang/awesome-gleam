@@ -98,6 +98,7 @@ Libraries for serving traffic over HTTP.
 
 ## JSON
 
+- [gleam-lang/json](https://github.com/gleam-lang/json) - Work with JSON in Gleam.
 - [rjdellecese/gleam_jsone](https://github.com/rjdellecese/gleam_jsone) - Gleam bindings to the jsone JSON library.
 
 ## Machine learning
