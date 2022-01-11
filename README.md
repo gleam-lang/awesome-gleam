@@ -3,9 +3,9 @@
 Have a Gleam project to share with the world? Make a pull request and add it
 to the list.
 
-Looking for something to build? Check out [the suggestions tracker][suggestions].
+Looking for something to build? Check out [the suggestions list][suggestions].
 
-[suggestions]: https://github.com/gleam-lang/suggestions/issues
+[suggestions]: https://github.com/gleam-lang/awesome-gleam/issues/34
 
 - [Libraries](#libraries)
   - [Configuration](#configuration)
