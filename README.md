@@ -23,6 +23,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Parsing](#parsing)
   - [Mimetypes](#mimetypes)
   - [Templating](#templating)
+  - [Testing](#testing)
   - [Text and numbers](#text-and-numbers)
   - [Validation](#validation)
   - [Websockets](#websockets)
@@ -125,6 +126,12 @@ Libraries for parsing different kinds of data.
 Libraries for rendering strings from templates.
 
 - [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
+
+## Testing
+
+Projects for testing Gleam code.
+
+- [lpil/gleeunit](https://github.com/lpil/gleeunit) - Gleam bindings to the Erlang EUnit test framework.
 
 ## Text and numbers
 
