@@ -21,6 +21,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [JSON](#json)
   - [Machine learning](#machine-learning)
   - [Parsing](#parsing)
+  - [Protocols](#protocols)
   - [Mimetypes](#mimetypes)
   - [Templating](#templating)
   - [Testing](#testing)
@@ -117,6 +118,10 @@ Libraries for parsing different kinds of data.
 - [Arkham/gleam_parser](https://github.com/Arkham/gleam_parser) - A parser combinator library in Gleam, heavily inspired by elm-parser
 - [pd-andy/gleam-string-parser](https://github.com/pd-andy/gleam-string-parser) - A simple parser combinator package written in Gleam.
 - [sporto/gleam_qs](https://github.com/sporto/gleam_qs) - Parse and work with query strings
+
+## Protocols
+
+- [bwireman/gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
 
 ## Mimetypes
 
