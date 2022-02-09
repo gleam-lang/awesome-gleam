@@ -11,6 +11,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Configuration](#configuration)
   - [Cryptography](#cryptography)
   - [Data structures](#data-structures)
+  - [Email](#email)
   - [Erlang/OTP](#erlangotp)
   - [Error handling](#error-handling)
   - [File IO](#file-io)
@@ -55,6 +56,12 @@ Libraries that define generic data structures for use in Gleam projects.
 
 - [gleam-lang/bitwise](https://github.com/gleam-lang/bitwise) - Bitwise operations on integers.
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - Core data structures and types for Gleam.
+
+## Email
+
+Libraries for sending email.
+
+- [lpil/gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - A client for the SendGrid API.
 
 ## Erlang/OTP
 
