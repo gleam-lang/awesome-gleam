@@ -129,6 +129,7 @@ Libraries for parsing different kinds of data.
 ## Protocols
 
 - [bwireman/gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
+- [massivefermion/gleam_bson](https://github.com/massivefermion/gleam_bson) - bson encoder and decoder written in gleam.
 
 ## Mimetypes
 
