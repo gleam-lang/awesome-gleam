@@ -10,6 +10,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [Libraries](#libraries)
   - [Configuration](#configuration)
   - [Cryptography](#cryptography)
+  - [Database](#database)
   - [Data structures](#data-structures)
   - [Email](#email)
   - [Erlang/OTP](#erlangotp)
@@ -49,6 +50,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ## Cryptography
 
 - [gleam-experiments/crypto](https://github.com/gleam-experiments/crypto) - A Gleam library for the Beam cryptography functions.
+
+## Database
+
+- [massivefermion/gleam_mongo](https://github.com/massivefermion/gleam_mongo) - A mongodb driver for gleam.
 
 ## Data structures
 
