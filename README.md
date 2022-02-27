@@ -105,6 +105,7 @@ Libraries for serving traffic over HTTP.
 - [gleam-lang/elli](https://github.com/gleam-lang/elli) - A Gleam HTTP service adapter for the Elli web server.
 - [gleam-lang/plug](https://github.com/gleam-lang/plug) - A Gleam HTTP service adapter for the Plug web application interface.
 - [midas-framework/midas](https://github.com/midas-framework/midas) - A web framework for Gleam.
+- [megapctr/gleam_cors](https://github.com/megapctr/gleam_cors) - A CORS middleware for Gleam.
 
 ## JSON
 
