@@ -8,7 +8,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 [suggestions]: https://github.com/gleam-lang/awesome-gleam/issues/34
 
 - [Libraries](#libraries)
-  - [Configuration](#configuration)
   - [Cryptography](#cryptography)
   - [Databases](#databases)
   - [Data structures](#data-structures)
@@ -42,10 +41,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Social Media](#social-media)
 
 # Libraries
-
-## Configuration
-
-- [mpope9/config](https://github.com/mpope9/config) - A Gleam toml configuration backend.
 
 ## Cryptography
 
