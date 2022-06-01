@@ -81,9 +81,10 @@ Libraries for working with errors and computations that can fail.
 
 ## File IO
 
+- [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - Gleam's Erlang library contains a module for working with files and directories.
+
 ## Generators
 
-- [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - Gleam's Erlang library contains a module for working with files and directories.
 - [mrdimosthenis/minigen](https://github.com/mrdimosthenis/minigen) - A library for generating random data in the Erlang ecosystem, written in Gleam.
 - [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A library for generating and working with random numbers, distributions and statistics.
 
