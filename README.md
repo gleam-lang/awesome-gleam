@@ -8,6 +8,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 [suggestions]: https://github.com/gleam-lang/awesome-gleam/issues/34
 
 - [Libraries](#libraries)
+  - [CLI](#cli)
   - [Cryptography](#cryptography)
   - [Databases](#databases)
   - [Data structures](#data-structures)
@@ -41,6 +42,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Social Media](#social-media)
 
 # Libraries
+
+## CLI
+
+- [tynanbe/shellout](https://github.com/tynanbe/shellout) - A Gleam library for cross-platform shell operations.
 
 ## Cryptography
 
