@@ -33,6 +33,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [Templates](#templates)
 - [Projects](#projects)
   - [Compilers](#compilers)
+  - [Programming Challenges](#programming-challenges)
   - [Web applications](#web-applications)
 - [Tools](#tools)
   - [Editor support](#editor-support)
@@ -46,7 +47,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ## CLI
 
 - [tynanbe/shellout](https://github.com/tynanbe/shellout) - A Gleam library for cross-platform shell operations.
-
+- [tanklesxl/glint](https://github.com/tanklesxl/glint) - Gleam command line argument parsing with basic flag support. 
 ## Cryptography
 
 - [gleam-experiments/crypto](https://github.com/gleam-experiments/crypto) - A Gleam library for the Beam cryptography functions.
@@ -186,6 +187,10 @@ Libraries for parsing and manipulating text and numbers.
 Compilers for Gleam and compilers written in Gleam.
 
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - The Gleam compiler.
+
+## Programming Challenges
+
+- [tanklesxl/gladvent](https://github.com/tanklesxl/gladvent) - An `Advent of Code` runner for Gleam, targeting Erlang.
 
 ## Web applications
 
