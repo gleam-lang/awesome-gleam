@@ -21,10 +21,11 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
   - [JSON](#json)
-  - [Machine learning](#machine-learning)
+  - [Machine Learning](#machine-learning)
+  - [Mimetypes](#mimetypes)
   - [Parsing](#parsing)
   - [Protocols](#protocols)
-  - [Mimetypes](#mimetypes)
+  - [Science](#science)
   - [Templating](#templating)
   - [Testing](#testing)
   - [Text and numbers](#text-and-numbers)
@@ -48,6 +49,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [tynanbe/shellout](https://github.com/tynanbe/shellout) - A Gleam library for cross-platform shell operations.
 - [tanklesxl/glint](https://github.com/tanklesxl/glint) - Gleam command line argument parsing with basic flag support. 
+
 ## Cryptography
 
 - [gleam-experiments/crypto](https://github.com/gleam-experiments/crypto) - A Gleam library for the Beam cryptography functions.
@@ -92,7 +94,6 @@ Libraries for working with errors and computations that can fail.
 ## Generators
 
 - [mrdimosthenis/minigen](https://github.com/mrdimosthenis/minigen) - A library for generating random data in the Erlang ecosystem, written in Gleam.
-- [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A library for generating and working with random numbers, distributions and statistics.
 
 ## HTTP
 
@@ -124,6 +125,10 @@ Libraries for serving traffic over HTTP.
 
 - [mrdimosthenis/gleam_synapses](https://github.com/mrdimosthenis/gleam_synapses) - A lightweight library for neural networks.
 
+## Mimetypes
+
+- [davecaos/benetnasch](https://github.com/davecaos/benetnasch) - Benetnasch a mimetypes library for Gleam.
+
 ## Parsing
 
 Libraries for parsing different kinds of data.
@@ -137,11 +142,11 @@ Libraries for parsing different kinds of data.
 ## Protocols
 
 - [bwireman/gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
-- [massivefermion/gleam_bson](https://github.com/massivefermion/gleam_bson) - bson encoder and decoder written in gleam.
+- [massivefermion/gleam_bson](https://github.com/massivefermion/gleam_bson) - BSON encoder and decoder written in gleam.
 
-## Mimetypes
+## Science
 
-- [davecaos/benetnasch](https://github.com/davecaos/benetnasch) - Benetnasch a mimetypes library for Gleam.
+- [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A Gleam mathematics and statistics library that is JavaScript and Erlang compatible. 
 
 ## Templating
 
