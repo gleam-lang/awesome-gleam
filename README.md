@@ -52,12 +52,12 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ## Cryptography
 
-- [gleam-experiments/crypto](https://github.com/gleam-experiments/crypto) - A Gleam library for the Beam cryptography functions.
+- [gleam-experiments/crypto](https://github.com/gleam-experiments/crypto) - A Gleam library for the BEAM cryptography functions.
 
 ## Databases
 
-- [massivefermion/gleam_mongo](https://github.com/massivefermion/gleam_mongo) - A mongodb driver for gleam.
-- [gleam-experiments/pgo](https://github.com/gleam-experiments/pgo) - Use PostgreSQL databases with PGO 
+- [massivefermion/gleam_mongo](https://github.com/massivefermion/gleam_mongo) - A MongoDB driver for Gleam.
+- [gleam-experiments/pgo](https://github.com/gleam-experiments/pgo) - Use PostgreSQL databases with PGO.
 
 ## Data structures
 
@@ -135,14 +135,14 @@ Libraries for parsing different kinds of data.
 
 - [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
 - [delucks/pathlib](https://github.com/delucks/pathlib) - Manipulate Unix-style filesystem paths.
-- [sporto/gleam_codec](https://github.com/sporto/gleam_codec) - Build codecs (Encode and decode) to transform data structures between Gleam and Elixir.
+- [sporto/gleam_codec](https://github.com/sporto/gleam_codec) - Build codecs (encode and decode) to transform data structures between Gleam and Elixir.
 - [pd-andy/gleam-string-parser](https://github.com/pd-andy/gleam-string-parser) - A simple parser combinator package written in Gleam.
-- [sporto/gleam_qs](https://github.com/sporto/gleam_qs) - Parse and work with query strings
+- [sporto/gleam_qs](https://github.com/sporto/gleam_qs) - Parse and work with query strings.
 
 ## Protocols
 
 - [bwireman/gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
-- [massivefermion/gleam_bson](https://github.com/massivefermion/gleam_bson) - BSON encoder and decoder written in gleam.
+- [massivefermion/gleam_bson](https://github.com/massivefermion/gleam_bson) - BSON encoder and decoder written in Gleam.
 
 ## Science
 
@@ -203,7 +203,7 @@ Web applications written in Gleam.
 
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-url-shortener) - An example Gleam web application.
 - [greggreg/gleam_todo](https://gitlab.com/greggreg/gleam_todo) - A serverside only implementation of Todo MVC written in Gleam!
-- [QuinnWilton/gleam-chip8](https://github.com/QuinnWilton/gleam-chip8) - A CHIP-8 emulator built with Gleam and Phoenix LiveView, playable [here](http://chip8.quinnwilton.com)
+- [QuinnWilton/gleam-chip8](https://github.com/QuinnWilton/gleam-chip8) - A CHIP-8 emulator built with Gleam and Phoenix LiveView, playable [here](http://chip8.quinnwilton.com).
 - [toranb/elixir-gleam-match](https://github.com/toranb/elixir-gleam-match) - A game built with Gleam and Phoenix LiveView.
 
 # Tools
@@ -214,9 +214,9 @@ Web applications written in Gleam.
 - [gleam-lang/gleam-mode](https://github.com/gleam-lang/gleam-mode) - An emacs major mode for the Gleam programming language.
 - [gleam-lang/vscode-gleam](https://github.com/gleam-lang/vscode-gleam) - Gleam support for VS Code.
 - [molnarmark/sublime-gleam](https://github.com/molnarmark/sublime-gleam) - Gleam Syntax Definitions & Formatting for Sublime Text 3.
-- [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code with support for `gleam format`.
-- [itsgreggreg/language-gleam](https://github.com/itsgreggreg/language-gleam) - Gleam language support in Atom
-- [DannyLettuce/gleam_gedit](https://github.com/DannyLettuce/gleam_gedit) - Gleam syntax support for Gedit (and other GtkSourceView editors)
+- [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - A Vim/Neovim plugin for formatting code with support for `gleam format`.
+- [itsgreggreg/language-gleam](https://github.com/itsgreggreg/language-gleam) - Gleam language support in Atom.
+- [DannyLettuce/gleam_gedit](https://github.com/DannyLettuce/gleam_gedit) - Gleam syntax support for Gedit (and other GtkSourceView editors).
 
 # Resources
 
