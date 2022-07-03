@@ -21,7 +21,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
   - [JSON](#json)
-  - [Machine Learning](#machine-learning)
+  - [Machine learning](#machine-learning)
   - [Mimetypes](#mimetypes)
   - [Parsing](#parsing)
   - [Protocols](#protocols)
