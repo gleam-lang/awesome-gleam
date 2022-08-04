@@ -124,6 +124,7 @@ Libraries for serving traffic over HTTP.
 ## Machine learning
 
 - [mrdimosthenis/gleam_synapses](https://github.com/mrdimosthenis/gleam_synapses) - A lightweight library for neural networks.
+- [mrdimosthenis/emel](https://github.com/mrdimosthenis/emel) - A simple and functional machine learning library for the Erlang ecosystem
 
 ## Mimetypes
 
