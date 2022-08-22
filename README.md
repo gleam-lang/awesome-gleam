@@ -115,6 +115,7 @@ Libraries for serving traffic over HTTP.
 - [gleam-lang/plug](https://github.com/gleam-lang/plug) - A Gleam HTTP service adapter for the Plug web application interface.
 - [midas-framework/midas](https://github.com/midas-framework/midas) - A web framework for Gleam.
 - [megapctr/gleam_cors](https://github.com/megapctr/gleam_cors) - A CORS middleware for Gleam.
+- [rawhat/mist](https://github.com/rawhat/mist) - A pure Gleam HTTP server with WebSocket support
 
 ## JSON
 
@@ -148,6 +149,10 @@ Libraries for parsing different kinds of data.
 ## Science
 
 - [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A Gleam mathematics and statistics library that is JavaScript and Erlang compatible. 
+
+## TCP/SSL
+
+- [rawhat/glisten](https://github.com/rawhat/glisten) - A pure Gleam TCP/SSL server library
 
 ## Templating
 
