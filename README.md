@@ -211,6 +211,8 @@ Web applications written in Gleam.
 
 # Tools
 
+- [tynanbe/rad](https://github.com/tynanbe/rad) - A flexible task runner companion for the Gleam build manager.
+
 ## Editor support
 
 - [gleam-lang/gleam.vim](https://github.com/gleam-lang/gleam.vim) - Gleam support for Vim/Neovim.
