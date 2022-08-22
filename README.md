@@ -113,14 +113,12 @@ Libraries for serving traffic over HTTP.
 - [gleam-lang/cowboy](https://github.com/gleam-lang/cowboy) - A Gleam HTTP service adapter for the Cowboy web server.
 - [gleam-lang/elli](https://github.com/gleam-lang/elli) - A Gleam HTTP service adapter for the Elli web server.
 - [gleam-lang/plug](https://github.com/gleam-lang/plug) - A Gleam HTTP service adapter for the Plug web application interface.
-- [midas-framework/midas](https://github.com/midas-framework/midas) - A web framework for Gleam.
 - [megapctr/gleam_cors](https://github.com/megapctr/gleam_cors) - A CORS middleware for Gleam.
 - [rawhat/mist](https://github.com/rawhat/mist) - A pure Gleam HTTP server with WebSocket support
 
 ## JSON
 
 - [gleam-lang/json](https://github.com/gleam-lang/json) - Work with JSON in Gleam.
-- [rjdellecese/gleam_jsone](https://github.com/rjdellecese/gleam_jsone) - Gleam bindings to the jsone JSON library.
 
 ## Machine learning
 
@@ -135,7 +133,6 @@ Libraries for serving traffic over HTTP.
 
 Libraries for parsing different kinds of data.
 
-- [rjdellecese/gleam_decode](https://github.com/rjdellecese/gleam_decode) - Transform Erlang or Elixir data into Gleam data.
 - [delucks/pathlib](https://github.com/delucks/pathlib) - Manipulate Unix-style filesystem paths.
 - [sporto/gleam_codec](https://github.com/sporto/gleam_codec) - Build codecs (encode and decode) to transform data structures between Gleam and Elixir.
 - [pd-andy/gleam-string-parser](https://github.com/pd-andy/gleam-string-parser) - A simple parser combinator package written in Gleam.
