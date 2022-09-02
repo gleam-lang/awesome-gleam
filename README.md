@@ -168,7 +168,6 @@ Projects for testing Gleam code.
 
 Libraries for parsing and manipulating text and numbers.
 
-- [greggreg/gleam_uuid](https://gitlab.com/greggreg/gleam_uuid) - UUID generation and decoding in Gleam.
 - [greggreg/pretty_print](https://gitlab.com/greggreg/pretty_print) - An implementation of Christian Lindig's "Strictly Pretty" pretty printing algorithm.
 - [rvcas/ids](https://github.com/rvcas/ids) - A library for generating unique ids such as a cuid or UUID.
 - [sporto/gleam_string_builder](https://github.com/sporto/gleam_string_builder) - A library for building and formatting strings.
