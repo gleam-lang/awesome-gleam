@@ -94,6 +94,7 @@ Libraries for working with errors and computations that can fail.
 ## Generators
 
 - [mrdimosthenis/minigen](https://github.com/mrdimosthenis/minigen) - A library for generating random data in the Erlang ecosystem, written in Gleam.
+- [massivefermion/blah](https://github.com/massivefermion/blah) -  fake data generation for gleam .
 
 ## HTTP
 
