@@ -194,6 +194,7 @@ Libraries for parsing and manipulating text and numbers.
 Compilers for Gleam and compilers written in Gleam.
 
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - The Gleam compiler.
+- [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) - A toy Lisp interpreter in Gleam.
 
 ## Programming Challenges
 
