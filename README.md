@@ -213,6 +213,7 @@ Web applications written in Gleam.
 # Tools
 
 - [tynanbe/rad](https://github.com/tynanbe/rad) - A flexible task runner companion for the Gleam build manager.
+- [inoas/glychee](https://github.com/inoas/glychee) - A simple Gleam benchmark runner which wraps Benchee for the heavy lifting.
 
 ## Editor support
 
