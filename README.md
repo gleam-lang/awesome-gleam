@@ -147,7 +147,6 @@ Libraries for parsing different kinds of data.
 ## Science
 
 - [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A Gleam mathematics and statistics library that is JavaScript and Erlang compatible. 
-
 - [tynanbe/argamak](https://github.com/tynanbe/argamak) - A tensor library for Gleam's Erlang and JavaScript targets.
 
 ## TCP/SSL
