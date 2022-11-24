@@ -159,6 +159,7 @@ Libraries for rendering strings from templates.
 
 - [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
 - [michaeljones/matcha](https://github.com/michaeljones/matcha) - Templating system where the templates are transpiled to Gleam modules.
+- [hayleigh-dot-dev/gleam-lustre](https://github.com/hayleigh-dot-dev/gleam-lustre) - A framework for building create web apps – powered by Gleam and React.
 
 ## Testing
 
