@@ -21,6 +21,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
   - [JSON](#json)
+  - [Logging](#logging)
   - [Machine learning](#machine-learning)
   - [Mimetypes](#mimetypes)
   - [Parsing](#parsing)
@@ -81,12 +82,11 @@ Libraries for working with Erlang and OTP.
 - [midas-framework/beam](https://github.com/midas-framework/beam) - Interoperating with specific functionality in the Erlang runtime (BEAM).
 - [gleam-experiments/otp_code](https://github.com/gleam-experiments/otp_code) - Work with Erlang code at runtime.
 
-## Error handling and logging
+## Error handling
 
 Libraries for working with errors and computations that can fail.
 
 - [gleam-experiments/snag](https://github.com/gleam-experiments/snag) - A boilerplate-free ad-hoc error type.
-- [defgenx/glog](https://github.com/defgenx/glog) - A Gleam implementation of an Erlang logger inspired by the Logrus API.
 
 ## File IO
 
@@ -121,6 +121,10 @@ Libraries for serving traffic over HTTP.
 ## JSON
 
 - [gleam-lang/json](https://github.com/gleam-lang/json) - Work with JSON in Gleam.
+
+## Logging
+
+- [defgenx/glog](https://github.com/defgenx/glog) - A Gleam implementation of an Erlang logger inspired by the Logrus API.
 
 ## Machine learning
 
