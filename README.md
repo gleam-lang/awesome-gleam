@@ -86,7 +86,7 @@ Libraries for working with Erlang and OTP.
 Libraries for working with errors and computations that can fail.
 
 - [gleam-experiments/snag](https://github.com/gleam-experiments/snag) - A boilerplate-free ad-hoc error type.
-- [defgenx/glog](https://github.com/defgenx/glog) - A Gleam implementation of Erlang logger inspired from Logrus API.
+- [defgenx/glog](https://github.com/defgenx/glog) - A Gleam implementation of an Erlang logger inspired by the Logrus API.
 
 ## File IO
 
