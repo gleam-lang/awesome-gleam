@@ -81,11 +81,12 @@ Libraries for working with Erlang and OTP.
 - [midas-framework/beam](https://github.com/midas-framework/beam) - Interoperating with specific functionality in the Erlang runtime (BEAM).
 - [gleam-experiments/otp_code](https://github.com/gleam-experiments/otp_code) - Work with Erlang code at runtime.
 
-## Error handling
+## Error handling and logging
 
 Libraries for working with errors and computations that can fail.
 
 - [gleam-experiments/snag](https://github.com/gleam-experiments/snag) - A boilerplate-free ad-hoc error type.
+- [defgenx/glog](https://github.com/defgenx/glog) - A Gleam implementation of Erlang logger inspired from Logrus API.
 
 ## File IO
 
