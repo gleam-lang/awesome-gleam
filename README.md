@@ -12,6 +12,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Cryptography](#cryptography)
   - [Databases](#databases)
   - [Data structures](#data-structures)
+  - [Date and Time](#date-and-time)
   - [Email](#email)
   - [Erlang/OTP](#erlangotp)
   - [Error handling](#error-handling)
@@ -66,6 +67,12 @@ Libraries that define generic data structures for use in Gleam projects.
 
 - [gleam-lang/bitwise](https://github.com/gleam-lang/bitwise) - Bitwise operations on integers.
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - Core data structures and types for Gleam.
+
+## Date and Time
+
+Libraries that for handling date and time
+
+- [massivefermion/birl](https://github.com/massivefermion/birl) - Date and Time handling for Gleam
 
 ## Email
 
