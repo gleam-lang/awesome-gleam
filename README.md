@@ -70,7 +70,7 @@ Libraries that define generic data structures for use in Gleam projects.
 
 ## Date and Time
 
-Libraries that for handling date and time
+Libraries for handling date and time
 
 - [massivefermion/birl](https://github.com/massivefermion/birl) - Date and Time handling for Gleam
 
