@@ -132,6 +132,7 @@ Libraries for serving traffic over HTTP.
 ## Logging
 
 - [defgenx/glog](https://github.com/defgenx/glog) - A Gleam implementation of an Erlang logger inspired by the Logrus API.
+- [johnbjrk/glimt](https://github.com/JohnBjrk/glimt) - A Gleam logging library with support for custom dispatchers/serializers.
 
 ## Machine learning
 
