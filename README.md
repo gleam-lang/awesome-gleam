@@ -150,6 +150,7 @@ Libraries for parsing different kinds of data.
 - [delucks/pathlib](https://github.com/delucks/pathlib) - Manipulate Unix-style filesystem paths.
 - [sporto/gleam_codec](https://github.com/sporto/gleam_codec) - Build codecs (encode and decode) to transform data structures between Gleam and Elixir.
 - [pd-andy/gleam-string-parser](https://github.com/pd-andy/gleam-string-parser) - A simple parser combinator package written in Gleam.
+- [hayleigh-dot-dev/gleam-nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) - A string parsing library heavily inspired by [elm/parser](https://github.com/elm/parser).
 - [sporto/gleam_qs](https://github.com/sporto/gleam_qs) - Parse and work with query strings.
 
 ## Protocols
