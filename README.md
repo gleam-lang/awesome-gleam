@@ -60,6 +60,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [massivefermion/gleam_mongo](https://github.com/massivefermion/gleam_mongo) - A MongoDB driver for Gleam.
 - [gleam-experiments/pgo](https://github.com/gleam-experiments/pgo) - Use PostgreSQL databases with PGO.
+- [lpil/sqlight](https://github.com/lpil/sqlight) - Use SQLite databases with esqlite.
 
 ## Data structures
 
