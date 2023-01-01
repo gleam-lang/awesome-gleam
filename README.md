@@ -180,6 +180,7 @@ Libraries for rendering strings from templates.
 Projects for testing Gleam code.
 
 - [lpil/gleeunit](https://github.com/lpil/gleeunit) - Gleam bindings to the Erlang EUnit test framework.
+- [inoas/glacier]([https://github.com/inoas/glacier) - Gleam incremental interactive unit testing.
 
 ## Text and numbers
 
