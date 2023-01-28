@@ -190,6 +190,7 @@ Libraries for parsing and manipulating text and numbers.
 - [rvcas/ids](https://github.com/rvcas/ids) - A library for generating unique ids such as a cuid or UUID.
 - [sporto/gleam_string_builder](https://github.com/sporto/gleam_string_builder) - A library for building and formatting strings.
 - [defgenx/gxid](https://github.com/defgenx/gxid) - A library for generating xids
+- [johnbjrk/gap](https://github.com/JohnBjrk/gap) - A library for comparing strings/lists, creating structured diffs and visualizing the differences
 
 ## Validation
 
