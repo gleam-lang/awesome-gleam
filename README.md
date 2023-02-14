@@ -79,8 +79,8 @@ Libraries for handling date and time
 
 Libraries for sending email.
 
-- [lpil/gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - A client for the SendGrid API.
-- [lpil/zeptomail](https://github.com/lpil/zeptomail) - A client for ZeptoMail's transactional email API. 
+- [lpil/gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - A client for the SendGrid transactional email API.
+- [lpil/zeptomail](https://github.com/lpil/zeptomail) - A client for the ZeptoMail transactional email API. 
 
 ## Erlang/OTP
 
