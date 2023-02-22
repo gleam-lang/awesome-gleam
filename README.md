@@ -116,6 +116,7 @@ Libraries for making HTTP requests.
 
 - [gleam-lang/hackney](https://github.com/gleam-lang/hackney) - Bindings to Hackney, the simple Erlang HTTP client.
 - [gleam-lang/httpc](https://github.com/gleam-lang/httpc) - Bindings to Erlang's built in HTTP client, httpc.
+- [cobbinma/gleamql](https://github.com/cobbinma/gleamql) - A simple GraphQL client.
 
 ## HTTP servers
 
