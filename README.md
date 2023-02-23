@@ -229,6 +229,7 @@ Web applications written in Gleam.
 - [greggreg/gleam_todo](https://gitlab.com/greggreg/gleam_todo) - A serverside only implementation of Todo MVC written in Gleam!
 - [QuinnWilton/gleam-chip8](https://github.com/QuinnWilton/gleam-chip8) - A CHIP-8 emulator built with Gleam and Phoenix LiveView, playable [here](http://chip8.quinnwilton.com).
 - [toranb/elixir-gleam-match](https://github.com/toranb/elixir-gleam-match) - A game built with Gleam and Phoenix LiveView.
+- [rawhat/spades](https://github.com/rawhat/spades) - A multiplayer card game with a Gleam backend and React front-end
 
 # Tools
 
