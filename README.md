@@ -68,6 +68,7 @@ Libraries that define generic data structures for use in Gleam projects.
 
 - [gleam-lang/bitwise](https://github.com/gleam-lang/bitwise) - Bitwise operations on integers.
 - [gleam-lang/stdlib](https://github.com/gleam-lang/stdlib) - Core data structures and types for Gleam.
+- [massivefermion/ranger](https://github.com/massivefermion/ranger) - Create ranges over any type!
 
 ## Date and Time
 
