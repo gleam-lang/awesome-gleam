@@ -8,6 +8,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 [suggestions]: https://github.com/gleam-lang/awesome-gleam/issues/34
 
 - [Libraries](#libraries)
+  - [Ansi](#ansi)
   - [CLI](#cli)
   - [Cryptography](#cryptography)
   - [Databases](#databases)
@@ -46,6 +47,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Social Media](#social-media)
 
 # Libraries
+
+## Ansi
+
+- [dahlia-lib/dahlia](https://github.com/dahlia-lib/dahlia-gleam) - a simple text formatting package, inspired by the game Minecraft.
 
 ## CLI
 
