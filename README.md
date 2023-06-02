@@ -53,6 +53,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ## Ansi
 
 - [dahlia-lib/dahlia](https://github.com/dahlia-lib/dahlia-gleam) - a simple text formatting package, inspired by the game Minecraft.
+- [Willyboar/colours](https://github.com/Willyboar/colours) - a Library for adding colours in Terminal
 
 ## CLI
 
@@ -225,6 +226,7 @@ Compilers for Gleam and compilers written in Gleam.
 
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - The Gleam compiler.
 - [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) - A toy Lisp interpreter in Gleam.
+- [Willyboar/glove](https://github.com/Willyboar/glove) - A library to generate QBE IR code
 
 ## Programming Challenges
 
