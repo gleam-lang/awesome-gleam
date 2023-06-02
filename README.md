@@ -23,6 +23,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [HTTP clients](#http-clients)
   - [HTTP servers](#http-servers)
   - [JSON](#json)
+  - [Language Developement](#lang-dev)
   - [Logging](#logging)
   - [Machine learning](#machine-learning)
   - [Mimetypes](#mimetypes)
@@ -139,6 +140,13 @@ Libraries for serving traffic over HTTP.
 
 - [gleam-lang/json](https://github.com/gleam-lang/json) - Work with JSON in Gleam.
 
+## Language Developement
+
+- [lpil/glance](https://github.com/lpil/glance) - A Gleam source code parser, in Gleam!
+- [DanielleMaywood/glexer](https://github.com/DanielleMaywood/glexer) - Gleam lexer implemented in Gleam!
+- [Willyboar/glove](https://github.com/Willyboar/glove) - A library to generate QBE IR code 
+
+
 ## Logging
 
 - [defgenx/glog](https://github.com/defgenx/glog) - A Gleam implementation of an Erlang logger inspired by the Logrus API.
@@ -224,7 +232,7 @@ Compilers for Gleam and compilers written in Gleam.
 
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - The Gleam compiler.
 - [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) - A toy Lisp interpreter in Gleam.
-- [Willyboar/glove](https://github.com/Willyboar/glove) - A library to generate QBE IR code
+
 
 ## Programming Challenges
 
