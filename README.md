@@ -1,5 +1,7 @@
 # Awesome Gleam
 
+For a full list of packages check out [**the Gleam package index**](https://packages.gleam.run/).
+
 Have a Gleam project to share with the world? Make a pull request and add it
 to the list.
 
