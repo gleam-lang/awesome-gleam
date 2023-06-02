@@ -127,6 +127,7 @@ Libraries for making HTTP requests.
 - [gleam-lang/hackney](https://github.com/gleam-lang/hackney) - Bindings to Hackney, the simple Erlang HTTP client.
 - [gleam-lang/httpc](https://github.com/gleam-lang/httpc) - Bindings to Erlang's built in HTTP client, httpc.
 - [cobbinma/gleamql](https://github.com/cobbinma/gleamql) - A simple GraphQL client.
+- [Nicd/finch_gleam](https://gitlab.com/Nicd/finch_gleam) - Bindings to the Finch Elixir HTTP client.
 
 ## HTTP servers
 
@@ -193,6 +194,7 @@ Libraries for rendering strings from templates.
 - [gleam-experiments/bbmustache](https://github.com/gleam-experiments/bbmustache) - Gleam bindings to the bbmustache templating library.
 - [michaeljones/matcha](https://github.com/michaeljones/matcha) - Templating system where the templates are transpiled to Gleam modules.
 - [hayleigh-dot-dev/gleam-lustre](https://github.com/hayleigh-dot-dev/gleam-lustre) - A framework for building create web apps – powered by Gleam and React.
+- [Nicd/glemplate](https://gitlab.com/Nicd/glemplate) - A simplistic Gleam template engine.
 
 ## Testing
 
@@ -210,6 +212,7 @@ Libraries for parsing and manipulating text and numbers.
 - [sporto/gleam_string_builder](https://github.com/sporto/gleam_string_builder) - A library for building and formatting strings.
 - [defgenx/gxid](https://github.com/defgenx/gxid) - A library for generating xids
 - [johnbjrk/gap](https://github.com/JohnBjrk/gap) - A library for comparing strings/lists, creating structured diffs and visualizing the differences
+- [Nicd/glentities](https://gitlab.com/Nicd/glentities) - HTML entity encoding/decoding.
 
 ## Validation
 
