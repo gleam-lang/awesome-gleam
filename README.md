@@ -110,6 +110,7 @@ Libraries for working with errors and computations that can fail.
 ## File IO
 
 - [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - Gleam's Erlang library contains a module for working with files and directories.
+- [bcpeinhardt/simplifile](https://github.com/bcpeinhardt/simplifile) - Simple file operations for Gleam that work on all targets (Erlang/Node/Deno)
 
 ## Generators
 
