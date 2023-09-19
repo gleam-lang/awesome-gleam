@@ -209,6 +209,7 @@ Projects for testing Gleam code.
 Libraries for parsing and manipulating text and numbers.
 
 - [greggreg/pretty_print](https://gitlab.com/greggreg/pretty_print) - An implementation of Christian Lindig's "Strictly Pretty" pretty printing algorithm.
+- [giacomocavalieri/glam](https://github.com/giacomocavalieri/glam) - A package to help you easily pretty print structured data ✨
 - [rvcas/ids](https://github.com/rvcas/ids) - A library for generating unique ids such as a cuid or UUID.
 - [sporto/gleam_string_builder](https://github.com/sporto/gleam_string_builder) - A library for building and formatting strings.
 - [defgenx/gxid](https://github.com/defgenx/gxid) - A library for generating xids
