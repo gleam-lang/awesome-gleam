@@ -219,6 +219,7 @@ Libraries for parsing and manipulating text and numbers.
 ## Validation
 
 - [sporto/gleam-validator](https://github.com/sporto/gleam-validator) - A library for validating custom types.
+- [massivefermion/phony](https://github.com/massivefermion/phony) - A library for validating phone numbers around the world.
 
 ## Websockets
 
