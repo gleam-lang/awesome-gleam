@@ -67,7 +67,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ## Databases
 
-- [massivefermion/gleam_mongo](https://github.com/massivefermion/gleam_mongo) - A MongoDB driver for Gleam.
+- [massivefermion/mungo](https://github.com/massivefermion/mungo) - A MongoDB driver for Gleam.
 - [gleam-experiments/pgo](https://github.com/gleam-experiments/pgo) - Use PostgreSQL databases with PGO.
 - [lpil/sqlight](https://github.com/lpil/sqlight) - Use SQLite databases with esqlite.
 
@@ -177,7 +177,7 @@ Libraries for parsing different kinds of data.
 ## Protocols
 
 - [bwireman/gleam_pb](https://github.com/bwireman/gleam_pb) - Protobuf support for Gleam.
-- [massivefermion/gleam_bson](https://github.com/massivefermion/gleam_bson) - BSON encoder and decoder written in Gleam.
+- [massivefermion/bison](https://github.com/massivefermion/bison) - BSON encoder and decoder for Gleam.
 
 ## Science
 
