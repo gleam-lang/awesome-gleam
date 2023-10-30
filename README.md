@@ -59,7 +59,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ## CLI
 
 - [tynanbe/shellout](https://github.com/tynanbe/shellout) - A Gleam library for cross-platform shell operations.
-- [tanklesxl/glint](https://github.com/tanklesxl/glint) - Gleam command line argument parsing with basic flag support. 
+- [tanklesxl/glint](https://github.com/tanklesxl/glint) - Gleam command line argument parsing with basic flag support.
 
 ## Cryptography
 
@@ -91,7 +91,8 @@ Libraries for handling date and time
 Libraries for sending email.
 
 - [lpil/gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - A client for the SendGrid transactional email API.
-- [lpil/zeptomail](https://github.com/lpil/zeptomail) - A client for the ZeptoMail transactional email API. 
+- [lpil/zeptomail](https://github.com/lpil/zeptomail) - A client for the ZeptoMail transactional email API.
+- [aosasona/plunk.gleam](https://github.com/aosasona/plunk.gleam) - A client to interact with [Plunk](https://www.useplunk.com/) email API.
 
 ## Erlang/OTP
 
@@ -149,7 +150,7 @@ Libraries for serving traffic over HTTP.
 
 - [lpil/glance](https://github.com/lpil/glance) - A Gleam source code parser, in Gleam!
 - [DanielleMaywood/glexer](https://github.com/DanielleMaywood/glexer) - Gleam lexer implemented in Gleam!
-- [Willyboar/glove](https://github.com/Willyboar/glove) - A library to generate QBE IR code 
+- [Willyboar/glove](https://github.com/Willyboar/glove) - A library to generate QBE IR code
 
 
 ## Logging
@@ -182,7 +183,7 @@ Libraries for parsing different kinds of data.
 
 ## Science
 
-- [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A Gleam mathematics and statistics library that is JavaScript and Erlang compatible. 
+- [nicklasxyz/gleam_stats](https://github.com/NicklasXYZ/gleam_stats) - A Gleam mathematics and statistics library that is JavaScript and Erlang compatible.
 - [tynanbe/argamak](https://github.com/tynanbe/argamak) - A tensor library for Gleam's Erlang and JavaScript targets.
 
 ## TCP/SSL
