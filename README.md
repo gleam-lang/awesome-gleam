@@ -70,6 +70,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [massivefermion/mungo](https://github.com/massivefermion/mungo) - A MongoDB driver for Gleam.
 - [gleam-experiments/pgo](https://github.com/gleam-experiments/pgo) - Use PostgreSQL databases with PGO.
 - [lpil/sqlight](https://github.com/lpil/sqlight) - Use SQLite databases with esqlite.
+- [massivefermion/radish](https://github.com/massivefermion/radish) - A Redis client for Gleam.
 
 ## Data structures
 
