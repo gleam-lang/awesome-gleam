@@ -19,7 +19,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Email](#email)
   - [Erlang/OTP](#erlangotp)
   - [Error handling](#error-handling)
-  - [File IO](#file-io)
+  - [Files](#files)
   - [Generators](#generators)
   - [HTTP](#http)
   - [HTTP clients](#http-clients)
@@ -110,10 +110,10 @@ Libraries for working with errors and computations that can fail.
 
 - [gleam-experiments/snag](https://github.com/gleam-experiments/snag) - A boilerplate-free ad-hoc error type.
 
-## File IO
+## File
 
-- [gleam-lang/erlang](https://github.com/gleam-lang/erlang) - Gleam's Erlang library contains a module for working with files and directories.
 - [bcpeinhardt/simplifile](https://github.com/bcpeinhardt/simplifile) - Simple file operations for Gleam that work on all targets (Erlang/Node/Deno)
+- [lpil/filepath](https://github.com/lpil/filepath) - Work with file paths in Gleam!
 
 ## Generators
 
@@ -172,7 +172,6 @@ Libraries for serving traffic over HTTP.
 
 Libraries for parsing different kinds of data.
 
-- [delucks/pathlib](https://github.com/delucks/pathlib) - Manipulate Unix-style filesystem paths.
 - [sporto/gleam_codec](https://github.com/sporto/gleam_codec) - Build codecs (encode and decode) to transform data structures between Gleam and Elixir.
 - [hayleigh-dot-dev/gleam-nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) - A string parsing library heavily inspired by [elm/parser](https://github.com/elm/parser).
 - [sporto/gleam_qs](https://github.com/sporto/gleam_qs) - Parse and work with query strings.
