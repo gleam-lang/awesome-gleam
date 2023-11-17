@@ -110,7 +110,7 @@ Libraries for working with errors and computations that can fail.
 
 - [gleam-experiments/snag](https://github.com/gleam-experiments/snag) - A boilerplate-free ad-hoc error type.
 
-## File
+## Files
 
 - [bcpeinhardt/simplifile](https://github.com/bcpeinhardt/simplifile) - Simple file operations for Gleam that work on all targets (Erlang/Node/Deno)
 - [lpil/filepath](https://github.com/lpil/filepath) - Work with file paths in Gleam!
