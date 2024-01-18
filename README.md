@@ -114,7 +114,7 @@ Libraries for working with errors and computations that can fail.
 
 - [bcpeinhardt/simplifile](https://github.com/bcpeinhardt/simplifile) - Simple file operations for Gleam that work on all targets (Erlang/Node/Deno)
 - [lpil/filepath](https://github.com/lpil/filepath) - Work with file paths in Gleam!
-- [cdaringe/fswalk](https://github.com/cdaringe/fswalk) - Lazily recurse through folders 
+- [cdaringe/fswalk](https://github.com/cdaringe/fswalk) - Efficiently walk a directory recursively
 
 ## Generators
 
