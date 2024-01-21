@@ -124,6 +124,7 @@ Libraries for working with errors and computations that can fail.
 ## HTTP
 
 - [gleam-lang/http](https://github.com/gleam-lang/http) - Types and functions for HTTP clients and servers!
+- [MystPi/conversation](https://github.com/MystPi/conversation) - Bindings for the web standard JavaScript Request and Response APIs
 
 ## HTTP clients
 
