@@ -89,6 +89,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Data Structures
 
+- [argamak](https://github.com/tynanbe/argamak) - [📚](https://hexdocs.pm/argamak/) - A tensor library for the Gleam programming language
 - [gleam_stdlib](https://github.com/gleam-lang/stdlib) - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
 - [glearray](https://github.com/fschwalbe/glearray) - [📚](https://hexdocs.pm/glearray/) - Immutable arrays for Gleam
 - [non_empty_list](https://github.com/giacomocavalieri/non_empty_list) - [📚](https://hexdocs.pm/non_empty_list/) - Non-empty lists in Gleam
