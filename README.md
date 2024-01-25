@@ -16,7 +16,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Command Line](#command-line)
   - [Configuration](#configuration)
   - [Data Structures](#data-structures)
-  - [Database](#database)
   - [Databases](#databases)
   - [Email](#email)
   - [Erlang and OTP](#erlang-and-otp)
@@ -96,13 +95,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [tote](https://github.com/giacomocavalieri/tote) - [📚](https://hexdocs.pm/tote/) - Bags (or multisets) in Gleam
 - [trie_again](https://github.com/giacomocavalieri/trie_again) - [📚](https://hexdocs.pm/trie_again/) - Tries in Gleam
 
-### Database
-
-- [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
-
 ### Databases
 
 - [gleam_pgo](https://github.com/gleam-experiments/pgo) - [📚](https://hexdocs.pm/gleam_pgo/) - Gleam bindings to the PGO PostgreSQL client
+- [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
 
