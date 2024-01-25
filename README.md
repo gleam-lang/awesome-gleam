@@ -57,186 +57,186 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ## API Clients
 
-- [aws4_request](https://github.com/lpil/aws4_request) [(docs)](https://hexdocs.pm/aws4_request/) - An AWS Signature Version 4 client implementation, used for S3 auth, etc
-- [glatus](https://github.com/lpil/glatus) [(docs)](https://hexdocs.pm/glatus/) - Gleam bindings to the API of the Gatus health check tool
-- [gleam_hexpm](https://github.com/gleam-lang/hexpm) [(docs)](https://hexdocs.pm/gleam_hexpm/) - Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem.
-- [glevatar](https://github.com/bunopnu/glevatar) [(docs)](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam
+- [aws4_request](https://github.com/lpil/aws4_request) - [(📚)](https://hexdocs.pm/aws4_request/) - An AWS Signature Version 4 client implementation, used for S3 auth, etc
+- [glatus](https://github.com/lpil/glatus) - [(📚)](https://hexdocs.pm/glatus/) - Gleam bindings to the API of the Gatus health check tool
+- [gleam_hexpm](https://github.com/gleam-lang/hexpm) - [(📚)](https://hexdocs.pm/gleam_hexpm/) - Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem.
+- [glevatar](https://github.com/bunopnu/glevatar) - [(📚)](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam
 
 ## Benchmarking
 
-- [gleamy_bench](https://github.com/schurhammer/gleamy_bench) [(docs)](https://hexdocs.pm/gleamy_bench/) - A library for benchmarking gleam code.
-- [glychee](https://github.com/inoas/glychee) [(docs)](https://hexdocs.pm/glychee/) - Glychee: Easy access to Elixir's Benchee from Gleam!
+- [gleamy_bench](https://github.com/schurhammer/gleamy_bench) - [(📚)](https://hexdocs.pm/gleamy_bench/) - A library for benchmarking gleam code.
+- [glychee](https://github.com/inoas/glychee) - [(📚)](https://hexdocs.pm/glychee/) - Glychee: Easy access to Elixir's Benchee from Gleam!
 
 ## Build Tooling
 
-- [esgleam](https://github.com/Enderchief/esgleam) [(docs)](https://hexdocs.pm/esgleam/) - esbuild for Gleam
-- [gleescript](https://github.com/lpil/gleescript) [(docs)](https://hexdocs.pm/gleescript/) - Bundle your Gleam-on-Erlang project into an escript, a single executable file!
+- [esgleam](https://github.com/Enderchief/esgleam) - [(📚)](https://hexdocs.pm/esgleam/) - esbuild for Gleam
+- [gleescript](https://github.com/lpil/gleescript) - [(📚)](https://hexdocs.pm/gleescript/) - Bundle your Gleam-on-Erlang project into an escript, a single executable file!
 
 ## Command Line
 
-- [argv](https://github.com/lpil/argv) [(docs)](https://hexdocs.pm/argv/) - A cross platform library for getting the command line arguments
-- [gleam_community_ansi](https://github.com/gleam-community/ansi) [(docs)](https://hexdocs.pm/gleam_community_ansi/) - ANSI colours, formatting, and control codes
-- [glint](https://github.com/TanklesXL/glint) [(docs)](https://hexdocs.pm/glint/) - Gleam command line argument parsing with basic flag support.
-- [rad](https://github.com/tynanbe/rad) [(docs)](https://hexdocs.pm/rad/) - A task runner for Gleam projects
-- [shellout](https://github.com/tynanbe/shellout) [(docs)](https://hexdocs.pm/shellout/) - A Gleam library for cross-platform shell operations
-- [spinner](https://github.com/lpil/spinner) [(docs)](https://hexdocs.pm/spinner/) - Animated progress spinners for your console
+- [argv](https://github.com/lpil/argv) - [(📚)](https://hexdocs.pm/argv/) - A cross platform library for getting the command line arguments
+- [gleam_community_ansi](https://github.com/gleam-community/ansi) - [(📚)](https://hexdocs.pm/gleam_community_ansi/) - ANSI colours, formatting, and control codes
+- [glint](https://github.com/TanklesXL/glint) - [(📚)](https://hexdocs.pm/glint/) - Gleam command line argument parsing with basic flag support.
+- [rad](https://github.com/tynanbe/rad) - [(📚)](https://hexdocs.pm/rad/) - A task runner for Gleam projects
+- [shellout](https://github.com/tynanbe/shellout) - [(📚)](https://hexdocs.pm/shellout/) - A Gleam library for cross-platform shell operations
+- [spinner](https://github.com/lpil/spinner) - [(📚)](https://hexdocs.pm/spinner/) - Animated progress spinners for your console
 
 ## Configuration
 
-- [envoy](https://github.com/lpil/envoy) [(docs)](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
-- [gleam_dotenv](https://github.com/Grubba27/gleam_dotenv) [(docs)](https://hexdocs.pm/gleam_dotenv/) - dotenv for Gleam
-- [glenvy](https://github.com/maxdeviant/glenvy) [(docs)](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
+- [envoy](https://github.com/lpil/envoy) - [(📚)](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
+- [gleam_dotenv](https://github.com/Grubba27/gleam_dotenv) - [(📚)](https://hexdocs.pm/gleam_dotenv/) - dotenv for Gleam
+- [glenvy](https://github.com/maxdeviant/glenvy) - [(📚)](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
 
 ## Data Structures
 
-- [gleam_stdlib](https://github.com/gleam-lang/stdlib) [(docs)](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
-- [glearray](https://github.com/fschwalbe/glearray) [(docs)](https://hexdocs.pm/glearray/) - Immutable arrays for Gleam
-- [non_empty_list](https://github.com/giacomocavalieri/non_empty_list) [(docs)](https://hexdocs.pm/non_empty_list/) - Non-empty lists in Gleam
-- [tote](https://github.com/giacomocavalieri/tote) [(docs)](https://hexdocs.pm/tote/) - Bags (or multisets) in Gleam
-- [trie_again](https://github.com/giacomocavalieri/trie_again) [(docs)](https://hexdocs.pm/trie_again/) - Tries in Gleam
+- [gleam_stdlib](https://github.com/gleam-lang/stdlib) - [(📚)](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
+- [glearray](https://github.com/fschwalbe/glearray) - [(📚)](https://hexdocs.pm/glearray/) - Immutable arrays for Gleam
+- [non_empty_list](https://github.com/giacomocavalieri/non_empty_list) - [(📚)](https://hexdocs.pm/non_empty_list/) - Non-empty lists in Gleam
+- [tote](https://github.com/giacomocavalieri/tote) - [(📚)](https://hexdocs.pm/tote/) - Bags (or multisets) in Gleam
+- [trie_again](https://github.com/giacomocavalieri/trie_again) - [(📚)](https://hexdocs.pm/trie_again/) - Tries in Gleam
 
 ## Database
 
-- [mungo](https://github.com/massivefermion/mungo) [(docs)](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
+- [mungo](https://github.com/massivefermion/mungo) - [(📚)](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 
 ## Databases
 
-- [gleam_pgo](https://github.com/gleam-experiments/pgo) [(docs)](https://hexdocs.pm/gleam_pgo/) - Gleam bindings to the PGO PostgreSQL client
-- [radish](https://github.com/massivefermion/radish) [(docs)](https://hexdocs.pm/radish/) - A Redis client for Gleam
-- [sqlight](https://github.com/lpil/sqlight) [(docs)](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
+- [gleam_pgo](https://github.com/gleam-experiments/pgo) - [(📚)](https://hexdocs.pm/gleam_pgo/) - Gleam bindings to the PGO PostgreSQL client
+- [radish](https://github.com/massivefermion/radish) - [(📚)](https://hexdocs.pm/radish/) - A Redis client for Gleam
+- [sqlight](https://github.com/lpil/sqlight) - [(📚)](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
 
 ## Email
 
-- [gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) [(docs)](https://hexdocs.pm/gleam_sendgrid/) - Send emails from Gleam with SendGrid
-- [zeptomail](https://github.com/lpil/zeptomail) [(docs)](https://hexdocs.pm/zeptomail/) - A wrapper for ZeptoMail's transactional email API
+- [gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - [(📚)](https://hexdocs.pm/gleam_sendgrid/) - Send emails from Gleam with SendGrid
+- [zeptomail](https://github.com/lpil/zeptomail) - [(📚)](https://hexdocs.pm/zeptomail/) - A wrapper for ZeptoMail's transactional email API
 
 ## Erlang and OTP
 
-- [gen_core_erlang](https://codeberg.org/kero/gleam_codegen) [(docs)](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
-- [gleam_crypto](https://github.com/gleam-lang/crypto) [(docs)](https://hexdocs.pm/gleam_crypto/) - Gleam bindings to the BEAM cryptography functions
-- [gleam_erlang](https://github.com/gleam-lang/erlang) [(docs)](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
-- [gleam_otp](https://github.com/gleam-lang/otp) [(docs)](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
-- [gts](https://github.com/lunarmagpie/gts) [(docs)](https://hexdocs.pm/gts/) - Opinionated bindings to erlang's ets tables.
-- [process_waiter](https://github.com/lpil/process-waiter) [(docs)](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
-- [puddle](https://github.com/massivefermion/puddle) [(docs)](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
+- [gen_core_erlang](https://codeberg.org/kero/gleam_codegen) - [(📚)](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
+- [gleam_crypto](https://github.com/gleam-lang/crypto) - [(📚)](https://hexdocs.pm/gleam_crypto/) - Gleam bindings to the BEAM cryptography functions
+- [gleam_erlang](https://github.com/gleam-lang/erlang) - [(📚)](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
+- [gleam_otp](https://github.com/gleam-lang/otp) - [(📚)](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
+- [gts](https://github.com/lunarmagpie/gts) - [(📚)](https://hexdocs.pm/gts/) - Opinionated bindings to erlang's ets tables.
+- [process_waiter](https://github.com/lpil/process-waiter) - [(📚)](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
+- [puddle](https://github.com/massivefermion/puddle) - [(📚)](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
 
 ## Error Handling
 
-- [exception](https://github.com/lpil/exception) [(docs)](https://hexdocs.pm/exception/) - A tiny package for dealing with exceptions
-- [snag](https://github.com/gleam-experiments/snag) [(docs)](https://hexdocs.pm/snag/) - A boilerplate-free ad-hoc error type
+- [exception](https://github.com/lpil/exception) - [(📚)](https://hexdocs.pm/exception/) - A tiny package for dealing with exceptions
+- [snag](https://github.com/gleam-experiments/snag) - [(📚)](https://hexdocs.pm/snag/) - A boilerplate-free ad-hoc error type
 
 ## File Formats
 
-- [gsv](https://github.com/bcpeinhardt/gsv) [(docs)](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
-- [tom](https://github.com/lpil/tom) [(docs)](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
+- [gsv](https://github.com/bcpeinhardt/gsv) - [(📚)](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
+- [tom](https://github.com/lpil/tom) - [(📚)](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
 
 ## File System
 
-- [filepath](https://github.com/lpil/filepath) [(docs)](https://hexdocs.pm/filepath/) - Work with file paths in Gleam!
-- [simplifile](https://github.com/bcpeinhardt/simplifile) [(docs)](https://hexdocs.pm/simplifile/) - Basic file operations that work on all targets
+- [filepath](https://github.com/lpil/filepath) - [(📚)](https://hexdocs.pm/filepath/) - Work with file paths in Gleam!
+- [simplifile](https://github.com/bcpeinhardt/simplifile) - [(📚)](https://hexdocs.pm/simplifile/) - Basic file operations that work on all targets
 
 ## Frontend
 
-- [glailglind](https://github.com/okkdev/glailglind) [(docs)](https://hexdocs.pm/glailglind/) - Gleam modules and functions for installing and invoking TailwindCSS
+- [glailglind](https://github.com/okkdev/glailglind) - [(📚)](https://hexdocs.pm/glailglind/) - Gleam modules and functions for installing and invoking TailwindCSS
 
 ## Graphics
 
-- [gleam_community_colour](https://github.com/gleam-community/colour) [(docs)](https://hexdocs.pm/gleam_community_colour/) - Colour types, conversions, and other utilities
+- [gleam_community_colour](https://github.com/gleam-community/colour) - [(📚)](https://hexdocs.pm/gleam_community_colour/) - Colour types, conversions, and other utilities
 
 ## HTML
 
-- [glentities](https://gitlab.com/Nicd/glentities) [(docs)](https://hexdocs.pm/glentities/) - HTML entity encoder/decoder for Gleam
-- [htmb](https://github.com/lpil/htmb) [(docs)](https://hexdocs.pm/htmb/) - A tiny HTML builder for Gleam
-- [htmgrrrl](https://github.com/lpil/htmgrrrl) [(docs)](https://hexdocs.pm/htmgrrrl/) - Gleam bindings to htmerl, the fast and memory efficient Erlang HTML SAX parser.
+- [glentities](https://gitlab.com/Nicd/glentities) - [(📚)](https://hexdocs.pm/glentities/) - HTML entity encoder/decoder for Gleam
+- [htmb](https://github.com/lpil/htmb) - [(📚)](https://hexdocs.pm/htmb/) - A tiny HTML builder for Gleam
+- [htmgrrrl](https://github.com/lpil/htmgrrrl) - [(📚)](https://hexdocs.pm/htmgrrrl/) - Gleam bindings to htmerl, the fast and memory efficient Erlang HTML SAX parser.
 
 ## HTTP
 
-- [gleam_http](https://github.com/gleam-lang/http) [(docs)](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
-- [marceau](https://github.com/lpil/marceau) [(docs)](https://hexdocs.pm/marceau/) - A MIME types library for Gleam
+- [gleam_http](https://github.com/gleam-lang/http) - [(📚)](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
+- [marceau](https://github.com/lpil/marceau) - [(📚)](https://hexdocs.pm/marceau/) - A MIME types library for Gleam
 
 ## HTTP Clients
 
-- [gleam_fetch](https://github.com/gleam-lang/fetch) [(docs)](https://hexdocs.pm/gleam_fetch/) - Make HTTP requests in Gleam JavaScript with Fetch
-- [gleam_hackney](https://github.com/gleam-lang/hackney) [(docs)](https://hexdocs.pm/gleam_hackney/) - Gleam bindings to the Hackney HTTP client
-- [gleam_httpc](https://github.com/gleam-lang/httpc) [(docs)](https://hexdocs.pm/gleam_httpc/) - Gleam bindings to Erlang's built in HTTP client, httpc
+- [gleam_fetch](https://github.com/gleam-lang/fetch) - [(📚)](https://hexdocs.pm/gleam_fetch/) - Make HTTP requests in Gleam JavaScript with Fetch
+- [gleam_hackney](https://github.com/gleam-lang/hackney) - [(📚)](https://hexdocs.pm/gleam_hackney/) - Gleam bindings to the Hackney HTTP client
+- [gleam_httpc](https://github.com/gleam-lang/httpc) - [(📚)](https://hexdocs.pm/gleam_httpc/) - Gleam bindings to Erlang's built in HTTP client, httpc
 
 ## HTTP Servers
 
-- [cgi](https://github.com/lpil/cgi) [(docs)](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
-- [gleam_elli](https://github.com/gleam-lang/elli) [(docs)](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
-- [mist](https://github.com/rawhat/mist) [(docs)](https://hexdocs.pm/mist/) - a misty Gleam web server
+- [cgi](https://github.com/lpil/cgi) - [(📚)](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
+- [gleam_elli](https://github.com/gleam-lang/elli) - [(📚)](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
+- [mist](https://github.com/rawhat/mist) - [(📚)](https://hexdocs.pm/mist/) - a misty Gleam web server
 
 ## Hashing and Encryption
 
-- [beecrypt](https://github.com/lpil/beecrypt) [(docs)](https://hexdocs.pm/beecrypt/) - Buzzing Gleam bindings to the Erlang bcrypt hashing library
+- [beecrypt](https://github.com/lpil/beecrypt) - [(📚)](https://hexdocs.pm/beecrypt/) - Buzzing Gleam bindings to the Erlang bcrypt hashing library
 
 ## JSON
 
-- [gleam_json](https://github.com/gleam-lang/json) [(docs)](https://hexdocs.pm/gleam_json/) - Work with JSON in Gleam
+- [gleam_json](https://github.com/gleam-lang/json) - [(📚)](https://hexdocs.pm/gleam_json/) - Work with JSON in Gleam
 
 ## JavaScript
 
-- [conversation](https://github.com/MystPi/conversation) [(docs)](https://hexdocs.pm/conversation/) - Gleam bindings for the standard JavaScript Request and Response APIs
-- [gleam_javascript](https://github.com/gleam-lang/javascript) [(docs)](https://hexdocs.pm/gleam_javascript/) - Work with JavaScript types and values in Gleam
-- [plinth](https://github.com/Crowdhailer/plinth) [(docs)](https://hexdocs.pm/plinth/) - Bindings to Node.js and browser platform APIs
+- [conversation](https://github.com/MystPi/conversation) - [(📚)](https://hexdocs.pm/conversation/) - Gleam bindings for the standard JavaScript Request and Response APIs
+- [gleam_javascript](https://github.com/gleam-lang/javascript) - [(📚)](https://hexdocs.pm/gleam_javascript/) - Work with JavaScript types and values in Gleam
+- [plinth](https://github.com/Crowdhailer/plinth) - [(📚)](https://hexdocs.pm/plinth/) - Bindings to Node.js and browser platform APIs
 
 ## Logging and Monitoring
 
-- [glimt](https://github.com/JohnBjrk/glimt) [(docs)](https://hexdocs.pm/glimt/) - A Gleam library for logging
-- [glog](https://github.com/defgenx/glog) [(docs)](https://hexdocs.pm/glog/) - A Gleam implementation of Erlang logger
+- [glimt](https://github.com/JohnBjrk/glimt) - [(📚)](https://hexdocs.pm/glimt/) - A Gleam library for logging
+- [glog](https://github.com/defgenx/glog) - [(📚)](https://hexdocs.pm/glog/) - A Gleam implementation of Erlang logger
 
 ## Networking
 
-- [glisten](https://github.com/rawhat/glisten) [(docs)](https://hexdocs.pm/glisten/) - a shiny Gleam TCP/SSL server
-- [mug](https://github.com/lpil/mug) [(docs)](https://hexdocs.pm/mug/) - A TCP client for Gleam!
+- [glisten](https://github.com/rawhat/glisten) - [(📚)](https://hexdocs.pm/glisten/) - a shiny Gleam TCP/SSL server
+- [mug](https://github.com/lpil/mug) - [(📚)](https://hexdocs.pm/mug/) - A TCP client for Gleam!
 
 ## Numbers
 
-- [gleam_community_maths](https://github.com/gleam-community/maths) [(docs)](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
+- [gleam_community_maths](https://github.com/gleam-community/maths) - [(📚)](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
 
 ## Parsing
 
-- [glance](https://github.com/lpil/glance) [(docs)](https://hexdocs.pm/glance/) - A Gleam source code parser, in Gleam!
-- [glance_printer](https://github.com/bcpeinhardt/glance_printer) [(docs)](https://hexdocs.pm/glance_printer/) - A pretty_printer for the glance AST
-- [glexer](https://github.com/DanielleMaywood/glexer) [(docs)](https://hexdocs.pm/glexer/) - A lexer for Gleam source code
-- [jot](https://github.com/lpil/jot) [(docs)](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
-- [nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) [(docs)](https://hexdocs.pm/nibble/) - A string parsing library heavily inspired by elm/parser.
+- [glance](https://github.com/lpil/glance) - [(📚)](https://hexdocs.pm/glance/) - A Gleam source code parser, in Gleam!
+- [glance_printer](https://github.com/bcpeinhardt/glance_printer) - [(📚)](https://hexdocs.pm/glance_printer/) - A pretty_printer for the glance AST
+- [glexer](https://github.com/DanielleMaywood/glexer) - [(📚)](https://hexdocs.pm/glexer/) - A lexer for Gleam source code
+- [jot](https://github.com/lpil/jot) - [(📚)](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
+- [nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) - [(📚)](https://hexdocs.pm/nibble/) - A string parsing library heavily inspired by elm/parser.
 
 ## Push Notifications
 
-- [wimp](https://github.com/lpil/wimp-pushover) [(docs)](https://hexdocs.pm/wimp/) - A Gleam client for the Pushover push notification API
+- [wimp](https://github.com/lpil/wimp-pushover) - [(📚)](https://hexdocs.pm/wimp/) - A Gleam client for the Pushover push notification API
 
 ## Randomness
 
-- [blah](https://github.com/massivefermion/blah) [(docs)](https://hexdocs.pm/blah/) - fake data generation for gleam
-- [minigen](https://github.com/mrdimosthenis/minigen) [(docs)](https://hexdocs.pm/minigen/) - Pure random data generation, appropriate for realistic simulations
-- [prng](https://github.com/giacomocavalieri/prng) [(docs)](https://hexdocs.pm/prng/) - A Pure Random Number Generator
+- [blah](https://github.com/massivefermion/blah) - [(📚)](https://hexdocs.pm/blah/) - fake data generation for gleam
+- [minigen](https://github.com/mrdimosthenis/minigen) - [(📚)](https://hexdocs.pm/minigen/) - Pure random data generation, appropriate for realistic simulations
+- [prng](https://github.com/giacomocavalieri/prng) - [(📚)](https://hexdocs.pm/prng/) - A Pure Random Number Generator
 
 ## Testing
 
-- [exercism_test_runner](https://github.com/exercism/gleam-test-runner) [(docs)](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
+- [exercism_test_runner](https://github.com/exercism/gleam-test-runner) - [(📚)](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
 
 ## Text
 
-- [edit_distance](https://github.com/giacomocavalieri/edit_distance) [(docs)](https://hexdocs.pm/edit_distance/) - A pure Gleam package to compute the edit distance of two strings
-- [gap](https://github.com/JohnBjrk/gap) [(docs)](https://hexdocs.pm/gap/) - A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.
-- [glam](https://github.com/giacomocavalieri/glam) [(docs)](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
-- [glemplate](https://gitlab.com/Nicd/glemplate) [(docs)](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
-- [hug](https://github.com/brettkolodny/gleam-hug) [(docs)](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages
-- [ids](https://github.com/rvcas/ids) [(docs)](https://hexdocs.pm/ids/) - Unique IDs for Gleam
-- [iso_8859](https://github.com/richard-viney/iso_8859) [(docs)](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
-- [justin](https://github.com/lpil/justin) [(docs)](https://hexdocs.pm/justin/) - Convert between snake_case, camelCase, and other cases in Gleam
-- [phony](https://github.com/massivefermion/phony) [(docs)](https://hexdocs.pm/phony/) - An international phone number validator
-- [punycode](https://codeberg.org/sotolf/gleam_punycode/) [(docs)](https://hexdocs.pm/punycode/) - Gleam implementation of punycode encoding and decoding
-- [rank](https://github.com/lpil/glance) [(docs)](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
+- [edit_distance](https://github.com/giacomocavalieri/edit_distance) - [(📚)](https://hexdocs.pm/edit_distance/) - A pure Gleam package to compute the edit distance of two strings
+- [gap](https://github.com/JohnBjrk/gap) - [(📚)](https://hexdocs.pm/gap/) - A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.
+- [glam](https://github.com/giacomocavalieri/glam) - [(📚)](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
+- [glemplate](https://gitlab.com/Nicd/glemplate) - [(📚)](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
+- [hug](https://github.com/brettkolodny/gleam-hug) - [(📚)](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages
+- [ids](https://github.com/rvcas/ids) - [(📚)](https://hexdocs.pm/ids/) - Unique IDs for Gleam
+- [iso_8859](https://github.com/richard-viney/iso_8859) - [(📚)](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
+- [justin](https://github.com/lpil/justin) - [(📚)](https://hexdocs.pm/justin/) - Convert between snake_case, camelCase, and other cases in Gleam
+- [phony](https://github.com/massivefermion/phony) - [(📚)](https://hexdocs.pm/phony/) - An international phone number validator
+- [punycode](https://codeberg.org/sotolf/gleam_punycode/) - [(📚)](https://hexdocs.pm/punycode/) - Gleam implementation of punycode encoding and decoding
+- [rank](https://github.com/lpil/glance) - [(📚)](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
 
 ## Time
 
-- [birl](https://github.com/massivefermion/birl) [(docs)](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
+- [birl](https://github.com/massivefermion/birl) - [(📚)](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
 
 ## Web frameworks
 
-- [wisp](https://github.com/gleam-wisp/wisp) [(docs)](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
+- [wisp](https://github.com/gleam-wisp/wisp) - [(📚)](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
 
 # Projects
 
