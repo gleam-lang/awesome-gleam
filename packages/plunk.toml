@@ -1,0 +1,5 @@
+name = "plunk"
+description = "Library for interacting with Plunk's API (https://useplunk.com) in Gleam - supports both the Erlang and Javascript targets"
+docs_url = "https://hexdocs.pm/plunk/"
+repo_url = "https://github.com/aosasona/plunk.gleam"
+category = ""

@@ -1,0 +1,5 @@
+name = "espresso"
+description = "A simple gleam http server and router built on top of erlang cowboy"
+docs_url = "https://hexdocs.pm/espresso/"
+repo_url = "https://github.com/espresso-gleam/espresso"
+category = ""

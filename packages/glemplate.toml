@@ -1,0 +1,5 @@
+name = "glemplate"
+description = "A simple template engine for Gleam"
+docs_url = "https://hexdocs.pm/glemplate/"
+repo_url = "https://gitlab.com/Nicd/glemplate"
+category = "Text"

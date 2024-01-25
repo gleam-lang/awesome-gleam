@@ -1,0 +1,5 @@
+name = "gleam_dotenv"
+description = "dotenv for Gleam"
+docs_url = "https://hexdocs.pm/gleam_dotenv/"
+repo_url = "https://github.com/Grubba27/gleam_dotenv"
+category = "Configuration"

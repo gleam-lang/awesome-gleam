@@ -1,0 +1,5 @@
+name = "sequin"
+description = "A FABULOUS Gleam library"
+docs_url = "https://hexdocs.pm/sequin/"
+repo_url = "https://github.com/lpil/sequin"
+category = ""

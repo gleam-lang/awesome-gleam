@@ -1,0 +1,5 @@
+name = "glove"
+description = "Gleam QBE IR Generator"
+docs_url = "https://hexdocs.pm/glove/"
+repo_url = "https://github.com/Willyboar/glove"
+category = ""

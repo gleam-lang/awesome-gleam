@@ -1,0 +1,5 @@
+name = "gluon"
+description = "A Gleam project"
+docs_url = "https://hexdocs.pm/gluon/"
+repo_url = "https://github.com/thelinuxlich/gluon"
+category = ""

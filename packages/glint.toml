@@ -1,0 +1,5 @@
+name = "glint"
+description = "Gleam command line argument parsing with basic flag support."
+docs_url = "https://hexdocs.pm/glint/"
+repo_url = "https://github.com/TanklesXL/glint"
+category = "Command Line"

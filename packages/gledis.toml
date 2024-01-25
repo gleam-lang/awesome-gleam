@@ -1,0 +1,5 @@
+name = "gledis"
+description = "Gleam Redis client"
+docs_url = "https://hexdocs.pm/gledis/"
+repo_url = "https://github.com/HarryET/gledis"
+category = ""

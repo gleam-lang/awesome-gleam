@@ -1,0 +1,5 @@
+name = "gleam_community_path"
+description = "Path parsing and manipulation"
+docs_url = "https://hexdocs.pm/gleam_community_path/"
+repo_url = "https://github.com/gleam-community/path"
+category = ""

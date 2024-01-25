@@ -1,0 +1,5 @@
+name = "falcon"
+description = "A smoother way to send HTTP requests in Gleam, an abstraction over Hackney - see the readme for important notes!"
+docs_url = "https://hexdocs.pm/falcon/"
+repo_url = "https://github.com/trulyao/falcon"
+category = ""

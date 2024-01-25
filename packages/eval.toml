@@ -1,0 +1,5 @@
+name = "eval"
+description = "A Gleam package to help you thread state through a series of steps."
+docs_url = "https://hexdocs.pm/eval/"
+repo_url = "https://github.com/hayleigh-dot-dev/gleam-eval"
+category = ""

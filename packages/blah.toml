@@ -1,0 +1,5 @@
+name = "blah"
+description = "fake data generation for gleam"
+docs_url = "https://hexdocs.pm/blah/"
+repo_url = "https://github.com/massivefermion/blah"
+category = "Randomness"

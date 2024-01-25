@@ -1,0 +1,5 @@
+name = "minigen"
+description = "Pure random data generation, appropriate for realistic simulations"
+docs_url = "https://hexdocs.pm/minigen/"
+repo_url = "https://github.com/mrdimosthenis/minigen"
+category = "Randomness"

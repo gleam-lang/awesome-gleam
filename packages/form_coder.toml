@@ -1,0 +1,5 @@
+name = "form_coder"
+description = "A Gleam library for encoding and decoding `x-www-form-urlencoded` data"
+docs_url = "https://hexdocs.pm/form_coder/"
+repo_url = "https://github.com/J3RN/form_coder"
+category = ""

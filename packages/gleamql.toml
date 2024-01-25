@@ -1,0 +1,5 @@
+name = "gleamql"
+description = "A Simple Graphql Client Written In Gleam ("
+docs_url = "https://hexdocs.pm/gleamql/"
+repo_url = "https://github.com/cobbinma/gleamql"
+category = ""

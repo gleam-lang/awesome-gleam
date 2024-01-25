@@ -1,0 +1,5 @@
+name = "justin"
+description = "Convert between snake_case, camelCase, and other cases in Gleam"
+docs_url = "https://hexdocs.pm/justin/"
+repo_url = "https://github.com/lpil/justin"
+category = "Text"

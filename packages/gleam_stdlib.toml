@@ -1,0 +1,5 @@
+name = "gleam_stdlib"
+description = "A standard library for the Gleam programming language"
+docs_url = "https://hexdocs.pm/gleam_stdlib/"
+repo_url = "https://github.com/gleam-lang/stdlib"
+category = "Data Structures"

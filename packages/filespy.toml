@@ -1,0 +1,5 @@
+name = "filespy"
+description = "Get notified of filesystem events in Gleam"
+docs_url = "https://hexdocs.pm/filespy/"
+repo_url = "https://github.com/pta2002/gleam-filespy"
+category = ""

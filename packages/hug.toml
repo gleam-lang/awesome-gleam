@@ -1,0 +1,5 @@
+name = "hug"
+description = "Helpful and pretty CLI messages"
+docs_url = "https://hexdocs.pm/hug/"
+repo_url = "https://github.com/brettkolodny/gleam-hug"
+category = "Text"

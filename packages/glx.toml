@@ -1,0 +1,5 @@
+name = "glx"
+description = "Extensions to the Gleam standard library."
+docs_url = "https://hexdocs.pm/glx/"
+repo_url = "https://github.com/maxdeviant/glx"
+category = ""

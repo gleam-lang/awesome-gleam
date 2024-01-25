@@ -1,0 +1,5 @@
+name = "conversation"
+description = "Gleam bindings for the standard JavaScript Request and Response APIs"
+docs_url = "https://hexdocs.pm/conversation/"
+repo_url = "https://github.com/MystPi/conversation"
+category = "JavaScript"

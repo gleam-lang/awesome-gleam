@@ -1,0 +1,5 @@
+name = "glubs"
+description = "WebVTT and SRT parser and serializer."
+docs_url = "https://hexdocs.pm/glubs/"
+repo_url = "https://github.com/philipgiuliani/glubs"
+category = ""

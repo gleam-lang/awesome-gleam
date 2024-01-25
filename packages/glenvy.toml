@@ -1,0 +1,5 @@
+name = "glenvy"
+description = "A pleasant way to interact with your environment."
+docs_url = "https://hexdocs.pm/glenvy/"
+repo_url = "https://github.com/maxdeviant/glenvy"
+category = "Configuration"

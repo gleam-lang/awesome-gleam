@@ -1,0 +1,5 @@
+name = "glexer"
+description = "A lexer for Gleam source code"
+docs_url = "https://hexdocs.pm/glexer/"
+repo_url = "https://github.com/DanielleMaywood/glexer"
+category = "Parsing"

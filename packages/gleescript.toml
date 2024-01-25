@@ -1,0 +1,5 @@
+name = "gleescript"
+description = "Bundle your Gleam-on-Erlang project into an escript, a single executable file!"
+docs_url = "https://hexdocs.pm/gleescript/"
+repo_url = "https://github.com/lpil/gleescript"
+category = "Build Tooling"

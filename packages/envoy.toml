@@ -1,0 +1,5 @@
+name = "envoy"
+description = "A zero dependency cross platform Gleam package for reading environment variables"
+docs_url = "https://hexdocs.pm/envoy/"
+repo_url = "https://github.com/lpil/envoy"
+category = "Configuration"

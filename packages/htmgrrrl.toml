@@ -1,0 +1,5 @@
+name = "htmgrrrl"
+description = "Gleam bindings to htmerl, the fast and memory efficient Erlang HTML SAX parser."
+docs_url = "https://hexdocs.pm/htmgrrrl/"
+repo_url = "https://github.com/lpil/htmgrrrl"
+category = "HTML"

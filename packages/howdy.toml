@@ -1,0 +1,5 @@
+name = "howdy"
+description = "A simple and easy to use API created on top of the Mist web server"
+docs_url = "https://hexdocs.pm/howdy/"
+repo_url = "https://github.com/mikeyjones/howdy"
+category = ""

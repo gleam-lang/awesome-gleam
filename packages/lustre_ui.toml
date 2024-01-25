@@ -1,0 +1,5 @@
+name = "lustre_ui"
+description = "A collection of components and design tokens for building Lustre apps."
+docs_url = "https://hexdocs.pm/lustre_ui/"
+repo_url = "https://github.com/lustre-labs/lustre_ui"
+category = ""

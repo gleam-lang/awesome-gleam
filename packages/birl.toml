@@ -1,0 +1,5 @@
+name = "birl"
+description = "Date / Time handling for Gleam"
+docs_url = "https://hexdocs.pm/birl/"
+repo_url = "https://github.com/massivefermion/birl"
+category = "Time"

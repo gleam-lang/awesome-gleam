@@ -1,0 +1,5 @@
+name = "howdy_authentication_cookies"
+description = "An authentication library using cookies designed to work with the Howdy web server."
+docs_url = "https://hexdocs.pm/howdy_authentication_cookies/"
+repo_url = "https://github.com/mikeyjones/project"
+category = ""

@@ -1,0 +1,5 @@
+name = "galant"
+description = "A Gleam library for styling string in the terminal with ANSI Escape Sequences"
+docs_url = "https://hexdocs.pm/galant/"
+repo_url = "https://github.com/JohnBjrk/galant"
+category = ""

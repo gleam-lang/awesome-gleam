@@ -1,0 +1,5 @@
+name = "nibble"
+description = "A string parsing library heavily inspired by elm/parser."
+docs_url = "https://hexdocs.pm/nibble/"
+repo_url = "https://github.com/hayleigh-dot-dev/gleam-nibble"
+category = "Parsing"

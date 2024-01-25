@@ -1,0 +1,5 @@
+name = "mist"
+description = "a misty Gleam web server"
+docs_url = "https://hexdocs.pm/mist/"
+repo_url = "https://github.com/rawhat/mist"
+category = "HTTP Servers"

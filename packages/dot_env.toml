@@ -1,0 +1,5 @@
+name = "dot_env"
+description = "Load environment variables from files"
+docs_url = "https://hexdocs.pm/dot_env/"
+repo_url = "https://github.com/aosasona/dotenv"
+category = ""

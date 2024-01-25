@@ -1,0 +1,5 @@
+name = "ids"
+description = "Unique IDs for Gleam"
+docs_url = "https://hexdocs.pm/ids/"
+repo_url = "https://github.com/rvcas/ids"
+category = "Text"

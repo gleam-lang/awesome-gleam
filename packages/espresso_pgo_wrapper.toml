@@ -1,0 +1,5 @@
+name = "espresso_pgo_wrapper"
+description = "Simple wrapper around the espresso PGO tool"
+docs_url = "https://hexdocs.pm/espresso_pgo_wrapper/"
+repo_url = "https://github.com/espresso-gleam/espresso_pgo_wrapper"
+category = ""

@@ -1,0 +1,5 @@
+name = "punycode"
+description = "Gleam implementation of punycode encoding and decoding"
+docs_url = "https://hexdocs.pm/punycode/"
+repo_url = "https://codeberg.org/sotolf/gleam_punycode/"
+category = "Text"

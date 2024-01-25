@@ -1,0 +1,5 @@
+name = "gleam_httpc"
+description = "Gleam bindings to Erlang's built in HTTP client, httpc"
+docs_url = "https://hexdocs.pm/gleam_httpc/"
+repo_url = "https://github.com/gleam-lang/httpc"
+category = "HTTP Clients"

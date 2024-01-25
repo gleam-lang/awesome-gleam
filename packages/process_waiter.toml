@@ -1,0 +1,5 @@
+name = "process_waiter"
+description = "Wait for Erlang processes to exit"
+docs_url = "https://hexdocs.pm/process_waiter/"
+repo_url = "https://github.com/lpil/process-waiter"
+category = "Erlang and OTP"

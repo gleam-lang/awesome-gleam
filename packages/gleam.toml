@@ -1,0 +1,5 @@
+name = "gleam"
+description = "Hello, world!"
+docs_url = "https://hexdocs.pm/gleam/"
+repo_url = "https://github.com/gleam-lang/gleam"
+category = ""

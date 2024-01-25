@@ -1,0 +1,5 @@
+name = "nakai"
+description = "HTML generation for Gleam, on the server or anywhere else"
+docs_url = "https://hexdocs.pm/nakai/"
+repo_url = "https://github.com/nakaixo/nakai"
+category = ""

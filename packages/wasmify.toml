@@ -1,0 +1,5 @@
+name = "wasmify"
+description = "Load and use WebAssembly in your JavaScript compiled Gleam projects"
+docs_url = "https://hexdocs.pm/wasmify/"
+repo_url = "https://github.com/endercheif/wasmify"
+category = ""

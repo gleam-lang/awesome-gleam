@@ -1,0 +1,5 @@
+name = "runetracer"
+description = "A gleam import sorter."
+docs_url = "https://hexdocs.pm/runetracer/"
+repo_url = "https://github.com/lunarmagpie/runetracer"
+category = ""

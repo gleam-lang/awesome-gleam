@@ -1,0 +1,5 @@
+name = "glats"
+description = "A NATS client for Gleam."
+docs_url = "https://hexdocs.pm/glats/"
+repo_url = "https://github.com/arnarg/glats"
+category = ""

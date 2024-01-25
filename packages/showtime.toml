@@ -1,0 +1,5 @@
+name = "showtime"
+description = "A Gleam Testing Framework"
+docs_url = "https://hexdocs.pm/showtime/"
+repo_url = "https://github.com/JohnBjrk/showtime"
+category = ""

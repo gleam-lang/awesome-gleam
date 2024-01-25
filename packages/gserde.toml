@@ -1,0 +1,5 @@
+name = "gserde"
+description = "gleam codegen for serialization and deserialization"
+docs_url = "https://hexdocs.pm/gserde/"
+repo_url = "https://github.com/cdaringe/gserde"
+category = ""

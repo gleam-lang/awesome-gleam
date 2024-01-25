@@ -1,0 +1,5 @@
+name = "shimmer"
+description = "A Gleam library for interacting with the Discord API"
+docs_url = "https://hexdocs.pm/shimmer/"
+repo_url = "https://github.com/HarryET/shimmer"
+category = ""

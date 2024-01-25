@@ -1,0 +1,5 @@
+name = "gleam_cowboy"
+description = "Run Gleam HTTP services with the Cowboy web server"
+docs_url = "https://hexdocs.pm/gleam_cowboy/"
+repo_url = "https://github.com/gleam-lang/cowboy"
+category = ""

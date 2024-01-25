@@ -1,0 +1,5 @@
+name = "fp_gl"
+description = "A porting of some parts of fp-ts to Gleam"
+docs_url = "https://hexdocs.pm/fp_gl/"
+repo_url = "https://github.com/lucasavila00/fp_gl"
+category = ""

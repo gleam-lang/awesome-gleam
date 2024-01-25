@@ -1,0 +1,5 @@
+name = "glome"
+description = "A Gleam library to write and run Home Assistant automations."
+docs_url = "https://hexdocs.pm/glome/"
+repo_url = "https://github.com/dennisschroeder/glome"
+category = ""

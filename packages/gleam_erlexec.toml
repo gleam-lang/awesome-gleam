@@ -1,0 +1,5 @@
+name = "gleam_erlexec"
+description = "A wrapper for erlexec"
+docs_url = "https://hexdocs.pm/gleam_erlexec/"
+repo_url = "https://github.com/manveru/gleam_erlexec"
+category = ""

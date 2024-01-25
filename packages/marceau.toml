@@ -1,0 +1,5 @@
+name = "marceau"
+description = "A MIME types library for Gleam"
+docs_url = "https://hexdocs.pm/marceau/"
+repo_url = "https://github.com/lpil/marceau"
+category = "HTTP"

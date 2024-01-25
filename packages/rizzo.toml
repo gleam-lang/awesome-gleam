@@ -1,0 +1,5 @@
+name = "rizzo"
+description = "A basic rational number library for Gleam"
+docs_url = "https://hexdocs.pm/rizzo/"
+repo_url = "https://github.com/username/project"
+category = ""

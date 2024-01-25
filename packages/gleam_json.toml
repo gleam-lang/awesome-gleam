@@ -1,0 +1,5 @@
+name = "gleam_json"
+description = "Work with JSON in Gleam"
+docs_url = "https://hexdocs.pm/gleam_json/"
+repo_url = "https://github.com/gleam-lang/json"
+category = "JSON"

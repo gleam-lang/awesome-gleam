@@ -1,0 +1,5 @@
+name = "fswalk"
+description = "Recursively iterate over the filesystem"
+docs_url = "https://hexdocs.pm/fswalk/"
+repo_url = "https://github.com/cdaringe/fswalk"
+category = ""

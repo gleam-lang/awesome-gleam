@@ -1,0 +1,5 @@
+name = "gleam_mongo"
+description = "A mongodb driver for gleam"
+docs_url = "https://hexdocs.pm/gleam_mongo/"
+repo_url = "https://github.com/massivefermion/gleam_mongo"
+category = ""

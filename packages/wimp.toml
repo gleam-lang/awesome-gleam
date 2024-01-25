@@ -1,0 +1,5 @@
+name = "wimp"
+description = "A Gleam client for the Pushover push notification API"
+docs_url = "https://hexdocs.pm/wimp/"
+repo_url = "https://github.com/lpil/wimp-pushover"
+category = "Push Notifications"

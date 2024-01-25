@@ -1,0 +1,5 @@
+name = "jot"
+description = "A parser for Djot, a markdown-like language"
+docs_url = "https://hexdocs.pm/jot/"
+repo_url = "https://github.com/lpil/jot"
+category = "Parsing"

@@ -1,0 +1,5 @@
+name = "filepath"
+description = "Work with file paths in Gleam!"
+docs_url = "https://hexdocs.pm/filepath/"
+repo_url = "https://github.com/lpil/filepath"
+category = "File System"

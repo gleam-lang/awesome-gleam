@@ -1,0 +1,5 @@
+name = "simplifile"
+description = "Basic file operations that work on all targets"
+docs_url = "https://hexdocs.pm/simplifile/"
+repo_url = "https://github.com/bcpeinhardt/simplifile"
+category = "File System"

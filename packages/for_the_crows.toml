@@ -1,0 +1,5 @@
+name = "for_the_crows"
+description = "An adaptation of 'For the Crown' game by Jeremy Lennert."
+docs_url = "https://hexdocs.pm/for_the_crows/"
+repo_url = "https://github.com/chouzar/crow"
+category = ""

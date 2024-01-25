@@ -1,0 +1,5 @@
+name = "glance_printer"
+description = "A pretty_printer for the glance AST"
+docs_url = "https://hexdocs.pm/glance_printer/"
+repo_url = "https://github.com/bcpeinhardt/glance_printer"
+category = "Parsing"

@@ -1,0 +1,5 @@
+name = "shellout"
+description = "A Gleam library for cross-platform shell operations"
+docs_url = "https://hexdocs.pm/shellout/"
+repo_url = "https://github.com/tynanbe/shellout"
+category = "Command Line"

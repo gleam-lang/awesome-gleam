@@ -1,0 +1,5 @@
+name = "halo"
+description = "A Gleam project"
+docs_url = "https://hexdocs.pm/halo/"
+repo_url = "https://github.com/PROMETHIA-27/halo"
+category = ""

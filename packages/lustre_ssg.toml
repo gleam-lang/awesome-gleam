@@ -1,0 +1,5 @@
+name = "lustre_ssg"
+description = "A simple static site generator for Lustre projects."
+docs_url = "https://hexdocs.pm/lustre_ssg/"
+repo_url = "https://github.com/lustre-labs/ssg"
+category = ""

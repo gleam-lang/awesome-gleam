@@ -1,0 +1,5 @@
+name = "gleam_community_maths"
+description = "A basic maths library"
+docs_url = "https://hexdocs.pm/gleam_community_maths/"
+repo_url = "https://github.com/gleam-community/maths"
+category = "Numbers"

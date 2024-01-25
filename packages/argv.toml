@@ -1,0 +1,5 @@
+name = "argv"
+description = "A cross platform library for getting the command line arguments"
+docs_url = "https://hexdocs.pm/argv/"
+repo_url = "https://github.com/lpil/argv"
+category = "Command Line"

@@ -1,0 +1,5 @@
+name = "gap"
+description = "A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences."
+docs_url = "https://hexdocs.pm/gap/"
+repo_url = "https://github.com/JohnBjrk/gap"
+category = "Text"

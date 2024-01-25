@@ -1,0 +1,5 @@
+name = "gleam_fetch"
+description = "Make HTTP requests in Gleam JavaScript with Fetch"
+docs_url = "https://hexdocs.pm/gleam_fetch/"
+repo_url = "https://github.com/gleam-lang/fetch"
+category = "HTTP Clients"

@@ -1,0 +1,5 @@
+name = "globe"
+description = "Gleam Compiler Backend"
+docs_url = "https://hexdocs.pm/globe/"
+repo_url = "https://github.com/Willyboar/globe"
+category = ""

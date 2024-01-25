@@ -1,0 +1,5 @@
+name = "glam"
+description = "A package to help you easily pretty print structured data"
+docs_url = "https://hexdocs.pm/glam/"
+repo_url = "https://github.com/giacomocavalieri/glam"
+category = "Text"

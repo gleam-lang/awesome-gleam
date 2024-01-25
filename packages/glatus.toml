@@ -1,0 +1,5 @@
+name = "glatus"
+description = "Gleam bindings to the API of the Gatus health check tool"
+docs_url = "https://hexdocs.pm/glatus/"
+repo_url = "https://github.com/lpil/glatus"
+category = "API Clients"

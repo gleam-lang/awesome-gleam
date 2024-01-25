@@ -1,0 +1,5 @@
+name = "spinner"
+description = "Animated progress spinners for your console"
+docs_url = "https://hexdocs.pm/spinner/"
+repo_url = "https://github.com/lpil/spinner"
+category = "Command Line"

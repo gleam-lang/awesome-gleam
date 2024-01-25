@@ -1,0 +1,5 @@
+name = "glucose"
+description = "The sweetest way to interact with the DOM."
+docs_url = "https://hexdocs.pm/glucose/"
+repo_url = "https://github.com/endercheif/glucose"
+category = ""

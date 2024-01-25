@@ -1,0 +1,5 @@
+name = "glychee"
+description = "Glychee: Easy access to Elixir's Benchee from Gleam!"
+docs_url = "https://hexdocs.pm/glychee/"
+repo_url = "https://github.com/inoas/glychee"
+category = "Benchmarking"

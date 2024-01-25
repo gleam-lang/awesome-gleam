@@ -1,0 +1,5 @@
+name = "glue"
+description = "Generate functions from your Gleam code!"
+docs_url = "https://hexdocs.pm/glue/"
+repo_url = "https://github.com/lpil/glue"
+category = ""

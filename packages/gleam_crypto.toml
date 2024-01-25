@@ -1,0 +1,5 @@
+name = "gleam_crypto"
+description = "Gleam bindings to the BEAM cryptography functions"
+docs_url = "https://hexdocs.pm/gleam_crypto/"
+repo_url = "https://github.com/gleam-lang/crypto"
+category = "Erlang and OTP"

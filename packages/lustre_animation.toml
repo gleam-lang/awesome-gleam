@@ -1,0 +1,5 @@
+name = "lustre_animation"
+description = "Animations for lustre, utilizing JS requestAnimationFrame and setTimeout"
+docs_url = "https://hexdocs.pm/lustre_animation/"
+repo_url = "https://git.chmeee.org/lustre_animation"
+category = ""

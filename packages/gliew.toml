@@ -1,0 +1,5 @@
+name = "gliew"
+description = "A gleam server-side rendered web framework with live updating UI"
+docs_url = "https://hexdocs.pm/gliew/"
+repo_url = "https://github.com/arnarg/gliew"
+category = ""

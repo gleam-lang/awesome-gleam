@@ -1,0 +1,5 @@
+name = "gleam_gun"
+description = "Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client"
+docs_url = "https://hexdocs.pm/gleam_gun/"
+repo_url = "https://github.com/gilevskaya/gleam_gun"
+category = ""

@@ -1,0 +1,5 @@
+name = "gleamy_structures"
+description = "Data structures in pure Gleam."
+docs_url = "https://hexdocs.pm/gleamy_structures/"
+repo_url = "https://github.com/schurhammer/gleamy_structures"
+category = ""

@@ -1,0 +1,5 @@
+name = "gleam_synapses"
+description = "A plug-and-play library for neural networks written in Gleam"
+docs_url = "https://hexdocs.pm/gleam_synapses/"
+repo_url = "https://github.com/mrdimosthenis/gleam_synapses"
+category = ""

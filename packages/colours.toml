@@ -1,0 +1,5 @@
+name = "colours"
+description = "A Gleam library for adding colours in terminal outputs."
+docs_url = "https://hexdocs.pm/colours/"
+repo_url = "https://github.com/Willyboar/colours"
+category = ""

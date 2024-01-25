@@ -1,0 +1,5 @@
+name = "gleam_community_ansi"
+description = "ANSI colours, formatting, and control codes"
+docs_url = "https://hexdocs.pm/gleam_community_ansi/"
+repo_url = "https://github.com/gleam-community/ansi"
+category = "Command Line"

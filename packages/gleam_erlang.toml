@@ -1,0 +1,5 @@
+name = "gleam_erlang"
+description = "A Gleam library for working with Erlang"
+docs_url = "https://hexdocs.pm/gleam_erlang/"
+repo_url = "https://github.com/gleam-lang/erlang"
+category = "Erlang and OTP"
