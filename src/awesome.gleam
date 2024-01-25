@@ -76,20 +76,20 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Courses](#courses)
   - [Social Media](#social-media)
 
-# Packages
+## Packages
 
 " <> string.join(list.map(packages, category_section), "\n\n") <> "
 
-# Projects
+## Projects
 
-## Compilers
+### Compilers
 
 Compilers for Gleam and compilers written in Gleam.
 
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - The Gleam compiler.
 - [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) - A toy Lisp interpreter in Gleam.
 
-## Web applications
+### Web applications
 
 Web applications written in Gleam.
 
@@ -97,7 +97,7 @@ Web applications written in Gleam.
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) - An example Gleam web application.
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
 
-# Tools
+## Tools
 
 - [tynanbe/rad](https://github.com/tynanbe/rad) - A flexible task runner companion for the Gleam build manager.
 - [inoas/glychee](https://github.com/inoas/glychee) - A simple Gleam benchmark runner which wraps Benchee for the heavy lifting.
@@ -112,35 +112,35 @@ Web applications written in Gleam.
 - [itsgreggreg/language-gleam](https://github.com/itsgreggreg/language-gleam) - Gleam language support in Atom.
 - [DannyLettuce/gleam_gedit](https://github.com/DannyLettuce/gleam_gedit) - Gleam syntax support for Gedit (and other GtkSourceView editors).
 
-# Resources
+## Resources
 
-## Websites
+### Websites
 
 Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website.
 - [tour.gleam.run](https://gleam.run) - Gleam's interactive tour and turorial.
 
-## Courses
+### Courses
 
 - [Exercism's Gleam track](https://github.com/exercism/gleam/) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [tanklesxl/gladvent](https://github.com/tanklesxl/gladvent) - An `Advent of Code` runner for Gleam, targeting Erlang.
 
-## Talks
+### Talks
 
 - [Introduction to Gleam](https://fosdem.org/2023/schedule/event/beam_gleam_intro/) - [Harry Bairstow](https://github.com/harryet)
 - [Distributed music programming with Gleam, BEAM, and the Web Audio API](https://fosdem.org/2023/schedule/event/beam_distributed_music_programming_gleam/) - [Hayleigh Thompson](https://github.com/hayleigh-dot-dev)
 - [I learned Gleam in a week. Here's how it went](https://www.youtube.com/watch?v=-8OIK4RIUsg) - [Theo Harris](https://github.com/Theosaurus-Rex)
 
-## Social Media
+### Social Media
 
-### Twitter
+#### Twitter
 
 * [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
 * [@gleamlang](https://twitter.com/gleamlang) - The official twitter account.
 * [@louispilfold](https://twitter.com/louispilfold) - The creator of Gleam.
 
-### Reddit
+#### Reddit
 
 * [r/gleamlang](https://reddit.com/r/gleamlang/)
 "
@@ -154,7 +154,7 @@ Websites with Gleam related content.
 fn category_section(pair: #(String, List(ConfigPackage))) -> String {
   let #(name, packages) = pair
 
-  "## " <> name <> "
+  "### " <> name <> "
 
 " <> string.join(list.map(packages, package_entry), "\n")
 }
