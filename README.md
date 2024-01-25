@@ -42,6 +42,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Text](#text)
   - [Time](#time)
   - [Web frameworks](#web-frameworks)
+  - [Websites](#websites)
 - [Templates](#templates)
 - [Projects](#projects)
   - [Compilers](#compilers)
@@ -138,6 +139,12 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ## Frontend
 
 - [glailglind](https://github.com/okkdev/glailglind) - [📚](https://hexdocs.pm/glailglind/) - Gleam modules and functions for installing and invoking TailwindCSS
+- [lustre](https://github.com/lustre-labs/lustre) - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
+- [lustre_animation](https://git.chmeee.org/lustre_animation) - [📚](https://hexdocs.pm/lustre_animation/) - Animations for lustre, utilizing JS requestAnimationFrame and setTimeout
+- [lustre_http](https://codeberg.org/kero/lustre_http) - [📚](https://hexdocs.pm/lustre_http/) - HTTP requests from lustre
+- [lustre_ui](https://github.com/lustre-labs/lustre_ui) - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
+- [lustre_virtual_list](https://github.com/schurhammer/lustre_virtual_list) - [📚](https://hexdocs.pm/lustre_virtual_list/) - A virtual list componenet for lustre.
+- [lustre_websocket](https://codeberg.org/kero/lustre_websocket) - [📚](https://hexdocs.pm/lustre_websocket/) - Web Socket requests from lustre
 
 ## Graphics
 
@@ -237,6 +244,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ## Web frameworks
 
 - [wisp](https://github.com/gleam-wisp/wisp) - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
+
+## Websites
+
+- [lustre_ssg](https://github.com/lustre-labs/ssg) - [📚](https://hexdocs.pm/lustre_ssg/) - A simple static site generator for Lustre projects.
 
 # Projects
 
