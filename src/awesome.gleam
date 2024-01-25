@@ -164,7 +164,7 @@ fn package_entry(package: ConfigPackage) -> String {
   <> package.name
   <> "]("
   <> package.repo_url
-  <> ") - [(📚)]("
+  <> ") - [📚]("
   <> package.docs_url
   <> ") - "
   <> package.description
