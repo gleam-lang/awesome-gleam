@@ -1,5 +1,5 @@
 name = "plunk"
-description = "Library for interacting with Plunk's API (https://useplunk.com) in Gleam - supports both the Erlang and Javascript targets"
+description = "A Gleam library to send emails, manage contacts etc. using the Plunk API"
 docs_url = "https://hexdocs.pm/plunk/"
 repo_url = "https://github.com/aosasona/plunk.gleam"
 category = "Email"

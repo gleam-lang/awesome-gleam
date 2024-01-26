@@ -109,7 +109,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Email
 
 - [gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - [📚](https://hexdocs.pm/gleam_sendgrid/) - Send emails from Gleam with SendGrid
-- [plunk](https://github.com/aosasona/plunk.gleam) - [📚](https://hexdocs.pm/plunk/) - Library for interacting with Plunk's API (https://useplunk.com) in Gleam - supports both the Erlang and Javascript targets
+- [plunk](https://github.com/aosasona/plunk.gleam) - [📚](https://hexdocs.pm/plunk/) - A Gleam library to send emails, manage contacts etc. using the Plunk API
 - [zeptomail](https://github.com/lpil/zeptomail) - [📚](https://hexdocs.pm/zeptomail/) - A wrapper for ZeptoMail's transactional email API
 
 ### Erlang and OTP
@@ -164,7 +164,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTTP Clients
 
-- [falcon](https://github.com/trulyao/falcon) - [📚](https://hexdocs.pm/falcon/) - A smoother way to send HTTP requests in Gleam, an abstraction over Hackney - see the readme for important notes!
+- [falcon](https://github.com/trulyao/falcon) - [📚](https://hexdocs.pm/falcon/) - A smoother way to make HTTP requests in Gleam with Axios-like methods
 - [gleam_fetch](https://github.com/gleam-lang/fetch) - [📚](https://hexdocs.pm/gleam_fetch/) - Make HTTP requests in Gleam JavaScript with Fetch
 - [gleam_hackney](https://github.com/gleam-lang/hackney) - [📚](https://hexdocs.pm/gleam_hackney/) - Gleam bindings to the Hackney HTTP client
 - [gleam_httpc](https://github.com/gleam-lang/httpc) - [📚](https://hexdocs.pm/gleam_httpc/) - Gleam bindings to Erlang's built in HTTP client, httpc
@@ -245,7 +245,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Validation
 
-- [crossbar](https://github.com/aosasona/crossbar) - [📚](https://hexdocs.pm/crossbar/) - Experimental data validation library in pure Gleam
+- [crossbar](https://github.com/aosasona/crossbar) - [📚](https://hexdocs.pm/crossbar/) - Data validation library in pure Gleam
 
 ### Web frameworks
 
