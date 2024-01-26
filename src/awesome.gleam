@@ -96,6 +96,7 @@ Web applications written in Gleam.
 - [gleam-lang/example-todomvc](https://github.com/gleam-lang/example-url-shortener) - A serverside only implementation of Todo MVC written in Gleam!
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) - An example Gleam web application.
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
+- [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
 
 ## Tools
 
@@ -119,7 +120,7 @@ Web applications written in Gleam.
 Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website.
-- [tour.gleam.run](https://gleam.run) - Gleam's interactive tour and turorial.
+- [tour.gleam.run](https://gleam.run) - Gleam's interactive tour and tutorial.
 
 ### Courses
 

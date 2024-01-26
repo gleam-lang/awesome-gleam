@@ -40,6 +40,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Testing](#testing)
   - [Text](#text)
   - [Time](#time)
+  - [Validation](#validation)
   - [Web frameworks](#web-frameworks)
   - [Websites](#websites)
 - [Templates](#templates)
@@ -83,6 +84,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Configuration
 
+- [dot_env](https://github.com/aosasona/dotenv) - [📚](https://hexdocs.pm/dot_env/) - Load environment variables from files
 - [envoy](https://github.com/lpil/envoy) - [📚](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
 - [gleam_dotenv](https://github.com/Grubba27/gleam_dotenv) - [📚](https://hexdocs.pm/gleam_dotenv/) - dotenv for Gleam
 - [glenvy](https://github.com/maxdeviant/glenvy) - [📚](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
@@ -98,6 +100,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Databases
 
 - [gleam_pgo](https://github.com/gleam-experiments/pgo) - [📚](https://hexdocs.pm/gleam_pgo/) - Gleam bindings to the PGO PostgreSQL client
+- [migrant](https://github.com/trulyao/migrant) - [📚](https://hexdocs.pm/migrant/) - [ALPHA] Database migrations for SQLite in Gleam
 - [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
@@ -105,6 +108,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Email
 
 - [gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - [📚](https://hexdocs.pm/gleam_sendgrid/) - Send emails from Gleam with SendGrid
+- [plunk](https://github.com/aosasona/plunk.gleam) - [📚](https://hexdocs.pm/plunk/) - Library for interacting with Plunk's API (https://useplunk.com) in Gleam - supports both the Erlang and Javascript targets
 - [zeptomail](https://github.com/lpil/zeptomail) - [📚](https://hexdocs.pm/zeptomail/) - A wrapper for ZeptoMail's transactional email API
 
 ### Erlang and OTP
@@ -159,6 +163,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTTP Clients
 
+- [falcon](https://github.com/trulyao/falcon) - [📚](https://hexdocs.pm/falcon/) - A smoother way to send HTTP requests in Gleam, an abstraction over Hackney - see the readme for important notes!
 - [gleam_fetch](https://github.com/gleam-lang/fetch) - [📚](https://hexdocs.pm/gleam_fetch/) - Make HTTP requests in Gleam JavaScript with Fetch
 - [gleam_hackney](https://github.com/gleam-lang/hackney) - [📚](https://hexdocs.pm/gleam_hackney/) - Gleam bindings to the Hackney HTTP client
 - [gleam_httpc](https://github.com/gleam-lang/httpc) - [📚](https://hexdocs.pm/gleam_httpc/) - Gleam bindings to Erlang's built in HTTP client, httpc
@@ -237,6 +242,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [birl](https://github.com/massivefermion/birl) - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
 
+### Validation
+
+- [crossbar](https://github.com/aosasona/crossbar) - [📚](https://hexdocs.pm/crossbar/) - Experimental data validation library in pure Gleam
+
 ### Web frameworks
 
 - [wisp](https://github.com/gleam-wisp/wisp) - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
@@ -261,6 +270,7 @@ Web applications written in Gleam.
 - [gleam-lang/example-todomvc](https://github.com/gleam-lang/example-url-shortener) - A serverside only implementation of Todo MVC written in Gleam!
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) - An example Gleam web application.
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
+- [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
 
 ## Tools
 
@@ -284,7 +294,7 @@ Web applications written in Gleam.
 Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website.
-- [tour.gleam.run](https://gleam.run) - Gleam's interactive tour and turorial.
+- [tour.gleam.run](https://gleam.run) - Gleam's interactive tour and tutorial.
 
 ### Courses
 
