@@ -1,0 +1,5 @@
+name = "birdie"
+description = "Snapshot testing in Gleam"
+docs_url = "https://hexdocs.pm/birdie/"
+repo_url = "https://github.com/giacomocavalieri/birdie"
+category = "Testing"

@@ -1,0 +1,5 @@
+name = "gleeunit"
+description = "Gleam bindings to Erlang's EUnit test framework"
+docs_url = "https://hexdocs.pm/gleeunit/"
+repo_url = "https://github.com/lpil/gleeunit"
+category = "Testing"
