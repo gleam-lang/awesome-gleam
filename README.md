@@ -225,6 +225,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [birdie](https://github.com/giacomocavalieri/birdie) - [📚](https://hexdocs.pm/birdie/) - Snapshot testing in Gleam
 - [exercism_test_runner](https://github.com/exercism/gleam-test-runner) - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
+- [gleeunit](https://github.com/lpil/gleeunit) - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
 
 ### Text
 
