@@ -1,0 +1,5 @@
+name = "glen"
+description = "A peaceful web framework that targets JS."
+docs_url = "https://hexdocs.pm/glen/"
+repo_url = "https://github.com/MystPi/glen"
+category = ""

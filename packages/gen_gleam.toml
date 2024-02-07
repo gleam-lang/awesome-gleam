@@ -1,0 +1,5 @@
+name = "gen_gleam"
+description = "Generate Gleam code"
+docs_url = "https://hexdocs.pm/gen_gleam/"
+repo_url = "https://codeberg.org/kero/gen_gleam"
+category = ""
