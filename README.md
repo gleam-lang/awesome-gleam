@@ -43,7 +43,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Validation](#validation)
   - [Web frameworks](#web-frameworks)
   - [Websites](#websites)
-- [Templates](#templates)
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)

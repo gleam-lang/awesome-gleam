@@ -65,7 +65,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [Packages](#packages)
 " <> string.join(list.map(packages, contents_list_entry), "\n") <> "
-- [Templates](#templates)
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
