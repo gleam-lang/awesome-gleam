@@ -129,6 +129,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### File Formats
 
+- [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
 - [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
 - [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
 
