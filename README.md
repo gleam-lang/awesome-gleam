@@ -15,6 +15,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Build Tooling](#build-tooling)
   - [Command Line](#command-line)
   - [Configuration](#configuration)
+  - [Cryptography](#cryptography)
   - [Data Structures](#data-structures)
   - [Databases](#databases)
   - [Email](#email)
@@ -28,7 +29,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [HTTP](#http)
   - [HTTP Clients](#http-clients)
   - [HTTP Servers](#http-servers)
-  - [Hashing and Encryption](#hashing-and-encryption)
   - [JSON](#json)
   - [JavaScript](#javascript)
   - [Logging and Monitoring](#logging-and-monitoring)
@@ -88,6 +88,11 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleam_dotenv](https://github.com/Grubba27/gleam_dotenv) - [📚](https://hexdocs.pm/gleam_dotenv/) - dotenv for Gleam
 - [glenvy](https://github.com/maxdeviant/glenvy) - [📚](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
 
+### Cryptography
+
+- [beecrypt](https://github.com/lpil/beecrypt) - [📚](https://hexdocs.pm/beecrypt/) - Buzzing Gleam bindings to the Erlang bcrypt hashing library
+- [gleam_crypto](https://github.com/gleam-lang/crypto) - [📚](https://hexdocs.pm/gleam_crypto/) - A Gleam cryptography library supporting Erlang and JavaScript
+
 ### Data Structures
 
 - [argamak](https://github.com/tynanbe/argamak) - [📚](https://hexdocs.pm/argamak/) - A tensor library for the Gleam programming language
@@ -114,7 +119,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Erlang and OTP
 
 - [gen_core_erlang](https://codeberg.org/kero/gleam_codegen) - [📚](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
-- [gleam_crypto](https://github.com/gleam-lang/crypto) - [📚](https://hexdocs.pm/gleam_crypto/) - Gleam bindings to the BEAM cryptography functions
 - [gleam_erlang](https://github.com/gleam-lang/erlang) - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 - [gleam_otp](https://github.com/gleam-lang/otp) - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
 - [gts](https://github.com/lunarmagpie/gts) - [📚](https://hexdocs.pm/gts/) - Opinionated bindings to erlang's ets tables.
@@ -174,10 +178,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [cgi](https://github.com/lpil/cgi) - [📚](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
 - [gleam_elli](https://github.com/gleam-lang/elli) - [📚](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
 - [mist](https://github.com/rawhat/mist) - [📚](https://hexdocs.pm/mist/) - a misty Gleam web server
-
-### Hashing and Encryption
-
-- [beecrypt](https://github.com/lpil/beecrypt) - [📚](https://hexdocs.pm/beecrypt/) - Buzzing Gleam bindings to the Erlang bcrypt hashing library
 
 ### JSON
 
