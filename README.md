@@ -92,6 +92,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [beecrypt](https://github.com/lpil/beecrypt) - [📚](https://hexdocs.pm/beecrypt/) - Buzzing Gleam bindings to the Erlang bcrypt hashing library
 - [gleam_crypto](https://github.com/gleam-lang/crypto) - [📚](https://hexdocs.pm/gleam_crypto/) - A Gleam cryptography library supporting Erlang and JavaScript
+- [ids](https://github.com/rvcas/ids) - [📚](https://hexdocs.pm/ids/) - Unique IDs for Gleam
+- [youid](https://github.com/lpil/youid) - [📚](https://hexdocs.pm/youid/) - Generate and parse UUIDs
 
 ### Data Structures
 
@@ -168,7 +170,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTTP Clients
 
-- [falcon](https://github.com/trulyao/falcon) - [📚](https://hexdocs.pm/falcon/) - A smoother way to make HTTP requests in Gleam with Axios-like methods
 - [gleam_fetch](https://github.com/gleam-lang/fetch) - [📚](https://hexdocs.pm/gleam_fetch/) - Make HTTP requests in Gleam JavaScript with Fetch
 - [gleam_hackney](https://github.com/gleam-lang/hackney) - [📚](https://hexdocs.pm/gleam_hackney/) - Gleam bindings to the Hackney HTTP client
 - [gleam_httpc](https://github.com/gleam-lang/httpc) - [📚](https://hexdocs.pm/gleam_httpc/) - Gleam bindings to Erlang's built in HTTP client, httpc
@@ -193,6 +194,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [glimt](https://github.com/JohnBjrk/glimt) - [📚](https://hexdocs.pm/glimt/) - A Gleam library for logging
 - [glog](https://github.com/defgenx/glog) - [📚](https://hexdocs.pm/glog/) - A Gleam implementation of Erlang logger
+- [logging](https://github.com/lpil/logging) - [📚](https://hexdocs.pm/logging/) - Configuration for the Erlang logger
 
 ### Networking
 
@@ -235,7 +237,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glam](https://github.com/giacomocavalieri/glam) - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
 - [glemplate](https://gitlab.com/Nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
 - [hug](https://github.com/brettkolodny/gleam-hug) - [📚](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages
-- [ids](https://github.com/rvcas/ids) - [📚](https://hexdocs.pm/ids/) - Unique IDs for Gleam
 - [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [justin](https://github.com/lpil/justin) - [📚](https://hexdocs.pm/justin/) - Convert between snake_case, camelCase, and other cases in Gleam
 - [phony](https://github.com/massivefermion/phony) - [📚](https://hexdocs.pm/phony/) - An international phone number validator
