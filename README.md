@@ -299,7 +299,7 @@ Web applications written in Gleam.
 Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website.
-- [tour.gleam.run](https://gleam.run) - Gleam's interactive tour and tutorial.
+- [tour.gleam.run](https://tour.gleam.run) - Gleam's interactive tour and tutorial.
 
 ### Courses
 
