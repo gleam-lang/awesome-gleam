@@ -1,0 +1,5 @@
+name = "systemd_status"
+description = "Inspect the status of running systemd units"
+docs_url = "https://hexdocs.pm/systemd_status/"
+repo_url = "https://github.com/lpil/systemd_status"
+category = "Logging and Monitoring"

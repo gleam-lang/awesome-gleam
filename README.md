@@ -159,6 +159,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTML
 
+- [formal](https://github.com/lpil/formal) - [📚](https://hexdocs.pm/formal/) - Type safe HTML form decoding and validation!
 - [glentities](https://gitlab.com/Nicd/glentities) - [📚](https://hexdocs.pm/glentities/) - HTML entity encoder/decoder for Gleam
 - [htmb](https://github.com/lpil/htmb) - [📚](https://hexdocs.pm/htmb/) - A tiny HTML builder for Gleam
 - [htmgrrrl](https://github.com/lpil/htmgrrrl) - [📚](https://hexdocs.pm/htmgrrrl/) - Gleam bindings to htmerl, the fast and memory efficient Erlang HTML SAX parser.
@@ -195,6 +196,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glimt](https://github.com/JohnBjrk/glimt) - [📚](https://hexdocs.pm/glimt/) - A Gleam library for logging
 - [glog](https://github.com/defgenx/glog) - [📚](https://hexdocs.pm/glog/) - A Gleam implementation of Erlang logger
 - [logging](https://github.com/lpil/logging) - [📚](https://hexdocs.pm/logging/) - Configuration for the Erlang logger
+- [systemd_status](https://github.com/lpil/systemd_status) - [📚](https://hexdocs.pm/systemd_status/) - Inspect the status of running systemd units
 
 ### Networking
 

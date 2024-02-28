@@ -1,0 +1,5 @@
+name = "formal"
+description = "Type safe HTML form decoding and validation!"
+docs_url = "https://hexdocs.pm/formal/"
+repo_url = "https://github.com/lpil/formal"
+category = "HTML"
