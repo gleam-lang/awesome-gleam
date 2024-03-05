@@ -1,0 +1,5 @@
+name = "gleam_package_interface"
+description = "Work with Gleam's package interfaces"
+docs_url = "https://hexdocs.pm/gleam_package_interface/"
+repo_url = "https://github.com/gleam-lang/package-interface-decoder"
+category = "Gleam"
