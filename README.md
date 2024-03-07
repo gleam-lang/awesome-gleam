@@ -258,6 +258,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Validation
 
 - [crossbar](https://github.com/aosasona/crossbar) - [📚](https://hexdocs.pm/crossbar/) - Data validation library in pure Gleam
+- [glisbn](https://github.com/solar05/glisbn) - - [📚](https://hex.pm/packages/glisbn/) - A ISBN utility library for Gleam.
 
 ### Web frameworks
 
