@@ -1,0 +1,5 @@
+name = "pprint"
+description = "Pretty print values with style!"
+docs_url = "https://hexdocs.pm/pprint/"
+repo_url = "https://github.com/MystPi/pprint"
+category = ""

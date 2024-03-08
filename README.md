@@ -243,6 +243,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gap](https://github.com/JohnBjrk/gap) - [📚](https://hexdocs.pm/gap/) - A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.
 - [glam](https://github.com/giacomocavalieri/glam) - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
 - [glemplate](https://gitlab.com/Nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
+- [glisbn](https://github.com/solar05/glisbn) - [📚](https://hexdocs.pm/glisbn/) - A ISBN utility library for Gleam.
 - [hug](https://github.com/brettkolodny/gleam-hug) - [📚](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages
 - [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [justin](https://github.com/lpil/justin) - [📚](https://hexdocs.pm/justin/) - Convert between snake_case, camelCase, and other cases in Gleam
@@ -258,7 +259,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Validation
 
 - [crossbar](https://github.com/aosasona/crossbar) - [📚](https://hexdocs.pm/crossbar/) - Data validation library in pure Gleam
-- [glisbn](https://github.com/solar05/glisbn) - - [📚](https://hex.pm/packages/glisbn/) - A ISBN utility library for Gleam.
 
 ### Web frameworks
 

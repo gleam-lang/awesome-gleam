@@ -1,0 +1,5 @@
+name = "sheen"
+description = "Fully typed library for constructing command line parsers using gleam"
+docs_url = "https://hexdocs.pm/sheen/"
+repo_url = "https://github.com/ehllie/sheen"
+category = ""
