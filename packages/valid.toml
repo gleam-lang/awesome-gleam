@@ -1,0 +1,5 @@
+name = "valid"
+description = "A composable validation library for Gleam"
+docs_url = "https://hexdocs.pm/valid/"
+repo_url = "https://github.com/sporto/gleam-validator"
+category = "Validation"
