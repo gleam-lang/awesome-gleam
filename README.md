@@ -259,6 +259,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Validation
 
 - [crossbar](https://github.com/aosasona/crossbar) - [📚](https://hexdocs.pm/crossbar/) - Data validation library in pure Gleam
+- [valid](https://github.com/sporto/gleam-validator) - [📚](https://hexdocs.pm/valid/) - A composable validation library for Gleam
 
 ### Web frameworks
 
