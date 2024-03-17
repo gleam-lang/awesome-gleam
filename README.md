@@ -171,6 +171,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glentities](https://gitlab.com/Nicd/glentities) - [📚](https://hexdocs.pm/glentities/) - HTML entity encoder/decoder for Gleam
 - [htmb](https://github.com/lpil/htmb) - [📚](https://hexdocs.pm/htmb/) - A tiny HTML builder for Gleam
 - [htmgrrrl](https://github.com/lpil/htmgrrrl) - [📚](https://hexdocs.pm/htmgrrrl/) - Gleam bindings to htmerl, the fast and memory efficient Erlang HTML SAX parser.
+- [nakai](https://github.com/nakaixo/nakai) - [📚](https://hexdocs.pm/nakai/) - HTML generation for Gleam, on the server or anywhere else
 
 ### HTTP
 

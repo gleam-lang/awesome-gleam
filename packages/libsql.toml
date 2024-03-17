@@ -1,0 +1,5 @@
+name = "libsql"
+description = "An unofficial Gleam port of turso's libSQL library"
+docs_url = "https://hexdocs.pm/libsql/"
+repo_url = "https://github.com/brunoti/libsql"
+category = ""

@@ -1,0 +1,5 @@
+name = "stratus"
+description = "A Gleam WebSocket client"
+docs_url = "https://hexdocs.pm/stratus/"
+repo_url = "https://github.com/rawhat/stratus"
+category = ""
