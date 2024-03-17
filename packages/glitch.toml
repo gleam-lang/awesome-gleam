@@ -1,0 +1,5 @@
+name = "glitch"
+description = "A Twitch client for Gleam"
+docs_url = "https://hexdocs.pm/glitch/"
+repo_url = "https://github.com/dmmulroy/glitch"
+category = ""

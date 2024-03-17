@@ -1,0 +1,5 @@
+name = "gramps"
+description = "A Gleam WebSocket Datagram Library"
+docs_url = "https://hexdocs.pm/gramps/"
+repo_url = "https://github.com/rawhat/gramps"
+category = ""

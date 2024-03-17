@@ -1,0 +1,5 @@
+name = "monies"
+description = "WIP library for working with monies"
+docs_url = "https://hexdocs.pm/monies/"
+repo_url = "https://github.com/chris-windsor/monies"
+category = ""
