@@ -1,0 +1,5 @@
+name = "glame"
+description = "A Source RCON Client implementation"
+docs_url = "https://hexdocs.pm/glame/"
+repo_url = "https://github.com/bitcrshr/glame"
+category = ""

@@ -1,0 +1,5 @@
+name = "kirala_bbmarkdown"
+description = "Markdown parser and html renderer written in Gleam language."
+docs_url = "https://hexdocs.pm/kirala_bbmarkdown/"
+repo_url = "https://github.com/Yasuo-Higano/kirala_bbmarkdown"
+category = ""

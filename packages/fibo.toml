@@ -1,0 +1,5 @@
+name = "fibo"
+description = "a small lib that compute the fibonacci sequence for a given number"
+docs_url = "https://hexdocs.pm/fibo/"
+repo_url = "https://github.com/mJehanno/fibo"
+category = ""

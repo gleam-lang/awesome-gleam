@@ -1,0 +1,5 @@
+name = "matcha"
+description = "🍵 A template system for Gleam"
+docs_url = "https://github.com/michaeljones/matcha"
+repo_url = "https://github.com/michaeljones/matcha"
+category = "Text"

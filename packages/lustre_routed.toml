@@ -1,0 +1,5 @@
+name = "lustre_routed"
+description = "A minimal router for lustre SPAs"
+docs_url = "https://hexdocs.pm/lustre_routed/"
+repo_url = "https://gitlab.com/kgroat/lustre_routed"
+category = ""

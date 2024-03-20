@@ -1,0 +1,5 @@
+name = "immutable_lru"
+description = "Immuable LRU cache"
+docs_url = "https://hexdocs.pm/immutable_lru/"
+repo_url = "https://github.com/chrsnstdd/immutable_lru"
+category = ""
