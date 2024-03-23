@@ -313,6 +313,7 @@ Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website.
 - [tour.gleam.run](https://tour.gleam.run) - Gleam's interactive tour and tutorial.
+- [gleamweekly.com](https://gleamweekly.com/) - A weekly newsletter of handpicked articles and community news.
 
 ### Courses
 
