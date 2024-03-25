@@ -1,0 +1,5 @@
+name = "glib"
+description = "A collection of Gleam utilities all written in pure gleam"
+docs_url = "https://hexdocs.pm/glib/"
+repo_url = "https://github.com/pendletong/glib"
+category = ""

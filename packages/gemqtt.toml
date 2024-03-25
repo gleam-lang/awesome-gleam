@@ -1,0 +1,5 @@
+name = "gemqtt"
+description = "Gleam wrapper of the emqx/emqtt client library"
+docs_url = "https://hexdocs.pm/gemqtt/"
+repo_url = "https://github.com/jhillyerd/gemqtt"
+category = ""

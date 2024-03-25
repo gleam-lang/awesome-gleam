@@ -1,0 +1,5 @@
+name = "act"
+description = "Compose stateful actions to simulate mutable state"
+docs_url = "https://hexdocs.pm/act/"
+repo_url = "https://github.com/MystPi/act"
+category = ""

@@ -1,0 +1,5 @@
+name = "pona"
+description = "A library for toki pona"
+docs_url = "https://hexdocs.pm/pona/"
+repo_url = "https://github.com/teesh3rt/pona"
+category = ""

@@ -1,0 +1,5 @@
+name = "morse_code_translator"
+description = "Morse Code Translator"
+docs_url = "https://hexdocs.pm/morse_code_translator/"
+repo_url = "https://github.com/salif/morse-code-translator"
+category = ""

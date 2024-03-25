@@ -1,0 +1,5 @@
+name = "typed_headers"
+description = "Types for HTTP headers"
+docs_url = "https://hexdocs.pm/typed_headers/"
+repo_url = "https://github.com/LilyRose2798/typed_headers"
+category = ""

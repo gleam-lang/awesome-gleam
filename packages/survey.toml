@@ -1,0 +1,5 @@
+name = "survey"
+description = "A library to easily create rich and interactive prompts in the terminal"
+docs_url = "https://hexdocs.pm/survey/"
+repo_url = "https://github.com/calvinmclean/survey"
+category = ""

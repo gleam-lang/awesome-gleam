@@ -1,0 +1,5 @@
+name = "bidict"
+description = "Bijective Dictionary for Gleam"
+docs_url = "https://hexdocs.pm/bidict/"
+repo_url = "https://github.com/jonathanmfung/bidict"
+category = ""

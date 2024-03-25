@@ -1,0 +1,5 @@
+name = "question"
+description = "Prompt user with question and return answer in callback"
+docs_url = "https://hexdocs.pm/question/"
+repo_url = "https://github.com/antonioxdias/question"
+category = ""

@@ -1,0 +1,5 @@
+name = "validate_monadic"
+description = "Monadic Validation in Gleam!"
+docs_url = "https://hexdocs.pm/validate_monadic/"
+repo_url = "https://github.com/abradley2/gleam-validate"
+category = ""

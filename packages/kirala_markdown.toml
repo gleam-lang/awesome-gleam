@@ -1,0 +1,5 @@
+name = "kirala_markdown"
+description = "Markdown parser and html renderer written in Gleam language both Erlang and Javascript target."
+docs_url = "https://hexdocs.pm/kirala_markdown/"
+repo_url = "https://github.com/Yasuo-Higano/kirala_markdown"
+category = ""

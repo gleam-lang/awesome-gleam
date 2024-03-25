@@ -1,0 +1,5 @@
+name = "gu"
+description = "Zenity GUI dialogs Gleam wrapper"
+docs_url = "https://hexdocs.pm/gu/"
+repo_url = "https://github.com/salif/gu"
+category = ""

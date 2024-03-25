@@ -1,0 +1,5 @@
+name = "lustre_dev_tools"
+description = "Lustre's official CLI and development tooling."
+docs_url = "https://hexdocs.pm/lustre_dev_tools/"
+repo_url = "https://github.com/lustre-labs/dev-tools"
+category = ""
