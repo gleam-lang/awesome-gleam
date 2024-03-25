@@ -202,11 +202,11 @@ fn write_config(package: DatabasePackage) -> Nil {
 
   case package {
     DatabasePackage(
-        name: name,
-        description: description,
-        docs_url: Some(docs_url),
-        repo_url: Some(repo_url),
-      ) -> {
+      name: name,
+      description: description,
+      docs_url: Some(docs_url),
+      repo_url: Some(repo_url),
+    ) -> {
       let toml = new_toml(name, description, docs_url, repo_url)
       let assert Ok(_) = simplifile.write("packages/" <> name <> ".toml", toml)
       Nil
