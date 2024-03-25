@@ -1,15 +1,15 @@
-import gleam/io
-import simplifile
+import gleam/bool
+import gleam/dict
+import gleam/dynamic.{type Dynamic}
 import gleam/http/request
 import gleam/httpc
-import gleam/option.{type Option, Some}
-import gleam/dynamic.{type Dynamic}
+import gleam/io
 import gleam/list
-import gleam/bool
+import gleam/option.{type Option, Some}
 import gleam/string
-import gleam/dict
-import tom
+import simplifile
 import sqlight
+import tom
 
 const remote_database_url = "https://packages.gleam.run/packages.sqlite"
 
@@ -120,6 +120,7 @@ Websites with Gleam related content.
 
 - [gleam.run](https://gleam.run) - Gleam's website.
 - [tour.gleam.run](https://tour.gleam.run) - Gleam's interactive tour and tutorial.
+- [gleamweekly.com](https://gleamweekly.com/) - A weekly newsletter of handpicked articles and community news.
 
 ### Courses
 
@@ -201,11 +202,11 @@ fn write_config(package: DatabasePackage) -> Nil {
 
   case package {
     DatabasePackage(
-      name: name,
-      description: description,
-      docs_url: Some(docs_url),
-      repo_url: Some(repo_url),
-    ) -> {
+        name: name,
+        description: description,
+        docs_url: Some(docs_url),
+        repo_url: Some(repo_url),
+      ) -> {
       let toml = new_toml(name, description, docs_url, repo_url)
       let assert Ok(_) = simplifile.write("packages/" <> name <> ".toml", toml)
       Nil
