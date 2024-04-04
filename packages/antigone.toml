@@ -1,0 +1,5 @@
+name = "antigone"
+description = "Argon2 password hashing for Gleam."
+docs_url = "https://hexdocs.pm/antigone/"
+repo_url = "https://github.com/lpil/antigone"
+category = "Cryptography"

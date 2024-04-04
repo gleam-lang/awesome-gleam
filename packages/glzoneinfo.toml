@@ -1,0 +1,5 @@
+name = "glzoneinfo"
+description = "Parser for binary zoneinfo files"
+docs_url = "https://hexdocs.pm/glzoneinfo/"
+repo_url = "https://github.com/grodaus/glzoneinfo"
+category = ""

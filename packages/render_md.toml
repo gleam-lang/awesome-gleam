@@ -1,0 +1,5 @@
+name = "render_md"
+description = "A dead simple markdown renderer for gleam"
+docs_url = "https://hexdocs.pm/render_md/"
+repo_url = "https://github.com/gastonche/gleam_md"
+category = ""

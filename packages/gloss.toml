@@ -1,0 +1,5 @@
+name = "gloss"
+description = "A Gleam package"
+docs_url = "https://hexdocs.pm/gloss/"
+repo_url = "https://github.com/Sylvance/gloss"
+category = ""

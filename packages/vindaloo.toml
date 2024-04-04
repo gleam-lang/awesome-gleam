@@ -1,0 +1,5 @@
+name = "vindaloo"
+description = "Spicy curry functions that support a larger function arity"
+docs_url = "https://hexdocs.pm/vindaloo/"
+repo_url = "https://github.com/abradley2/vindaloo"
+category = ""

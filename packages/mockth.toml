@@ -1,0 +1,5 @@
+name = "mockth"
+description = "Erlang modules mocking library for Gleam"
+docs_url = "https://hexdocs.pm/mockth/"
+repo_url = "https://github.com/bondiano/mockth"
+category = ""

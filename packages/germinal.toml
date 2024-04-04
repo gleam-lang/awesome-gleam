@@ -1,0 +1,5 @@
+name = "germinal"
+description = "Gleam bindings to crossterm in Rust"
+docs_url = "https://hexdocs.pm/germinal/"
+repo_url = "https://github.com/onelone852/germinal"
+category = ""

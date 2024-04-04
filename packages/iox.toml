@@ -1,0 +1,5 @@
+name = "iox"
+description = "Extra IO features for Gleam."
+docs_url = "https://hexdocs.pm/iox/"
+repo_url = "https://github.com/Nekika/iox"
+category = ""

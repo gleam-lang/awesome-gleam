@@ -1,0 +1,5 @@
+name = "gliberapay"
+description = "Work with Liberapay in Gleam!"
+docs_url = "https://hexdocs.pm/gliberapay/"
+repo_url = "https://github.com/lpil/gliberapay"
+category = ""
