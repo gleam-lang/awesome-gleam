@@ -129,6 +129,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gts](https://github.com/lunarmagpie/gts) - [📚](https://hexdocs.pm/gts/) - Opinionated bindings to erlang's ets tables.
 - [process_waiter](https://github.com/lpil/process-waiter) - [📚](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
 - [puddle](https://github.com/massivefermion/puddle) - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
+- [shakespeare](https://github.com/maxdeviant/shakespeare) - [📚](https://hexdocs.pm/shakespeare/) - General-purpose OTP actors.
 
 ### Error Handling
 
@@ -200,6 +201,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [conversation](https://github.com/MystPi/conversation) - [📚](https://hexdocs.pm/conversation/) - Gleam bindings for the standard JavaScript Request and Response APIs
 - [gleam_javascript](https://github.com/gleam-lang/javascript) - [📚](https://hexdocs.pm/gleam_javascript/) - Work with JavaScript types and values in Gleam
+- [javascript_dom_parser](https://github.com/lpil/javascript-dom-parser) - [📚](https://hexdocs.pm/javascript_dom_parser/) - Bindings to the JavaScript DOMParser API
 - [plinth](https://github.com/Crowdhailer/plinth) - [📚](https://hexdocs.pm/plinth/) - Bindings to Node.js and browser platform APIs
 
 ### Logging and Monitoring
@@ -255,6 +257,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [phony](https://github.com/massivefermion/phony) - [📚](https://hexdocs.pm/phony/) - An international phone number validator
 - [punycode](https://codeberg.org/sotolf/gleam_punycode/) - [📚](https://hexdocs.pm/punycode/) - Gleam implementation of punycode encoding and decoding
 - [rank](https://github.com/lpil/glance) - [📚](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
+- [wink](https://github.com/MAHcodes/wink) - [📚](https://hexdocs.pm/wink/) - A simple Gleam box drawing library
 
 ### Time
 

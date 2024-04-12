@@ -1,0 +1,5 @@
+name = "glacier_gleeunit"
+description = "This is a fork of Gleeunit that allows it to be called as a library/function with a list of test modules instead of just via CLI."
+docs_url = "https://hexdocs.pm/glacier_gleeunit/"
+repo_url = "https://github.com/inoas/gleeunit"
+category = ""

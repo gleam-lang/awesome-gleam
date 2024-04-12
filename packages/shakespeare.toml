@@ -1,0 +1,5 @@
+name = "shakespeare"
+description = "General-purpose OTP actors."
+docs_url = "https://hexdocs.pm/shakespeare/"
+repo_url = "https://github.com/maxdeviant/shakespeare"
+category = "Erlang and OTP"

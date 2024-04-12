@@ -1,0 +1,5 @@
+name = "glyph_codegen"
+description = "Codegen for JSON"
+docs_url = "https://hexdocs.pm/glyph_codegen/"
+repo_url = "https://github.com/dixtel/glyph_codegen"
+category = ""

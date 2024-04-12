@@ -1,0 +1,5 @@
+name = "wink"
+description = "A simple Gleam box drawing library"
+docs_url = "https://hexdocs.pm/wink/"
+repo_url = "https://github.com/MAHcodes/wink"
+category = "Text"

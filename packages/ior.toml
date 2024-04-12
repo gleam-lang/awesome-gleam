@@ -1,0 +1,5 @@
+name = "ior"
+description = "Ior (inclusive or) data structure implementation"
+docs_url = "https://hexdocs.pm/ior/"
+repo_url = "https://github.com/xplosunn/ior"
+category = ""

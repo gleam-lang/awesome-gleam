@@ -1,0 +1,5 @@
+name = "glormat"
+description = "A simple, readable string formatting library for Gleam!"
+docs_url = "https://hexdocs.pm/glormat/"
+repo_url = "https://github.com/SaphiraKai/glormat"
+category = ""

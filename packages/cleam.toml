@@ -1,0 +1,5 @@
+name = "cleam"
+description = "Cleam for clean Gleam. Detect unused exports."
+docs_url = "https://hexdocs.pm/cleam/"
+repo_url = "https://github.com/darky/cleam"
+category = ""
