@@ -156,6 +156,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [lustre_ui](https://github.com/lustre-labs/lustre_ui) - [📚](https://hexdocs.pm/lustre_ui/) - A collection of components and design tokens for building Lustre apps.
 - [lustre_virtual_list](https://github.com/schurhammer/lustre_virtual_list) - [📚](https://hexdocs.pm/lustre_virtual_list/) - A virtual list component for lustre.
 - [lustre_websocket](https://codeberg.org/kero/lustre_websocket) - [📚](https://hexdocs.pm/lustre_websocket/) - Web Socket requests from lustre
+- [sketch](https://github.com/ghivert/sketch) - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
 
 ### Gleam
 
