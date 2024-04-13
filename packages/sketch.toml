@@ -1,5 +1,5 @@
 name = "sketch"
-description = "A CSS-in-Gleam package, made to work with frontend, backend, and directly with lustre!"
+description = "A CSS-in-Gleam package, made to work with frontend, and directly with lustre!"
 docs_url = "https://hexdocs.pm/sketch/"
 repo_url = "https://github.com/ghivert/sketch"
-category = ""
+category = "Frontend"
