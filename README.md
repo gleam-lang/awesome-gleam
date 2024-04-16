@@ -127,6 +127,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleam_erlang](https://github.com/gleam-lang/erlang) - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 - [gleam_otp](https://github.com/gleam-lang/otp) - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
 - [gts](https://github.com/lunarmagpie/gts) - [📚](https://hexdocs.pm/gts/) - Opinionated bindings to erlang's ets tables.
+- [nessie_cluster](https://github.com/ckreiling/nessie_cluster) - [📚](https://hexdocs.pm/nessie_cluster/) - A small DNS clustering library for Gleam applications.
 - [process_waiter](https://github.com/lpil/process-waiter) - [📚](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
 - [puddle](https://github.com/massivefermion/puddle) - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
 - [shakespeare](https://github.com/maxdeviant/shakespeare) - [📚](https://hexdocs.pm/shakespeare/) - General-purpose OTP actors.
@@ -217,6 +218,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [glisten](https://github.com/rawhat/glisten) - [📚](https://hexdocs.pm/glisten/) - a shiny Gleam TCP/SSL server
 - [mug](https://github.com/lpil/mug) - [📚](https://hexdocs.pm/mug/) - A TCP client for Gleam!
+- [nessie](https://github.com/ckreiling/nessie) - [📚](https://hexdocs.pm/nessie/) - Gleam bindings for Erlang's built-in DNS resolution modules.
 
 ### Numbers
 
