@@ -1,0 +1,5 @@
+name = "lumi"
+description = "Color space conversion"
+docs_url = "https://hexdocs.pm/lumi/"
+repo_url = "https://github.com/0xca551e/lumi"
+category = ""
