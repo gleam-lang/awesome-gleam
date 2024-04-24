@@ -1,0 +1,5 @@
+name = "catppuccin"
+description = "P Soothing pastel library for Gleam"
+docs_url = "https://hexdocs.pm/catppuccin/"
+repo_url = "https://github.com/MAHcodes/catppuccin"
+category = ""

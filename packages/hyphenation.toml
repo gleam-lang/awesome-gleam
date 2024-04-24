@@ -1,0 +1,5 @@
+name = "hyphenation"
+description = "Pure-Gleam implementation of KnuthLiang Hyphenation."
+docs_url = "https://hexdocs.pm/hyphenation/"
+repo_url = "https://github.com/jonathanmfung/hyphenation"
+category = ""

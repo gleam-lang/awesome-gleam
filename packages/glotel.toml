@@ -1,0 +1,5 @@
+name = "glotel"
+description = "Gleam OpenTelemetry library"
+docs_url = "https://hexdocs.pm/glotel/"
+repo_url = "https://github.com/skinkade/glotel"
+category = ""
