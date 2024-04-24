@@ -1,0 +1,5 @@
+name = "dedent"
+description = "Remove shared indentation from a string"
+docs_url = "https://hexdocs.pm/dedent/"
+repo_url = "https://github.com/MystPi/dedent"
+category = ""

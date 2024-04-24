@@ -1,0 +1,5 @@
+name = "scriptorium"
+description = "A simple Gleam blog generator"
+docs_url = "https://hexdocs.pm/scriptorium/"
+repo_url = "https://gitlab.com/Nicd/scriptorium"
+category = ""

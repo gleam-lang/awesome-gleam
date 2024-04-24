@@ -180,6 +180,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### HTTP
 
+- [cors_builder](https://github.com/ghivert/cors-builder) - [📚](https://hexdocs.pm/cors_builder/) - A CORS Builder, performing validation and injection of CORS for misp, wisp and any framework!
 - [gleam_http](https://github.com/gleam-lang/http) - [📚](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
 - [marceau](https://github.com/lpil/marceau) - [📚](https://hexdocs.pm/marceau/) - A MIME types library for Gleam
 

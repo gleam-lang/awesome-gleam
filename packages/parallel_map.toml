@@ -1,0 +1,5 @@
+name = "parallel_map"
+description = "A simple parallel map library in Gleam"
+docs_url = "https://hexdocs.pm/parallel_map/"
+repo_url = "https://github.com/PastMoments/parallel_map"
+category = ""
