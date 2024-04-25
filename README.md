@@ -99,6 +99,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Data Structures
 
+- [act](https://github.com/MystPi/act) - [📚](https://hexdocs.pm/act/) - Compose stateful actions to simulate mutable state
 - [argamak](https://github.com/tynanbe/argamak) - [📚](https://hexdocs.pm/argamak/) - A tensor library for the Gleam programming language
 - [gleam_stdlib](https://github.com/gleam-lang/stdlib) - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
 - [glearray](https://github.com/fschwalbe/glearray) - [📚](https://hexdocs.pm/glearray/) - Immutable arrays for Gleam
@@ -165,6 +166,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glance_printer](https://github.com/bcpeinhardt/glance_printer) - [📚](https://hexdocs.pm/glance_printer/) - A pretty_printer for the glance AST
 - [gleam_package_interface](https://github.com/gleam-lang/package-interface-decoder) - [📚](https://hexdocs.pm/gleam_package_interface/) - Work with Gleam's package interfaces
 - [glexer](https://github.com/DanielleMaywood/glexer) - [📚](https://hexdocs.pm/glexer/) - A lexer for Gleam source code
+- [pprint](https://github.com/MystPi/pprint) - [📚](https://hexdocs.pm/pprint/) - Pretty print values with style!
 
 ### Graphics
 
@@ -249,6 +251,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Text
 
+- [dedent](https://github.com/MystPi/dedent) - [📚](https://hexdocs.pm/dedent/) - Remove shared indentation from a string
 - [edit_distance](https://github.com/giacomocavalieri/edit_distance) - [📚](https://hexdocs.pm/edit_distance/) - A pure Gleam package to compute the edit distance of two strings
 - [gap](https://github.com/JohnBjrk/gap) - [📚](https://hexdocs.pm/gap/) - A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.
 - [glam](https://github.com/giacomocavalieri/glam) - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
