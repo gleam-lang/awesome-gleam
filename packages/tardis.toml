@@ -1,0 +1,5 @@
+name = "tardis"
+description = "Time traveller debugger, tailor-made for Lustre"
+docs_url = "https://hexdocs.pm/tardis/"
+repo_url = "https://github.com/ghivert/tardis"
+category = "Frontend"

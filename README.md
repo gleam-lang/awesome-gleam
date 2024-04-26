@@ -159,6 +159,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [lustre_virtual_list](https://github.com/schurhammer/lustre_virtual_list) - [📚](https://hexdocs.pm/lustre_virtual_list/) - A virtual list component for lustre.
 - [lustre_websocket](https://codeberg.org/kero/lustre_websocket) - [📚](https://hexdocs.pm/lustre_websocket/) - Web Socket requests from lustre
 - [sketch](https://github.com/ghivert/sketch) - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
+- [tardis](https://github.com/ghivert/tardis) - [📚](https://hexdocs.pm/tardis/) - Time traveller debugger, tailor-made for Lustre
 
 ### Gleam
 
