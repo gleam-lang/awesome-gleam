@@ -217,6 +217,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glog](https://github.com/defgenx/glog) - [📚](https://hexdocs.pm/glog/) - A Gleam implementation of Erlang logger
 - [logging](https://github.com/lpil/logging) - [📚](https://hexdocs.pm/logging/) - Configuration for the Erlang logger
 - [systemd_status](https://github.com/lpil/systemd_status) - [📚](https://hexdocs.pm/systemd_status/) - Inspect the status of running systemd units
+- [stacky](https://github.com/inoas/stacky) - [📚](https://hexdocs.pm/stacky/) - BEAM stack traces in Gleam
 
 ### Networking
 
