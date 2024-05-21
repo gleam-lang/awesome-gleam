@@ -249,6 +249,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [exercism_test_runner](https://github.com/exercism/gleam-test-runner) - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
 - [gleeunit](https://github.com/lpil/gleeunit) - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
 - [testbldr](https://github.com/bcpeinhardt/testbldr) - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
+- [glacier](https://github.com/inoas/glacier) - [📚](https://hexdocs.pm/glacier/) - Gleam incremental interactive unit testing
 
 ### Text
 
