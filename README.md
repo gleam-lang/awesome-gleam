@@ -146,6 +146,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### File System
 
+- [file_streams](https://github.com/richard-viney/file_streams) - [📚](https://hexdocs.pm/file_streams/) - Gleam library that provides access to native Erlang binary file streams.
 - [filepath](https://github.com/lpil/filepath) - [📚](https://hexdocs.pm/filepath/) - Work with file paths in Gleam!
 - [simplifile](https://github.com/bcpeinhardt/simplifile) - [📚](https://hexdocs.pm/simplifile/) - Basic file operations that work on all targets
 
