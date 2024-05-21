@@ -1,0 +1,5 @@
+name = "decipher"
+description = "A collection of handy gleam/dynamic decoders."
+docs_url = "https://hexdocs.pm/decipher/"
+repo_url = "https://github.com/hayleigh-dot-dev/decipher"
+category = ""

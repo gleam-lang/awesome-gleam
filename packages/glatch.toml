@@ -1,0 +1,5 @@
+name = "glatch"
+description = "Gleam type check using pattern matching"
+docs_url = "https://hexdocs.pm/glatch/"
+repo_url = "https://github.com/darky/glatch"
+category = ""

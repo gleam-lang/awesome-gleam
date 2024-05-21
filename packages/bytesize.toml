@@ -1,0 +1,5 @@
+name = "bytesize"
+description = "Byte quantity handling and formatting in Gleam"
+docs_url = "https://hexdocs.pm/bytesize/"
+repo_url = "https://github.com/wezm/gleam_bytesize"
+category = ""

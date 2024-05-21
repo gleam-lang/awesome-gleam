@@ -1,0 +1,5 @@
+name = "gluple"
+description = "Tuple methods for Gleam"
+docs_url = "https://hexdocs.pm/gluple/"
+repo_url = "https://github.com/darky/gluple"
+category = ""

@@ -1,0 +1,5 @@
+name = "gchess"
+description = "A Gleam project"
+docs_url = "https://hexdocs.pm/gchess/"
+repo_url = "https://github.com/macroby/gchess"
+category = ""

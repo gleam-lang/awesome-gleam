@@ -1,0 +1,5 @@
+name = "grille_pain"
+description = "Toaster, made in lustre, for gleam"
+docs_url = "https://hexdocs.pm/grille_pain/"
+repo_url = "https://github.com/ghivert/grille-pain"
+category = ""

@@ -1,0 +1,5 @@
+name = "plex_pin_auth"
+description = "Authenticate with Plex via the Plex pin authentication method"
+docs_url = "https://hexdocs.pm/plex_pin_auth/"
+repo_url = "https://github.com/harrisonhoward/plex_pin_auth"
+category = ""
