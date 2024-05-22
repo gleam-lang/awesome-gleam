@@ -110,7 +110,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Databases
 
 - [gleam_pgo](https://github.com/gleam-experiments/pgo) - [📚](https://hexdocs.pm/gleam_pgo/) - Gleam bindings to the PGO PostgreSQL client
-- [migrant](https://github.com/trulyao/migrant) - [📚](https://hexdocs.pm/migrant/) - [ALPHA] Database migrations for SQLite in Gleam
+- [migrant](https://github.com/aosasona/migrant) - [📚](https://hexdocs.pm/migrant/) - Database migrations for SQLite in Gleam
 - [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
