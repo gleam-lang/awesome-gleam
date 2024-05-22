@@ -227,6 +227,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Numbers
 
+- [bigi](https://gitlab.com/Nicd/bigi) - [📚](https://hexdocs.pm/bigi/) - Arbitrary precision integer arithmetic for Gleam
 - [gleam_community_maths](https://github.com/gleam-community/maths) - [📚](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
 
 ### Parsing

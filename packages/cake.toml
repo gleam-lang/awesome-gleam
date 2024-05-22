@@ -1,0 +1,5 @@
+name = "cake"
+description = "An SQL query builder for Gleam targeting Postgres and SQLite - a preview"
+docs_url = "https://hexdocs.pm/cake/"
+repo_url = "https://github.com/inoas/gleam-cake"
+category = ""

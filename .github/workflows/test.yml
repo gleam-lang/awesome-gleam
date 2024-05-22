@@ -15,9 +15,10 @@ jobs:
       - uses: erlef/setup-beam@v1
         with:
           otp-version: "26.0.2"
-          gleam-version: "0.34.1"
+          gleam-version: "1.1.0"
           rebar3-version: "3"
           # elixir-version: "1.15.4"
       - run: gleam deps download
       - run: gleam test
       - run: gleam format --check src test
+      - run: gleam run check
