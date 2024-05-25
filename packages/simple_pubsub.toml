@@ -1,0 +1,5 @@
+name = "simple_pubsub"
+description = "Simple pubsub (publish-subscribe) system for gleam based on process groups"
+docs_url = "https://hexdocs.pm/simple_pubsub/"
+repo_url = "https://github.com/RudolfVonKrugstein/gleam_simple_pubsub"
+category = ""

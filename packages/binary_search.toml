@@ -1,0 +1,5 @@
+name = "binary_search"
+description = "A simple binary search implementation in Gleam"
+docs_url = "https://hexdocs.pm/binary_search/"
+repo_url = "https://github.com/nkpgardose/binary_search"
+category = ""

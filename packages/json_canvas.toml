@@ -1,0 +1,5 @@
+name = "json_canvas"
+description = "JSON Canvas library for Gleam"
+docs_url = "https://hexdocs.pm/json_canvas/"
+repo_url = "https://github.com/0918nobita/json_canvas"
+category = ""

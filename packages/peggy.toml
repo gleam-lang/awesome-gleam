@@ -1,0 +1,5 @@
+name = "peggy"
+description = "Helper for working with FFmmpeg in Gleam"
+docs_url = "https://hexdocs.pm/peggy/"
+repo_url = "https://github.com/jackjohn7/peggy"
+category = ""

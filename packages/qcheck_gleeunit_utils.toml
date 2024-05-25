@@ -1,0 +1,5 @@
+name = "qcheck_gleeunit_utils"
+description = "Utility functions for working with Gleam's gleeunit test framework"
+docs_url = "https://hexdocs.pm/qcheck_gleeunit_utils/"
+repo_url = "https://github.com/mooreryan/qcheck_gleeunit_utils"
+category = ""

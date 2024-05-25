@@ -1,0 +1,5 @@
+name = "gleepl"
+description = "A Gleam client for the DeepL API"
+docs_url = "https://hexdocs.pm/gleepl/"
+repo_url = "https://github.com/xpressivecode/gleepl"
+category = ""
