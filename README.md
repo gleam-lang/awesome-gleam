@@ -110,7 +110,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Databases
 
 - [gleam_pgo](https://github.com/gleam-experiments/pgo) - [📚](https://hexdocs.pm/gleam_pgo/) - Gleam bindings to the PGO PostgreSQL client
-- [migrant](https://github.com/trulyao/migrant) - [📚](https://hexdocs.pm/migrant/) - [ALPHA] Database migrations for SQLite in Gleam
+- [migrant](https://github.com/aosasona/migrant) - [📚](https://hexdocs.pm/migrant/) - Database migrations for SQLite in Gleam
 - [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
@@ -146,6 +146,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### File System
 
+- [file_streams](https://github.com/richard-viney/file_streams) - [📚](https://hexdocs.pm/file_streams/) - Gleam library that provides access to native Erlang binary file streams.
 - [filepath](https://github.com/lpil/filepath) - [📚](https://hexdocs.pm/filepath/) - Work with file paths in Gleam!
 - [simplifile](https://github.com/bcpeinhardt/simplifile) - [📚](https://hexdocs.pm/simplifile/) - Basic file operations that work on all targets
 
@@ -226,10 +227,12 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Numbers
 
+- [bigi](https://gitlab.com/Nicd/bigi) - [📚](https://hexdocs.pm/bigi/) - Arbitrary precision integer arithmetic for Gleam
 - [gleam_community_maths](https://github.com/gleam-community/maths) - [📚](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
 
 ### Parsing
 
+- [gleamsver](https://github.com/aznashwan/gleamsver) - [📚](https://hexdocs.pm/gleamsver/) - Comprehensive set of native Gleam utilities for handling SemVer 2.0.0 version strings.
 - [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
 - [nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) - [📚](https://hexdocs.pm/nibble/) - A string parsing library heavily inspired by elm/parser.
 

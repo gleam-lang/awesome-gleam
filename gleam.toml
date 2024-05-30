@@ -19,6 +19,7 @@ gleam_httpc = "~> 2.1"
 tom = "~> 0.3"
 sqlight = "~> 0.9"
 gleam_http = "~> 3.5"
+argv = ">= 1.0.2 and < 2.0.0"
 
 [dev-dependencies]
 gleeunit = "~> 1.0"
