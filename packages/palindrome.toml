@@ -1,0 +1,5 @@
+name = "palindrome"
+description = "A simple Gleam project that checks if a string is a palindrome."
+docs_url = "https://hexdocs.pm/palindrome/"
+repo_url = "https://github.com/nkpgardose/palindrome"
+category = ""

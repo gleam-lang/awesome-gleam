@@ -1,3 +1,4 @@
+import argv
 import gleam/bool
 import gleam/dict
 import gleam/dynamic.{type Dynamic}
@@ -146,8 +147,22 @@ Websites with Gleam related content.
 * [r/gleamlang](https://reddit.com/r/gleamlang/)
 "
 
-  io.println("Writing REAME")
-  let assert Ok(_) = simplifile.write("README.md", markdown)
+  case argv.load().arguments == ["check"] {
+    True -> {
+      io.println("Checking README")
+      let assert Ok(current) = simplifile.read("README.md")
+      case current == markdown {
+        True -> Nil
+        False ->
+          panic as "README is out of sync with packages/*.toml config files"
+      }
+    }
+    False -> {
+      io.println("Writing README")
+      let assert Ok(_) = simplifile.write("README.md", markdown)
+      Nil
+    }
+  }
 
   io.println("Done! ✨")
 }
