@@ -1,0 +1,5 @@
+name = "stacky"
+description = "Stacky ☆ BEAM stack trace in Gleam"
+docs_url = "https://hexdocs.pm/stacky/"
+repo_url = "https://github.com/inoas/stacky"
+category = "Logging and Monitoring"
