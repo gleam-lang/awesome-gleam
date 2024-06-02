@@ -1,5 +1,5 @@
 name = "glacier"
-description = "Glacier brings incremental interactive unit testing to Gleam. It is meant as a drop-in replacement for Gleeunit and depends and wraps a fork of it."
+description = "Gleam Incremental Interactive Unit Testing"
 docs_url = "https://hexdocs.pm/glacier/"
 repo_url = "https://github.com/inoas/glacier"
-category = ""
+category = "Testing"
