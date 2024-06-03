@@ -97,6 +97,7 @@ Web applications written in Gleam.
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) - An example Gleam web application.
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
 - [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
+- [ghivert/gloogle](https://github.com/ghivert/gloogle) - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
 
 ## Tools
 
@@ -122,6 +123,7 @@ Websites with Gleam related content.
 - [gleam.run](https://gleam.run) - Gleam's website.
 - [tour.gleam.run](https://tour.gleam.run) - Gleam's interactive tour and tutorial.
 - [gleamweekly.com](https://gleamweekly.com/) - A weekly newsletter of handpicked articles and community news.
+- [gloogle.run](https://gloogle.run) - A search engine for the Gleam ecosystem.
 
 ### Courses
 
