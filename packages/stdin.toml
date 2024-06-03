@@ -1,0 +1,5 @@
+name = "stdin"
+description = "`stdin` provides a synchronous iterator for consuming stdin. It supports all the non-browser targets, Erlang, Node, Deno, and Bun."
+docs_url = "https://hexdocs.pm/stdin/"
+repo_url = "https://github.com/olian04/gleam-stdin"
+category = ""

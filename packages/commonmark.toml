@@ -1,0 +1,5 @@
+name = "commonmark"
+description = "CommonMark implementation for Gleam, for the BEAM or JS"
+docs_url = "https://hexdocs.pm/commonmark/"
+repo_url = "https://github.com/mscharley/gleam-commonmark"
+category = ""
