@@ -1,0 +1,5 @@
+name = "glitzer"
+description = "Progress bars for gleam."
+docs_url = "https://hexdocs.pm/glitzer/"
+repo_url = "https://github.com/miampf/glitzer"
+category = "Command Line"

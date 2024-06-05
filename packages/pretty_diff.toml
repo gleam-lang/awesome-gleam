@@ -1,0 +1,5 @@
+name = "pretty_diff"
+description = "⚖️ Pretty diffing of Gleam values"
+docs_url = "https://hexdocs.pm/pretty_diff/"
+repo_url = "https://github.com/giacomocavalieri/pretty_diff"
+category = ""

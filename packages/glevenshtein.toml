@@ -1,0 +1,5 @@
+name = "glevenshtein"
+description = "Calculate the levenshtein distance - in pure gleam!"
+docs_url = "https://hexdocs.pm/glevenshtein/"
+repo_url = "https://github.com/MoeDevelops/glevenshtein"
+category = ""

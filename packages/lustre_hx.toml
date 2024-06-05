@@ -1,0 +1,5 @@
+name = "lustre_hx"
+description = "HTMX attributes for lustre"
+docs_url = "https://hexdocs.pm/lustre_hx/"
+repo_url = "https://github.com/renatillas/lustre_hx"
+category = ""

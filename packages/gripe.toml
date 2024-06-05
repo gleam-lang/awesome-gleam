@@ -1,0 +1,5 @@
+name = "gripe"
+description = "Stripe API bindings for Gleam."
+docs_url = "https://hexdocs.pm/gripe/"
+repo_url = "https://github.com/raquentin/gripe"
+category = ""
