@@ -1,0 +1,5 @@
+name = "storch"
+description = "A migration runner for gleam & sqlight"
+docs_url = "https://hexdocs.pm/storch/"
+repo_url = "https://github.com/JulianBuse/storch"
+category = ""

@@ -1,0 +1,5 @@
+name = "glerd_json"
+description = "Gleam JSON encoders/decoders codegen using Glerd"
+docs_url = "https://hexdocs.pm/glerd_json/"
+repo_url = "https://github.com/darky/glerd-json"
+category = ""

@@ -1,0 +1,5 @@
+name = "fluoresce"
+description = "A fun type-tetris Gleam library for algebraic effects, the Continuation monad, and classical logic types."
+docs_url = "https://hexdocs.pm/fluoresce/"
+repo_url = "https://github.com/RyanBrewer317/fluoresce"
+category = ""
