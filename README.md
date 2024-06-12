@@ -82,6 +82,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [rad](https://github.com/tynanbe/rad) - [📚](https://hexdocs.pm/rad/) - A task runner for Gleam projects
 - [shellout](https://github.com/tynanbe/shellout) - [📚](https://hexdocs.pm/shellout/) - A Gleam library for cross-platform shell operations
 - [spinner](https://github.com/lpil/spinner) - [📚](https://hexdocs.pm/spinner/) - Animated progress spinners for your console
+- [stdin](https://github.com/olian04/gleam-stdin) - [📚](https://hexdocs.pm/stdin/) - Provides a synchronous iterator for consuming stdin. It supports all the non-browser targets, Erlang, Node, Deno, and Bun.
 
 ### Configuration
 
