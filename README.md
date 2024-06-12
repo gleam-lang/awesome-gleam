@@ -155,6 +155,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Frontend
 
 - [glailglind](https://github.com/okkdev/glailglind) - [📚](https://hexdocs.pm/glailglind/) - Gleam modules and functions for installing and invoking TailwindCSS
+- [grille_pain](https://github.com/ghivert/grille-pain) - [📚](https://hexdocs.pm/grille_pain/) - Toaster, made in lustre, for gleam
 - [lustre](https://github.com/lustre-labs/lustre) - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 - [lustre_animation](https://git.chmeee.org/lustre_animation) - [📚](https://hexdocs.pm/lustre_animation/) - Animations for lustre, utilizing JS requestAnimationFrame and setTimeout
 - [lustre_http](https://codeberg.org/kero/lustre_http) - [📚](https://hexdocs.pm/lustre_http/) - HTTP requests from lustre
@@ -309,6 +310,7 @@ Web applications written in Gleam.
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) - An example Gleam web application.
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
 - [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
+- [ghivert/gloogle](https://github.com/ghivert/gloogle) - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
 
 ## Tools
 
@@ -334,6 +336,7 @@ Websites with Gleam related content.
 - [gleam.run](https://gleam.run) - Gleam's website.
 - [tour.gleam.run](https://tour.gleam.run) - Gleam's interactive tour and tutorial.
 - [gleamweekly.com](https://gleamweekly.com/) - A weekly newsletter of handpicked articles and community news.
+- [gloogle.run](https://gloogle.run) - A search engine for the Gleam ecosystem.
 
 ### Courses
 
