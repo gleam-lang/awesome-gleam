@@ -1,0 +1,5 @@
+name = "classify"
+description = "Classify Dynamics back into typed values"
+docs_url = "https://hexdocs.pm/classify/"
+repo_url = "https://github.com/giacomocavalieri/classify"
+category = ""

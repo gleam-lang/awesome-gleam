@@ -78,9 +78,11 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [argv](https://github.com/lpil/argv) - [📚](https://hexdocs.pm/argv/) - A cross platform library for getting the command line arguments
 - [gleam_community_ansi](https://github.com/gleam-community/ansi) - [📚](https://hexdocs.pm/gleam_community_ansi/) - ANSI colours, formatting, and control codes
 - [glint](https://github.com/TanklesXL/glint) - [📚](https://hexdocs.pm/glint/) - Gleam command line argument parsing with basic flag support.
+- [glitzer](https://github.com/miampf/glitzer) - [📚](https://hexdocs.pm/glitzer/) - Progress bars for gleam.
 - [rad](https://github.com/tynanbe/rad) - [📚](https://hexdocs.pm/rad/) - A task runner for Gleam projects
 - [shellout](https://github.com/tynanbe/shellout) - [📚](https://hexdocs.pm/shellout/) - A Gleam library for cross-platform shell operations
 - [spinner](https://github.com/lpil/spinner) - [📚](https://hexdocs.pm/spinner/) - Animated progress spinners for your console
+- [stdin](https://github.com/olian04/gleam-stdin) - [📚](https://hexdocs.pm/stdin/) - Provides a synchronous iterator for consuming stdin. It supports all the non-browser targets, Erlang, Node, Deno, and Bun.
 
 ### Configuration
 

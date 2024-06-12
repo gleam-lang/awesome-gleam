@@ -1,5 +1,5 @@
 name = "go_over"
-description = "A tool to audit Erlang & Elixir dependency advisories as well as retired hex packages, to make sure your gleam projects really sparkle! ✨"
+description = "A tool to audit Erlang & Elixir dependencies, to make sure your gleam projects really sparkle! ✨"
 docs_url = "https://hexdocs.pm/go_over/"
 repo_url = "https://github.com/bwireman/go-over"
 category = ""

@@ -1,0 +1,5 @@
+name = "based"
+description = "A common interface for database backends"
+docs_url = "https://hexdocs.pm/based/"
+repo_url = "https://github.com/stndrs/based"
+category = ""
