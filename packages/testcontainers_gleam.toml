@@ -1,0 +1,5 @@
+name = "testcontainers_gleam"
+description = "Gleam TestContainers wrapper around Elixir TestContainers"
+docs_url = "https://hexdocs.pm/testcontainers_gleam/"
+repo_url = "https://github.com/darky/testcontainers-gleam"
+category = ""

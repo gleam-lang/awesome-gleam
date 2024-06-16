@@ -1,0 +1,5 @@
+name = "amnesiac"
+description = "Gleam bindings to mnesia"
+docs_url = "https://hexdocs.pm/amnesiac/"
+repo_url = "https://github.com/VioletBuse/amnesiac"
+category = ""

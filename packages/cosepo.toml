@@ -1,0 +1,5 @@
+name = "cosepo"
+description = "A module for parsing, mutating, and serializing Content-Security-Policy directives."
+docs_url = "https://hexdocs.pm/cosepo/"
+repo_url = "https://github.com/jshawl/cosepo"
+category = ""

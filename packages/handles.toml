@@ -1,0 +1,5 @@
+name = "handles"
+description = "Handles is a templating language written in pure Gleam. Heavily inspired by Mustache and Handlebars.js"
+docs_url = "https://hexdocs.pm/handles/"
+repo_url = "https://github.com/olian04/gleam_handles"
+category = ""

@@ -1,0 +1,5 @@
+name = "asterix"
+description = "A gleam library by Asterix Technology"
+docs_url = "https://hexdocs.pm/asterix/"
+repo_url = "https://github.com/asterixxtech/asterix-gleam"
+category = ""

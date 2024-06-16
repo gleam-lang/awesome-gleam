@@ -1,0 +1,5 @@
+name = "based_pg"
+description = "A postgres adapter for based"
+docs_url = "https://hexdocs.pm/based_pg/"
+repo_url = "https://github.com/stndrs/based_pg"
+category = ""

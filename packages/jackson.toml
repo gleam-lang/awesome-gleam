@@ -1,0 +1,5 @@
+name = "jackson"
+description = "A pure gleam json decoder, encoder, and json pointer resolver"
+docs_url = "https://hexdocs.pm/jackson/"
+repo_url = "https://github.com/VioletBuse/jackson"
+category = ""

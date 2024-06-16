@@ -1,0 +1,5 @@
+name = "defer_g"
+description = "A simple library for adding defer functionality to gleam."
+docs_url = "https://hexdocs.pm/defer_g/"
+repo_url = "https://github.com/TrippleCCC/defer"
+category = ""

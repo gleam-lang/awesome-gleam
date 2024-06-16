@@ -1,0 +1,5 @@
+name = "httpp"
+description = "an http client for gleam which supports streaming, based on hackney"
+docs_url = "https://hexdocs.pm/httpp/"
+repo_url = "https://github.com/VioletBuse/httpp"
+category = ""

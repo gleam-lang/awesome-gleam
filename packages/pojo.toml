@@ -1,0 +1,5 @@
+name = "pojo"
+description = "Plain object encoding for some common Gleam types"
+docs_url = "https://hexdocs.pm/pojo/"
+repo_url = "https://github.com/crowdhailer/gleamtours"
+category = ""

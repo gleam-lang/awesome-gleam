@@ -145,6 +145,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [commonmark](https://github.com/mscharley/gleam-commonmark) - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
 - [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
 - [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
+- [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
 - [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
 
 ### File System
@@ -238,7 +239,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Parsing
 
 - [gleamsver](https://github.com/aznashwan/gleamsver) - [📚](https://hexdocs.pm/gleamsver/) - Comprehensive set of native Gleam utilities for handling SemVer 2.0.0 version strings.
-- [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
 - [nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) - [📚](https://hexdocs.pm/nibble/) - A string parsing library heavily inspired by elm/parser.
 
 ### Push Notifications

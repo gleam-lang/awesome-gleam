@@ -1,0 +1,5 @@
+name = "based_sqlite"
+description = "A sqlite adapter for based"
+docs_url = "https://hexdocs.pm/based_sqlite/"
+repo_url = "https://github.com/stndrs/based_sqlite"
+category = ""

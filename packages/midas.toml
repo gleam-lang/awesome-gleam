@@ -1,0 +1,5 @@
+name = "midas"
+description = "Task definition and runners for Gleam"
+docs_url = "https://hexdocs.pm/midas/"
+repo_url = "https://github.com/midas-framework/midas"
+category = ""
