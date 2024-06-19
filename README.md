@@ -38,6 +38,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Parsing](#parsing)
   - [Push Notifications](#push-notifications)
   - [Randomness](#randomness)
+  - [Templating](#templating)
   - [Testing](#testing)
   - [Text](#text)
   - [Time](#time)
@@ -250,6 +251,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [blah](https://github.com/massivefermion/blah) - [📚](https://hexdocs.pm/blah/) - fake data generation for gleam
 - [minigen](https://github.com/mrdimosthenis/minigen) - [📚](https://hexdocs.pm/minigen/) - Pure random data generation, appropriate for realistic simulations
 - [prng](https://github.com/giacomocavalieri/prng) - [📚](https://hexdocs.pm/prng/) - A Pure Random Number Generator
+
+### Templating
+
+- [handles](https://github.com/olian04/gleam_handles) - [📚](https://hexdocs.pm/handles/) - Pure Gleam templating language inspired by Mustache and Handlebars.js
 
 ### Testing
 
