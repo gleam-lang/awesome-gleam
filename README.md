@@ -21,8 +21,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Email](#email)
   - [Erlang and OTP](#erlang-and-otp)
   - [Error Handling](#error-handling)
-  - [File Formats](#file-formats)
   - [File System](#file-system)
+  - [Formats](#formats)
   - [Frontend](#frontend)
   - [Gleam](#gleam)
   - [Graphics](#graphics)
@@ -38,6 +38,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Parsing](#parsing)
   - [Push Notifications](#push-notifications)
   - [Randomness](#randomness)
+  - [Standards](#standards)
   - [Templating](#templating)
   - [Testing](#testing)
   - [Text](#text)
@@ -130,7 +131,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gen_core_erlang](https://codeberg.org/kero/gleam_codegen) - [📚](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
 - [gleam_erlang](https://github.com/gleam-lang/erlang) - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 - [gleam_otp](https://github.com/gleam-lang/otp) - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
-- [gts](https://github.com/lunarmagpie/gts) - [📚](https://hexdocs.pm/gts/) - Opinionated bindings to erlang's ets tables.
 - [nessie_cluster](https://github.com/ckreiling/nessie_cluster) - [📚](https://hexdocs.pm/nessie_cluster/) - A small DNS clustering library for Gleam applications.
 - [process_waiter](https://github.com/lpil/process-waiter) - [📚](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
 - [puddle](https://github.com/massivefermion/puddle) - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
@@ -141,19 +141,20 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [exception](https://github.com/lpil/exception) - [📚](https://hexdocs.pm/exception/) - A tiny package for dealing with exceptions
 - [snag](https://github.com/gleam-experiments/snag) - [📚](https://hexdocs.pm/snag/) - A boilerplate-free ad-hoc error type
 
-### File Formats
-
-- [commonmark](https://github.com/mscharley/gleam-commonmark) - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
-- [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
-- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
-- [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
-- [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
-
 ### File System
 
 - [file_streams](https://github.com/richard-viney/file_streams) - [📚](https://hexdocs.pm/file_streams/) - Gleam library that provides access to native Erlang binary file streams.
 - [filepath](https://github.com/lpil/filepath) - [📚](https://hexdocs.pm/filepath/) - Work with file paths in Gleam!
 - [simplifile](https://github.com/bcpeinhardt/simplifile) - [📚](https://hexdocs.pm/simplifile/) - Basic file operations that work on all targets
+
+### Formats
+
+- [commonmark](https://github.com/mscharley/gleam-commonmark) - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
+- [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
+- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
+- [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
+- [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
+- [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
 
 ### Frontend
 
@@ -192,7 +193,6 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [cors_builder](https://github.com/ghivert/cors-builder) - [📚](https://hexdocs.pm/cors_builder/) - A CORS Builder, performing validation and injection of CORS for misp, wisp and any framework!
 - [gleam_http](https://github.com/gleam-lang/http) - [📚](https://hexdocs.pm/gleam_http/) - Types and functions for Gleam HTTP clients and servers
-- [marceau](https://github.com/lpil/marceau) - [📚](https://hexdocs.pm/marceau/) - A MIME types library for Gleam
 
 ### HTTP Clients
 
@@ -252,8 +252,15 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [minigen](https://github.com/mrdimosthenis/minigen) - [📚](https://hexdocs.pm/minigen/) - Pure random data generation, appropriate for realistic simulations
 - [prng](https://github.com/giacomocavalieri/prng) - [📚](https://hexdocs.pm/prng/) - A Pure Random Number Generator
 
+### Standards
+
+- [glisbn](https://github.com/solar05/glisbn) - [📚](https://hexdocs.pm/glisbn/) - A ISBN utility library for Gleam.
+- [marceau](https://github.com/lpil/marceau) - [📚](https://hexdocs.pm/marceau/) - A MIME types library for Gleam
+- [phony](https://github.com/massivefermion/phony) - [📚](https://hexdocs.pm/phony/) - An international phone number validator
+
 ### Templating
 
+- [glemplate](https://gitlab.com/Nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
 - [handles](https://github.com/olian04/gleam_handles) - [📚](https://hexdocs.pm/handles/) - Pure Gleam templating language inspired by Mustache and Handlebars.js
 
 ### Testing
@@ -270,13 +277,9 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [edit_distance](https://github.com/giacomocavalieri/edit_distance) - [📚](https://hexdocs.pm/edit_distance/) - A pure Gleam package to compute the edit distance of two strings
 - [gap](https://github.com/JohnBjrk/gap) - [📚](https://hexdocs.pm/gap/) - A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.
 - [glam](https://github.com/giacomocavalieri/glam) - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
-- [glemplate](https://gitlab.com/Nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
-- [glisbn](https://github.com/solar05/glisbn) - [📚](https://hexdocs.pm/glisbn/) - A ISBN utility library for Gleam.
 - [hug](https://github.com/brettkolodny/gleam-hug) - [📚](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages
-- [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [justin](https://github.com/lpil/justin) - [📚](https://hexdocs.pm/justin/) - Convert between snake_case, camelCase, and other cases in Gleam
 - [phonetic_gleam](https://github.com/leobm/phonetic_gleam) - [📚](https://hexdocs.pm/phonetic_gleam/) - A collection of gleam algorithms dealing with phonetics.
-- [phony](https://github.com/massivefermion/phony) - [📚](https://hexdocs.pm/phony/) - An international phone number validator
 - [punycode](https://codeberg.org/sotolf/gleam_punycode/) - [📚](https://hexdocs.pm/punycode/) - Gleam implementation of punycode encoding and decoding
 - [rank](https://github.com/lpil/glance) - [📚](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
 - [wink](https://github.com/MAHcodes/wink) - [📚](https://hexdocs.pm/wink/) - A simple Gleam box drawing library

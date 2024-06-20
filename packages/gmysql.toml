@@ -1,0 +1,5 @@
+name = "gmysql"
+description = "Gleam mysql client."
+docs_url = "https://hexdocs.pm/gmysql/"
+repo_url = "https://github.com/VioletBuse/gmysql"
+category = ""
