@@ -1,0 +1,5 @@
+name = "gtempo"
+description = "A gleam library for controlling the tempo of your application through helpful date and time functions!"
+docs_url = "https://hexdocs.pm/gtempo/"
+repo_url = "https://github.com/jrstrunk/tempo"
+category = "Time"
