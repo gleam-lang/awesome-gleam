@@ -287,6 +287,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Time
 
 - [birl](https://github.com/massivefermion/birl) - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
+- [gtempo](https://github.com/jrstrunk/tempo) - [📚](https://hexdocs.pm/gtempo/) - A Gleam library for controlling the tempo of your application through helpful date and time functions!
 
 ### Validation
 
