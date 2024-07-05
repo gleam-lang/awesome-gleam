@@ -1,0 +1,5 @@
+name = "starmap"
+description = "Type-Safe, ORM-like SQL Library for gleam"
+docs_url = "https://hexdocs.pm/starmap/"
+repo_url = "https://github.com/MoeDevelops/starmap"
+category = ""

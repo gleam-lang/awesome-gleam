@@ -1,0 +1,5 @@
+name = "decode"
+description = "Ergonomic dynamic decoders for Gleam!"
+docs_url = "https://hexdocs.pm/decode/"
+repo_url = "https://github.com/lpil/decode"
+category = ""

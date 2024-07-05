@@ -1,0 +1,5 @@
+name = "glenv"
+description = "A library for type-safe environment variable access."
+docs_url = "https://hexdocs.pm/glenv/"
+repo_url = "https://github.com/custompro98/glenv"
+category = ""

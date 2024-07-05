@@ -1,0 +1,5 @@
+name = "gleastsq"
+description = "A least squares curve fitting library for Gleam."
+docs_url = "https://hexdocs.pm/gleastsq/"
+repo_url = "https://github.com/lucaspellegrinelli/gleastsq"
+category = ""
