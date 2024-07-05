@@ -1,0 +1,5 @@
+name = "rada"
+description = "A library for dates with no times or time zones"
+docs_url = "https://hexdocs.pm/rada/"
+repo_url = "https://github.com/michaeljones/rada"
+category = "Time"
