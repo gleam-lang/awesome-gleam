@@ -1,0 +1,5 @@
+name = "pink"
+description = "Bindings to Ink. A library for building terminal UIs."
+docs_url = "https://hexdocs.pm/pink/"
+repo_url = "https://github.com/Massolari/pink"
+category = ""
