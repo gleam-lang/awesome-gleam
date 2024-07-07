@@ -1,0 +1,5 @@
+name = "cactus"
+description = "A tool for managing git lifecycle hooks with ✨ gleam! Pre commit, Pre push and more!"
+docs_url = "https://hexdocs.pm/cactus/"
+repo_url = "https://github.com/bwireman/cactus"
+category = "Dev Experience"

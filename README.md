@@ -18,6 +18,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Cryptography](#cryptography)
   - [Data Structures](#data-structures)
   - [Databases](#databases)
+  - [Dev Experience](#dev-experience)
   - [Email](#email)
   - [Erlang and OTP](#erlang-and-otp)
   - [Error Handling](#error-handling)
@@ -118,6 +119,11 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
+
+### Dev Experience
+
+- [cactus](https://github.com/bwireman/cactus) - [📚](https://hexdocs.pm/cactus/) - A tool for managing git lifecycle hooks with ✨ gleam! Pre commit, Pre push and more!
+- [go_over](https://github.com/bwireman/go-over) - [📚](https://hexdocs.pm/go_over/) - A tool to audit Erlang & Elixir dependencies, to make sure your gleam projects really sparkle! ✨
 
 ### Email
 

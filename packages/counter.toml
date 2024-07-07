@@ -1,0 +1,5 @@
+name = "counter"
+description = "A counter for Gleam - modeled after Python's `collections.Counter`"
+docs_url = "https://hexdocs.pm/counter/"
+repo_url = "https://github.com/JosephTLyons/counter"
+category = ""
