@@ -1,0 +1,5 @@
+name = "mat"
+description = "A simple and ergonomic string formatter for Gleam"
+docs_url = "https://hexdocs.pm/mat/"
+repo_url = "https://github.com/loipesmas/mat"
+category = ""
