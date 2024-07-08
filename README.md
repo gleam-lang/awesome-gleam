@@ -294,6 +294,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [birl](https://github.com/massivefermion/birl) - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
 - [gtempo](https://github.com/jrstrunk/tempo) - [📚](https://hexdocs.pm/gtempo/) - A Gleam library for controlling the tempo of your application through helpful date and time functions!
+- [rada](https://github.com/michaeljones/rada) - [📚](https://hexdocs.pm/rada/) - A library for dates with no times or time zones
 
 ### Validation
 
