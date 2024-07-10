@@ -36,6 +36,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Networking](#networking)
   - [Numbers](#numbers)
   - [Parsing](#parsing)
+  - [Project Tooling](#project-tooling)
   - [Push Notifications](#push-notifications)
   - [Randomness](#randomness)
   - [Standards](#standards)
@@ -243,6 +244,11 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleamsver](https://github.com/aznashwan/gleamsver) - [📚](https://hexdocs.pm/gleamsver/) - Comprehensive set of native Gleam utilities for handling SemVer 2.0.0 version strings.
 - [nibble](https://github.com/hayleigh-dot-dev/gleam-nibble) - [📚](https://hexdocs.pm/nibble/) - A string parsing library heavily inspired by elm/parser.
 - [stoiridh_version](https://gitlab.com/stoiridh-project/stoiridh-version) - [📚](https://hexdocs.pm/stoiridh_version/) - Semantic Versioning 2.0.0
+
+### Project Tooling
+
+- [cactus](https://github.com/bwireman/cactus) - [📚](https://hexdocs.pm/cactus/) - A tool for managing git lifecycle hooks with ✨ gleam! Pre commit, Pre push and more!
+- [go_over](https://github.com/bwireman/go-over) - [📚](https://hexdocs.pm/go_over/) - A tool to audit Erlang & Elixir dependencies, to make sure your gleam projects really sparkle! ✨
 
 ### Push Notifications
 
