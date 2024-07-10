@@ -107,8 +107,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [act](https://github.com/MystPi/act) - [📚](https://hexdocs.pm/act/) - Compose stateful actions to simulate mutable state
 - [argamak](https://github.com/tynanbe/argamak) - [📚](https://hexdocs.pm/argamak/) - A tensor library for the Gleam programming language
+- [delay](https://github.com/bwireman/delay) - [📚](https://hexdocs.pm/delay/) - A dead simple data-structure for delaying side effects
 - [gleam_stdlib](https://github.com/gleam-lang/stdlib) - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
 - [glearray](https://github.com/fschwalbe/glearray) - [📚](https://hexdocs.pm/glearray/) - Immutable arrays for Gleam
+- [gleither](https://github.com/bwireman/gleither) - [📚](https://hexdocs.pm/gleither/) - A small data-structure for representing an Either Monad
 - [non_empty_list](https://github.com/giacomocavalieri/non_empty_list) - [📚](https://hexdocs.pm/non_empty_list/) - Non-empty lists in Gleam
 - [tote](https://github.com/giacomocavalieri/tote) - [📚](https://hexdocs.pm/tote/) - Bags (or multisets) in Gleam
 - [trie_again](https://github.com/giacomocavalieri/trie_again) - [📚](https://hexdocs.pm/trie_again/) - Tries in Gleam
