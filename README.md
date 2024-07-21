@@ -332,6 +332,7 @@ Web applications written in Gleam.
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
 - [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
 - [ghivert/gloogle](https://github.com/ghivert/gloogle) - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
+- [connellr023/chatter-reborn](https://github.com/connellr023/chatter-reborn) - A concurrent and realtime chat app built with mist, Gleam, and React
 
 ## Tools
 
