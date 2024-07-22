@@ -1,0 +1,5 @@
+name = "discord_gleam"
+description = "discord_gleam is a library for making discord bots in gleam (basic commands only)"
+docs_url = "https://hexdocs.pm/discord_gleam/"
+repo_url = "https://github.com/cyteon/discord_gleam"
+category = ""

@@ -1,0 +1,5 @@
+name = "alpaca"
+description = "A library for caching deterministic calculations in Gleam"
+docs_url = "https://hexdocs.pm/alpaca/"
+repo_url = "https://github.com/mscharley/alpaca"
+category = ""

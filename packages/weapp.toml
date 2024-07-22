@@ -1,0 +1,5 @@
+name = "weapp"
+description = "gleam bindings for wechat miniprogram, a.k.a weapp"
+docs_url = "https://hexdocs.pm/weapp/"
+repo_url = "https://github.com/kaiwu/weapp"
+category = ""

@@ -1,0 +1,5 @@
+name = "pickle"
+description = "A parser combinator library for Gleam."
+docs_url = "https://hexdocs.pm/pickle/"
+repo_url = "https://github.com/patrik-kuehl/pickle"
+category = ""

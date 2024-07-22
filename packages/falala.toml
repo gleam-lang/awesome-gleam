@@ -1,0 +1,5 @@
+name = "falala"
+description = "FontAwesome utility functions for lustre"
+docs_url = "https://hexdocs.pm/falala/"
+repo_url = "https://github.com/skinkade/falala"
+category = ""

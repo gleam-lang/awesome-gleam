@@ -1,0 +1,5 @@
+name = "parz"
+description = "A simple parser combinator library"
+docs_url = "https://hexdocs.pm/parz/"
+repo_url = "https://github.com/sftsrv/parz"
+category = ""
