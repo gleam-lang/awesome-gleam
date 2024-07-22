@@ -1,0 +1,5 @@
+name = "node_socket_client"
+description = "Bindings to Node's TCP socket client"
+docs_url = "https://hexdocs.pm/node_socket_client/"
+repo_url = "https://github.com/lpil/node-socket-client"
+category = ""

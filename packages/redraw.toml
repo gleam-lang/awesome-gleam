@@ -1,0 +1,5 @@
+name = "redraw"
+description = "React bindings for Gleam! Supports everything modern React provides, with full Gleam Type-Checking system!"
+docs_url = "https://hexdocs.pm/redraw/"
+repo_url = "https://github.com/ghivert/redraw"
+category = "Frontend"

@@ -1,0 +1,5 @@
+name = "wechat_dev_tools"
+description = "tools to develop wechat miniprogram in gleam"
+docs_url = "https://hexdocs.pm/wechat_dev_tools/"
+repo_url = "https://github.com/kaiwu/wechat_dev_tools"
+category = ""

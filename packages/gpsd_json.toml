@@ -1,0 +1,5 @@
+name = "gpsd_json"
+description = "Types and functions for working with GPSD's JSON API"
+docs_url = "https://hexdocs.pm/gpsd_json/"
+repo_url = "https://github.com/lpil/gpsd-json"
+category = ""

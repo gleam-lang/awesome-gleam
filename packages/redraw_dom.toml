@@ -1,0 +1,5 @@
+name = "redraw_dom"
+description = "Redraw DOM renderer. Take a look at Redraw to use it."
+docs_url = "https://hexdocs.pm/redraw_dom/"
+repo_url = "https://github.com/ghivert/redraw"
+category = ""
