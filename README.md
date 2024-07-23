@@ -75,6 +75,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [esgleam](https://github.com/Enderchief/esgleam) - [📚](https://hexdocs.pm/esgleam/) - esbuild for Gleam
 - [gleescript](https://github.com/lpil/gleescript) - [📚](https://hexdocs.pm/gleescript/) - Bundle your Gleam-on-Erlang project into an escript, a single executable file!
+- [wechat_dev_tools](https://github.com/kaiwu/wechat_dev_tools) - [📚](https://hexdocs.pm/wechat_dev_tools/) - Tools to develop wechat miniprogram in gleam
 
 ### Command Line
 
@@ -221,6 +222,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleam_javascript](https://github.com/gleam-lang/javascript) - [📚](https://hexdocs.pm/gleam_javascript/) - Work with JavaScript types and values in Gleam
 - [javascript_dom_parser](https://github.com/lpil/javascript-dom-parser) - [📚](https://hexdocs.pm/javascript_dom_parser/) - Bindings to the JavaScript DOMParser API
 - [plinth](https://github.com/Crowdhailer/plinth) - [📚](https://hexdocs.pm/plinth/) - Bindings to Node.js and browser platform APIs
+- [weapp](https://github.com/kaiwu/weapp) - [📚](https://hexdocs.pm/weapp/) - Gleam bindings for wechat miniprogram, a.k.a weapp
 
 ### Logging and Monitoring
 
