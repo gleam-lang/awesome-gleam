@@ -1,5 +1,5 @@
 name = "cake"
-description = "An SQL query builder for Gleam for SQL dialects PostgreSQL, SQLite, MariaDB and MySQL"
+description = "An SQL query builder for Gleam for SQL dialects PostgreSQL, SQLite, MariaDB, and MySQL"
 docs_url = "https://hexdocs.pm/cake/"
 repo_url = "https://github.com/inoas/gleam-cake"
 category = "Databases"
