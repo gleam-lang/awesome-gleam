@@ -157,7 +157,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [commonmark](https://github.com/mscharley/gleam-commonmark) - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
 - [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
-- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam
+- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
 - [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
 - [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
@@ -340,7 +340,6 @@ Web applications written in Gleam.
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
 - [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
 - [ghivert/gloogle](https://github.com/ghivert/gloogle) - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
-- [dinkelspiel/kirakira](https://github.com/dinkelspiel/kirakira) - A forum made in Gleam for the Gleam community.
 
 ## Tools
 
@@ -368,6 +367,7 @@ Websites with Gleam related content.
 - [tour.gleam.run](https://tour.gleam.run) - Gleam's interactive tour and tutorial.
 - [gleamweekly.com](https://gleamweekly.com/) - A weekly newsletter of handpicked articles and community news.
 - [gloogle.run](https://gloogle.run) - A search engine for the Gleam ecosystem.
+- [dinkelspiel/kirakira](https://github.com/dinkelspiel/kirakira) - A forum made in Gleam for the Gleam community.
 
 ### Courses
 
@@ -384,10 +384,10 @@ Websites with Gleam related content.
 
 #### Twitter
 
-- [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
-- [@gleamlang](https://twitter.com/gleamlang) - The official twitter account.
-- [@louispilfold](https://twitter.com/louispilfold) - The creator of Gleam.
+* [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
+* [@gleamlang](https://twitter.com/gleamlang) - The official twitter account.
+* [@louispilfold](https://twitter.com/louispilfold) - The creator of Gleam.
 
 #### Reddit
 
-- [r/gleamlang](https://reddit.com/r/gleamlang/)
+* [r/gleamlang](https://reddit.com/r/gleamlang/)
