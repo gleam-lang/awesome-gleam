@@ -1,0 +1,5 @@
+name = "kmh"
+description = "Implementation of Knuth’s multiplicative hashing (useful for ID obfuscation, etc.)"
+docs_url = "https://hexdocs.pm/kmh/"
+repo_url = "https://github.com/mdarse/kmh"
+category = "Cryptography"
