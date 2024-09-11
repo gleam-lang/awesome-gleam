@@ -268,6 +268,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### SDKs
 
+- [openfeature](https://github.com/horvathandris/openfeature-gleam-sdk) - [📚](https://hexdocs.pm/openfeature/) - The Gleam SDK for the OpenFeature specification.
 - [weapp](https://github.com/kaiwu/weapp) - [📚](https://hexdocs.pm/weapp/) - Gleam bindings for wechat miniprogram, a.k.a weapp
 - [wechat_dev_tools](https://github.com/kaiwu/wechat_dev_tools) - [📚](https://hexdocs.pm/wechat_dev_tools/) - Tools to develop wechat miniprogram in gleam
 
