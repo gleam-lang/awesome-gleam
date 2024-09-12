@@ -1,0 +1,5 @@
+name = "squirrel"
+description = "🐿️ Type safe SQL in Gleam"
+docs_url = "https://hexdocs.pm/squirrel/"
+repo_url = "https://github.com/giacomocavalieri/squirrel"
+category = ""

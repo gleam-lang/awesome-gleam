@@ -1,0 +1,5 @@
+name = "releam"
+description = "Releam is an opinionated gleam release and changelog generation tool based on conventional commit"
+docs_url = "https://hexdocs.pm/releam/"
+repo_url = "https://github.com/pedraal/releam"
+category = ""

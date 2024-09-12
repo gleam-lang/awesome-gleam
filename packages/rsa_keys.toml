@@ -1,0 +1,5 @@
+name = "rsa_keys"
+description = "A small library to help with rsa keys and message signing"
+docs_url = "https://hexdocs.pm/rsa_keys/"
+repo_url = "https://github.com/jmrflora/rsa_keys"
+category = ""

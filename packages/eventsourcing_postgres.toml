@@ -1,0 +1,5 @@
+name = "eventsourcing_postgres"
+description = "Postgres event store for the Eventsourcing library"
+docs_url = "https://hexdocs.pm/eventsourcing_postgres/"
+repo_url = "https://github.com/renatillas/eventsourcing_postgres"
+category = ""

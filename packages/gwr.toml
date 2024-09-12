@@ -1,0 +1,5 @@
+name = "gwr"
+description = "An experimental work-in-progress (WIP) WebAssembly runtime written in Gleam."
+docs_url = "https://hexdocs.pm/gwr/"
+repo_url = "https://github.com/BrendoCosta/gwr"
+category = ""

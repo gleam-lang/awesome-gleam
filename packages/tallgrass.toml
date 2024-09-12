@@ -1,0 +1,5 @@
+name = "tallgrass"
+description = "Gleam wrapper for the PokeAPI."
+docs_url = "https://hexdocs.pm/tallgrass/"
+repo_url = "https://github.com/stevetoro/tallgrass"
+category = ""

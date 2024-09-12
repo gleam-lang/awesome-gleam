@@ -1,0 +1,5 @@
+name = "treelist"
+description = "Fast list implementation using AVL tree"
+docs_url = "https://hexdocs.pm/treelist/"
+repo_url = "https://github.com/pendletong/treelist"
+category = ""

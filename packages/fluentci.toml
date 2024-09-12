@@ -1,0 +1,5 @@
+name = "fluentci"
+description = "Write CI/CD pipelines in Gleam"
+docs_url = "https://hexdocs.pm/fluentci/"
+repo_url = "https://github.com/fluentci-io/fluentci-engine"
+category = ""

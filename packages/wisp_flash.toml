@@ -1,0 +1,5 @@
+name = "wisp_flash"
+description = "Middleware to use flash messages in Wisp"
+docs_url = "https://hexdocs.pm/wisp_flash/"
+repo_url = "https://github.com/sporto/wisp_flash"
+category = ""

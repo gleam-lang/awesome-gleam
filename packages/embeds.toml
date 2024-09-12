@@ -1,0 +1,5 @@
+name = "embeds"
+description = "Generate Gleam modules based on static assets and environment variables."
+docs_url = "https://hexdocs.pm/embeds/"
+repo_url = "https://gitlab.com/arkandos/gleam-embeds"
+category = ""

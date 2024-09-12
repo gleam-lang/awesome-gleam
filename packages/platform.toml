@@ -1,0 +1,5 @@
+name = "platform"
+description = "Zero dependency platform detection library for gleam"
+docs_url = "https://hexdocs.pm/platform/"
+repo_url = "https://github.com/ditherwither/platform"
+category = ""

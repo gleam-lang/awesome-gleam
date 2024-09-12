@@ -1,0 +1,5 @@
+name = "directories"
+description = "A lightweight package to get standard locations of directories for temporary files, config, cache, etc."
+docs_url = "https://hexdocs.pm/directories/"
+repo_url = "https://github.com/ditherwither/directories"
+category = ""

@@ -1,0 +1,5 @@
+name = "chilli"
+description = "a shiny Gleam TCP/SSL server (forked from glisten)"
+docs_url = "https://hexdocs.pm/chilli/"
+repo_url = "https://github.com/mjwhodur/chilli"
+category = ""

@@ -1,0 +1,5 @@
+name = "ollama_gleam"
+description = "A client for Ollama"
+docs_url = "https://hexdocs.pm/ollama_gleam/"
+repo_url = "https://github.com/ddanielsantos/ollama_gleam"
+category = ""

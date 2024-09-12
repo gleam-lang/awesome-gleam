@@ -1,0 +1,5 @@
+name = "sketch_lustre"
+description = "A Sketch runtime package, made to work with Lustre!"
+docs_url = "https://hexdocs.pm/sketch_lustre/"
+repo_url = "https://github.com/ghivert/sketch"
+category = ""

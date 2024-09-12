@@ -1,0 +1,5 @@
+name = "glidicon"
+description = "Gleam library for generating identicon images."
+docs_url = "https://hexdocs.pm/glidicon/"
+repo_url = "https://github.com/stevetoro/glidicon"
+category = ""

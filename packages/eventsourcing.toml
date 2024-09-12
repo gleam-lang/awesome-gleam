@@ -1,0 +1,5 @@
+name = "eventsourcing"
+description = "CQRS and Event Soucing in Gleam!"
+docs_url = "https://hexdocs.pm/eventsourcing/"
+repo_url = "https://github.com/renatillas/eventsourcing"
+category = ""

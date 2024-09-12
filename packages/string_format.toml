@@ -1,0 +1,5 @@
+name = "string_format"
+description = "A string formatter library inspired by Python's .format() method"
+docs_url = "https://hexdocs.pm/string_format/"
+repo_url = "https://github.com/tkanerva/string_format"
+category = ""

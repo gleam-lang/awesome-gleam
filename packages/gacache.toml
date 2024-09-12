@@ -1,0 +1,5 @@
+name = "gacache"
+description = "A simple actor based cache for erlang environments in gleam"
+docs_url = "https://hexdocs.pm/gacache/"
+repo_url = "https://github.com/BradBot1/gleam_gacache"
+category = ""

@@ -1,0 +1,5 @@
+name = "glethers"
+description = "Ethereum blockchain client for Gleam"
+docs_url = "https://hexdocs.pm/glethers/"
+repo_url = "https://github.com/gusinacio/glethers"
+category = ""

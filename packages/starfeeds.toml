@@ -1,0 +1,5 @@
+name = "starfeeds"
+description = "Star feeds is a gleam package for json/rss/atom feed generator"
+docs_url = "https://hexdocs.pm/starfeeds/"
+repo_url = "https://github.com/Proqpine/starfeeds"
+category = ""

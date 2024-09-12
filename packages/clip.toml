@@ -1,0 +1,5 @@
+name = "clip"
+description = "A CLI Option Parser for Gleam"
+docs_url = "https://hexdocs.pm/clip/"
+repo_url = "https://github.com/drewolson/clip"
+category = ""

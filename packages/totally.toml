@@ -1,0 +1,5 @@
+name = "totally"
+description = "TOTP (Time-based One-Time Password) for Gleam"
+docs_url = "https://hexdocs.pm/totally/"
+repo_url = "https://github.com/okkdev/totally"
+category = ""

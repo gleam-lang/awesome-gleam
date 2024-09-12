@@ -1,0 +1,5 @@
+name = "glimit"
+description = "A simple, framework-agnostic, in-memory rate limiter for Gleam."
+docs_url = "https://hexdocs.pm/glimit/"
+repo_url = "https://github.com/nootr/glimit"
+category = ""

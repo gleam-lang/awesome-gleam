@@ -1,0 +1,5 @@
+name = "glitr_lustre"
+description = "Interface for lustre to use Glitr's typed routes"
+docs_url = "https://hexdocs.pm/glitr_lustre/"
+repo_url = "https://github.com/Billuc/glitr"
+category = ""

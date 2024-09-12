@@ -1,0 +1,5 @@
+name = "sketch_css"
+description = "A Sketch runtime package, made to generate CSS!"
+docs_url = "https://hexdocs.pm/sketch_css/"
+repo_url = "https://github.com/ghivert/sketch"
+category = ""

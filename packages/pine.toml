@@ -1,0 +1,5 @@
+name = "pine"
+description = "configurable logger for gleam"
+docs_url = "https://hexdocs.pm/pine/"
+repo_url = "https://gitea.attum.co/wqtt/pine.git"
+category = ""

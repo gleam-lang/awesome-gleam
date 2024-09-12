@@ -1,0 +1,5 @@
+name = "queryb"
+description = "A very limited RDMS query builder library"
+docs_url = "https://hexdocs.pm/queryb/"
+repo_url = "https://github.com/lpil/queryb"
+category = ""

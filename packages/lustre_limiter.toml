@@ -1,0 +1,5 @@
+name = "lustre_limiter"
+description = "Bringing debounce and throttle utilities to Lustre for the erlang target."
+docs_url = "https://hexdocs.pm/lustre_limiter/"
+repo_url = "https://github.com/7verdy/lustre-limiter"
+category = ""

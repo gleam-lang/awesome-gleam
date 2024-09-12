@@ -1,0 +1,5 @@
+name = "gsiphash"
+description = "GSipHash is a small Gleam library that ports to Gleam the SipHash family of non-cryptographic hash functions."
+docs_url = "https://hexdocs.pm/gsiphash/"
+repo_url = "https://github.com/BrendoCosta/gsiphash"
+category = ""

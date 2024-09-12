@@ -1,0 +1,5 @@
+name = "dinostore"
+description = "Gleam bindings to the Deno.Kv database"
+docs_url = "https://hexdocs.pm/dinostore/"
+repo_url = "https://github.com/MystPi/dinostore"
+category = ""

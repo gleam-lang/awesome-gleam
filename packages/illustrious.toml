@@ -1,0 +1,5 @@
+name = "illustrious"
+description = "A meta-framework for lustre, enabling a full-stack experience"
+docs_url = "https://hexdocs.pm/illustrious/"
+repo_url = "https://gitlab.com/kgroat/illustrious"
+category = ""

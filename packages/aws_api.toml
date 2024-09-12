@@ -1,0 +1,5 @@
+name = "aws_api"
+description = "A request builder for AWS services"
+docs_url = "https://hexdocs.pm/aws_api/"
+repo_url = "https://github.com/ryanmiville/aws_api"
+category = ""

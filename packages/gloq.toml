@@ -1,0 +1,5 @@
+name = "gloq"
+description = "Gleam API Wrapper to Interface with the GroqCloud API"
+docs_url = "https://hexdocs.pm/gloq/"
+repo_url = "https://github.com/AryaanSheth/gloq"
+category = ""

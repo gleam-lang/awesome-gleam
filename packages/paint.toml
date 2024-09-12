@@ -1,0 +1,5 @@
+name = "paint"
+description = "Make drawings, animations, and games with Gleam"
+docs_url = "https://hexdocs.pm/paint/"
+repo_url = "https://github.com/adelhult/paint"
+category = ""

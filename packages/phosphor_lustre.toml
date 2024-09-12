@@ -1,0 +1,5 @@
+name = "phosphor_lustre"
+description = "A package of lustre compatible phosphor icons"
+docs_url = "https://hexdocs.pm/phosphor_lustre/"
+repo_url = "https://github.com/brettkolodny/phosphor-lustre"
+category = ""

@@ -1,0 +1,5 @@
+name = "signal"
+description = "A simple event sourcing library for gleam!"
+docs_url = "https://hexdocs.pm/signal/"
+repo_url = "https://github.com/DominikBB/signal"
+category = ""

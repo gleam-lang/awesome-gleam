@@ -1,0 +1,5 @@
+name = "glorage"
+description = "Gleam thread local storage"
+docs_url = "https://hexdocs.pm/glorage/"
+repo_url = "https://github.com/darky/glorage"
+category = ""

@@ -1,0 +1,5 @@
+name = "battlesnake"
+description = "A Gleam wrapper for the Battlesnake API"
+docs_url = "https://hexdocs.pm/battlesnake/"
+repo_url = "https://github.com/leah-u/battlesnake"
+category = ""

@@ -215,7 +215,8 @@ fn read_config(entry: String) -> ConfigPackage {
 }
 
 fn write_config(package: DatabasePackage) -> Nil {
-  let exists = simplifile.is_file("packages/" <> package.name <> ".toml")
+  let assert Ok(exists) =
+    simplifile.is_file("packages/" <> package.name <> ".toml")
   use <- bool.guard(when: exists, return: Nil)
 
   case package {

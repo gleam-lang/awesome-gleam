@@ -1,0 +1,5 @@
+name = "globlin_fs"
+description = "File system methods for the Gleam file globbing library `globlin`"
+docs_url = "https://hexdocs.pm/globlin_fs/"
+repo_url = "https://github.com/apainintheneck/globlin_fs"
+category = ""
