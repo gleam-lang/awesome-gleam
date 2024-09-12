@@ -125,6 +125,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
+- [squirrel](https://github.com/giacomocavalieri/squirrel) - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
 
 ### Email
 
