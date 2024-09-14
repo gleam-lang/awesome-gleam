@@ -1,0 +1,5 @@
+name = "stardate"
+description = "A library for converting a calendar date to a stardate"
+docs_url = "https://hexdocs.pm/stardate/"
+repo_url = "https://codeberg.org/hoanga/stardate"
+category = ""
