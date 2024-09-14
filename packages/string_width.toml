@@ -1,0 +1,5 @@
+name = "string_width"
+description = "Estimate the dimensions of a string when printed in the terminal."
+docs_url = "https://hexdocs.pm/string_width/"
+repo_url = "https://gitlab.com/arkandos/string-width"
+category = ""
