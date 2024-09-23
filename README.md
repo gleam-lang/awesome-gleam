@@ -66,6 +66,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glatus](https://github.com/lpil/glatus) - [📚](https://hexdocs.pm/glatus/) - Gleam bindings to the API of the Gatus health check tool
 - [gleam_hexpm](https://github.com/gleam-lang/hexpm) - [📚](https://hexdocs.pm/gleam_hexpm/) - Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem.
 - [glevatar](https://github.com/bunopnu/glevatar) - [📚](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam
+- [tallgrass](https://github.com/stevetoro/tallgrass) - [📚](https://hexdocs.pm/tallgrass/) - Gleam wrapper for the PokeAPI.
 
 ### Benchmarking
 
