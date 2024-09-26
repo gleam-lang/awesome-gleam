@@ -33,6 +33,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [JSON](#json)
   - [JavaScript](#javascript)
   - [Logging and Monitoring](#logging-and-monitoring)
+  - [Machine Learning](#machine-learning)
   - [Networking](#networking)
   - [Numbers](#numbers)
   - [Parsing](#parsing)
@@ -111,9 +112,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [act](https://github.com/MystPi/act) - [📚](https://hexdocs.pm/act/) - Compose stateful actions to simulate mutable state
 - [argamak](https://github.com/tynanbe/argamak) - [📚](https://hexdocs.pm/argamak/) - A tensor library for the Gleam programming language
 - [delay](https://github.com/bwireman/delay) - [📚](https://hexdocs.pm/delay/) - A dead simple data-structure for delaying side effects
-- [emel](https://github.com/mrdimosthenis/emel) - [📚](https://hexdocs.pm/emel/) - Turn data into functions in the Erlang ecosystem
 - [gleam_stdlib](https://github.com/gleam-lang/stdlib) - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
-- [gleam_synapses](https://github.com/mrdimosthenis/gleam_synapses) - [📚](https://hexdocs.pm/gleam_synapses/) - A plug-and-play library for neural networks written in Gleam
 - [gleam_zlists](https://github.com/mrdimosthenis/gleam_zlists) - [📚](https://hexdocs.pm/gleam_zlists/) - A library for working with lazy lists in Gleam
 - [glearray](https://github.com/fschwalbe/glearray) - [📚](https://hexdocs.pm/glearray/) - Immutable arrays for Gleam
 - [gleither](https://github.com/bwireman/gleither) - [📚](https://hexdocs.pm/gleither/) - A small data-structure for representing an Either Monad
@@ -238,6 +237,11 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [logging](https://github.com/lpil/logging) - [📚](https://hexdocs.pm/logging/) - Configuration for the Erlang logger
 - [stacky](https://github.com/inoas/stacky) - [📚](https://hexdocs.pm/stacky/) - Stacky ☆ BEAM stack trace in Gleam
 - [systemd_status](https://github.com/lpil/systemd_status) - [📚](https://hexdocs.pm/systemd_status/) - Inspect the status of running systemd units
+
+### Machine Learning
+
+- [emel](https://github.com/mrdimosthenis/emel) - [📚](https://hexdocs.pm/emel/) - Turn data into functions in the Erlang ecosystem
+- [gleam_synapses](https://github.com/mrdimosthenis/gleam_synapses) - [📚](https://hexdocs.pm/gleam_synapses/) - A plug-and-play library for neural networks written in Gleam
 
 ### Networking
 
