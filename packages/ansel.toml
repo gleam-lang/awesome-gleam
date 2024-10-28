@@ -1,0 +1,5 @@
+name = "ansel"
+description = "A simple and fast vips image processing library for Gleam!"
+docs_url = "https://hexdocs.pm/ansel/"
+repo_url = "https://github.com/tinybackup/ansel"
+category = ""

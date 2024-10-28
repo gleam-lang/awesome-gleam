@@ -1,0 +1,5 @@
+name = "storail"
+description = "A simple on-disc JSON based data store"
+docs_url = "https://hexdocs.pm/storail/"
+repo_url = "https://github.com//"
+category = "Databases"

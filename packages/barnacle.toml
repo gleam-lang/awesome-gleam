@@ -1,0 +1,5 @@
+name = "barnacle"
+description = "Self-healing clusters for Gleam applications on the BEAM!"
+docs_url = "https://hexdocs.pm/barnacle/"
+repo_url = "https://github.com/Pevensie/barnacle"
+category = ""

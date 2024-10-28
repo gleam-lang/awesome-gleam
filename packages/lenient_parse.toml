@@ -1,0 +1,5 @@
+name = "lenient_parse"
+description = "Lenient Python-like parsing functions for Gleam."
+docs_url = "https://hexdocs.pm/lenient_parse/"
+repo_url = "https://github.com/JosephTLyons/lenient_parse"
+category = ""

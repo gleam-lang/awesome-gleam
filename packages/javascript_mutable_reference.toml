@@ -1,0 +1,5 @@
+name = "javascript_mutable_reference"
+description = "Mutable references for Gleam JavaScript"
+docs_url = "https://hexdocs.pm/javascript_mutable_reference/"
+repo_url = "https://github.com/lpil/javascript-mutable-reference"
+category = ""

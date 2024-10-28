@@ -1,0 +1,5 @@
+name = "midas_browser"
+description = "Run midas tasks in the browser."
+docs_url = "https://hexdocs.pm/midas_browser/"
+repo_url = "https://github.com/midas-framework/midas_browser"
+category = ""

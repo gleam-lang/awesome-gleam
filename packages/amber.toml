@@ -1,0 +1,5 @@
+name = "amber"
+description = "Deno bindings for Gleam."
+docs_url = "https://hexdocs.pm/amber/"
+repo_url = "https://github.com/han-tyumi/amber"
+category = ""

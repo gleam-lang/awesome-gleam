@@ -1,0 +1,5 @@
+name = "tenthash"
+description = "Gleam based implementation of TentHash for Erlang targets"
+docs_url = "https://hexdocs.pm/tenthash/"
+repo_url = "https://github.com/pendletong/tenthash"
+category = ""

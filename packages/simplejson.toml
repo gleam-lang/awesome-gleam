@@ -1,0 +1,5 @@
+name = "simplejson"
+description = "Native gleam json parser/generator"
+docs_url = "https://hexdocs.pm/simplejson/"
+repo_url = "https://github.com/pendletong/simplejson"
+category = ""

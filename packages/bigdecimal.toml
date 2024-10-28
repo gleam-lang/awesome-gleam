@@ -1,0 +1,5 @@
+name = "bigdecimal"
+description = "Arbitrary precision decimal arithmetic for Gleam"
+docs_url = "https://hexdocs.pm/bigdecimal/"
+repo_url = "https://github.com/horvathandris/bigdecimal"
+category = ""

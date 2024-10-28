@@ -1,0 +1,5 @@
+name = "cake_sqlight"
+description = "🎂Cake 🪶SQLite adapter which which passes PreparedStatements to the sqlight library for execution written in Gleam."
+docs_url = "https://hexdocs.pm/cake_sqlight/"
+repo_url = "https://github.com/inoas/gleam-cake-sqlight"
+category = ""

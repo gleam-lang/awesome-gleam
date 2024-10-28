@@ -1,0 +1,5 @@
+name = "delay_times"
+description = "A Gleam library for working with delay times."
+docs_url = "https://hexdocs.pm/delay_times/"
+repo_url = "https://github.com/JosephTLyons/delay_times_gleam"
+category = ""

@@ -1,0 +1,5 @@
+name = "gulid"
+description = "ULID implementation in Gleam (Erlang target only)"
+docs_url = "https://hexdocs.pm/gulid/"
+repo_url = "https://github.com/vtomilin/gulid"
+category = ""

@@ -1,0 +1,5 @@
+name = "ftpasta"
+description = "Simple FTP client for Gleam."
+docs_url = "https://hexdocs.pm/ftpasta/"
+repo_url = "https://codeberg.org/Deepfriedice/ftpasta"
+category = ""

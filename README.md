@@ -130,6 +130,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
 - [squirrel](https://github.com/giacomocavalieri/squirrel) - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
+- [storail](https://github.com//) - [📚](https://hexdocs.pm/storail/) - A simple on-disc JSON based data store
 
 ### Email
 
@@ -359,7 +360,6 @@ Web applications written in Gleam.
 ## Tools
 
 - [inoas/glychee](https://github.com/inoas/glychee) - A simple Gleam benchmark runner which wraps Benchee for the heavy lifting.
-- [michaeljones/matcha](https://github.com/michaeljones/matcha) - A template system for Gleam
 - [tynanbe/rad](https://github.com/tynanbe/rad) - A flexible task runner companion for the Gleam build manager.
 
 ## Editor support

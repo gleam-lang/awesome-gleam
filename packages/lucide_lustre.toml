@@ -1,0 +1,5 @@
+name = "lucide_lustre"
+description = "A library providing https://lucide.dev icons to lustre"
+docs_url = "https://hexdocs.pm/lucide_lustre/"
+repo_url = "https://github.com/dinkelspiel/lucide_lustre"
+category = ""

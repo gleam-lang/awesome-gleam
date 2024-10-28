@@ -1,0 +1,5 @@
+name = "spectator"
+description = "BEAM observer tool"
+docs_url = "https://hexdocs.pm/spectator/"
+repo_url = "https://github.com/JonasGruenwald/spectator"
+category = ""

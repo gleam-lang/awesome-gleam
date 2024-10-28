@@ -1,0 +1,5 @@
+name = "glitr_convert_sql"
+description = "Create SQL requests from Gleam types effortlessly !"
+docs_url = "https://hexdocs.pm/glitr_convert_sql/"
+repo_url = "https://github.com/Billuc/glitr"
+category = ""

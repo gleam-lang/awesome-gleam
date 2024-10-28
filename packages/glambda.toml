@@ -1,0 +1,5 @@
+name = "glambda"
+description = "Write AWS Lambda functions in Gleam!"
+docs_url = "https://hexdocs.pm/glambda/"
+repo_url = "https://github.com/ryanmiville/glambda"
+category = ""

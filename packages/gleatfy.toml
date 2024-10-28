@@ -1,0 +1,5 @@
+name = "gleatfy"
+description = "A Gleam client for the ntfy push notification API"
+docs_url = "https://hexdocs.pm/gleatfy/"
+repo_url = "https://github.com/l-x/gleatfy"
+category = ""
