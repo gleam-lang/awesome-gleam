@@ -130,7 +130,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
 - [squirrel](https://github.com/giacomocavalieri/squirrel) - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
-- [storail](https://github.com//) - [📚](https://hexdocs.pm/storail/) - A simple on-disc JSON based data store
+- [storail](https://github.com/lpil/storail) - [📚](https://hexdocs.pm/storail/) - A simple on-disc JSON based data store
 
 ### Email
 
