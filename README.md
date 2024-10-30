@@ -405,3 +405,7 @@ Websites with Gleam related content.
 #### Reddit
 
 * [r/gleamlang](https://reddit.com/r/gleamlang/)
+
+#### Discord
+
+* [The Gleam Language Discord Server](https://discord.com/invite/Fm8Pwmy)
