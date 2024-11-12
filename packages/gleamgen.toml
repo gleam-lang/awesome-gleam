@@ -1,0 +1,5 @@
+name = "gleamgen"
+description = "Generate type-safe gleam code (in gleam!)"
+docs_url = "https://hexdocs.pm/gleamgen/"
+repo_url = "https://github.com/Brewingweasel/gleamgen"
+category = ""

@@ -1,0 +1,5 @@
+name = "glemcached"
+description = "A memcached client in pure gleam!"
+docs_url = "https://hexdocs.pm/glemcached/"
+repo_url = "https://github.com/arnu515/glemcached"
+category = ""

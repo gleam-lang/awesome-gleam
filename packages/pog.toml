@@ -1,0 +1,5 @@
+name = "pog"
+description = "A PostgreSQL database client for Gleam, based on PGO"
+docs_url = "https://hexdocs.pm/pog/"
+repo_url = "https://github.com/lpil/pog"
+category = ""

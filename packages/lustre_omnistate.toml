@@ -1,0 +1,5 @@
+name = "lustre_omnistate"
+description = "Use Remote State, Locally"
+docs_url = "https://hexdocs.pm/lustre_omnistate/"
+repo_url = "https://github.com/weedonandscott/lustre_omnistate"
+category = ""

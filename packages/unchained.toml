@@ -1,0 +1,5 @@
+name = "unchained"
+description = "A framework for developing applications powered by large language models (LLMs) in Gleam"
+docs_url = "https://hexdocs.pm/unchained/"
+repo_url = "https://github.com/lostbean/unchained"
+category = ""

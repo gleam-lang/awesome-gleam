@@ -1,0 +1,5 @@
+name = "oas"
+description = "Parse an open api (previously swagger) spec."
+docs_url = "https://hexdocs.pm/oas/"
+repo_url = "https://github.com/crowdhailer/oas"
+category = ""

@@ -1,0 +1,5 @@
+name = "bseal"
+description = "Generate UUIDs"
+docs_url = "https://hexdocs.pm/bseal/"
+repo_url = "https://github.com/julywind168/bseal"
+category = ""

@@ -1,0 +1,5 @@
+name = "formz_nakai"
+description = "Nakai widgets and field definitions for the formz library."
+docs_url = "https://hexdocs.pm/formz_nakai/"
+repo_url = "https://github.com/bentomas/formz"
+category = ""

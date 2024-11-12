@@ -1,0 +1,5 @@
+name = "spell_out"
+description = "Spells out numbers in english"
+docs_url = "https://hexdocs.pm/spell_out/"
+repo_url = "https://github.com/BlockListed/spell_out"
+category = ""

@@ -1,0 +1,5 @@
+name = "messua"
+description = "A bit of a server framework."
+docs_url = "https://hexdocs.pm/messua/"
+repo_url = "https://codeberg.org//d2718/messua"
+category = ""

@@ -1,0 +1,5 @@
+name = "bg_jobs"
+description = "Background job processing for your Gleam app"
+docs_url = "https://hexdocs.pm/bg_jobs/"
+repo_url = "https://github.com/MaxHill/bg_jobs"
+category = ""

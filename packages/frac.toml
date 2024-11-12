@@ -1,0 +1,5 @@
+name = "frac"
+description = "🧮 Fractions in Gleam"
+docs_url = "https://hexdocs.pm/frac/"
+repo_url = "https://github.com/giacomocavalieri/frac"
+category = ""

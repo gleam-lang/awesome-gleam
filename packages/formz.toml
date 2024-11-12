@@ -1,0 +1,5 @@
+name = "formz"
+description = "Accessible, type safe form parsing and generating for Gleam"
+docs_url = "https://hexdocs.pm/formz/"
+repo_url = "https://github.com/bentomas/formz"
+category = ""
