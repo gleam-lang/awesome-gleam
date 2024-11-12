@@ -193,6 +193,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Graphics
 
+- [ansel](https://github.com/tinybackup/ansel) - [📚](https://hexdocs.pm/ansel/) - A simple and fast vips image processing library for Gleam!
 - [gleam_community_colour](https://github.com/gleam-community/colour) - [📚](https://hexdocs.pm/gleam_community_colour/) - Colour types, conversions, and other utilities
 
 ### HTML
