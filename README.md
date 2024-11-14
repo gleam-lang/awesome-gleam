@@ -236,6 +236,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Logging and Monitoring
 
 - [glimt](https://github.com/JohnBjrk/glimt) - [📚](https://hexdocs.pm/glimt/) - A Gleam library for logging
+- [flash](https://github.com/larzconwell/flash) - [📚](https://hexdocs.pm/flash/) - A Gleam package enabling structured logging in both Erlang and JavaScript environments
 - [glog](https://github.com/defgenx/glog) - [📚](https://hexdocs.pm/glog/) - A Gleam implementation of Erlang logger
 - [logging](https://github.com/lpil/logging) - [📚](https://hexdocs.pm/logging/) - Configuration for the Erlang logger
 - [stacky](https://github.com/inoas/stacky) - [📚](https://hexdocs.pm/stacky/) - Stacky ☆ BEAM stack trace in Gleam
