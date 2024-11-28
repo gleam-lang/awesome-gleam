@@ -164,7 +164,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [commonmark](https://github.com/mscharley/gleam-commonmark) - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
 - [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
-- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
+- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam
 - [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
 - [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
@@ -304,7 +304,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [exercism_test_runner](https://github.com/exercism/gleam-test-runner) - [📚](https://hexdocs.pm/exercism_test_runner/) - A test framework for Gleam exercises on Exercism
 - [glacier](https://github.com/inoas/glacier) - [📚](https://hexdocs.pm/glacier/) - Gleam Incremental Interactive Unit Testing
 - [gleeunit](https://github.com/lpil/gleeunit) - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
-- [testbldr](https://github.com/bcpeinhardt/testbldr) - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
+- [startest](https://github.com/maxdeviant/startest) - [📚](https://hexdocs.pm/startest/) - A Gleam testing framework that offers both `describe`-style testing and standalone test functions
+- [testbldr](https://github.com/bcpeinhardt/testbldr) - [📚](https://hexdocs.pm/testbldr/) - A library for programmatically building and running test cases
 
 ### Text
 
@@ -322,9 +323,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Time
 
+- [bigben](https://github.com/maxdeviant/bigben) - [📚](https://hexdocs.pm/bigben/) - A clock abstraction library, with time travel
 - [birl](https://github.com/massivefermion/birl) - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
 - [gtempo](https://github.com/jrstrunk/tempo) - [📚](https://hexdocs.pm/gtempo/) - A lightweight and Gleamy datetime library!
-- [gtz](https://github.com/jrstrunk/gtz) - [📚](https://hexdocs.pm/gtz/) - A timezone data provider for Gleam! 
+- [gtz](https://github.com/jrstrunk/gtz) - [📚](https://hexdocs.pm/gtz/) - A timezone data provider for Gleam!
 - [rada](https://github.com/michaeljones/rada) - [📚](https://hexdocs.pm/rada/) - A library for dates with no times or time zones
 
 ### Validation
