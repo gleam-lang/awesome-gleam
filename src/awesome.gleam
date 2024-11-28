@@ -88,7 +88,7 @@ Compilers for Gleam and compilers written in Gleam.
 
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - The Gleam compiler.
 - [gleam-lang/example-lisp-interpreter](https://github.com/gleam-lang/example-lisp-interpreter/) - A toy Lisp interpreter in Gleam.
-- [example-lexical-analysis](https://github.com/vit0rr/example-lexical-analysis) - A toy lexical analysis in Gleam.
+- [vit0rr/example-lexical-analysis](https://github.com/vit0rr/example-lexical-analysis) - A toy lexical analysis in Gleam.
 
 ### Web applications
 
