@@ -1,0 +1,5 @@
+name = "ordered_dict"
+description = "Ordered Dict implementation in gleam"
+docs_url = "https://hexdocs.pm/ordered_dict/"
+repo_url = "https://github.com/alpvax/gleam_ordered_dict"
+category = ""

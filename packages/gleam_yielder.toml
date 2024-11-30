@@ -1,0 +1,5 @@
+name = "gleam_yielder"
+description = "Unfold values on-demand from a function"
+docs_url = "https://hexdocs.pm/gleam_yielder/"
+repo_url = "https://github.com/gleam-lang/yielder"
+category = ""
