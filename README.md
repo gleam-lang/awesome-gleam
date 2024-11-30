@@ -141,6 +141,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Erlang and OTP
 
 - [carpenter](https://github.com/grottohub/carpenter) - [📚](https://hexdocs.pm/carpenter/) - Bindings for Erlang's ETS tables. Forked and updated from gts.
+- [chip](https://github.com/chouzar/chip) - [📚](https://hexdocs.pm/chip/) - A Gleam registry library
 - [gen_core_erlang](https://codeberg.org/kero/gleam_codegen) - [📚](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
 - [gleam_erlang](https://github.com/gleam-lang/erlang) - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 - [gleam_otp](https://github.com/gleam-lang/otp) - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
