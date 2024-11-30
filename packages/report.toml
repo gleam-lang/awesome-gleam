@@ -1,0 +1,5 @@
+name = "report"
+description = "Create informative & beautiful source code reports."
+docs_url = "https://hexdocs.pm/report/"
+repo_url = "https://github.com/MystPi/report"
+category = ""

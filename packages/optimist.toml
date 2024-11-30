@@ -1,0 +1,5 @@
+name = "optimist"
+description = "A simple package for modelling optimistic ui updates."
+docs_url = "https://hexdocs.pm/optimist/"
+repo_url = "https://github.com/hayleigh-dot-dev/optimist"
+category = ""

@@ -1,0 +1,5 @@
+name = "timestamps"
+description = "timestamp in Gleam"
+docs_url = "https://hexdocs.pm/timestamps/"
+repo_url = "https://git.mastodont.cat/pswsm/timestamps"
+category = ""

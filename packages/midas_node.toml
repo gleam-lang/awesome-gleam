@@ -1,0 +1,5 @@
+name = "midas_node"
+description = "Run midas tasks in a nodejs environment. "
+docs_url = "https://hexdocs.pm/midas_node/"
+repo_url = "https://github.com/midas-framework/midas_node"
+category = ""

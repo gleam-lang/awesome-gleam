@@ -1,0 +1,5 @@
+name = "gleamstar"
+description = "The A* search algorithm implemented in gleam"
+docs_url = "https://hexdocs.pm/gleamstar/"
+repo_url = "https://github.com/dinkelspiel/gleamstar"
+category = ""
