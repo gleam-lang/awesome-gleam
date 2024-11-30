@@ -144,6 +144,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gen_core_erlang](https://codeberg.org/kero/gleam_codegen) - [📚](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
 - [gleam_erlang](https://github.com/gleam-lang/erlang) - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 - [gleam_otp](https://github.com/gleam-lang/otp) - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
+- [lamb](https://github.com/chouzar/lamb) - [📚](https://hexdocs.pm/lamb/) - ETS and MatchSpecs for Gleam.
 - [nessie_cluster](https://github.com/ckreiling/nessie_cluster) - [📚](https://hexdocs.pm/nessie_cluster/) - A small DNS clustering library for Gleam applications.
 - [process_waiter](https://github.com/lpil/process-waiter) - [📚](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
 - [puddle](https://github.com/massivefermion/puddle) - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
