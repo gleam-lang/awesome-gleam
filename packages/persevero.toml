@@ -1,0 +1,5 @@
+name = "persevero"
+description = "Execute fallible operations multiple times."
+docs_url = "https://hexdocs.pm/persevero/"
+repo_url = "https://github.com/JosephTLyons/persevero"
+category = ""

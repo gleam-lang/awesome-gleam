@@ -1,0 +1,5 @@
+name = "mysig"
+description = "Tookit for building web (sites, apps or pages) with Gleam"
+docs_url = "https://hexdocs.pm/mysig/"
+repo_url = "https://github.com/crowdhailer/mysig"
+category = ""

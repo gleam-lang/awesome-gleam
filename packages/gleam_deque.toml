@@ -1,0 +1,5 @@
+name = "gleam_deque"
+description = "A double-ended queue data structure"
+docs_url = "https://hexdocs.pm/gleam_deque/"
+repo_url = "https://github.com/gleam-lang/deque"
+category = ""

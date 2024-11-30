@@ -1,0 +1,5 @@
+name = "acrostic"
+description = "A pure Gleam implementation of Google Protobuf."
+docs_url = "https://hexdocs.pm/acrostic/"
+repo_url = "https://github.com/julywind168/acrostic"
+category = ""
