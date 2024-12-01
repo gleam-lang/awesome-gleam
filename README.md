@@ -269,6 +269,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [cactus](https://github.com/bwireman/cactus) - [📚](https://hexdocs.pm/cactus/) - A tool for managing git lifecycle hooks with ✨ gleam! Pre commit, Pre push and more!
 - [go_over](https://github.com/bwireman/go-over) - [📚](https://hexdocs.pm/go_over/) - A tool to audit Erlang & Elixir dependencies, to make sure your gleam projects really sparkle! ✨
+- [hexdocs_offline](https://github.com/daniellionel01/hexdocs_offline) - [📚](https://hexdocs.pm/hexdocs_offline/) - Download an offline version of the hexdocs of your projects dependencies to a local folder!
 
 ### Push Notifications
 
