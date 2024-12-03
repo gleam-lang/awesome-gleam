@@ -1,0 +1,5 @@
+name = "bright"
+description = "Be bright. Derive data in your Lustre model."
+docs_url = "https://hexdocs.pm/bright/"
+repo_url = "https://github.com/ghivert/bright"
+category = ""

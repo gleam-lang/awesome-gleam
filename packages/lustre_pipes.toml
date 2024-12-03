@@ -1,0 +1,5 @@
+name = "lustre_pipes"
+description = "Write Lustre template using Gleam's pipes"
+docs_url = "https://hexdocs.pm/lustre_pipes/"
+repo_url = "https://github.com/weedonandscott/lustre_pipes"
+category = ""

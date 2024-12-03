@@ -1,0 +1,5 @@
+name = "gleameter"
+description = "An implementation of the International System of Units (SI) in Gleam"
+docs_url = "https://hexdocs.pm/gleameter/"
+repo_url = "https://github.com/theonlytails/gleameter"
+category = ""

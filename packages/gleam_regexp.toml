@@ -1,0 +1,5 @@
+name = "gleam_regexp"
+description = "Regular expressions in Gleam!"
+docs_url = "https://hexdocs.pm/gleam_regexp/"
+repo_url = "https://github.com/gleam-lang/regexp"
+category = ""

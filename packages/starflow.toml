@@ -1,0 +1,5 @@
+name = "starflow"
+description = "A library for building stateful chains of LLM interactions!"
+docs_url = "https://hexdocs.pm/starflow/"
+repo_url = "https://github.com/ethanthoma/starflow"
+category = ""
