@@ -1,5 +1,4 @@
 name = "react_gleam"
 description = "React bindings for Gleam"
-docs_url = "https://hexdocs.pm/react_gleam/"
 repo_url = "https://github.com/brettkolodny/react-gleam"
 category = ""

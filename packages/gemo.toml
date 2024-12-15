@@ -1,5 +1,4 @@
 name = "gemo"
 description = "Simple and memory efficient memoization for JavaScript and Erlang."
-docs_url = "https://hexdocs.pm/gemo/"
 repo_url = "https://github.com/lv37/gemo"
 category = ""

@@ -1,5 +1,4 @@
 name = "exception"
 description = "A tiny package for dealing with exceptions"
-docs_url = "https://hexdocs.pm/exception/"
 repo_url = "https://github.com/lpil/exception"
 category = "Error Handling"

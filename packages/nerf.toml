@@ -1,5 +1,4 @@
 name = "nerf"
 description = "Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client"
-docs_url = "https://hexdocs.pm/nerf/"
 repo_url = "https://github.com/lpil/nerf"
 category = ""

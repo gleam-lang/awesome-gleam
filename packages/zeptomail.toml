@@ -1,5 +1,4 @@
 name = "zeptomail"
 description = "A wrapper for ZeptoMail's transactional email API"
-docs_url = "https://hexdocs.pm/zeptomail/"
 repo_url = "https://github.com/lpil/zeptomail"
 category = "Email"

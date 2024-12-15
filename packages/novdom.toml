@@ -1,5 +1,4 @@
 name = "novdom"
 description = "An easy to use frontend framework written in Gleam."
-docs_url = "https://hexdocs.pm/novdom/"
 repo_url = "https://github.com/TobiasBinnewies/novdom"
 category = ""

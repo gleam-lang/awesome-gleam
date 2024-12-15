@@ -1,5 +1,4 @@
 name = "the_stars"
 description = "A terminal styling and logging framework based off the Golang Charm Lipgloss framework."
-docs_url = "https://hexdocs.pm/the_stars/"
 repo_url = "https://github.com/Genekkion/theStars"
 category = ""

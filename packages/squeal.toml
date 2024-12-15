@@ -1,5 +1,4 @@
 name = "squeal"
 description = "SQL-Formatter for Gleam"
-docs_url = "https://hexdocs.pm/squeal/"
 repo_url = "https://github.com/MoeDevelops/squeal"
 category = ""

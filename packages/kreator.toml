@@ -1,5 +1,4 @@
 name = "kreator"
 description = "A SQL query builder built in pure gleam"
-docs_url = "https://hexdocs.pm/kreator/"
 repo_url = "https://github.com/brunoti/kreator"
 category = ""

@@ -1,5 +1,4 @@
 name = "iso_8859"
 description = "Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings."
-docs_url = "https://hexdocs.pm/iso_8859/"
 repo_url = "https://github.com/richard-viney/iso_8859"
 category = "Formats"

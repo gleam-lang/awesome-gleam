@@ -1,5 +1,4 @@
 name = "gleam_otp"
 description = "Fault tolerant multicore Gleam programs with OTP"
-docs_url = "https://hexdocs.pm/gleam_otp/"
 repo_url = "https://github.com/gleam-lang/otp"
 category = "Erlang and OTP"

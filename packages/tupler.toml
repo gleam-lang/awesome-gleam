@@ -1,5 +1,4 @@
 name = "tupler"
 description = "Use constructors directly with tuples"
-docs_url = "https://hexdocs.pm/tupler/"
 repo_url = "https://github.com/MoeDevelops/tupler"
 category = ""

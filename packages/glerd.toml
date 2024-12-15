@@ -1,5 +1,4 @@
 name = "glerd"
 description = "Generate metadata of Gleam Records for runtime reflection"
-docs_url = "https://hexdocs.pm/glerd/"
 repo_url = "https://github.com/darky/glerd"
 category = ""

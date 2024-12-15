@@ -1,5 +1,4 @@
 name = "context_fp_gleam"
 description = "Functional programming context for Gleam"
-docs_url = "https://hexdocs.pm/context_fp_gleam/"
 repo_url = "https://github.com/darky/context-fp-gleam"
 category = ""

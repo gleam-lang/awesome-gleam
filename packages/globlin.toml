@@ -1,5 +1,4 @@
 name = "globlin"
 description = "file globbing for Gleam"
-docs_url = "https://hexdocs.pm/globlin/"
 repo_url = "https://github.com/apainintheneck/globlin"
 category = ""

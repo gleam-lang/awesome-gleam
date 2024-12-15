@@ -1,5 +1,4 @@
 name = "mineflayer"
 description = "Mineflayer bindings for gleam"
-docs_url = "https://hexdocs.pm/mineflayer/"
 repo_url = "https://github.com/wygsh/gleam_mineflayer"
 category = ""

@@ -1,5 +1,4 @@
 name = "pears"
 description = "A parser combinator library for Gleam"
-docs_url = "https://hexdocs.pm/pears/"
 repo_url = "https://github.com/lukad/pears"
 category = ""

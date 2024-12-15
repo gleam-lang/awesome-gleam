@@ -1,5 +1,4 @@
 name = "gtempo"
 description = "A lightweight and Gleamy datetime library!"
-docs_url = "https://hexdocs.pm/gtempo/"
 repo_url = "https://github.com/jrstrunk/tempo"
 category = "Time"

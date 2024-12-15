@@ -1,5 +1,4 @@
 name = "conllu"
 description = "A gleam package to parse the CONLLU format"
-docs_url = "https://hexdocs.pm/conllu/"
 repo_url = "https://github.com/BrewingWeasel/conllu"
 category = ""

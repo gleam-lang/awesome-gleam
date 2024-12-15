@@ -1,5 +1,4 @@
 name = "gary"
 description = "Gleam interface to Erlang sparse arrays"
-docs_url = "https://hexdocs.pm/gary/"
 repo_url = "https://github.com/hunkyjimpjorps/gary"
 category = ""

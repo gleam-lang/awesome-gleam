@@ -1,5 +1,4 @@
 name = "midas_sdk"
 description = "A bag of SDK's that can be used with midas."
-docs_url = "https://hexdocs.pm/midas_sdk/"
 repo_url = "https://github.com/midas-framework/midas_sdk"
 category = ""

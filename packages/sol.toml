@@ -1,5 +1,4 @@
 name = "sol"
 description = "A tiny Gleam library for calculating sun positions and phases."
-docs_url = "https://hexdocs.pm/sol/"
 repo_url = "https://github.com/1-bit-wonder/sol"
 category = ""

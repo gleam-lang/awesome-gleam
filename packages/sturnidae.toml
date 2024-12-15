@@ -1,5 +1,4 @@
 name = "sturnidae"
 description = "Binding to Starling Bank's API"
-docs_url = "https://hexdocs.pm/sturnidae/"
 repo_url = "https://github.com/lpil/sturnidae"
 category = ""

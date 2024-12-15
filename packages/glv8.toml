@@ -1,5 +1,4 @@
 name = "glv8"
 description = "Write functional type-safe postgresql procedures with gleam, through plv8's JavaScript binding"
-docs_url = "https://hexdocs.pm/glv8/"
 repo_url = "https://github.com/kaiwu/glv8"
 category = ""

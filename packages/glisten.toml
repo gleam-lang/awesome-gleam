@@ -1,5 +1,4 @@
 name = "glisten"
 description = "a shiny Gleam TCP/SSL server"
-docs_url = "https://hexdocs.pm/glisten/"
 repo_url = "https://github.com/rawhat/glisten"
 category = "Networking"

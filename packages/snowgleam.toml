@@ -1,5 +1,4 @@
 name = "snowgleam"
 description = "Gleam version of the Twitter's snowflake format for unique IDs."
-docs_url = "https://hexdocs.pm/snowgleam/"
 repo_url = "https://github.com/ezegros/snowgleam"
 category = ""

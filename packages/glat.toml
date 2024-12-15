@@ -1,5 +1,4 @@
 name = "glat"
 description = "A featureful rational number type for Gleam."
-docs_url = "https://hexdocs.pm/glat/"
 repo_url = "https://codeberg.org/bobjoe12131/glat"
 category = ""

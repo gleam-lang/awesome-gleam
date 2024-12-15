@@ -1,5 +1,4 @@
 name = "arctic_plugin_diagram"
 description = "An Arctic plugin for generating latex diagrams!"
-docs_url = "https://hexdocs.pm/arctic_plugin_diagram/"
 repo_url = "https://github.com/RyanBrewer317/arctic_plugin_diagram"
 category = ""

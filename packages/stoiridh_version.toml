@@ -1,5 +1,4 @@
 name = "stoiridh_version"
 description = "Semantic Versioning 2.0.0"
-docs_url = "https://hexdocs.pm/stoiridh_version/"
 repo_url = "https://gitlab.com/stoiridh-project/stoiridh-version"
 category = "Parsing"

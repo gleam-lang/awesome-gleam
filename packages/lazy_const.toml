@@ -1,5 +1,4 @@
 name = "lazy_const"
 description = "Lazily initialised constants for Gleam"
-docs_url = "https://hexdocs.pm/lazy_const/"
 repo_url = "https://gitlab.com/arkandos/lazy-const"
 category = ""

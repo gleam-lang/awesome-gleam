@@ -1,5 +1,4 @@
 name = "cymbal"
 description = "Build YAML in Gleam!"
-docs_url = "https://hexdocs.pm/cymbal/"
 repo_url = "https://github.com/lpil/cymbal"
 category = "Formats"

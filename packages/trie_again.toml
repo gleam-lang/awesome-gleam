@@ -1,5 +1,4 @@
 name = "trie_again"
 description = "Tries in Gleam"
-docs_url = "https://hexdocs.pm/trie_again/"
 repo_url = "https://github.com/giacomocavalieri/trie_again"
 category = "Data Structures"

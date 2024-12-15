@@ -1,5 +1,4 @@
 name = "domu"
 description = "DOM library for Gleam"
-docs_url = "https://hexdocs.pm/domu/"
 repo_url = "https://github.com/0918nobita/domu"
 category = ""

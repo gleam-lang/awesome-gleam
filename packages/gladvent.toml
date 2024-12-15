@@ -1,5 +1,4 @@
 name = "gladvent"
 description = "An Advent Of Code runner for gleam"
-docs_url = "https://hexdocs.pm/gladvent/"
 repo_url = "https://github.com/TanklesXL/gladvent"
 category = ""

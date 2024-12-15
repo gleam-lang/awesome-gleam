@@ -1,5 +1,4 @@
 name = "pocket_watch"
 description = "Easily time execution of a block or function!"
-docs_url = "https://hexdocs.pm/pocket_watch/"
 repo_url = "https://github.com/SaphiraKai/pocket_watch"
 category = ""

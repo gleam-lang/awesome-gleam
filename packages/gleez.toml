@@ -1,5 +1,4 @@
 name = "gleez"
 description = "gleez cli, an experimental source installer"
-docs_url = "https://hexdocs.pm/gleez/"
 repo_url = "https://github.com/MAHcodes/gleez"
 category = ""

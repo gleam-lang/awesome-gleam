@@ -1,5 +1,4 @@
 name = "sketch_redraw"
 description = "A Sketch runtime package, made to work with Redraw!"
-docs_url = "https://hexdocs.pm/sketch_redraw/"
 repo_url = "https://github.com/ghivert/sketch"
 category = ""

@@ -1,5 +1,4 @@
 name = "glee_gd"
 description = "Gleam bindings for erlang/egd."
-docs_url = "https://hexdocs.pm/glee_gd/"
 repo_url = "https://github.com/stevetoro/glee_gd"
 category = ""

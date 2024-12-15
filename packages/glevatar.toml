@@ -1,5 +1,4 @@
 name = "glevatar"
 description = "Easily create Gravatar URLs in Gleam"
-docs_url = "https://hexdocs.pm/glevatar/"
 repo_url = "https://github.com/bunopnu/glevatar"
 category = "API Clients"

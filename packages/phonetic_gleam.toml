@@ -1,5 +1,4 @@
 name = "phonetic_gleam"
 description = "A collection of gleam algorithms dealing with phonetics."
-docs_url = "https://hexdocs.pm/phonetic_gleam/"
 repo_url = "https://github.com/leobm/phonetic_gleam"
 category = "Text"

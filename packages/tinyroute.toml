@@ -1,5 +1,4 @@
 name = "tinyroute"
 description = "A tiny http routing library"
-docs_url = "https://hexdocs.pm/tinyroute/"
 repo_url = "https://github.com/matteac/tinyroute_gl"
 category = ""

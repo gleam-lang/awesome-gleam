@@ -1,5 +1,4 @@
 name = "outcome"
 description = "Error handling for Gleam applications"
-docs_url = "https://hexdocs.pm/outcome/"
 repo_url = "https://github.com/sporto/gleam-outcome"
 category = ""

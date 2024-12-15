@@ -1,5 +1,4 @@
 name = "clad"
 description = "Command line argument decoders for Gleam"
-docs_url = "https://hexdocs.pm/clad/"
 repo_url = "https://github.com/ryanmiville/clad"
 category = ""

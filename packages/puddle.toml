@@ -1,5 +1,4 @@
 name = "puddle"
 description = "A resource pool manager for gleam"
-docs_url = "https://hexdocs.pm/puddle/"
 repo_url = "https://github.com/massivefermion/puddle"
 category = "Erlang and OTP"

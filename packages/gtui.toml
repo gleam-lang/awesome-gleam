@@ -1,5 +1,4 @@
 name = "gtui"
 description = "A TUI library for gleam"
-docs_url = "https://hexdocs.pm/gtui/"
 repo_url = "https://github.com/sanchit1053/gleam_tui"
 category = ""

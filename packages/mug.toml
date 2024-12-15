@@ -1,5 +1,4 @@
 name = "mug"
 description = "A TCP client for Gleam!"
-docs_url = "https://hexdocs.pm/mug/"
 repo_url = "https://github.com/lpil/mug"
 category = "Networking"

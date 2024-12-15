@@ -1,5 +1,4 @@
 name = "jasper"
 description = "Utilities for parsing and querying JSON data"
-docs_url = "https://hexdocs.pm/jasper/"
 repo_url = "https://github.com/LilyRose2798/jasper"
 category = ""

@@ -1,5 +1,4 @@
 name = "gleemenu"
 description = "A neat little API for creating single choice dialogs using dmenu clones!"
-docs_url = "https://hexdocs.pm/gleemenu/"
 repo_url = "https://github.com/SaphiraKai/gleemenu"
 category = ""

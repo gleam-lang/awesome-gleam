@@ -1,5 +1,4 @@
 name = "radish"
 description = "A Redis client for Gleam"
-docs_url = "https://hexdocs.pm/radish/"
 repo_url = "https://github.com/massivefermion/radish"
 category = "Databases"

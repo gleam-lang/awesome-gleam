@@ -1,5 +1,4 @@
 name = "gluid"
 description = "Generate Uuid for Gleam"
-docs_url = "https://hexdocs.pm/gluid/"
 repo_url = "https://github.com/titouancreach/gluid"
 category = ""

@@ -1,5 +1,4 @@
 name = "graph"
 description = "Directed and undirected graphs"
-docs_url = "https://hexdocs.pm/graph/"
 repo_url = "https://github.com/giacomocavalieri/graph"
 category = ""

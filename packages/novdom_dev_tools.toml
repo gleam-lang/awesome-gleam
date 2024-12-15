@@ -1,5 +1,4 @@
 name = "novdom_dev_tools"
 description = "Development Tooling and CLI for the novdom framework."
-docs_url = "https://hexdocs.pm/novdom_dev_tools/"
 repo_url = "https://github.com/TobiasBinnewies/novdom_dev_tools"
 category = ""

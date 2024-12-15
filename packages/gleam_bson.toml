@@ -1,5 +1,4 @@
 name = "gleam_bson"
 description = "bson encoder and decoder for gleam"
-docs_url = "https://hexdocs.pm/gleam_bson/"
 repo_url = "https://github.com/massivefermion/gleam_bson"
 category = ""

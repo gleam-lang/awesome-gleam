@@ -1,5 +1,4 @@
 name = "juno"
 description = "Flexible JSON decoding for Gleam"
-docs_url = "https://hexdocs.pm/juno/"
 repo_url = "https://github.com/massivefermion/juno"
 category = ""

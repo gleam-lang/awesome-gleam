@@ -1,5 +1,4 @@
 name = "defangle"
 description = "Defangle is a Gleam library for defanging URLs, Emails, and IP addresses making them safe to share."
-docs_url = "https://hexdocs.pm/defangle/"
 repo_url = "https://github.com/brittonhayes/defangle"
 category = ""

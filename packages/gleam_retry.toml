@@ -1,5 +1,4 @@
 name = "gleam_retry"
 description = "Retry code that can fail."
-docs_url = "https://hexdocs.pm/gleam_retry/"
 repo_url = "https://github.com/JosephTLyons/retry"
 category = ""

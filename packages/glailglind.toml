@@ -1,5 +1,4 @@
 name = "glailglind"
 description = "Gleam modules and functions for installing and invoking TailwindCSS"
-docs_url = "https://hexdocs.pm/glailglind/"
 repo_url = "https://github.com/okkdev/glailglind"
 category = "Frontend"

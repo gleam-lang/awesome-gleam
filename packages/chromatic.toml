@@ -1,5 +1,4 @@
 name = "chromatic"
 description = "Beautiful, expressive and composable color and text formatting for CLI in Gleam."
-docs_url = "https://hexdocs.pm/chromatic/"
 repo_url = "https://github.com/joshocalico/chromatic"
 category = ""

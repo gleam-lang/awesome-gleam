@@ -1,5 +1,4 @@
 name = "glitr_convert"
 description = "Utilities to create encoders and decoders from basic and complex types"
-docs_url = "https://hexdocs.pm/glitr_convert/"
 repo_url = "https://github.com/Billuc/glitr"
 category = ""

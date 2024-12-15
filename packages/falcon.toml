@@ -1,5 +1,4 @@
 name = "falcon"
 description = "A smoother way to make HTTP requests in Gleam with Axios-like methods"
-docs_url = "https://hexdocs.pm/falcon/"
 repo_url = "https://github.com/trulyao/falcon" # This URL goes nowhere.
 category = ""

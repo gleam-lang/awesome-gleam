@@ -1,5 +1,4 @@
 name = "lustre_virtual_list"
 description = "A virtual list component for lustre."
-docs_url = "https://hexdocs.pm/lustre_virtual_list/"
 repo_url = "https://github.com/schurhammer/lustre_virtual_list"
 category = "Frontend"

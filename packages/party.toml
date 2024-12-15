@@ -1,5 +1,4 @@
 name = "party"
 description = "A little parser combinator library"
-docs_url = "https://hexdocs.pm/party/"
 repo_url = "https://github.com/RyanBrewer317/party"
 category = ""

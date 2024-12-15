@@ -1,5 +1,4 @@
 name = "formz_string"
 description = "String widgets and field definitions for the formz library."
-docs_url = "https://hexdocs.pm/formz_string/"
 repo_url = "https://github.com/bentomas/formz"
 category = ""

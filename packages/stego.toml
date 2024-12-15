@@ -1,5 +1,4 @@
 name = "stego"
 description = "Deno.serve for Gleam ("
-docs_url = "https://hexdocs.pm/stego/"
 repo_url = "https://github.com/aslilac/stego"
 category = ""

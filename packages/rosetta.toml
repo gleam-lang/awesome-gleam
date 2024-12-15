@@ -1,5 +1,4 @@
 name = "rosetta"
 description = "An effort to bring all Erlang Standard Libraries to Gleam."
-docs_url = "https://hexdocs.pm/rosetta/"
 repo_url = "https://github.com/mjwhodur/rosetta"
 category = ""

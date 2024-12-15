@@ -1,5 +1,4 @@
 name = "comet"
 description = "Create a gleaming trail of application logs"
-docs_url = "https://hexdocs.pm/comet/"
 repo_url = "https://github.com/bnprtr/comet"
 category = ""

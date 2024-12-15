@@ -1,5 +1,4 @@
 name = "glimiter"
 description = "A simple sliding window limiter in pure gleam"
-docs_url = "https://hexdocs.pm/glimiter/"
 repo_url = "https://github.com/H-274/glimiter"
 category = ""

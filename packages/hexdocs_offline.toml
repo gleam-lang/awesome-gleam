@@ -1,5 +1,4 @@
 name = "hexdocs_offline"
 description = "Download an offline version of the hexdocs of your projects dependencies to a local folder!"
-docs_url = "https://hexdocs.pm/hexdocs_offline/"
 repo_url = "https://github.com/daniellionel01/hexdocs_offline"
 category = "Project Tooling"

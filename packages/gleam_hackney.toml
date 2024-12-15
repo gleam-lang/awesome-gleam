@@ -1,5 +1,4 @@
 name = "gleam_hackney"
 description = "Gleam bindings to the Hackney HTTP client"
-docs_url = "https://hexdocs.pm/gleam_hackney/"
 repo_url = "https://github.com/gleam-lang/hackney"
 category = "HTTP Clients"

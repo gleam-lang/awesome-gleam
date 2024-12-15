@@ -1,5 +1,4 @@
 name = "opt_args_with_defs_for_gleam"
 description = "Optional Arguments with Defaults for Gleam - A cursed workaround"
-docs_url = "https://hexdocs.pm/opt_args_with_defs_for_gleam/"
 repo_url = "https://github.com/inoas/opt_args_with_defs_for_gleam"
 category = ""

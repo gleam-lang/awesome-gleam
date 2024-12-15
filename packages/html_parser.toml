@@ -1,5 +1,4 @@
 name = "html_parser"
 description = "A simple HTML parser using Gleam"
-docs_url = "https://hexdocs.pm/html_parser/"
 repo_url = "https://github.com/calvinmclean/html_parser"
 category = ""

@@ -1,5 +1,4 @@
 name = "gleambox"
 description = "WIP mbox parser in Gleam"
-docs_url = "https://hexdocs.pm/gleambox/"
 repo_url = "https://github.com/bhankas/gleambox"
 category = ""

@@ -1,5 +1,4 @@
 name = "chip"
 description = "A Gleam registry library"
-docs_url = "https://hexdocs.pm/chip/"
 repo_url = "https://github.com/chouzar/chip"
 category = "Erlang and OTP"

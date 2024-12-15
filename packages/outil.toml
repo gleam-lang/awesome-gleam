@@ -1,5 +1,4 @@
 name = "outil"
 description = "A Gleam library for writing command line tools."
-docs_url = "https://hexdocs.pm/outil/"
 repo_url = "https://github.com/fabjan/outil"
 category = ""

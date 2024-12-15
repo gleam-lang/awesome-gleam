@@ -1,5 +1,4 @@
 name = "gleamy_bench"
 description = "A library for benchmarking gleam code."
-docs_url = "https://hexdocs.pm/gleamy_bench/"
 repo_url = "https://github.com/schurhammer/gleamy_bench"
 category = "Benchmarking"

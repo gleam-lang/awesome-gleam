@@ -1,5 +1,4 @@
 name = "prequel"
 description = "A markup language to define ER schemas"
-docs_url = "https://hexdocs.pm/prequel/"
 repo_url = "https://github.com/giacomocavalieri/prequel"
 category = ""

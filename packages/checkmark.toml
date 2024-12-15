@@ -1,5 +1,4 @@
 name = "checkmark"
 description = "Gleam markdown snippet validator"
-docs_url = "https://hexdocs.pm/checkmark/"
 repo_url = "https://github.com/sbergen/checkmark"
 category = ""

@@ -1,5 +1,4 @@
 name = "gxid"
 description = "A Gleam implementation of xid"
-docs_url = "https://hexdocs.pm/gxid/"
 repo_url = "https://github.com/defgenx/gxid"
 category = ""

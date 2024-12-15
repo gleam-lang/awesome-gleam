@@ -1,5 +1,4 @@
 name = "ag_html"
 description = "A Gleam library for building HTML strings usings functions."
-docs_url = "https://hexdocs.pm/ag_html/"
 repo_url = "https://github.com/avdgaag/gleam_ag_html"
 category = ""

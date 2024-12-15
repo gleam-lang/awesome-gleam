@@ -1,5 +1,4 @@
 name = "polly"
 description = "A polling file-system watcher"
-docs_url = "https://hexdocs.pm/polly/"
 repo_url = "https://gitlab.com/arkandos/polly"
 category = ""

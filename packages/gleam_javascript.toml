@@ -1,5 +1,4 @@
 name = "gleam_javascript"
 description = "Work with JavaScript types and values in Gleam"
-docs_url = "https://hexdocs.pm/gleam_javascript/"
 repo_url = "https://github.com/gleam-lang/javascript"
 category = "JavaScript"

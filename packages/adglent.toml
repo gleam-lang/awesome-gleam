@@ -1,5 +1,4 @@
 name = "adglent"
 description = "Advent of code helper - automating setup of tests, solution template and problem input"
-docs_url = "https://hexdocs.pm/adglent/"
 repo_url = "https://github.com/JohnBjrk/adglent"
 category = ""

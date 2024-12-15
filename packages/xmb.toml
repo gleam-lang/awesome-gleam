@@ -1,5 +1,4 @@
 name = "xmb"
 description = "A tiny XML builder for Gleam"
-docs_url = "https://hexdocs.pm/xmb/"
 repo_url = "https://github.com/lpil/xmb"
 category = ""

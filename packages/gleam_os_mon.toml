@@ -1,5 +1,4 @@
 name = "gleam_os_mon"
 description = "A wrapper for the os_mon functionality"
-docs_url = "https://hexdocs.pm/gleam_os_mon/"
 repo_url = "https://github.com/manveru/gleam_os_mon"
 category = ""

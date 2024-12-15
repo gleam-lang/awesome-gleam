@@ -1,5 +1,4 @@
 name = "ranged_int"
 description = "Type safe ranged integer operations for Gleam."
-docs_url = "https://hexdocs.pm/ranged_int/"
 repo_url = "https://gitlab.com/Nicd/ranged_int"
 category = ""

@@ -1,5 +1,4 @@
 name = "ratioed"
 description = "A rational number library for gleam."
-docs_url = "https://hexdocs.pm/ratioed/"
 repo_url = "https://github.com/schurhammer/ratioed"
 category = ""

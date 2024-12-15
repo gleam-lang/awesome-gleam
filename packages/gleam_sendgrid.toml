@@ -1,5 +1,4 @@
 name = "gleam_sendgrid"
 description = "Send emails from Gleam with SendGrid"
-docs_url = "https://hexdocs.pm/gleam_sendgrid/"
 repo_url = "https://github.com/lpil/gleam_sendgrid"
 category = "Email"

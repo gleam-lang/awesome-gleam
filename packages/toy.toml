@@ -1,5 +1,4 @@
 name = "toy"
 description = "Practical composable decoders and validators for Gleam"
-docs_url = "https://hexdocs.pm/toy/"
 repo_url = "https://github.com/Hackder/toy"
 category = ""

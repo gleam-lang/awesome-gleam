@@ -1,5 +1,4 @@
 name = "lustre_tauri"
 description = "Gleam bindings to Tauri commands for Lustre web applications"
-docs_url = "https://hexdocs.pm/lustre_tauri/"
 repo_url = "https://github.com/ethanthoma/lustre_tauri"
 category = ""

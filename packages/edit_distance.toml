@@ -1,5 +1,4 @@
 name = "edit_distance"
 description = "A pure Gleam package to compute the edit distance of two strings"
-docs_url = "https://hexdocs.pm/edit_distance/"
 repo_url = "https://github.com/giacomocavalieri/edit_distance"
 category = "Text"

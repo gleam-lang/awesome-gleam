@@ -1,5 +1,4 @@
 name = "gloom"
 description = "A hardcore language for buildling extreme systems"
-docs_url = "https://hexdocs.pm/gloom/"
 repo_url = "https://github.com/gloom-lang/gloom"
 category = ""

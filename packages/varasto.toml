@@ -1,5 +1,4 @@
 name = "varasto"
 description = "Typed access to LocalStorage/SessionStorage in Gleam"
-docs_url = "https://hexdocs.pm/varasto/"
 repo_url = "https://gitlab.com/Nicd/varasto"
 category = ""

@@ -1,5 +1,4 @@
 name = "gip"
 description = "Process ip's in js and erlang via gleam"
-docs_url = "https://hexdocs.pm/gip/"
 repo_url = "https://github.com/BradBot1/gleam_gip"
 category = ""

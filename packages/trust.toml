@@ -1,5 +1,4 @@
 name = "trust"
 description = "Data validation library for Gleam"
-docs_url = "https://hexdocs.pm/trust/"
 repo_url = "https://github.com/krystofrezac/trust"
 category = ""

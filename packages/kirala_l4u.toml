@@ -1,5 +1,4 @@
 name = "kirala_l4u"
 description = "An embedded lisp interpreter based on the gleam implementation of MAL lisp."
-docs_url = "https://hexdocs.pm/kirala_l4u/"
 repo_url = "https://github.com/Yasuo-Higano/kirala_l4u"
 category = ""

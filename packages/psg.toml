@@ -1,5 +1,4 @@
 name = "psg"
 description = "An unofficial Gleam port of PlanetScale's DatabaseJS driver"
-docs_url = "https://hexdocs.pm/psg/"
 repo_url = "https://github.com/kathrindc/galaxyscale"
 category = ""

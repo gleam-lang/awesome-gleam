@@ -1,5 +1,4 @@
 name = "glog"
 description = "A Gleam implementation of Erlang logger"
-docs_url = "https://hexdocs.pm/glog/"
 repo_url = "https://github.com/defgenx/glog"
 category = "Logging and Monitoring"

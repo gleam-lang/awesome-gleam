@@ -1,5 +1,4 @@
 name = "gbase32_clockwork"
 description = "base32 clockwork in gleam"
-docs_url = "https://hexdocs.pm/gbase32_clockwork/"
 repo_url = "https://github.com/dropwhile/gbase32_clockwork"
 category = ""

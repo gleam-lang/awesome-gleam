@@ -1,5 +1,4 @@
 name = "dig"
 description = "parse path expr as `dynamic.Decoder`"
-docs_url = "https://hexdocs.pm/dig/"
 repo_url = "https://github.com/lost22git/dig"
 category = ""

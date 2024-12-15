@@ -1,5 +1,4 @@
 name = "bitsandbobs"
 description = "A collection of functions for working with BitArray's in gleam"
-docs_url = "https://hexdocs.pm/bitsandbobs/"
 repo_url = "https://github.com/BradBot1/gleam_bitsandbobs"
 category = ""

@@ -1,5 +1,4 @@
 name = "esgleam"
 description = "esbuild for Gleam"
-docs_url = "https://hexdocs.pm/esgleam/"
 repo_url = "https://github.com/Enderchief/esgleam"
 category = "Build Tooling"

@@ -1,5 +1,4 @@
 name = "gleam_qs"
 description = "Parse and encode URL query strings"
-docs_url = "https://hexdocs.pm/gleam_qs/"
 repo_url = "https://github.com/sporto/gleam_qs"
 category = ""

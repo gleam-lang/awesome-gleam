@@ -1,5 +1,4 @@
 name = "gleb128"
 description = "GLEB128 is a small Gleam library that provides functions for encoding and decoding LEB128 (Little Endian Base 128) integers."
-docs_url = "https://hexdocs.pm/gleb128/"
 repo_url = "https://github.com/BrendoCosta/gleb128"
 category = ""

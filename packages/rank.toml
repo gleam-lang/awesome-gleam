@@ -1,5 +1,4 @@
 name = "rank"
 description = "Ordinals for numbers, e.g. 1st, 2nd, 3rd"
-docs_url = "https://hexdocs.pm/rank/"
 repo_url = "https://github.com/lpil/glance"
 category = "Text"

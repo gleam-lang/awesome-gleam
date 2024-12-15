@@ -1,5 +1,4 @@
 name = "signal_pgo"
 description = "A postgres persistance layer for the Signal event sourcing library."
-docs_url = "https://hexdocs.pm/signal_pgo/"
 repo_url = "https://github.com/DominikBB/signal"
 category = ""

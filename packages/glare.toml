@@ -1,5 +1,4 @@
 name = "glare"
 description = "Bright Gleam Web Framework using SolidJS"
-docs_url = "https://hexdocs.pm/glare/"
 repo_url = "https://github.com/Endercheif/glare"
 category = ""

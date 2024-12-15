@@ -1,5 +1,4 @@
 name = "felix"
 description = "Authentication via Passkey (WebAuthn/FIDO2)"
-docs_url = "https://hexdocs.pm/felix/"
 repo_url = "https://github.com/crowdhailer/felix"
 category = ""

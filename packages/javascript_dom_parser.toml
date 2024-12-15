@@ -1,5 +1,4 @@
 name = "javascript_dom_parser"
 description = "Bindings to the JavaScript DOMParser API"
-docs_url = "https://hexdocs.pm/javascript_dom_parser/"
 repo_url = "https://github.com/lpil/javascript-dom-parser"
 category = "JavaScript"

@@ -1,5 +1,4 @@
 name = "glubsub"
 description = "A simple PubSub library using Gleam actors"
-docs_url = "https://hexdocs.pm/glubsub/"
 repo_url = "https://github.com/okkdev/glubsub"
 category = ""

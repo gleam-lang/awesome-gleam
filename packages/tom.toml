@@ -1,5 +1,4 @@
 name = "tom"
 description = "A pure Gleam TOML parser!"
-docs_url = "https://hexdocs.pm/tom/"
 repo_url = "https://github.com/lpil/tom"
 category = "Formats"

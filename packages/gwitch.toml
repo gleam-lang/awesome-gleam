@@ -1,5 +1,4 @@
 name = "gwitch"
 description = "a gleam lib for connecting to twitch IRC"
-docs_url = "https://hexdocs.pm/gwitch/"
 repo_url = "https://github.com/sneakycrow/gwitch"
 category = ""

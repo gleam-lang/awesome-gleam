@@ -1,5 +1,4 @@
 name = "glistix_gleeunit"
 description = "A fork of gleeunit for Glistix's Nix target"
-docs_url = "https://hexdocs.pm/glistix_gleeunit/"
 repo_url = "https://github.com/glistix/gleeunit"
 category = ""

@@ -1,5 +1,4 @@
 name = "gleam_cors"
 description = "A CORS middleware for Gleam"
-docs_url = "https://hexdocs.pm/gleam_cors/"
 repo_url = "https://github.com/megapctr/gleam_cors"
 category = ""

@@ -1,5 +1,4 @@
 name = "colored"
 description = "Simple CLI color library for gleam"
-docs_url = "https://hexdocs.pm/colored/"
 repo_url = "https://github.com/dhruvdabhi101/colored"
 category = ""

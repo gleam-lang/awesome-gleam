@@ -1,5 +1,4 @@
 name = "geny"
 description = "Error handling library for gleam language"
-docs_url = "https://hexdocs.pm/geny/"
 repo_url = "https://github.com/jedsek/geny"
 category = ""

@@ -1,5 +1,4 @@
 name = "functx"
 description = "Tiny Gleam caching Context for your functions"
-docs_url = "https://hexdocs.pm/functx/"
 repo_url = "https://github.com/darky/functx"
 category = ""

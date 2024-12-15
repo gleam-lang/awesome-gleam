@@ -1,5 +1,4 @@
 name = "novdom_testing"
 description = "Testing utilities for the novdom fromework"
-docs_url = "https://hexdocs.pm/novdom_testing/"
 repo_url = "https://github.com/TobiasBinnewies/novdom-testing"
 category = ""

@@ -1,5 +1,4 @@
 name = "nimiq_gleam"
 description = "Various modules and helpers for working with Nimiq primitives in the Gleam programming language or as a CLI"
-docs_url = "https://hexdocs.pm/nimiq_gleam/"
 repo_url = "https://github.com/sisou/nimiq_gleam"
 category = ""

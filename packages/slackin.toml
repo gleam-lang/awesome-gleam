@@ -1,5 +1,4 @@
 name = "slackin"
 description = "A library for interacting with Slack."
-docs_url = "https://hexdocs.pm/slackin/"
 repo_url = "https://github.com/maxdeviant/slackin"
 category = ""

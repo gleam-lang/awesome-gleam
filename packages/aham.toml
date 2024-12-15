@@ -1,5 +1,4 @@
 name = "aham"
 description = "Build multilingual Gleam applications"
-docs_url = "https://hexdocs.pm/aham/"
 repo_url = "https://github.com/salif/aham"
 category = ""

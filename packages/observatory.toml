@@ -1,5 +1,4 @@
 name = "observatory"
 description = "A Gleam client library for Prometheus"
-docs_url = "https://hexdocs.pm/observatory/"
 repo_url = "https://github.com/lazorgurl/observatory"
 category = ""

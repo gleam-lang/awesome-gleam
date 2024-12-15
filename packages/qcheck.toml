@@ -1,5 +1,4 @@
 name = "qcheck"
 description = "QuickCheck-inspired property testing with integrated shrinking"
-docs_url = "https://hexdocs.pm/qcheck/"
 repo_url = "https://github.com/mooreryan/gleam_qcheck"
 category = ""

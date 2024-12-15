@@ -1,5 +1,4 @@
 name = "ygleam"
 description = "Yjs Gleam Bindings"
-docs_url = "https://hexdocs.pm/ygleam/"
 repo_url = "https://github.com/weedonandscott/gleam_yjs"
 category = ""

@@ -1,5 +1,4 @@
 name = "lite_fs"
 description = "litefs event stream client for gleam."
-docs_url = "https://hexdocs.pm/lite_fs/"
 repo_url = "https://github.com/VioletBuse/lite_fs"
 category = ""

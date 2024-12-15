@@ -1,5 +1,4 @@
 name = "beecrypt"
 description = "Buzzing Gleam bindings to the Erlang bcrypt hashing library"
-docs_url = "https://hexdocs.pm/beecrypt/"
 repo_url = "https://github.com/lpil/beecrypt"
 category = "Cryptography"

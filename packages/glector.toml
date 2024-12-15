@@ -1,5 +1,4 @@
 name = "glector"
 description = "2D vectors for Gleam"
-docs_url = "https://hexdocs.pm/glector/"
 repo_url = "https://github.com/0xca551e/glector"
 category = ""

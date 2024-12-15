@@ -1,5 +1,4 @@
 name = "gloml"
 description = "A gleam library for parsing toml."
-docs_url = "https://hexdocs.pm/gloml/"
 repo_url = "https://github.com/lunarmagpie/gloml"
 category = ""

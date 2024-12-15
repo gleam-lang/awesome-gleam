@@ -1,5 +1,4 @@
 name = "gpxb"
 description = "A tiny GPX builder for Gleam"
-docs_url = "https://hexdocs.pm/gpxb/"
 repo_url = "https://github.com/lpil/gpxb"
 category = ""

@@ -1,5 +1,4 @@
 name = "chomp"
 description = "🍪 Lexer step + parser combinators + great error messages [nibble fork]"
-docs_url = "https://hexdocs.pm/chomp/"
 repo_url = "https://github.com/MystPi/chomp"
 category = ""

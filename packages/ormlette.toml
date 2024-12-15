@@ -1,5 +1,4 @@
 name = "ormlette"
 description = "A delightful ORM (?) for Gleam! 🍳"
-docs_url = "https://hexdocs.pm/ormlette/"
 repo_url = "https://github.com/ashercn97/ormlette"
 category = ""

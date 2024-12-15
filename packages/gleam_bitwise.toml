@@ -1,5 +1,4 @@
 name = "gleam_bitwise"
 description = "Bitwise operations on integers"
-docs_url = "https://hexdocs.pm/gleam_bitwise/"
 repo_url = "https://github.com/gleam-lang/bitwise"
 category = ""

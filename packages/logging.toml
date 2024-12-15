@@ -1,5 +1,4 @@
 name = "logging"
 description = "Configuration for the Erlang logger"
-docs_url = "https://hexdocs.pm/logging/"
 repo_url = "https://github.com/lpil/logging"
 category = "Logging and Monitoring"

@@ -1,5 +1,4 @@
 name = "gen_core_erlang"
 description = "Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)"
-docs_url = "https://hexdocs.pm/gen_core_erlang/"
 repo_url = "https://codeberg.org/kero/gleam_codegen"
 category = "Erlang and OTP"

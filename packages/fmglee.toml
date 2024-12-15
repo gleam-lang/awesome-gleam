@@ -1,5 +1,4 @@
 name = "fmglee"
 description = "A string formatting library for gleam"
-docs_url = "https://hexdocs.pm/fmglee/"
 repo_url = "https://github.com/sam-kenney/fmglee"
 category = ""

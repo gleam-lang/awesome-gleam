@@ -1,5 +1,4 @@
 name = "wemote"
 description = "A gleam package for executing code on remote nodes."
-docs_url = "https://hexdocs.pm/wemote/"
 repo_url = "https://github.com/VioletBuse/wemote"
 category = ""

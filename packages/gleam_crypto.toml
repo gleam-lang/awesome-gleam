@@ -1,5 +1,4 @@
 name = "gleam_crypto"
 description = "A Gleam cryptography library supporting Erlang and JavaScript"
-docs_url = "https://hexdocs.pm/gleam_crypto/"
 repo_url = "https://github.com/gleam-lang/crypto"
 category = "Cryptography"

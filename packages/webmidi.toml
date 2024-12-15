@@ -1,5 +1,4 @@
 name = "webmidi"
 description = "Web MIDI API bindings for Gleam"
-docs_url = "https://hexdocs.pm/webmidi/"
 repo_url = "https://github.com/enderchief/webmidi"
 category = ""

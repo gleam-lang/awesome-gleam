@@ -1,5 +1,4 @@
 name = "apollo"
 description = "a simple type safe validator"
-docs_url = "https://hexdocs.pm/apollo/"
 repo_url = "https://github.com/endercheif/apollo"
 category = ""

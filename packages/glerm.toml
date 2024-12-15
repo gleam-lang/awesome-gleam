@@ -1,5 +1,4 @@
 name = "glerm"
 description = "A terminal wrapper for Gleam"
-docs_url = "https://hexdocs.pm/glerm/"
 repo_url = "https://github.com/rawhat/glerm"
 category = ""

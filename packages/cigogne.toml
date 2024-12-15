@@ -1,5 +1,4 @@
 name = "cigogne"
 description = "Easily migrate your Postgres databases. In Gleam !"
-docs_url = "https://hexdocs.pm/cigogne/"
 repo_url = "https://github.com/Billuc/cigogne"
 category = ""

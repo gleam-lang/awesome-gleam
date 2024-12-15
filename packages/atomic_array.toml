@@ -1,5 +1,4 @@
 name = "atomic_array"
 description = "Atomic mutable int arrays for Gleam!"
-docs_url = "https://hexdocs.pm/atomic_array/"
 repo_url = "https://github.com/lpil/atomic-array"
 category = ""

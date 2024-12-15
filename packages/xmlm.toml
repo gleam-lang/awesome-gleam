@@ -1,5 +1,4 @@
 name = "xmlm"
 description = "An pull-based XML parser for the Gleam programming language"
-docs_url = "https://hexdocs.pm/xmlm/"
 repo_url = "https://github.com/mooreryan/gleam_xmlm"
 category = ""

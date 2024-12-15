@@ -1,5 +1,4 @@
 name = "glesha"
 description = "SHA-2 for Gleam"
-docs_url = "https://hexdocs.pm/glesha/"
 repo_url = "https://github.com/bunopnu/glesha"
 category = ""

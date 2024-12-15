@@ -1,5 +1,4 @@
 name = "gleam_hexpm"
 description = "Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem."
-docs_url = "https://hexdocs.pm/gleam_hexpm/"
 repo_url = "https://github.com/gleam-lang/hexpm"
 category = "API Clients"

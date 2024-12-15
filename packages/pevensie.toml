@@ -1,5 +1,4 @@
 name = "pevensie"
 description = "The backend application framework for Gleam!"
-docs_url = "https://hexdocs.pm/pevensie/"
 repo_url = "https://github.com/Pevensie/pevensie"
 category = ""

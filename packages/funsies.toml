@@ -1,5 +1,4 @@
 name = "funsies"
 description = "A fun, friendly, and type-safe ORM for Gleam! Compose type-safe SQL queries, generate decoders and types from schemas, and with a fun CLI!"
-docs_url = "https://hexdocs.pm/funsies/"
 repo_url = "https://github.com/ashercn97/funsies"
 category = ""

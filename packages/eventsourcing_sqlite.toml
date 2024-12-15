@@ -1,5 +1,4 @@
 name = "eventsourcing_sqlite"
 description = "Sqlite event store for the Eventsourcing library"
-docs_url = "https://hexdocs.pm/eventsourcing_sqlite/"
 repo_url = "https://github.com/renatillas/eventsourcing_sqlite"
 category = ""

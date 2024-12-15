@@ -1,5 +1,4 @@
 name = "sqlight"
 description = "Use SQLite from Gleam!"
-docs_url = "https://hexdocs.pm/sqlight/"
 repo_url = "https://github.com/lpil/sqlight"
 category = "Databases"

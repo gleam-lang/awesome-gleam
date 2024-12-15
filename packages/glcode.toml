@@ -1,5 +1,4 @@
 name = "glcode"
 description = "Gleam bindings to Erlang's code module"
-docs_url = "https://hexdocs.pm/glcode/"
 repo_url = "https://github.com/grodaus/glcode"
 category = ""

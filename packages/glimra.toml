@@ -1,5 +1,4 @@
 name = "glimra"
 description = "Zero runtime syntax highlighter for lustre/ssg."
-docs_url = "https://hexdocs.pm/glimra/"
 repo_url = "https://github.com/ollema/glimra"
 category = ""

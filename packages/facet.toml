@@ -1,5 +1,4 @@
 name = "facet"
 description = "A frontmatter parser for gleam."
-docs_url = "https://hexdocs.pm/facet/"
 repo_url = "https://git.sr.ht/~blu/facet"
 category = ""

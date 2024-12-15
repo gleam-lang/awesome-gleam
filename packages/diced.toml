@@ -1,5 +1,4 @@
 name = "diced"
 description = "Simple algraeic dice notation parser for Gleam"
-docs_url = "https://hexdocs.pm/diced/"
 repo_url = "https://codeberg.org/sheetr/diced"
 category = ""

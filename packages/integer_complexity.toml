@@ -1,5 +1,4 @@
 name = "integer_complexity"
 description = "A library for computing integer complexity."
-docs_url = "https://hexdocs.pm/integer_complexity/"
 repo_url = "https://github.com/Master-Bw3/integer_complexity"
 category = ""

@@ -1,5 +1,4 @@
 name = "tubes"
 description = "a nice irc library"
-docs_url = "https://hexdocs.pm/tubes/"
 repo_url = "https://git.sr.ht/~leah/tubes_core"
 category = ""

@@ -1,5 +1,4 @@
 name = "gledo"
 description = "Gleam decode Option"
-docs_url = "https://hexdocs.pm/gledo/"
 repo_url = "https://github.com/darky/gledo"
 category = ""

@@ -1,5 +1,4 @@
 name = "cors_builder"
 description = "A CORS Builder, performing validation and injection of CORS for misp, wisp and any framework!"
-docs_url = "https://hexdocs.pm/cors_builder/"
 repo_url = "https://github.com/ghivert/cors-builder"
 category = "HTTP"

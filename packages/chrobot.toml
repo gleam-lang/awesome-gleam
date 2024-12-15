@@ -1,5 +1,4 @@
 name = "chrobot"
 description = "A browser automation tool and interface to the Chrome DevTools Protocol."
-docs_url = "https://hexdocs.pm/chrobot/"
 repo_url = "https://github.com/JonasGruenwald/chrobot"
 category = ""

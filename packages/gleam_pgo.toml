@@ -1,5 +1,4 @@
 name = "gleam_pgo"
 description = "Gleam bindings to the PGO PostgreSQL client"
-docs_url = "https://hexdocs.pm/gleam_pgo/"
 repo_url = "https://github.com/gleam-experiments/pgo"
 category = ""

@@ -1,5 +1,4 @@
 name = "bison"
 description = "BSON encoder and decoder for Gleam"
-docs_url = "https://hexdocs.pm/bison/"
 repo_url = "https://github.com/massivefermion/bison"
 category = ""

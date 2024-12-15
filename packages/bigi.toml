@@ -1,5 +1,4 @@
 name = "bigi"
 description = "Arbitrary precision integer arithmetic for Gleam"
-docs_url = "https://hexdocs.pm/bigi/"
 repo_url = "https://gitlab.com/Nicd/bigi"
 category = "Numbers"

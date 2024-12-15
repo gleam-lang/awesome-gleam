@@ -1,5 +1,4 @@
 name = "openfeature"
 description = "The Gleam SDK for the OpenFeature specification."
-docs_url = "https://hexdocs.pm/openfeature/"
 repo_url = "https://github.com/horvathandris/openfeature-gleam-sdk"
 category = "SDKs"

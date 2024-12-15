@@ -1,5 +1,4 @@
 name = "gsv"
 description = "A simple csv parser and generator written in gleam "
-docs_url = "https://hexdocs.pm/gsv/"
 repo_url = "https://github.com/bcpeinhardt/gsv"
 category = "Formats"

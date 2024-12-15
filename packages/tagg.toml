@@ -1,5 +1,4 @@
 name = "tagg"
 description = "An HTML templating engine that uses XML/HTML tag syntax to render HTML."
-docs_url = "https://hexdocs.pm/tagg/"
 repo_url = "https://github.com/jasonprogrammer/tagg"
 category = ""

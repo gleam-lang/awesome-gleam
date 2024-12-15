@@ -1,5 +1,4 @@
 name = "bucket"
 description = "Gleam S3 API client, suitable for AWS S3, Garage, Minio, Storj, Backblaze B2, Cloudflare R2, Ceph, Wasabi, and so on!"
-docs_url = "https://hexdocs.pm/bucket/"
 repo_url = "https://github.com/lpil/bucket"
 category = "SDKs"

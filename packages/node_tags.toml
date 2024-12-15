@@ -1,5 +1,4 @@
 name = "node_tags"
 description = "A ditributed gleam service to dynamically give nodes labels and filter by said labels."
-docs_url = "https://hexdocs.pm/node_tags/"
 repo_url = "https://github.com/VioletBuse/node_tags"
 category = ""

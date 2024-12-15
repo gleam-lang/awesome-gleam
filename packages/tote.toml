@@ -1,5 +1,4 @@
 name = "tote"
 description = "Bags (or multisets) in Gleam"
-docs_url = "https://hexdocs.pm/tote/"
 repo_url = "https://github.com/giacomocavalieri/tote"
 category = "Data Structures"

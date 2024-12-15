@@ -1,5 +1,4 @@
 name = "bliss"
 description = "A micro web framework for Gleam"
-docs_url = "https://hexdocs.pm/bliss/"
 repo_url = "https://github.com/sporto/bliss"
 category = ""

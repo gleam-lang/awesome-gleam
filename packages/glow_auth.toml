@@ -1,5 +1,4 @@
 name = "glow_auth"
 description = "OAuth2 helpers in Gleam..."
-docs_url = "https://hexdocs.pm/glow_auth/"
 repo_url = "https://github.com/adz/glow_auth"
 category = ""

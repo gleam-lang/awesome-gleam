@@ -1,5 +1,4 @@
 name = "validated"
 description = "Easily accumulate errors in Gleam!"
-docs_url = "https://hexdocs.pm/validated/"
 repo_url = "https://github.com/ryanmiville/validated"
 category = ""

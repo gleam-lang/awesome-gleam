@@ -1,5 +1,4 @@
 name = "outkeep"
 description = "Some help ingesting Keep data obtained via Takeout…"
-docs_url = "https://hexdocs.pm/outkeep/"
 repo_url = "https://github.com/awseward/outkeep"
 category = ""

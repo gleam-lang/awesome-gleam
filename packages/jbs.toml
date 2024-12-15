@@ -1,5 +1,4 @@
 name = "jbs"
 description = "a collection of helper functions that help to convert your data between json, bson, and struct"
-docs_url = "https://hexdocs.pm/jbs/"
 repo_url = "https://github.com/bamii/jbs"
 category = ""

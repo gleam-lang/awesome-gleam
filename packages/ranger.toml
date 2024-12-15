@@ -1,5 +1,4 @@
 name = "ranger"
 description = "create ranges over any type"
-docs_url = "https://hexdocs.pm/ranger/"
 repo_url = "https://github.com/massivefermion/ranger"
 category = ""

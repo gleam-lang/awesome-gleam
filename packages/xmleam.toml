@@ -1,5 +1,4 @@
 name = "xmleam"
 description = "A lean builder for XML all for Gleam"
-docs_url = "https://hexdocs.pm/xmleam/"
 repo_url = "https://github.com/tovedetered/xmleam"
 category = ""

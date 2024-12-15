@@ -1,5 +1,4 @@
 name = "gleebor"
 description = "A CBOR (RFC 8949) decoder/encoder library implemented in pure Gleam"
-docs_url = "https://hexdocs.pm/gleebor/"
 repo_url = "https://github.com/chiefnoah/cbor_gl"
 category = ""

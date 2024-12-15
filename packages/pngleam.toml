@@ -1,5 +1,4 @@
 name = "pngleam"
 description = "PNG image library for Gleam"
-docs_url = "https://hexdocs.pm/pngleam/"
 repo_url = "https://github.com/LilyRose2798/pngleam"
 category = ""

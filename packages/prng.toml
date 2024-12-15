@@ -1,5 +1,4 @@
 name = "prng"
 description = "A Pure Random Number Generator"
-docs_url = "https://hexdocs.pm/prng/"
 repo_url = "https://github.com/giacomocavalieri/prng"
 category = "Randomness"

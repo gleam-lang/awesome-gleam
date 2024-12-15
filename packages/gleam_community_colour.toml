@@ -1,5 +1,4 @@
 name = "gleam_community_colour"
 description = "Colour types, conversions, and other utilities"
-docs_url = "https://hexdocs.pm/gleam_community_colour/"
 repo_url = "https://github.com/gleam-community/colour"
 category = "Graphics"

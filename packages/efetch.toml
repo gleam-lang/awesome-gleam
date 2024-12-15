@@ -1,5 +1,4 @@
 name = "efetch"
 description = "A multi-target http client for gleam."
-docs_url = "https://hexdocs.pm/efetch/"
 repo_url = "https://github.com/lv37/efetch"
 category = ""

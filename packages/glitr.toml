@@ -1,5 +1,4 @@
 name = "glitr"
 description = "Gleam typed routes library for type-safe fullstack development"
-docs_url = "https://hexdocs.pm/glitr/"
 repo_url = "https://github.com/Billuc/glitr"
 category = ""

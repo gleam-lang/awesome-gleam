@@ -1,5 +1,4 @@
 name = "plunk"
 description = "A Gleam library to send emails, manage contacts etc. using the Plunk API"
-docs_url = "https://hexdocs.pm/plunk/"
 repo_url = "https://github.com/aosasona/plunk.gleam"
 category = "Email"

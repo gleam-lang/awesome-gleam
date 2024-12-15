@@ -1,5 +1,4 @@
 name = "carpenter"
 description = "Bindings for Erlang's ETS tables. Forked and updated from gts."
-docs_url = "https://hexdocs.pm/carpenter/"
 repo_url = "https://github.com/grottohub/carpenter"
 category = "Erlang and OTP"

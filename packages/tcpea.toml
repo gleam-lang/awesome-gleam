@@ -1,5 +1,4 @@
 name = "tcpea"
 description = "A TCP library for Gleam."
-docs_url = "https://hexdocs.pm/tcpea/"
 repo_url = "https://github.com/orvitpng/tcpea"
 category = ""

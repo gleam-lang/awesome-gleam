@@ -1,5 +1,4 @@
 name = "grammy"
 description = "A basic Gleam UDP server"
-docs_url = "https://hexdocs.pm/grammy/"
 repo_url = "https://github.com/rawhat/grammy"
 category = ""

@@ -1,5 +1,4 @@
 name = "glimmer"
 description = "A concurrency library for Gleam!"
-docs_url = "https://hexdocs.pm/glimmer/"
 repo_url = "https://github.com/RyanBrewer317/glimmer"
 category = ""

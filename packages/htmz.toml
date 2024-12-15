@@ -1,5 +1,4 @@
 name = "htmz"
 description = "A Gleam library for generating HTML"
-docs_url = "https://hexdocs.pm/htmz/"
 repo_url = "https://github.com/finalclass/htmz"
 category = ""

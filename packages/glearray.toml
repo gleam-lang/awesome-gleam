@@ -1,5 +1,4 @@
 name = "glearray"
 description = "Immutable arrays for Gleam"
-docs_url = "https://hexdocs.pm/glearray/"
 repo_url = "https://github.com/fschwalbe/glearray"
 category = "Data Structures"

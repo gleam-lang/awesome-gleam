@@ -1,5 +1,4 @@
 name = "telega"
 description = "Gleam Telegram Bot Library"
-docs_url = "https://hexdocs.pm/telega/"
 repo_url = "https://github.com/bondiano/telega"
 category = ""

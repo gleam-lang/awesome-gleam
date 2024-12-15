@@ -1,5 +1,4 @@
 name = "gleatter_lustre"
 description = "Interface for Lustre to use Gleatter's typed routes"
-docs_url = "https://hexdocs.pm/gleatter_lustre/"
 repo_url = "https://github.com/Billuc/gleatter_lustre"
 category = ""

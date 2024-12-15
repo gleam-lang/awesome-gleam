@@ -1,5 +1,4 @@
 name = "cosmos"
 description = "A UI Library for the novdom frontend framework writte in Gleam. Focused on office application and customizability for the end user"
-docs_url = "https://hexdocs.pm/cosmos/"
 repo_url = "https://gitlab.com/TobiasBinnewies/cosmos"
 category = ""

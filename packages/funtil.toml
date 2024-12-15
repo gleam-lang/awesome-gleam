@@ -1,5 +1,4 @@
 name = "funtil"
 description = "Handy utilities for better functional programming in Gleam!"
-docs_url = "https://hexdocs.pm/funtil/"
 repo_url = "https://github.com/hayleigh-dot-dev/gleam-lustre"
 category = ""

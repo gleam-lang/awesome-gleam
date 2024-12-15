@@ -1,5 +1,4 @@
 name = "glitr_convert_cake"
 description = "Encode and decode from and to Gleam types effortlessly !"
-docs_url = "https://hexdocs.pm/glitr_convert_cake/"
 repo_url = "https://github.com/Billuc/glitr"
 category = ""

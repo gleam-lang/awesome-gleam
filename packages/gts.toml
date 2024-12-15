@@ -1,5 +1,4 @@
 name = "gts"
 description = "Opinionated bindings to erlang's ets tables."
-docs_url = "https://hexdocs.pm/gts/"
 repo_url = "https://github.com/lunarmagpie/gts"
 category = ""

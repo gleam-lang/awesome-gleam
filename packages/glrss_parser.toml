@@ -1,5 +1,4 @@
 name = "glrss_parser"
 description = "Parse RSS feeds."
-docs_url = "https://hexdocs.pm/glrss_parser/"
 repo_url = "https://codeberg.org/bobjoe12131/glrss_parser"
 category = ""

@@ -1,5 +1,4 @@
 name = "gleamlz_string"
 description = "Gleam implementation of the JavaScript lz-string library"
-docs_url = "https://hexdocs.pm/gleamlz_string/"
 repo_url = "https://github.com/eelmafia/gleamlz_string"
 category = ""

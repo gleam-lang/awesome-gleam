@@ -1,5 +1,4 @@
 name = "ream"
 description = "REAM is an event sourcing system"
-docs_url = "https://hexdocs.pm/ream/"
 repo_url = "https://github.com/altenwald/ream"
 category = ""

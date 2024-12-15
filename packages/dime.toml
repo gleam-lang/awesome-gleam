@@ -1,5 +1,4 @@
 name = "dime"
 description = "A ISO-4217 currency library for Gleam"
-docs_url = "https://hexdocs.pm/dime/"
 repo_url = "https://github.com/horvathandris/dime"
 category = "Standards"

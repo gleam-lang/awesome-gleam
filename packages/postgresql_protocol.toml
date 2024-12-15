@@ -1,5 +1,4 @@
 name = "postgresql_protocol"
 description = "PostgreSQL protocol encoding and decoding"
-docs_url = "https://hexdocs.pm/postgresql_protocol/"
 repo_url = "https://github.com/grodaus/postgresql_protocol"
 category = ""

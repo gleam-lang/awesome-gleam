@@ -1,5 +1,4 @@
 name = "glimt"
 description = "A Gleam library for logging"
-docs_url = "https://hexdocs.pm/glimt/"
 repo_url = "https://github.com/JohnBjrk/glimt"
 category = "Logging and Monitoring"

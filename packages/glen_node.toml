@@ -1,5 +1,4 @@
 name = "glen_node"
 description = "NodeJS adapter for the Glen web framework"
-docs_url = "https://hexdocs.pm/glen_node/"
 repo_url = "https://github.com/Enderchief/glen_node"
 category = ""

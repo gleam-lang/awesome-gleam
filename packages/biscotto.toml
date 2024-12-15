@@ -1,5 +1,4 @@
 name = "biscotto"
 description = "A library for storing cookies in a jar and sending them with HTTP requests."
-docs_url = "https://hexdocs.pm/biscotto/"
 repo_url = "https://github.com/peonii/biscotto"
 category = ""

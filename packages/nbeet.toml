@@ -1,5 +1,4 @@
 name = "nbeet"
 description = "An NBT encoder and decoder for gleam"
-docs_url = "https://hexdocs.pm/nbeet/"
 repo_url = "https://github.com/zwubs/nbeet"
 category = ""

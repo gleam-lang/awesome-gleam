@@ -1,5 +1,4 @@
 name = "glailwind_merge"
 description = "Utility function to efficiently merge Tailwind CSS classes in JS without style conflicts."
-docs_url = "https://hexdocs.pm/glailwind_merge/"
 repo_url = "https://github.com/dinkelspiel/glailwind_merge"
 category = ""

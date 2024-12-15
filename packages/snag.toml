@@ -1,5 +1,4 @@
 name = "snag"
 description = "A boilerplate-free ad-hoc error type"
-docs_url = "https://hexdocs.pm/snag/"
 repo_url = "https://github.com/gleam-experiments/snag"
 category = "Error Handling"

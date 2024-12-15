@@ -1,5 +1,4 @@
 name = "gwt"
 description = "A JWT library written in Gleam"
-docs_url = "https://hexdocs.pm/gwt/"
 repo_url = "https://github.com/brettkolodny/gwt"
 category = ""

@@ -1,5 +1,4 @@
 name = "glyph"
 description = "A purely Gleam Discord library built from the ground up with stratus."
-docs_url = "https://hexdocs.pm/glyph/"
 repo_url = "https://github.com/grottohub/glyph"
 category = ""

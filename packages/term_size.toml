@@ -1,5 +1,4 @@
 name = "term_size"
 description = "Retrieve the terminal's size in rows and columns on all targets"
-docs_url = "https://hexdocs.pm/term_size/"
 repo_url = "https://github.com/MystPi/term_size"
 category = ""

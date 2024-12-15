@@ -1,5 +1,4 @@
 name = "humanise"
 description = "Easily format values for human readability!"
-docs_url = "https://hexdocs.pm/humanise/"
 repo_url = "https://github.com/SaphiraKai/humanise"
 category = "Text"

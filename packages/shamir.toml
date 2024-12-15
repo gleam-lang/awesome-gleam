@@ -1,5 +1,4 @@
 name = "shamir"
 description = "An implementation of Shamir Secret Sharing in Gleam"
-docs_url = "https://hexdocs.pm/shamir/"
 repo_url = "https://github.com/LilyRose2798/shamir"
 category = ""

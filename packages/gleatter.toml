@@ -1,5 +1,4 @@
 name = "gleatter"
 description = "Typed route definitions for seamless fullstack development !"
-docs_url = "https://hexdocs.pm/gleatter/"
 repo_url = "https://github.com/Billuc/gleatter"
 category = ""

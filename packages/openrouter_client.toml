@@ -1,5 +1,4 @@
 name = "openrouter_client"
 description = "A simple and incomplete client library for OpenRouter"
-docs_url = "https://hexdocs.pm/openrouter_client/"
 repo_url = "https://codeberg.org/cmooon/openrouter_client"
 category = ""

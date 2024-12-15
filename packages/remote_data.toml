@@ -1,5 +1,4 @@
 name = "remote_data"
 description = "A package to deal with remote data in Gleam"
-docs_url = "https://hexdocs.pm/remote_data/"
 repo_url = "https://github.com/Massolari/remote_data"
 category = ""

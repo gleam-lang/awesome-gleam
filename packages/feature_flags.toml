@@ -1,5 +1,4 @@
 name = "feature_flags"
 description = "Feature flags for Gleam"
-docs_url = "https://hexdocs.pm/feature_flags/"
 repo_url = "https://github.com/austinthecoder/gleam_feature_flags"
 category = ""

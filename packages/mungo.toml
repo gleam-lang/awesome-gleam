@@ -1,5 +1,4 @@
 name = "mungo"
 description = "A MongoDB driver for Gleam (formerly gleam_mongo)"
-docs_url = "https://hexdocs.pm/mungo/"
 repo_url = "https://github.com/massivefermion/mungo"
 category = "Databases"

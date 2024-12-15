@@ -1,5 +1,4 @@
 name = "gleam_elli"
 description = "Run Gleam HTTP services with the Elli web server"
-docs_url = "https://hexdocs.pm/gleam_elli/"
 repo_url = "https://github.com/gleam-lang/elli"
 category = "HTTP Servers"

@@ -1,5 +1,4 @@
 name = "translate"
 description = "Translate gleam applications with locale files"
-docs_url = "https://hexdocs.pm/translate/"
 repo_url = "https://github.com/andre-dasilva/translate"
 category = ""

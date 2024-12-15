@@ -1,5 +1,4 @@
 name = "rememo"
 description = "Simple memoization for Gleam"
-docs_url = "https://hexdocs.pm/rememo/"
 repo_url = "https://github.com/hunkyjimpjorps/rememo"
 category = ""

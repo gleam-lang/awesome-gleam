@@ -1,5 +1,4 @@
 name = "gzlib"
 description = "zlib utilities for Gleam"
-docs_url = "https://hexdocs.pm/gzlib/"
 repo_url = "https://github.com/LilyRose2798/gzlib"
 category = ""

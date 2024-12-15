@@ -1,5 +1,4 @@
 name = "delay"
 description = "A dead simple data-structure for delaying side effects"
-docs_url = "https://hexdocs.pm/delay/"
 repo_url = "https://github.com/bwireman/delay"
 category = "Data Structures"

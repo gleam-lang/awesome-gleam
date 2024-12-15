@@ -1,5 +1,4 @@
 name = "non_empty_list"
 description = "Non-empty lists in Gleam"
-docs_url = "https://hexdocs.pm/non_empty_list/"
 repo_url = "https://github.com/giacomocavalieri/non_empty_list"
 category = "Data Structures"

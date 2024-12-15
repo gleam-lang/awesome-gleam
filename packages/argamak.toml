@@ -1,5 +1,4 @@
 name = "argamak"
 description = "A tensor library for the Gleam programming language"
-docs_url = "https://hexdocs.pm/argamak/"
 repo_url = "https://github.com/tynanbe/argamak"
 category = "Data Structures"

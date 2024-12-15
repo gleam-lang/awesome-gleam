@@ -1,5 +1,4 @@
 name = "aws4_request"
 description = "An AWS Signature Version 4 client implementation, used for S3 auth, etc"
-docs_url = "https://hexdocs.pm/aws4_request/"
 repo_url = "https://github.com/lpil/aws4_request"
 category = "API Clients"

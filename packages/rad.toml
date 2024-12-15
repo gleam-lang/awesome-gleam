@@ -1,5 +1,4 @@
 name = "rad"
 description = "A task runner for Gleam projects"
-docs_url = "https://hexdocs.pm/rad/"
 repo_url = "https://github.com/tynanbe/rad"
 category = "Command Line"

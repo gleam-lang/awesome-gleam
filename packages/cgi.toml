@@ -1,5 +1,4 @@
 name = "cgi"
 description = "Common Gateway Interface (CGI) in Gleam"
-docs_url = "https://hexdocs.pm/cgi/"
 repo_url = "https://github.com/lpil/cgi"
 category = "HTTP Servers"

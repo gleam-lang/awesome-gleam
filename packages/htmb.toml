@@ -1,5 +1,4 @@
 name = "htmb"
 description = "A tiny HTML builder for Gleam"
-docs_url = "https://hexdocs.pm/htmb/"
 repo_url = "https://github.com/lpil/htmb"
 category = "HTML"

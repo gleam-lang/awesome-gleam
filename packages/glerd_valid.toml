@@ -1,5 +1,4 @@
 name = "glerd_valid"
 description = "Gleam Record validators using Glerd metadata"
-docs_url = "https://hexdocs.pm/glerd_valid/"
 repo_url = "https://github.com/darky/glerd-valid"
 category = ""

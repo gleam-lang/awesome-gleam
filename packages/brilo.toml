@@ -1,5 +1,4 @@
 name = "brilo"
 description = "A collection of various functions missing in gleam_stdlib"
-docs_url = "https://hexdocs.pm/brilo/"
 repo_url = "https://github.com/l-x/brilo"
 category = ""

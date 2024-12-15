@@ -1,5 +1,4 @@
 name = "glanoid"
 description = "nanoid ported to gleam"
-docs_url = "https://hexdocs.pm/glanoid/"
 repo_url = "https://github.com/0xca551e/glanoid"
 category = ""

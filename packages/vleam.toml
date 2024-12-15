@@ -1,5 +1,4 @@
 name = "vleam"
 description = "Vue composition API bindings for Gleam"
-docs_url = "https://hexdocs.pm/vleam/"
 repo_url = "https://github.com/vleam/vleam"
 category = ""

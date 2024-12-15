@@ -1,5 +1,4 @@
 name = "zip_list"
 description = "A list-like data structure that maintains a selected element"
-docs_url = "https://hexdocs.pm/zip_list/"
 repo_url = "https://github.com/Massolari/zip_list"
 category = ""

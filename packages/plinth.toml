@@ -1,5 +1,4 @@
 name = "plinth"
 description = "Bindings to Node.js and browser platform APIs"
-docs_url = "https://hexdocs.pm/plinth/"
 repo_url = "https://github.com/Crowdhailer/plinth"
 category = "JavaScript"

@@ -1,5 +1,4 @@
 name = "migrant"
 description = "Database migrations for SQLite in Gleam"
-docs_url = "https://hexdocs.pm/migrant/"
 repo_url = "https://github.com/aosasona/migrant"
 category = "Databases"

@@ -1,5 +1,4 @@
 name = "youid"
 description = "Generate and parse UUIDs"
-docs_url = "https://hexdocs.pm/youid/"
 repo_url = "https://github.com/lpil/youid"
 category = "Cryptography"

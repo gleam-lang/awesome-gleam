@@ -1,5 +1,4 @@
 name = "sunny"
 description = "A gleam Open-meteo API client to get weather forecasts."
-docs_url = "https://hexdocs.pm/sunny/"
 repo_url = "https://github.com/leo-210/sunny"
 category = ""

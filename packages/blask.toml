@@ -1,5 +1,4 @@
 name = "blask"
 description = "A UI component library for Lustre"
-docs_url = "https://hexdocs.pm/blask/"
 repo_url = "https://github.com/loipesmas/blask"
 category = ""

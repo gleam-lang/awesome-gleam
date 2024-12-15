@@ -1,5 +1,4 @@
 name = "html_dsl"
 description = "A DSL for generating HTML in Gleam"
-docs_url = "https://hexdocs.pm/html_dsl/"
 repo_url = "https://github.com/Qinbeans/html-dsl"
 category = ""

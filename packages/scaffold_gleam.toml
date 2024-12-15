@@ -1,5 +1,4 @@
 name = "scaffold_gleam"
 description = "CLI tool used to scaffold a web application"
-docs_url = "https://hexdocs.pm/scaffold_gleam/"
 repo_url = "https://github.com/codemonkey76/gleam_scaffold"
 category = ""

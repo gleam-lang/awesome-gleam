@@ -1,5 +1,4 @@
 name = "lww_register"
 description = "The last-write-wins register CRDT"
-docs_url = "https://hexdocs.pm/lww_register/"
 repo_url = "https://github.com/lpil/lww-register-crdt"
 category = ""

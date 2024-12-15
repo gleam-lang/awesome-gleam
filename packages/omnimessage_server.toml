@@ -1,5 +1,4 @@
 name = "omnimessage_server"
 description = "Use Remote State, Locally"
-docs_url = "https://hexdocs.pm/omnimessage_server/"
 repo_url = "https://github.com/weedonandscott/omnimessage"
 category = ""

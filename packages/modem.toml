@@ -1,5 +1,4 @@
 name = "modem"
 description = "A friendly Lustre package to help you build a router, handle links, and manage URLs."
-docs_url = "https://hexdocs.pm/modem/"
 repo_url = "https://github.com/hayleigh-dot-dev/modem"
 category = ""

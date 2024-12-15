@@ -1,5 +1,4 @@
 name = "worm"
 description = "A library for caching deterministic calculations in Gleam"
-docs_url = "https://hexdocs.pm/worm/"
 repo_url = "https://github.com/mscharley/gleam-worm"
 category = ""

@@ -1,5 +1,4 @@
 name = "porter_stemmer"
 description = "Porter word stemming in Gleam"
-docs_url = "https://hexdocs.pm/porter_stemmer/"
 repo_url = "https://github.com/lpil/porter_stemmer"
 category = ""

@@ -1,5 +1,4 @@
 name = "html_components"
 description = "Generate HTML components from simple functions"
-docs_url = "https://hexdocs.pm/html_components/"
 repo_url = "https://github.com/andre-dasilva/html_components"
 category = ""

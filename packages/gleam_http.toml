@@ -1,5 +1,4 @@
 name = "gleam_http"
 description = "Types and functions for Gleam HTTP clients and servers"
-docs_url = "https://hexdocs.pm/gleam_http/"
 repo_url = "https://github.com/gleam-lang/http"
 category = "HTTP"

@@ -1,5 +1,4 @@
 name = "html_lustre_converter"
 description = "Convert regular HTML markup into Lustre syntax"
-docs_url = "https://hexdocs.pm/html_lustre_converter/"
 repo_url = "https://github.com/lpil/html_lustre_converter"
 category = ""

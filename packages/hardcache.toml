@@ -1,5 +1,4 @@
 name = "hardcache"
 description = "Gleam module that provides primitives for caching key-value pairs in files and using files as caches."
-docs_url = "https://hexdocs.pm/hardcache/"
 repo_url = "https://github.com/katekyy/hardcache"
 category = ""

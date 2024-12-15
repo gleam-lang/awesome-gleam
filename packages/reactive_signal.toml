@@ -1,5 +1,4 @@
 name = "reactive_signal"
 description = "A Gleam library for cross-process reactive signal"
-docs_url = "https://hexdocs.pm/reactive_signal/"
 repo_url = "https://github.com/yukikurage/reactive_signal"
 category = ""

@@ -1,5 +1,4 @@
 name = "panel"
 description = "Basic building blocks helping you compose your mozilla or chrome add-ons."
-docs_url = "https://hexdocs.pm/panel/"
 repo_url = "https://base.bingo/code/panel"
 category = ""

@@ -1,5 +1,4 @@
 name = "lzf_gleam"
 description = "LZF Compression library"
-docs_url = "https://hexdocs.pm/lzf_gleam/"
 repo_url = "https://github.com/codemonkey76/gleam_lzf"
 category = ""

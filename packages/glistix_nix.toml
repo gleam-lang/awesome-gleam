@@ -1,5 +1,4 @@
 name = "glistix_nix"
 description = "Bindings to Nix types and functions for Glistix users"
-docs_url = "https://hexdocs.pm/glistix_nix/"
 repo_url = "https://github.com/glistix/nix"
 category = ""

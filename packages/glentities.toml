@@ -1,5 +1,4 @@
 name = "glentities"
 description = "HTML entity encoder/decoder for Gleam"
-docs_url = "https://hexdocs.pm/glentities/"
 repo_url = "https://gitlab.com/Nicd/glentities"
 category = "HTML"

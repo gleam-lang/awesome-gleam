@@ -1,5 +1,4 @@
 name = "lamb"
 description = "ETS and MatchSpecs for Gleam."
-docs_url = "https://hexdocs.pm/lamb/"
 repo_url = "https://github.com/chouzar/lamb"
 category = ""

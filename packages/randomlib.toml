@@ -1,5 +1,4 @@
 name = "randomlib"
 description = "A random number library for Gleam"
-docs_url = "https://hexdocs.pm/randomlib/"
 repo_url = "https://github.com/pendletong/randomlib"
 category = ""

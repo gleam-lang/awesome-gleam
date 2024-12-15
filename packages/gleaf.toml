@@ -1,5 +1,4 @@
 name = "gleaf"
 description = "Gleam apply function"
-docs_url = "https://hexdocs.pm/gleaf/"
 repo_url = "https://github.com/darky/gleaf"
 category = ""

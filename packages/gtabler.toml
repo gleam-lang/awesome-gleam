@@ -1,5 +1,4 @@
 name = "gtabler"
 description = "A customizable library for printing tables with colors and styles in Gleam."
-docs_url = "https://hexdocs.pm/gtabler/"
 repo_url = "https://github.com/eAntillon/gleam_table_printer"
 category = ""

@@ -1,5 +1,4 @@
 name = "gild_frontend"
 description = "react client-side framework for gleam"
-docs_url = "https://hexdocs.pm/gild_frontend/"
 repo_url = "https://github.com/samifouad/gild_frontend"
 category = ""

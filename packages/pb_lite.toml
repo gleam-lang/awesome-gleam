@@ -1,5 +1,4 @@
 name = "pb_lite"
 description = "protobuf lite library"
-docs_url = "https://hexdocs.pm/pb_lite/"
 repo_url = "https://github.com/xenomorphtech/pb_lite"
 category = ""

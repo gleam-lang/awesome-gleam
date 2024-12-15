@@ -1,5 +1,4 @@
 name = "gliua"
 description = "A library for evaluating Uiua code from gleam"
-docs_url = "https://hexdocs.pm/gliua/"
 repo_url = "https://github.com/Master-Bw3/gliua"
 category = ""

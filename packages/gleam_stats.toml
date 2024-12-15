@@ -1,5 +1,4 @@
 name = "gleam_stats"
 description = "A Gleam mathematics and statistics library."
-docs_url = "https://hexdocs.pm/gleam_stats/"
 repo_url = "https://github.com/nicklasxyz/gleam_stats"
 category = ""

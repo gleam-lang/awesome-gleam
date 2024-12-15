@@ -1,5 +1,4 @@
 name = "wisp"
 description = "A practical web framework for Gleam"
-docs_url = "https://hexdocs.pm/wisp/"
 repo_url = "https://github.com/gleam-wisp/wisp"
 category = "Web frameworks"

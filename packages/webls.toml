@@ -1,5 +1,4 @@
 name = "webls"
 description = "A simple web utility library for RSS feeds, Sitemaps, Robots.txt, etc."
-docs_url = "https://hexdocs.pm/webls/"
 repo_url = "https://github.com/versecafe/webls"
 category = ""

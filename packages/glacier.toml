@@ -1,5 +1,4 @@
 name = "glacier"
 description = "Gleam Incremental Interactive Unit Testing"
-docs_url = "https://hexdocs.pm/glacier/"
 repo_url = "https://github.com/inoas/glacier"
 category = "Testing"

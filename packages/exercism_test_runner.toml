@@ -1,5 +1,4 @@
 name = "exercism_test_runner"
 description = "A test framework for Gleam exercises on Exercism"
-docs_url = "https://hexdocs.pm/exercism_test_runner/"
 repo_url = "https://github.com/exercism/gleam-test-runner"
 category = "Testing"

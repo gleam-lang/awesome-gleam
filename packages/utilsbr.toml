@@ -1,5 +1,4 @@
 name = "utilsbr"
 description = "A simple brazillian documents such as CPF and CNPJ utilities library"
-docs_url = "https://hexdocs.pm/utilsbr/"
 repo_url = "https://github.com/malvfr/utilsbr"
 category = ""

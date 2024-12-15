@@ -1,5 +1,4 @@
 name = "nanoworker"
 description = "Lightweight JavaScript Workers for Gleam"
-docs_url = "https://hexdocs.pm/nanoworker/"
 repo_url = "https://github.com/joshgillies/nanoworker"
 category = ""

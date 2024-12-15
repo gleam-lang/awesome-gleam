@@ -1,5 +1,4 @@
 name = "temporary"
 description = "Temporary files in Gleam"
-docs_url = "https://hexdocs.pm/temporary/"
 repo_url = "https://github.com/giacomocavalieri/temporary"
 category = ""

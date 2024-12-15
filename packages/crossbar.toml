@@ -1,5 +1,4 @@
 name = "crossbar"
 description = "Data validation library in pure Gleam"
-docs_url = "https://hexdocs.pm/crossbar/"
 repo_url = "https://github.com/aosasona/crossbar"
 category = "Validation"

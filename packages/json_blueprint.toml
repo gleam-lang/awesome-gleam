@@ -1,5 +1,4 @@
 name = "json_blueprint"
 description = "Simplify JSON encoding/decoding while automatically generating JSON schemas for your data types."
-docs_url = "https://hexdocs.pm/json_blueprint/"
 repo_url = "https://github.com/lostbean/json_blueprint"
 category = ""

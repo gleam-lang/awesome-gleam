@@ -1,5 +1,4 @@
 name = "glitr_wisp"
 description = "Interface for wisp to use Glitr's typed routes"
-docs_url = "https://hexdocs.pm/glitr_wisp/"
 repo_url = "https://github.com/Billuc/glitr"
 category = ""

@@ -1,5 +1,4 @@
 name = "decepticon"
 description = "StateT/Result in Gleam"
-docs_url = "https://hexdocs.pm/decepticon/"
 repo_url = "https://github.com/abradley2/decepticon"
 category = ""

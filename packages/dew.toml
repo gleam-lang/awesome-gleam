@@ -1,5 +1,4 @@
 name = "dew"
 description = "a glistening gleam web server"
-docs_url = "https://hexdocs.pm/dew/"
 repo_url = "https://github.com/rawhat/dew"
 category = ""

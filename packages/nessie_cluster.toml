@@ -1,5 +1,4 @@
 name = "nessie_cluster"
 description = "A small DNS clustering library for Gleam applications."
-docs_url = "https://hexdocs.pm/nessie_cluster/"
 repo_url = "https://github.com/ckreiling/nessie_cluster"
 category = "Erlang and OTP"

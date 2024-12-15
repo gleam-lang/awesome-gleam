@@ -1,5 +1,4 @@
 name = "bravo"
 description = "Comprehensive ETS bindings for Gleam."
-docs_url = "https://hexdocs.pm/bravo/"
 repo_url = "https://github.com/Michael-Mark-Edu/bravo"
 category = ""

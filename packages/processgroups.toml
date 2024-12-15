@@ -1,5 +1,4 @@
 name = "processgroups"
 description = "Process Groups for gleam"
-docs_url = "https://hexdocs.pm/processgroups/"
 repo_url = "https://github.com/RudolfVonKrugstein/gleam_processgroups"
 category = ""
