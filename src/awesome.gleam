@@ -20,7 +20,6 @@ const packages_query = "
 select
   name
 , description
-, docs_url
 , json_extract(links, '$.Repository') as repo_url
 from packages
 "
@@ -183,9 +182,9 @@ fn package_entry(package: ConfigPackage) -> String {
   <> package.name
   <> "]("
   <> package.repo_url
-  <> ") - [📚]("
-  <> package.docs_url
-  <> ") - "
+  <> ") - [📚](https://hexdocs.pm/"
+  <> package.name
+  <> "/) - "
   <> package.description
 }
 
@@ -201,14 +200,12 @@ fn read_config(entry: String) -> ConfigPackage {
 
   let assert Ok(name) = tom.get_string(doc, ["name"])
   let assert Ok(description) = tom.get_string(doc, ["description"])
-  let assert Ok(docs_url) = tom.get_string(doc, ["docs_url"])
   let assert Ok(repo_url) = tom.get_string(doc, ["repo_url"])
   let assert Ok(category) = tom.get_string(doc, ["category"])
 
   ConfigPackage(
     name: name,
     description: description,
-    docs_url: docs_url,
     repo_url: repo_url,
     category: category,
   )
@@ -223,10 +220,9 @@ fn write_config(package: DatabasePackage) -> Nil {
     DatabasePackage(
       name: name,
       description: description,
-      docs_url: Some(docs_url),
       repo_url: Some(repo_url),
     ) -> {
-      let toml = new_toml(name, description, docs_url, repo_url)
+      let toml = new_toml(name, description, repo_url)
       let assert Ok(_) = simplifile.write("packages/" <> name <> ".toml", toml)
       Nil
     }
@@ -234,15 +230,9 @@ fn write_config(package: DatabasePackage) -> Nil {
   }
 }
 
-fn new_toml(
-  name: String,
-  description: String,
-  docs_url: String,
-  repo_url: String,
-) -> String {
+fn new_toml(name: String, description: String, repo_url: String) -> String {
   "name = \"" <> name <> "\"
 description = \"" <> description <> "\"
-docs_url = \"" <> docs_url <> "\"
 repo_url = \"" <> repo_url <> "\"
 category = \"\"
 "
@@ -252,31 +242,24 @@ pub type ConfigPackage {
   ConfigPackage(
     name: String,
     description: String,
-    docs_url: String,
     repo_url: String,
     category: String,
   )
 }
 
 pub type DatabasePackage {
-  DatabasePackage(
-    name: String,
-    description: String,
-    docs_url: Option(String),
-    repo_url: Option(String),
-  )
+  DatabasePackage(name: String, description: String, repo_url: Option(String))
 }
 
 fn database_package_decoder(
   data: Dynamic,
 ) -> Result(DatabasePackage, dynamic.DecodeErrors) {
   let decoder =
-    dynamic.decode4(
+    dynamic.decode3(
       DatabasePackage,
       dynamic.element(0, dynamic.string),
       dynamic.element(1, dynamic.string),
       dynamic.element(2, dynamic.optional(dynamic.string)),
-      dynamic.element(3, dynamic.optional(dynamic.string)),
     )
   decoder(data)
 }
