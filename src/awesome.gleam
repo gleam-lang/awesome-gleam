@@ -93,11 +93,12 @@ Compilers for Gleam and compilers written in Gleam.
 
 Web applications written in Gleam.
 
-- [gleam-lang/example-todomvc](https://github.com/gleam-lang/example-todomvc) - A serverside only implementation of Todo MVC written in Gleam!
 - [gleam-lang/example-echo-server](https://github.com/gleam-lang/example-echo-server) - An example Gleam web application.
+- [gleam-lang/example-todomvc](https://github.com/gleam-lang/example-todomvc) - A serverside implementation of TodoMVC written in Gleam!
 - [gleam-lang/packages](https://github.com/gleam-lang/packages) - The Gleam package index website.
 - [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
 - [ghivert/gloogle](https://github.com/ghivert/gloogle) - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
+- [ryanmiville/lustre-todomvc](https://github.com/ryanmiville/lustre-todomvc) - A Lustre clientside implementation of TodoMVC written in Gleam!
 
 ## Tools
 

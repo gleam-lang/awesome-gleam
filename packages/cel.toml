@@ -1,0 +1,5 @@
+name = "cel"
+description = "A CEL (Common Expression Language) parser and interpreter in pure Gleam"
+docs_url = "https://hexdocs.pm/cel/"
+repo_url = "https://github.com/JonasHedEng/cel-gleam"
+category = ""

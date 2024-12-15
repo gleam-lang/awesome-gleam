@@ -1,0 +1,5 @@
+name = "morsey"
+description = "A package for encoding and decoding Morse code in Gleam."
+docs_url = "https://hexdocs.pm/morsey/"
+repo_url = "https://github.com/FrostyX/gleam-morse"
+category = ""

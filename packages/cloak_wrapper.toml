@@ -1,0 +1,5 @@
+name = "cloak_wrapper"
+description = "Gleam wrapper for Cloak (Elixir)"
+docs_url = "https://hexdocs.pm/cloak_wrapper/"
+repo_url = "https://github.com/bchase/cloak_wrapper"
+category = ""

@@ -1,0 +1,5 @@
+name = "convert"
+description = "Utilities to create encoders and decoders from basic and complex types"
+docs_url = "https://hexdocs.pm/convert/"
+repo_url = "https://github.com/Billuc/convert"
+category = ""

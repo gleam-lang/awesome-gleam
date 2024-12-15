@@ -1,0 +1,5 @@
+name = "bungibindies"
+description = "Gleam bindings to the Bun runtime API's."
+docs_url = "https://hexdocs.pm/bungibindies/"
+repo_url = "https://github.com/strawmelonjuice/bungibindies"
+category = ""

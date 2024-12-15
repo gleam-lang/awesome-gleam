@@ -1,0 +1,5 @@
+name = "convert_json"
+description = "Encode and decode JSON from and to Gleam types"
+docs_url = "https://hexdocs.pm/convert_json/"
+repo_url = "https://github.com/Billuc/convert_json"
+category = ""

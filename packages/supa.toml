@@ -1,0 +1,5 @@
+name = "supa"
+description = "An isomorphic Gleam library for Supabase (Auth only so far)."
+docs_url = "https://hexdocs.pm/supa/"
+repo_url = "https://github.com/crowdhailer/supa"
+category = ""

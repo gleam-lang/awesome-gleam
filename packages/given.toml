@@ -1,0 +1,5 @@
+name = "given"
+description = "Ergonomic early returns (lazy guards) for Bool, Result and Option types in Gleam"
+docs_url = "https://hexdocs.pm/given/"
+repo_url = "https://github.com/inoas/gleam-given"
+category = ""
