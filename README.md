@@ -95,7 +95,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [dot_env](https://github.com/aosasona/dotenv) - [📚](https://hexdocs.pm/dot_env/) - Load environment variables from files
 - [envoy](https://github.com/lpil/envoy) - [📚](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
-- [gleam_dotenv](https://github.com/Grubba27/gleam_dotenv) - [📚](https://hexdocs.pm/gleam_dotenv/) - dotenv for Gleam
+- [dotenv_gleam](https://github.com/Grubba27/dotenv_gleam) - [📚](https://hexdocs.pm/dotenv_gleam/) - dotenv for Gleam
 - [glenv](https://github.com/custompro98/glenv) - [📚](https://hexdocs.pm/glenv/) - A library for type-safe environment variable access.
 - [glenvy](https://github.com/maxdeviant/glenvy) - [📚](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
 
