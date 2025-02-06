@@ -200,7 +200,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### HTML
 
 - [formal](https://github.com/lpil/formal) - [📚](https://hexdocs.pm/formal/) - Type safe HTML form decoding and validation!
-- [glentities](https://gitlab.com/Nicd/glentities) - [📚](https://hexdocs.pm/glentities/) - HTML entity encoder/decoder for Gleam
+- [glentities](https://git.ahlcode.fi/nicd/glentities) - [📚](https://hexdocs.pm/glentities/) - HTML entity encoder/decoder for Gleam
 - [htmb](https://github.com/lpil/htmb) - [📚](https://hexdocs.pm/htmb/) - A tiny HTML builder for Gleam
 - [htmgrrrl](https://github.com/lpil/htmgrrrl) - [📚](https://hexdocs.pm/htmgrrrl/) - Gleam bindings to htmerl, the fast and memory efficient Erlang HTML SAX parser.
 - [nakai](https://github.com/nakaixo/nakai) - [📚](https://hexdocs.pm/nakai/) - HTML generation for Gleam, on the server or anywhere else
@@ -256,7 +256,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Numbers
 
 - [bigdecimal](https://github.com/horvathandris/bigdecimal) - [📚](https://hexdocs.pm/bigdecimal/) - Arbitrary precision decimal arithmetic for Gleam
-- [bigi](https://gitlab.com/Nicd/bigi) - [📚](https://hexdocs.pm/bigi/) - Arbitrary precision integer arithmetic for Gleam
+- [bigi](https://git.ahlcode.fi/nicd/bigi) - [📚](https://hexdocs.pm/bigi/) - Arbitrary precision integer arithmetic for Gleam
 - [gleam_community_maths](https://github.com/gleam-community/maths) - [📚](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
 
 ### Parsing
@@ -297,7 +297,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Templating
 
-- [glemplate](https://gitlab.com/Nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
+- [glemplate](https://git.ahlcode.fi/nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
 - [handles](https://github.com/olian04/gleam_handles) - [📚](https://hexdocs.pm/handles/) - Pure Gleam templating language inspired by Mustache and Handlebars.js
 
 ### Testing
