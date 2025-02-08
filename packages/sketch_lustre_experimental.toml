@@ -1,0 +1,4 @@
+name = "sketch_lustre_experimental"
+description = "An experimental Sketch runtime package, made to work with Lustre!"
+repo_url = "https://github.com/ghivert/sketch"
+category = ""

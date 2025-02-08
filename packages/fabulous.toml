@@ -1,0 +1,4 @@
+name = "fabulous"
+description = "A simple gleam library for creating tables based on columns and rows."
+repo_url = "https://github.com/DeveloperSpoot/fabulous"
+category = ""

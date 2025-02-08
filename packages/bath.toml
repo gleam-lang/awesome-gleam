@@ -1,0 +1,4 @@
+name = "bath"
+description = "A resource pool for Gleam!"
+repo_url = "https://github.com/Pevensie/bath"
+category = ""

@@ -1,0 +1,4 @@
+name = "deriv"
+description = "Derive functions for your Gleam types"
+repo_url = "https://github.com/bchase/deriv"
+category = ""

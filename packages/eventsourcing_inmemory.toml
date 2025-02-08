@@ -1,0 +1,4 @@
+name = "eventsourcing_inmemory"
+description = "InMemory event store for the Eventsourcing library"
+repo_url = "https://github.com/renatillas/eventsourcing_inmemory"
+category = ""

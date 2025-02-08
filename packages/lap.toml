@@ -1,0 +1,4 @@
+name = "lap"
+description = "Quick'n dirty timing of your Gleam code."
+repo_url = "https://github.com/JosephTLyons/lap"
+category = ""

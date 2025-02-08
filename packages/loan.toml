@@ -1,0 +1,4 @@
+name = "loan"
+description = "Loan calculation tools"
+repo_url = "https://github.com/camray/gleam-loan"
+category = ""

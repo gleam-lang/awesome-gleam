@@ -1,0 +1,4 @@
+name = "gs"
+description = "Minimalistic streaming library for Gleam"
+repo_url = "https://github.com/ThatScalaGuy/gs"
+category = ""

@@ -1,0 +1,4 @@
+name = "beencode"
+description = "🐝 bencode in Gleam"
+repo_url = "https://github.com/giacomocavalieri/beencode"
+category = ""

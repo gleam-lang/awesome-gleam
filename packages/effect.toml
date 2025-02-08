@@ -1,0 +1,4 @@
+name = "effect"
+description = "A small library for handling side effects! Particularly promises in Gleam. Inspired by Elm and Lustre's approach to effect handling."
+repo_url = "https://github.com/ethanthoma/effect"
+category = ""

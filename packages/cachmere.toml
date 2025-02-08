@@ -1,0 +1,4 @@
+name = "cachmere"
+description = "A caching solution for Gleam web apps, designed to be used with Wisp."
+repo_url = "https://github.com/ross-byrne/cachmere"
+category = ""

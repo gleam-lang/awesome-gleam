@@ -1,0 +1,4 @@
+name = "themis"
+description = "Prometheus client in pure Gleam!"
+repo_url = "https://github.com/guillheu/Themis"
+category = ""

@@ -1,0 +1,4 @@
+name = "convert_http_query"
+description = "Encode and decode HTTP queries from/to Gleam types"
+repo_url = "https://github.com/Billuc/convert_http_query"
+category = ""

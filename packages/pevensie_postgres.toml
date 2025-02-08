@@ -1,0 +1,4 @@
+name = "pevensie_postgres"
+description = "The official Postgres driver for the Pevensie framework"
+repo_url = "https://github.com/Pevensie/pevensie_postgres"
+category = ""

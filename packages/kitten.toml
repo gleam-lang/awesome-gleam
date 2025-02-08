@@ -1,0 +1,4 @@
+name = "kitten"
+description = "A minimalistic in-browser game engine."
+repo_url = "https://github.com/synchro0001/kitten-engine"
+category = ""

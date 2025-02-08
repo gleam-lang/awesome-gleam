@@ -1,0 +1,4 @@
+name = "boyer_moore"
+description = "Boyer-Moore search algorithm for BitArrays and custom data structures"
+repo_url = "https://git.ahlcode.fi//nicd/boyer_moore"
+category = ""

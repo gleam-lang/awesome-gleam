@@ -1,0 +1,4 @@
+name = "spoke_tcp"
+description = "A TCP transport channel for the spoke MQTT client."
+repo_url = "https://github.com/sbergen/spoke"
+category = ""

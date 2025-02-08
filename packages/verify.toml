@@ -1,0 +1,4 @@
+name = "verify"
+description = "Ergonomic data validation library inspired by decode!"
+repo_url = "https://github.com/tylermeekel/verify"
+category = ""

@@ -1,0 +1,4 @@
+name = "glbencode"
+description = "Gleam-based implementation for handling Bencode data, a format used by the BitTorrent protocol. It includes modules for parsing raw Bencode data into an intermediate representation, encoding various data types into Bencode format, and decoding Bencode data into dynamic types. This repository is ideal for developers needing to work with Bencode data in Gleam, offering comprehensive tools for parsing, encoding, and decoding."
+repo_url = "https://github.com/fr0stylo/glbencode"
+category = ""

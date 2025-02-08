@@ -1,0 +1,4 @@
+name = "pathern"
+description = "A URL path pattern matching library for the Gleam programming language"
+repo_url = "https://github.com/ramkarthik/pathern"
+category = ""

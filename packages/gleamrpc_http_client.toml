@@ -1,0 +1,4 @@
+name = "gleamrpc_http_client"
+description = "HTTP Client for GleamRPC"
+repo_url = "https://github.com/Billuc/gleamrpc_http_client"
+category = ""

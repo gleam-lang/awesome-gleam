@@ -1,0 +1,4 @@
+name = "okay"
+description = "Data validation library for Gleam"
+repo_url = "https://github.com/gmartsenkov/okay"
+category = ""

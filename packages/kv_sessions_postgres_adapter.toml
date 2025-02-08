@@ -1,0 +1,4 @@
+name = "kv_sessions_postgres_adapter"
+description = "Postgres driver for kv_sessions"
+repo_url = "https://github.com/MaxHill/kv_sessions"
+category = ""

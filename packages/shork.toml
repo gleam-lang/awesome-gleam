@@ -1,0 +1,4 @@
+name = "shork"
+description = "A MySQL / MariaDB database client for Gleam, based on MySQL-OTP. Heavily inspired by POG."
+repo_url = "https://github.com/ninanomenon/shork"
+category = ""
