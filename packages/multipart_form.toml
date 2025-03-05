@@ -1,0 +1,4 @@
+name = "multipart_form"
+description = "Small library to generate multipart/form-data requests and parse them"
+repo_url = "https://github.com/siesta-cat/gleam_multipart_form"
+category = ""

@@ -325,6 +325,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Time
 
 - [birl](https://github.com/massivefermion/birl) - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
+- [gleam_time](https://github.com/gleam-lang/time) - [📚](https://hexdocs.pm/gleam_time/) - Work with time in Gleam!
 - [gtempo](https://github.com/jrstrunk/tempo) - [📚](https://hexdocs.pm/gtempo/) - A lightweight and Gleamy datetime library!
 - [gtz](https://github.com/jrstrunk/gtz) - [📚](https://hexdocs.pm/gtz/) - A timezone data provider for Gleam! 
 - [rada](https://github.com/michaeljones/rada) - [📚](https://hexdocs.pm/rada/) - A library for dates with no times or time zones

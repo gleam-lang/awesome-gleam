@@ -1,0 +1,4 @@
+name = "iv"
+description = "A fast, safe, batteries-included array for Gleam!"
+repo_url = "https://gitlab.com/arkandos/iv"
+category = ""

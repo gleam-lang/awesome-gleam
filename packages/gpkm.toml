@@ -1,0 +1,4 @@
+name = "gpkm"
+description = "A simple deserializer, to read PKM data (Gen4)"
+repo_url = "https://github.com/rbobillot/gpkm"
+category = ""

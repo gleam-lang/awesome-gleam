@@ -1,4 +1,4 @@
 name = "gleam_time"
 description = "Work with time in Gleam!"
 repo_url = "https://github.com/gleam-lang/time"
-category = ""
+category = "Time"

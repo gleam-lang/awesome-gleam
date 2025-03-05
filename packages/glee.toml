@@ -1,0 +1,4 @@
+name = "glee"
+description = "A Gleam library for parsing JSON"
+repo_url = "https://github.com/gleemers/glee"
+category = ""

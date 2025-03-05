@@ -1,0 +1,4 @@
+name = "pegasus_crypto"
+description = "A modern cryptography library for Gleam, built with safety and ease of use in mind."
+repo_url = "https://codeberg.org/cmooon/pegasus"
+category = ""

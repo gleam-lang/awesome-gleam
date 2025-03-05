@@ -1,0 +1,4 @@
+name = "pinkdf2"
+description = "Gleam bindings to fast_pbkdf2 NIF of PBKDF2 (Password-Based Key Derivation Function 2) for Erlang."
+repo_url = "https://github.com/yazatamorph/pinkdf2"
+category = ""

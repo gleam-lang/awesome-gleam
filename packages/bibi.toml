@@ -1,0 +1,4 @@
+name = "bibi"
+description = "A Gleam package for working with bitboards"
+repo_url = "https://github.com/b34nst4lk/bibi.gleam"
+category = ""

@@ -1,0 +1,4 @@
+name = "datastar"
+description = "Gleam bindings for https://data-star.dev/"
+repo_url = "https://github.com/sporto/gleam-datastar"
+category = ""

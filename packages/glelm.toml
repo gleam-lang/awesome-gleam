@@ -1,0 +1,4 @@
+name = "glelm"
+description = "Elm parser written in Gleam"
+repo_url = "https://github.com/bilus/glelm"
+category = ""

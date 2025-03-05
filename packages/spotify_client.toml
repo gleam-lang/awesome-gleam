@@ -1,0 +1,4 @@
+name = "spotify_client"
+description = "A Gleam client for the Spotify API"
+repo_url = "https://github.com/adaminglehart/gleam_spotify_client"
+category = ""

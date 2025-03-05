@@ -1,0 +1,4 @@
+name = "category_theory"
+description = "Category theory concepts in gleam."
+repo_url = "https://github.com/VSebastian8/Category-Theory"
+category = ""

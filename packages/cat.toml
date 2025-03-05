@@ -1,0 +1,4 @@
+name = "cat"
+description = "Category Theory concepts in Gleam!"
+repo_url = "https://github.com/VSebastian8/cat"
+category = ""

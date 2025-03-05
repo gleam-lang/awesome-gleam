@@ -1,0 +1,4 @@
+name = "olive"
+description = "A gleam dev proxy to enable live reload and smoother DX"
+repo_url = "https://github.com/fravan/olive"
+category = ""

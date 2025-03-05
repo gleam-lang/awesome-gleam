@@ -1,0 +1,4 @@
+name = "datastar_wisp"
+description = "Wisp adaptor for Datastar"
+repo_url = "https://github.com/sporto/gleam-datastar"
+category = ""

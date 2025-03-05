@@ -1,0 +1,4 @@
+name = "shimmy"
+description = "Gleam lexer in gleam"
+repo_url = "https://github.com/leonardo-toffalini/shimmy"
+category = ""

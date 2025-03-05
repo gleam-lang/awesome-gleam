@@ -1,0 +1,4 @@
+name = "multiformats"
+description = "Bindings to the js implementation of multiformats"
+repo_url = "https://github.com/crowdhailer/multiformats"
+category = ""
