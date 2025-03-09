@@ -363,6 +363,7 @@ Web applications written in Gleam.
 - [aosasona/jsorm](https://github.com/aosasona/jsorm) - A minimal JSON explorer in Gleam + HTMX.
 - [ghivert/gloogle](https://github.com/ghivert/gloogle) - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
 - [ryanmiville/lustre-todomvc](https://github.com/ryanmiville/lustre-todomvc) - A Lustre clientside implementation of TodoMVC written in Gleam!
+- [losfair/acquire](https://github.com/losfair/acquire) - A multiplayer board game written in Gleam.
 
 ## Tools
 

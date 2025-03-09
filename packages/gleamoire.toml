@@ -1,0 +1,4 @@
+name = "gleamoire"
+description = "A handy grimoire for gleam! Get documentation for your fave packages directly in the terminal."
+repo_url = "https://github.com/GearsDatapacks/gleamoire"
+category = ""
