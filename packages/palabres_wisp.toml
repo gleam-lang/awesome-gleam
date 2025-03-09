@@ -1,0 +1,4 @@
+name = "palabres_wisp"
+description = "Wisp integration for palabres, an opinionated logger for Gleam"
+repo_url = "https://github.com/ghivert/palabres"
+category = ""

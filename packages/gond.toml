@@ -1,0 +1,4 @@
+name = "gond"
+description = "🚡 cond-like multi-branch conditionals for Gleam 🚠"
+repo_url = "https://github.com/inoas/gleam-gond"
+category = ""

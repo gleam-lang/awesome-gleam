@@ -1,0 +1,4 @@
+name = "differance"
+description = "A difference list implementation in Gleam."
+repo_url = "https://github.com/tttardigrado/differance"
+category = ""
