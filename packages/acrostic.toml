@@ -1,4 +1,0 @@
-name = "acrostic"
-description = "A pure Gleam implementation of Google Protobuf."
-repo_url = "https://github.com/julywind168/acrostic"
-category = ""

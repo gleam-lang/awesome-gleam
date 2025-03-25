@@ -1,4 +1,0 @@
-name = "crabbucket_redis"
-description = "Gleam + Redis token bucket rate limiting library"
-repo_url = "https://github.com/skinkade/crabbucket_redis"
-category = ""

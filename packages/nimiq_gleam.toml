@@ -1,4 +1,0 @@
-name = "nimiq_gleam"
-description = "Various modules and helpers for working with Nimiq primitives in the Gleam programming language or as a CLI"
-repo_url = "https://github.com/sisou/nimiq_gleam"
-category = ""

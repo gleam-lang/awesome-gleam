@@ -1,4 +1,0 @@
-name = "bison"
-description = "BSON encoder and decoder for Gleam"
-repo_url = "https://github.com/massivefermion/bison"
-category = ""

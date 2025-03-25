@@ -1,4 +1,0 @@
-name = "lww_register"
-description = "The last-write-wins register CRDT"
-repo_url = "https://github.com/lpil/lww-register-crdt"
-category = ""

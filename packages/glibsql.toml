@@ -1,4 +1,0 @@
-name = "glibsql"
-description = "Glibsql is a library for interacting with a hosted libSQL database such as [Turso](https://turso.tech)."
-repo_url = "https://github.com/custompro98/glibsql"
-category = ""

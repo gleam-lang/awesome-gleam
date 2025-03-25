@@ -1,4 +1,0 @@
-name = "ollama_gleam"
-description = "A client for Ollama"
-repo_url = "https://github.com/ddanielsantos/ollama_gleam"
-category = ""

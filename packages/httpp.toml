@@ -1,4 +1,0 @@
-name = "httpp"
-description = "an http client for gleam which supports streaming, based on hackney"
-repo_url = "https://github.com/VioletBuse/httpp"
-category = ""

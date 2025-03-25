@@ -1,4 +1,0 @@
-name = "mapped"
-description = "An implementation of a Bidirectional Map in Gleam"
-repo_url = "https://github.com/GearsDatapacks/gleam-mapped"
-category = ""

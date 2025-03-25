@@ -1,4 +1,0 @@
-name = "ask"
-description = "Functional utilities for building custom predicates, orderings, and equivalences"
-repo_url = "https://github.com/furrycatherder/gleam-ask"
-category = ""

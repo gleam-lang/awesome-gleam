@@ -1,4 +1,0 @@
-name = "telega"
-description = "Gleam Telegram Bot Library"
-repo_url = "https://github.com/bondiano/telega"
-category = ""

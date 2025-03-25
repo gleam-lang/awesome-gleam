@@ -1,4 +1,0 @@
-name = "chrobot"
-description = "A browser automation tool and interface to the Chrome DevTools Protocol."
-repo_url = "https://github.com/JonasGruenwald/chrobot"
-category = ""

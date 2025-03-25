@@ -1,4 +1,0 @@
-name = "gleatfy"
-description = "A Gleam client for the ntfy push notification API"
-repo_url = "https://github.com/l-x/gleatfy"
-category = ""

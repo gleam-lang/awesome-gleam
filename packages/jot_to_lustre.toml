@@ -1,4 +1,0 @@
-name = "jot_to_lustre"
-description = "Convert jot documents or strings to lustre/element/html elements"
-repo_url = "https://github.com/ray-delossantos/jot_to_lustre"
-category = ""

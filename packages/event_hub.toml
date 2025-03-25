@@ -1,4 +1,0 @@
-name = "event_hub"
-description = "Event-Hub is a Gleam library that provides simple hubs with publishers and subscribers for event-driven observers. It supports asynchronous message handling and event notifications, decoupling components efficiently. It works on Erlang and JavaScript."
-repo_url = "https://github.com/yerTools/event_hub"
-category = ""

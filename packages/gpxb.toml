@@ -1,4 +1,0 @@
-name = "gpxb"
-description = "A tiny GPX builder for Gleam"
-repo_url = "https://github.com/lpil/gpxb"
-category = ""

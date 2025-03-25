@@ -1,4 +1,0 @@
-name = "glemo"
-description = "Simple function memoization over Erlang ETS / JavaScript Map for Gleam"
-repo_url = "https://github.com/darky/glemo"
-category = ""

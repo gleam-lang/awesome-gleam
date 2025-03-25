@@ -1,4 +1,0 @@
-name = "shamir"
-description = "An implementation of Shamir Secret Sharing in Gleam"
-repo_url = "https://github.com/LilyRose2798/shamir"
-category = ""

@@ -1,4 +1,0 @@
-name = "rosetta"
-description = "An effort to bring all Erlang Standard Libraries to Gleam."
-repo_url = "https://github.com/mjwhodur/rosetta"
-category = ""

@@ -1,4 +1,0 @@
-name = "survey"
-description = "A library to easily create rich and interactive prompts in the terminal"
-repo_url = "https://github.com/calvinmclean/survey"
-category = ""

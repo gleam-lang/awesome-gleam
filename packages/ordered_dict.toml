@@ -1,4 +1,0 @@
-name = "ordered_dict"
-description = "Ordered Dict implementation in gleam"
-repo_url = "https://github.com/alpvax/gleam_ordered_dict"
-category = ""

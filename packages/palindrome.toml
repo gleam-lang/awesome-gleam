@@ -1,4 +1,0 @@
-name = "palindrome"
-description = "A simple Gleam project that checks if a string is a palindrome."
-repo_url = "https://github.com/nkpgardose/palindrome"
-category = ""

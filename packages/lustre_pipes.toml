@@ -1,4 +1,0 @@
-name = "lustre_pipes"
-description = "Write Lustre template using Gleam's pipes"
-repo_url = "https://github.com/weedonandscott/lustre_pipes"
-category = ""

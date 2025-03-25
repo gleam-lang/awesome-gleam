@@ -1,4 +1,0 @@
-name = "lite_fs"
-description = "litefs event stream client for gleam."
-repo_url = "https://github.com/VioletBuse/lite_fs"
-category = ""

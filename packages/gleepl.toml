@@ -1,4 +1,0 @@
-name = "gleepl"
-description = "A Gleam client for the DeepL API"
-repo_url = "https://github.com/xpressivecode/gleepl"
-category = ""

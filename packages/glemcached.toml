@@ -1,4 +1,0 @@
-name = "glemcached"
-description = "A memcached client in pure gleam!"
-repo_url = "https://github.com/arnu515/glemcached"
-category = ""

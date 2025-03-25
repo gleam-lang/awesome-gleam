@@ -1,4 +1,0 @@
-name = "midas"
-description = "Task definition and runners for Gleam"
-repo_url = "https://github.com/midas-framework/midas"
-category = ""

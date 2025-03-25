@@ -1,4 +1,0 @@
-name = "pears"
-description = "A parser combinator library for Gleam"
-repo_url = "https://github.com/lukad/pears"
-category = ""

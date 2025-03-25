@@ -1,4 +1,0 @@
-name = "radish_fork"
-description = "A Gleam client for Valkey, KeyDB, Redis and other tools with compatible APIs"
-repo_url = "https://github.com/rojnwa/radish"
-category = ""

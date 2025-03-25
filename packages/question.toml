@@ -1,4 +1,0 @@
-name = "question"
-description = "Prompt user with question and return answer in callback"
-repo_url = "https://github.com/antonioxdias/question"
-category = ""

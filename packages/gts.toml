@@ -1,4 +1,0 @@
-name = "gts"
-description = "Opinionated bindings to erlang's ets tables."
-repo_url = "https://github.com/lunarmagpie/gts"
-category = ""

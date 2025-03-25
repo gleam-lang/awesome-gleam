@@ -1,4 +1,0 @@
-name = "signal"
-description = "A simple event sourcing library for gleam!"
-repo_url = "https://github.com/DominikBB/signal"
-category = ""

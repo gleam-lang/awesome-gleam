@@ -1,4 +1,0 @@
-name = "amf0"
-description = "Amf0 (de)serialisation for Gleam"
-repo_url = "https://github.com/jamesbirtles/gleam-amf0"
-category = ""

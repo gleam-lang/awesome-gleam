@@ -1,4 +1,0 @@
-name = "palabres"
-description = "Opinionated logger for Gleam, targetting both BEAM and JS"
-repo_url = "https://github.com/ghivert/palabres"
-category = ""

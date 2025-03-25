@@ -1,4 +1,0 @@
-name = "jackson"
-description = "A pure gleam json decoder, encoder, and json pointer resolver"
-repo_url = "https://github.com/VioletBuse/jackson"
-category = ""

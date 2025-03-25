@@ -1,4 +1,0 @@
-name = "garnet_tool"
-description = "Compile gleam to single binary, via Deno and Bun. "
-repo_url = "https://github.com/Comamoca/garnet"
-category = ""

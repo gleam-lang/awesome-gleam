@@ -1,4 +1,0 @@
-name = "mumu"
-description = "Hash strings using the non-cryptographic hash Murmur3 in Gleam"
-repo_url = "https://github.com/georgesboris/mumu"
-category = ""

@@ -1,4 +1,0 @@
-name = "lazy_const"
-description = "Lazily initialised constants for Gleam"
-repo_url = "https://gitlab.com/arkandos/lazy-const"
-category = ""

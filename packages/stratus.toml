@@ -1,4 +1,0 @@
-name = "stratus"
-description = "A Gleam WebSocket client"
-repo_url = "https://github.com/rawhat/stratus"
-category = ""

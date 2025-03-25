@@ -1,4 +1,0 @@
-name = "gloop"
-description = "Stack-safe `while do` and `do while` loops in Gleam"
-repo_url = "https://github.com/DriesDhooghe/gloop"
-category = ""

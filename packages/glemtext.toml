@@ -1,4 +1,0 @@
-name = "glemtext"
-description = "A small library for parsing Gemini's gemtext. Runs on both Erlang and JS"
-repo_url = "https://github.com/myrkvi/glemtext"
-category = ""

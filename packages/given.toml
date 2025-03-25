@@ -1,4 +1,0 @@
-name = "given"
-description = "Ergonomic early returns (lazy guards) for Bool, Result and Option types in Gleam"
-repo_url = "https://github.com/inoas/gleam-given"
-category = ""

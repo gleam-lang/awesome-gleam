@@ -1,4 +1,0 @@
-name = "postglide"
-description = "Gleam bindings to PGlite, a WASM build of Postgres for client-side browser applications"
-repo_url = "https://github.com/george-grec/postglide"
-category = ""

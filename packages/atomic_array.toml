@@ -1,4 +1,0 @@
-name = "atomic_array"
-description = "Atomic mutable int arrays for Gleam!"
-repo_url = "https://github.com/lpil/atomic-array"
-category = ""

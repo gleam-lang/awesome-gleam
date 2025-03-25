@@ -1,4 +1,0 @@
-name = "gleewhois"
-description = "WHOIS client for Gleam."
-repo_url = "https://github.com/kjartanhr/gleewhois"
-category = ""

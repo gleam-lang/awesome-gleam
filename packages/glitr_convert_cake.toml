@@ -1,4 +1,0 @@
-name = "glitr_convert_cake"
-description = "Encode and decode from and to Gleam types effortlessly !"
-repo_url = "https://github.com/Billuc/glitr"
-category = ""

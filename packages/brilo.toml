@@ -1,4 +1,0 @@
-name = "brilo"
-description = "A collection of various functions missing in gleam_stdlib"
-repo_url = "https://github.com/l-x/brilo"
-category = ""

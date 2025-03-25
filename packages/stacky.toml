@@ -1,4 +1,0 @@
-name = "stacky"
-description = "BEAM stack trace in Gleam: a stack trace of stack frames with module name, function name, arity, file name and line number."
-repo_url = "https://github.com/inoas/stacky"
-category = ""

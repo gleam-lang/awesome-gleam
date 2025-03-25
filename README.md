@@ -2,8 +2,8 @@
 
 For a full list of packages check out [**the Gleam package index**](https://packages.gleam.run/).
 
-Have a Gleam project to share with the world? Run `gleam run`, assign a
-category for it in `packages/NAME.toml`, and run `gleam run` again.
+Have a Gleam project to share with the world? Add a file in `packages/` and run
+`gleam run`.
 
 Looking for something to build? Check out [the suggestions list][suggestions].
 

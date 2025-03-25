@@ -1,4 +1,0 @@
-name = "glorage"
-description = "Gleam thread local storage"
-repo_url = "https://github.com/darky/glorage"
-category = ""

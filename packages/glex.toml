@@ -1,4 +1,0 @@
-name = "glex"
-description = "Simple lexer generator for Gleam"
-repo_url = "https://github.com/vaphes/glex"
-category = ""

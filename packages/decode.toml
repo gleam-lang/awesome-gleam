@@ -1,4 +1,0 @@
-name = "decode"
-description = "Ergonomic dynamic decoders for Gleam!"
-repo_url = "https://github.com/lpil/decode"
-category = ""

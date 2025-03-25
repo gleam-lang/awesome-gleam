@@ -1,4 +1,0 @@
-name = "defer_g"
-description = "A simple library for adding defer functionality to gleam."
-repo_url = "https://github.com/TrippleCCC/defer"
-category = ""

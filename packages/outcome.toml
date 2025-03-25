@@ -1,4 +1,0 @@
-name = "outcome"
-description = "Error handling for Gleam applications"
-repo_url = "https://github.com/sporto/gleam-outcome"
-category = ""

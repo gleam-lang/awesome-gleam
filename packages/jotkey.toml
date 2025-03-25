@@ -1,4 +1,0 @@
-name = "jotkey"
-description = "Convert jot documents to lustre elements. Can convert to custom renderers"
-repo_url = "https://github.com/ray-delossantos/jotkey"
-category = ""

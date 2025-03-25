@@ -1,4 +1,0 @@
-name = "wisp_flash"
-description = "Middleware to use flash messages in Wisp"
-repo_url = "https://github.com/sporto/wisp_flash"
-category = ""

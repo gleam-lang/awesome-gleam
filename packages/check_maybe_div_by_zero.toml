@@ -1,4 +1,0 @@
-name = "check_maybe_div_by_zero"
-description = "Checks gleam source code for potential division by zero in a hacky way :D"
-repo_url = "https://github.com/inoas/check_maybe_div_by_zero"
-category = ""

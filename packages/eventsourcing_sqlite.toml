@@ -1,4 +1,0 @@
-name = "eventsourcing_sqlite"
-description = "Sqlite event store for the Eventsourcing library"
-repo_url = "https://github.com/renatillas/eventsourcing_sqlite"
-category = ""

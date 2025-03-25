@@ -1,4 +1,0 @@
-name = "leviathan"
-description = "A small library that implements the State Monad in gleam"
-repo_url = "https://github.com/tttardigrado/leviathan"
-category = ""

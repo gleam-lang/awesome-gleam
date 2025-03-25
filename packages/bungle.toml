@@ -1,4 +1,0 @@
-name = "bungle"
-description = "Bun bindings for Gleam, otherwise know as bungle!"
-repo_url = "https://github.com/joshgillies/bungle"
-category = ""

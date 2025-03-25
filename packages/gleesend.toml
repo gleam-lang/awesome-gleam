@@ -1,4 +1,0 @@
-name = "gleesend"
-description = "A resend library for the Gleam programming language"
-repo_url = "https://github.com/dinkelspiel/gleesend"
-category = ""

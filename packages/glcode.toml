@@ -1,4 +1,0 @@
-name = "glcode"
-description = "Gleam bindings to Erlang's code module"
-repo_url = "https://github.com/grodaus/glcode"
-category = ""

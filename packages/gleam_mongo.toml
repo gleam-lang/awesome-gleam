@@ -1,4 +1,0 @@
-name = "gleam_mongo"
-description = "A mongodb driver for gleam"
-repo_url = "https://github.com/massivefermion/gleam_mongo"
-category = ""

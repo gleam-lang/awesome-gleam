@@ -1,4 +1,0 @@
-name = "glitch"
-description = "A Twitch client for Gleam"
-repo_url = "https://github.com/dmmulroy/glitch"
-category = ""

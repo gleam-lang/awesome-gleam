@@ -1,4 +1,0 @@
-name = "gleam_os_mon"
-description = "A wrapper for the os_mon functionality"
-repo_url = "https://github.com/manveru/gleam_os_mon"
-category = ""

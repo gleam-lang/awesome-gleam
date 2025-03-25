@@ -1,4 +1,0 @@
-name = "arcana_signals"
-description = "Gleam bindings to @preact/signals-core that won't crash in Erlang"
-repo_url = "https://github.com/synecdokey/arcana_signals"
-category = ""

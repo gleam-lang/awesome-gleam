@@ -1,4 +1,0 @@
-name = "porter_stemmer"
-description = "Porter word stemming in Gleam"
-repo_url = "https://github.com/lpil/porter_stemmer"
-category = ""

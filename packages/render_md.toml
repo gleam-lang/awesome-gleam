@@ -1,4 +1,0 @@
-name = "render_md"
-description = "A dead simple markdown renderer for gleam"
-repo_url = "https://github.com/gastonche/gleam_md"
-category = ""

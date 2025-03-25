@@ -1,4 +1,0 @@
-name = "p5js_gleam"
-description = "A simple game library providing p5.js bindings for Gleam in a functional style to make basic games and animations. Heavily inspired by the Racket library 2htdp/universe"
-repo_url = "https://github.com/Acepie/p5js_gleam"
-category = ""

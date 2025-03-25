@@ -1,4 +1,0 @@
-name = "dag_json"
-description = "Bindings to the js implementation of dag-json."
-repo_url = "https://github.com/crowdhailer/dag_json"
-category = ""

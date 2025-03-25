@@ -1,4 +1,0 @@
-name = "gleam_bitwise"
-description = "Bitwise operations on integers"
-repo_url = "https://github.com/gleam-lang/bitwise"
-category = ""

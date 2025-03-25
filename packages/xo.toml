@@ -1,4 +1,0 @@
-name = "xo"
-description = "The essentials of Tic-tac-toe extracted into a library."
-repo_url = "https://github.com/dwayne/gleam-xo"
-category = ""

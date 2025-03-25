@@ -1,4 +1,0 @@
-name = "gliua"
-description = "A library for evaluating Uiua code from gleam"
-repo_url = "https://github.com/Master-Bw3/gliua"
-category = ""

@@ -1,4 +1,0 @@
-name = "lustre_tauri"
-description = "Gleam bindings to Tauri commands for Lustre web applications"
-repo_url = "https://github.com/ethanthoma/lustre_tauri"
-category = ""

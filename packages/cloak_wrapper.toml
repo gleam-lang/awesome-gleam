@@ -1,4 +1,0 @@
-name = "cloak_wrapper"
-description = "Gleam wrapper for Cloak (Elixir)"
-repo_url = "https://github.com/bchase/cloak_wrapper"
-category = ""

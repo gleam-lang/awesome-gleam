@@ -1,4 +1,0 @@
-name = "bungibindies"
-description = "Gleam bindings to the Bun runtime API's."
-repo_url = "https://github.com/strawmelonjuice/bungibindies"
-category = ""

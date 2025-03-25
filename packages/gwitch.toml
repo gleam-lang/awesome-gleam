@@ -1,4 +1,0 @@
-name = "gwitch"
-description = "a gleam lib for connecting to twitch IRC"
-repo_url = "https://github.com/sneakycrow/gwitch"
-category = ""

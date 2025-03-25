@@ -1,4 +1,0 @@
-name = "wisp_kv_sessions_postgres_store"
-description = "Postgres driver for wisp_kv_sessions"
-repo_url = "https://github.com/MaxHill/wisp_kv_sessions_postgres_store"
-category = ""

@@ -1,4 +1,0 @@
-name = "chilli"
-description = "a shiny Gleam TCP/SSL server (forked from glisten)"
-repo_url = "https://github.com/mjwhodur/chilli"
-category = ""

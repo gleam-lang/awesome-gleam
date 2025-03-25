@@ -1,4 +1,0 @@
-name = "gleameter"
-description = "An implementation of the International System of Units (SI) in Gleam"
-repo_url = "https://github.com/theonlytails/gleameter"
-category = ""

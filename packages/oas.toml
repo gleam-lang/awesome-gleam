@@ -1,4 +1,0 @@
-name = "oas"
-description = "Parse an open api (previously swagger) spec."
-repo_url = "https://github.com/crowdhailer/oas"
-category = ""

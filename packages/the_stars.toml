@@ -1,4 +1,0 @@
-name = "the_stars"
-description = "A terminal styling and logging framework based off the Golang Charm Lipgloss framework."
-repo_url = "https://github.com/Genekkion/theStars"
-category = ""

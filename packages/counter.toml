@@ -1,4 +1,0 @@
-name = "counter"
-description = "A counter for Gleam - modeled after Python's `collections.Counter`"
-repo_url = "https://github.com/JosephTLyons/counter"
-category = ""

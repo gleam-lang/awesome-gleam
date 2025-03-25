@@ -1,4 +1,0 @@
-name = "amnesiac"
-description = "Gleam bindings to mnesia"
-repo_url = "https://github.com/VioletBuse/amnesiac"
-category = ""

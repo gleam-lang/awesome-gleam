@@ -1,4 +1,0 @@
-name = "gleam_dotenv"
-description = "dotenv for Gleam"
-repo_url = "https://github.com/Grubba27/gleam_dotenv"
-category = ""

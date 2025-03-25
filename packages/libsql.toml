@@ -1,4 +1,0 @@
-name = "libsql"
-description = "An unofficial Gleam port of turso's libSQL library"
-repo_url = "https://github.com/brunoti/gleam_libsql"
-category = ""

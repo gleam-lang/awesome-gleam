@@ -1,4 +1,0 @@
-name = "mockth"
-description = "Erlang modules mocking library for Gleam"
-repo_url = "https://github.com/bondiano/mockth"
-category = ""

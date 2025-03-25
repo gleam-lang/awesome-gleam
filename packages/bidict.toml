@@ -1,4 +1,0 @@
-name = "bidict"
-description = "Bijective Dictionary for Gleam"
-repo_url = "https://github.com/jonathanmfung/bidict"
-category = ""

@@ -1,4 +1,0 @@
-name = "murmur3a"
-description = "32 bit variant of the Murmur3 non-cryptographic hash function"
-repo_url = "https://codeberg.org/eaon/murmur3a"
-category = ""

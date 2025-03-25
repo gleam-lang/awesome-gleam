@@ -1,4 +1,0 @@
-name = "signal_pgo"
-description = "A postgres persistance layer for the Signal event sourcing library."
-repo_url = "https://github.com/DominikBB/signal"
-category = ""

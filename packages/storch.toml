@@ -1,4 +1,0 @@
-name = "storch"
-description = "A migration runner for gleam & sqlight"
-repo_url = "https://github.com/JulianBuse/storch"
-category = ""

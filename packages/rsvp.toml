@@ -1,4 +1,0 @@
-name = "rsvp"
-description = "Send HTTP requests from Lustre applications and server components."
-repo_url = "https://github.com/hayleigh-dot-dev/rsvp"
-category = ""

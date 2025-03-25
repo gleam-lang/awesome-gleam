@@ -1,4 +1,0 @@
-name = "lenient_parse"
-description = "Lenient Python-like parsing functions for Gleam."
-repo_url = "https://github.com/JosephTLyons/lenient_parse"
-category = ""

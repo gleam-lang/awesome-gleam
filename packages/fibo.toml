@@ -1,4 +1,0 @@
-name = "fibo"
-description = "a small lib that compute the fibonacci sequence for a given number"
-repo_url = "https://github.com/mJehanno/fibo"
-category = ""

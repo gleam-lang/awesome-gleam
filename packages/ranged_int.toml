@@ -1,4 +1,0 @@
-name = "ranged_int"
-description = "Type safe ranged integer operations for Gleam."
-repo_url = "https://gitlab.com/Nicd/ranged_int"
-category = ""

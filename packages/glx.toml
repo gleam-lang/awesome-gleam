@@ -1,4 +1,0 @@
-name = "glx"
-description = "Extensions to the Gleam standard library."
-repo_url = "https://github.com/maxdeviant/glx"
-category = ""

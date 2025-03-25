@@ -1,4 +1,0 @@
-name = "cake_pog"
-description = "🎂Cake 🐘PostgreSQL adapter which passes PreparedStatements to the pog library for execution written in Gleam."
-repo_url = "https://github.com/inoas/gleam-cake-pog"
-category = ""

@@ -1,4 +1,0 @@
-name = "html_dsl"
-description = "A DSL for generating HTML in Gleam"
-repo_url = "https://github.com/Qinbeans/html-dsl"
-category = ""

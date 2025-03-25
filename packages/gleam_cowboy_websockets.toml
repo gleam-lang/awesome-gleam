@@ -1,4 +1,0 @@
-name = "gleam_cowboy_websockets"
-description = "An expermimental Gleam library for playing with Cowboy websockets"
-repo_url = "https://github.com/vstreame/gleam_cowboy_websockets"
-category = ""

@@ -1,4 +1,0 @@
-name = "ref"
-description = "A ref cell library for gleam. The mutable references for the erlang target are implemented with Actors, so are not very performant. They should only be used if immutability is not an option"
-repo_url = "https://github.com/Robert4S/gleam_ref"
-category = ""

@@ -1,4 +1,0 @@
-name = "tenthash"
-description = "Gleam based implementation of TentHash for Erlang targets"
-repo_url = "https://github.com/pendletong/tenthash"
-category = ""

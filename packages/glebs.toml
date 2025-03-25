@@ -1,4 +1,0 @@
-name = "glebs"
-description = "An OAuth PKCE helper for Gleam in Browser. You can easily use this with lustre."
-repo_url = "https://github.com/andho/glebs"
-category = ""

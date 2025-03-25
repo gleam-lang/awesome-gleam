@@ -1,4 +1,0 @@
-name = "grammy"
-description = "A basic Gleam UDP server"
-repo_url = "https://github.com/rawhat/grammy"
-category = ""

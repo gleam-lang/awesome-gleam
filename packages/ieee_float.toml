@@ -1,4 +1,0 @@
-name = "ieee_float"
-description = "Gleam library that provides an IEEE 754 compliant float type."
-repo_url = "https://github.com/richard-viney/ieee_float"
-category = ""

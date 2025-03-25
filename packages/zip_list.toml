@@ -1,4 +1,0 @@
-name = "zip_list"
-description = "A list-like data structure that maintains a selected element"
-repo_url = "https://github.com/Massolari/zip_list"
-category = ""

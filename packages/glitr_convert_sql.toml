@@ -1,4 +1,0 @@
-name = "glitr_convert_sql"
-description = "Create SQL requests from Gleam types effortlessly !"
-repo_url = "https://github.com/Billuc/glitr"
-category = ""

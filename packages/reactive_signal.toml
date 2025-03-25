@@ -1,4 +1,0 @@
-name = "reactive_signal"
-description = "A Gleam library for cross-process reactive signal"
-repo_url = "https://github.com/yukikurage/reactive_signal"
-category = ""

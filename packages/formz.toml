@@ -1,4 +1,0 @@
-name = "formz"
-description = "Accessible, type safe form parsing and generating for Gleam"
-repo_url = "https://github.com/bentomas/formz"
-category = ""

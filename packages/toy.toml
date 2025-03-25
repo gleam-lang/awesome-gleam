@@ -1,4 +1,0 @@
-name = "toy"
-description = "Practical composable decoders and validators for Gleam"
-repo_url = "https://github.com/Hackder/toy"
-category = ""

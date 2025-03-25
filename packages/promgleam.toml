@@ -1,4 +1,0 @@
-name = "promgleam"
-description = "A Prometheus client library for Gleam"
-repo_url = "https://github.com/dios-david/promgleam"
-category = ""

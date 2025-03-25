@@ -1,4 +1,0 @@
-name = "sheen"
-description = "Fully typed library for constructing command line parsers using gleam"
-repo_url = "https://github.com/ehllie/sheen"
-category = ""

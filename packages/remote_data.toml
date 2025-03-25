@@ -1,4 +1,0 @@
-name = "remote_data"
-description = "A package to deal with remote data in Gleam"
-repo_url = "https://github.com/Massolari/remote_data"
-category = ""

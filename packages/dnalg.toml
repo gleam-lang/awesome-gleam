@@ -1,4 +1,0 @@
-name = "dnalg"
-description = "DNAlg is a DNA manipulation library written in Gleam. It can be used as a library for your own Gleam programs, or a command line program!"
-repo_url = "https://github.com/VoxelMC/dnalg-gleam"
-category = ""

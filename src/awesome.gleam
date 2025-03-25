@@ -1,43 +1,13 @@
 import argv
-import gleam/bool
 import gleam/dict
-import gleam/dynamic.{type Dynamic}
-import gleam/http/request
-import gleam/httpc
 import gleam/io
 import gleam/list
-import gleam/option.{type Option, Some}
+import gleam/option.{type Option}
 import gleam/string
 import simplifile
-import sqlight
 import tom
 
-const remote_database_url = "https://packages.gleam.run/packages.sqlite"
-
-const local_database_path = "database.sqlite"
-
-const packages_query = "
-select
-  name
-, description
-, json_extract(links, '$.Repository') as repo_url
-from packages
-"
-
 pub fn main() {
-  io.println("Downloading package index database")
-  let assert Ok(req) = request.to(remote_database_url)
-  let req = request.set_body(req, <<>>)
-  let assert Ok(resp) = httpc.send_bits(req)
-  let assert 200 = resp.status
-  let assert Ok(_) = simplifile.write_bits(local_database_path, resp.body)
-
-  io.println("Writing new package config files")
-  let assert Ok(db) = sqlight.open(local_database_path)
-  let assert Ok(packages) =
-    sqlight.query(packages_query, db, [], database_package_decoder)
-  list.each(packages, write_config)
-
   io.println("Loading config files")
 
   let assert Ok(entries) = simplifile.read_directory("packages")
@@ -56,8 +26,8 @@ pub fn main() {
 
 For a full list of packages check out [**the Gleam package index**](https://packages.gleam.run/).
 
-Have a Gleam project to share with the world? Run `gleam run`, assign a
-category for it in `packages/NAME.toml`, and run `gleam run` again.
+Have a Gleam project to share with the world? Add a file in `packages/` and run
+`gleam run`.
 
 Looking for something to build? Check out [the suggestions list][suggestions].
 
@@ -212,33 +182,6 @@ fn read_config(entry: String) -> ConfigPackage {
   )
 }
 
-fn write_config(package: DatabasePackage) -> Nil {
-  let assert Ok(exists) =
-    simplifile.is_file("packages/" <> package.name <> ".toml")
-  use <- bool.guard(when: exists, return: Nil)
-
-  case package {
-    DatabasePackage(
-      name: name,
-      description: description,
-      repo_url: Some(repo_url),
-    ) -> {
-      let toml = new_toml(name, description, repo_url)
-      let assert Ok(_) = simplifile.write("packages/" <> name <> ".toml", toml)
-      Nil
-    }
-    _ -> Nil
-  }
-}
-
-fn new_toml(name: String, description: String, repo_url: String) -> String {
-  "name = \"" <> name <> "\"
-description = \"" <> description <> "\"
-repo_url = \"" <> repo_url <> "\"
-category = \"\"
-"
-}
-
 pub type ConfigPackage {
   ConfigPackage(
     name: String,
@@ -250,17 +193,4 @@ pub type ConfigPackage {
 
 pub type DatabasePackage {
   DatabasePackage(name: String, description: String, repo_url: Option(String))
-}
-
-fn database_package_decoder(
-  data: Dynamic,
-) -> Result(DatabasePackage, dynamic.DecodeErrors) {
-  let decoder =
-    dynamic.decode3(
-      DatabasePackage,
-      dynamic.element(0, dynamic.string),
-      dynamic.element(1, dynamic.string),
-      dynamic.element(2, dynamic.optional(dynamic.string)),
-    )
-  decoder(data)
 }

@@ -1,4 +1,0 @@
-name = "conllu"
-description = "A gleam package to parse the CONLLU format"
-repo_url = "https://github.com/BrewingWeasel/conllu"
-category = ""

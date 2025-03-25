@@ -1,4 +1,0 @@
-name = "cigogne"
-description = "Easily migrate your Postgres databases. In Gleam !"
-repo_url = "https://github.com/Billuc/cigogne"
-category = ""

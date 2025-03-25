@@ -1,4 +1,0 @@
-name = "kielet"
-description = "GNU Gettext implementation for Gleam"
-repo_url = "https://gitlab.com/Nicd/kielet"
-category = ""

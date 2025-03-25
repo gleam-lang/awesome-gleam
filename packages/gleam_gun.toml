@@ -1,4 +1,0 @@
-name = "gleam_gun"
-description = "Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client"
-repo_url = "https://github.com/gilevskaya/gleam_gun"
-category = ""

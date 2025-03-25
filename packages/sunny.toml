@@ -1,4 +1,0 @@
-name = "sunny"
-description = "A gleam Open-meteo API client to get weather forecasts."
-repo_url = "https://github.com/leo-210/sunny"
-category = ""

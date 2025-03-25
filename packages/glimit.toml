@@ -1,4 +1,0 @@
-name = "glimit"
-description = "A simple, framework-agnostic, in-memory rate limiter for Gleam."
-repo_url = "https://github.com/nootr/glimit"
-category = ""

@@ -1,4 +1,0 @@
-name = "gwt"
-description = "A JWT library written in Gleam"
-repo_url = "https://github.com/brettkolodny/gwt"
-category = ""

@@ -1,4 +1,0 @@
-name = "glv8"
-description = "Write functional type-safe postgresql procedures with gleam, through plv8's JavaScript binding"
-repo_url = "https://github.com/kaiwu/glv8"
-category = ""

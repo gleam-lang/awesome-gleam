@@ -1,4 +1,0 @@
-name = "gemqtt"
-description = "Gleam wrapper of the emqx/emqtt client library"
-repo_url = "https://github.com/jhillyerd/gemqtt"
-category = ""

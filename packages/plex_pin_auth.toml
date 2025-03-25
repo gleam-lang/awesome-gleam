@@ -1,4 +1,0 @@
-name = "plex_pin_auth"
-description = "Authenticate with Plex via the Plex pin authentication method"
-repo_url = "https://github.com/harrisonhoward/plex_pin_auth"
-category = ""

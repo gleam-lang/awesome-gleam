@@ -1,4 +1,0 @@
-name = "lustre_dev_tools"
-description = "Lustre's official CLI and development tooling."
-repo_url = "https://github.com/lustre-labs/dev-tools"
-category = ""

@@ -1,4 +1,0 @@
-name = "dove"
-description = "HTTP client written in and for Gleam"
-repo_url = "https://github.com/massivefermion/dove"
-category = ""

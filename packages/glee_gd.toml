@@ -1,4 +1,0 @@
-name = "glee_gd"
-description = "Gleam bindings for erlang/egd."
-repo_url = "https://github.com/stevetoro/glee_gd"
-category = ""

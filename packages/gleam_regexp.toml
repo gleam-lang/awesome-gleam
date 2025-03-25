@@ -1,4 +1,0 @@
-name = "gleam_regexp"
-description = "Regular expressions in Gleam!"
-repo_url = "https://github.com/gleam-lang/regexp"
-category = ""

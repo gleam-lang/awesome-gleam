@@ -1,4 +1,0 @@
-name = "fluentci"
-description = "Write CI/CD pipelines in Gleam"
-repo_url = "https://github.com/fluentci-io/fluentci-engine"
-category = ""

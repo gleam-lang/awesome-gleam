@@ -1,4 +1,0 @@
-name = "trellis"
-description = "A simple Gleam library for pretty printing tabular data!"
-repo_url = "https://github.com/ethanthoma/trellis"
-category = ""

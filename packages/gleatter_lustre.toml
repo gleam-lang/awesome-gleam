@@ -1,4 +1,0 @@
-name = "gleatter_lustre"
-description = "Interface for Lustre to use Gleatter's typed routes"
-repo_url = "https://github.com/Billuc/gleatter_lustre"
-category = ""

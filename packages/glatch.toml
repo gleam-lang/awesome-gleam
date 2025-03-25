@@ -1,4 +1,0 @@
-name = "glatch"
-description = "Gleam type check using pattern matching"
-repo_url = "https://github.com/darky/glatch"
-category = ""

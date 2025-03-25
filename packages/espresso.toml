@@ -1,4 +1,0 @@
-name = "espresso"
-description = "A simple gleam http server and router built on top of erlang cowboy"
-repo_url = "https://github.com/espresso-gleam/espresso"
-category = ""

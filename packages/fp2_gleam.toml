@@ -1,4 +1,0 @@
-name = "fp2_gleam"
-description = "A porting of some parts of fp-ts to Gleam"
-repo_url = "https://github.com/lucasavila00/fp2"
-category = ""

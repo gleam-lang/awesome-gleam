@@ -1,4 +1,0 @@
-name = "binary_search"
-description = "A simple binary search implementation in Gleam"
-repo_url = "https://github.com/nkpgardose/binary_search"
-category = ""

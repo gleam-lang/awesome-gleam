@@ -1,4 +1,0 @@
-name = "glat"
-description = "A featureful rational number type for Gleam."
-repo_url = "https://codeberg.org/bobjoe12131/glat"
-category = ""

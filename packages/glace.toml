@@ -1,4 +1,0 @@
-name = "glace"
-description = "An easy to use, high performance framework to quickly build APIs for the Gleam programming language"
-repo_url = "https://github.com/ramkarthik/glace"
-category = ""

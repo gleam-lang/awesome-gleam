@@ -1,4 +1,0 @@
-name = "starfeeds"
-description = "Star feeds is a gleam package for json/rss/atom feed generator"
-repo_url = "https://github.com/Proqpine/starfeeds"
-category = ""

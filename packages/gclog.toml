@@ -1,4 +1,0 @@
-name = "gclog"
-description = "A simple Google Cloud Platform compliant logging library for Gleam!"
-repo_url = "https://github.com/sam-kenney/gclog"
-category = ""

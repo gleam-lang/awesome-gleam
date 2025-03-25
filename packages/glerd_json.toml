@@ -1,4 +1,0 @@
-name = "glerd_json"
-description = "Gleam JSON encoders/decoders codegen using Glerd"
-repo_url = "https://github.com/darky/glerd-json"
-category = ""

@@ -1,4 +1,0 @@
-name = "glistix_gleeunit"
-description = "A fork of gleeunit for Glistix's Nix target"
-repo_url = "https://github.com/glistix/gleeunit"
-category = ""

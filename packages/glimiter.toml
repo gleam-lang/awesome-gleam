@@ -1,4 +1,0 @@
-name = "glimiter"
-description = "A simple sliding window limiter in pure gleam"
-repo_url = "https://github.com/H-274/glimiter"
-category = ""

@@ -1,4 +1,0 @@
-name = "espresso_pgo_wrapper"
-description = "Simple wrapper around the espresso PGO tool"
-repo_url = "https://github.com/espresso-gleam/espresso_pgo_wrapper"
-category = ""

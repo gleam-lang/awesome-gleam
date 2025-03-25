@@ -1,4 +1,0 @@
-name = "gliew"
-description = "A gleam server-side rendered web framework with live updating UI"
-repo_url = "https://github.com/arnarg/gliew"
-category = ""

@@ -1,4 +1,0 @@
-name = "tulip"
-description = "Tulip is a simple Gleam project for adding color to your terminal output. All 256 ANSI colors are supported."
-repo_url = "https://github.com/johnnymayodev/tulip"
-category = ""

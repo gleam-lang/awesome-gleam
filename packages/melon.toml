@@ -1,4 +1,0 @@
-name = "melon"
-description = "A Gleam library for running containers tailored to testing purposes."
-repo_url = "https://github.com/patrik-kuehl/melon"
-category = ""

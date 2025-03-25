@@ -1,4 +1,0 @@
-name = "lustre_alpine"
-description = "Lustre Alpine is a Gleam library for working with Alpine JS through Lustre attributes."
-repo_url = "https://github.com/renatillas/lustre_alpine"
-category = ""

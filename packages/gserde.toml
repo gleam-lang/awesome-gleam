@@ -1,4 +1,0 @@
-name = "gserde"
-description = "gleam codegen for serialization and deserialization"
-repo_url = "https://github.com/cdaringe/gserde"
-category = ""

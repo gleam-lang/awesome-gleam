@@ -1,4 +1,0 @@
-name = "tagg"
-description = "An HTML templating engine that uses XML/HTML tag syntax to render HTML."
-repo_url = "https://github.com/jasonprogrammer/tagg"
-category = ""

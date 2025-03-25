@@ -1,4 +1,0 @@
-name = "parallel_map"
-description = "A simple parallel map library in Gleam"
-repo_url = "https://github.com/PastMoments/parallel_map"
-category = ""

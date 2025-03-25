@@ -1,4 +1,0 @@
-name = "sqlc_gen_gleam"
-description = "A sqlc plugin for gleam that generates type-safe gleam code for your SQL statements."
-repo_url = "https://github.com/daniellionel01/sqlc-gen-gleam"
-category = ""

@@ -1,4 +1,0 @@
-name = "glistix_stdlib"
-description = "A fork of the Gleam standard library for Glistix's Nix target"
-repo_url = "https://github.com/glistix/stdlib"
-category = ""

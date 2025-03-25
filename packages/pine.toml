@@ -1,4 +1,0 @@
-name = "pine"
-description = "configurable logger for gleam"
-repo_url = "https://gitea.attum.co/wqtt/pine.git"
-category = ""

@@ -1,4 +1,0 @@
-name = "transparent_http"
-description = "Simple HTTP client to power API wrappers written in Gleam"
-repo_url = "https://github.com/HarryET/transparent_http"
-category = ""

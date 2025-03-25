@@ -1,4 +1,0 @@
-name = "secp256k1_gleam"
-description = "A Gleam wrapper for the secp256k1 library"
-repo_url = "https://github.com/gusinacio/secp256k1_gleam"
-category = ""

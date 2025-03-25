@@ -1,4 +1,0 @@
-name = "checkmark"
-description = "Gleam markdown snippet validator"
-repo_url = "https://github.com/sbergen/checkmark"
-category = ""

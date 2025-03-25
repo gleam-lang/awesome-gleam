@@ -1,4 +1,0 @@
-name = "morsey"
-description = "A package for encoding and decoding Morse code in Gleam."
-repo_url = "https://github.com/FrostyX/gleam-morse"
-category = ""

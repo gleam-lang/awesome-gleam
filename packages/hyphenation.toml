@@ -1,4 +1,0 @@
-name = "hyphenation"
-description = "Pure-Gleam implementation of KnuthLiang Hyphenation."
-repo_url = "https://github.com/jonathanmfung/hyphenation"
-category = ""

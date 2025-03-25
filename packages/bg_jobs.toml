@@ -1,4 +1,0 @@
-name = "bg_jobs"
-description = "Background job processing for your Gleam app"
-repo_url = "https://github.com/MaxHill/bg_jobs"
-category = ""

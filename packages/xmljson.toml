@@ -1,4 +1,0 @@
-name = "xmljson"
-description = "Convert between XML and JSON using the BadgerFish specification"
-repo_url = "https://codeberg.org/edwinvanl/xmljson"
-category = ""

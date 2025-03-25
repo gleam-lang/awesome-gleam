@@ -1,4 +1,0 @@
-name = "lzf_gleam"
-description = "LZF Compression library"
-repo_url = "https://github.com/codemonkey76/gleam_lzf"
-category = ""

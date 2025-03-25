@@ -1,4 +1,0 @@
-name = "outil"
-description = "A Gleam library for writing command line tools."
-repo_url = "https://github.com/fabjan/outil"
-category = ""

@@ -1,4 +1,0 @@
-name = "glistix_nix"
-description = "Bindings to Nix types and functions for Glistix users"
-repo_url = "https://github.com/glistix/nix"
-category = ""

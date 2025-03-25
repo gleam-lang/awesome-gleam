@@ -1,4 +1,0 @@
-name = "gip"
-description = "Process ip's in js and erlang via gleam"
-repo_url = "https://github.com/BradBot1/gleam_gip"
-category = ""

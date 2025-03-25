@@ -1,4 +1,0 @@
-name = "sprocket"
-description = "A library for building live views and real-time server components in Gleam"
-repo_url = "https://github.com/bitbldr/sprocket"
-category = ""

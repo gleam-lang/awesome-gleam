@@ -1,4 +1,0 @@
-name = "qcheck"
-description = "QuickCheck-inspired property testing with integrated shrinking"
-repo_url = "https://github.com/mooreryan/gleam_qcheck"
-category = ""

@@ -1,4 +1,0 @@
-name = "lustre_http_lib"
-description = "HTTP requests from lustre"
-repo_url = "https://codeberg.org/kero/lustre_http"
-category = ""

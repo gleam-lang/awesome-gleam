@@ -1,4 +1,0 @@
-name = "glency"
-description = "Tiny Gleam dependency injection. Make IO functions unit tests friendly."
-repo_url = "https://github.com/darky/glency"
-category = ""

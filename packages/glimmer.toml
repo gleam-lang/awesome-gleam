@@ -1,4 +1,0 @@
-name = "glimmer"
-description = "A concurrency library for Gleam!"
-repo_url = "https://github.com/RyanBrewer317/glimmer"
-category = ""

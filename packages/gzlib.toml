@@ -1,4 +1,0 @@
-name = "gzlib"
-description = "zlib utilities for Gleam"
-repo_url = "https://github.com/LilyRose2798/gzlib"
-category = ""

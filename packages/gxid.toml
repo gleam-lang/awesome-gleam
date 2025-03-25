@@ -1,4 +1,0 @@
-name = "gxid"
-description = "A Gleam implementation of xid"
-repo_url = "https://github.com/defgenx/gxid"
-category = ""

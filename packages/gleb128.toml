@@ -1,4 +1,0 @@
-name = "gleb128"
-description = "GLEB128 is a small Gleam library that provides functions for encoding and decoding LEB128 (Little Endian Base 128) integers."
-repo_url = "https://github.com/BrendoCosta/gleb128"
-category = ""

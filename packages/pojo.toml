@@ -1,4 +1,0 @@
-name = "pojo"
-description = "Plain object encoding for some common Gleam types"
-repo_url = "https://github.com/crowdhailer/gleamtours"
-category = ""

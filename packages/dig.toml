@@ -1,4 +1,0 @@
-name = "dig"
-description = "parse path expr as `dynamic.Decoder`"
-repo_url = "https://github.com/lost22git/dig"
-category = ""

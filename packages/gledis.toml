@@ -1,4 +1,0 @@
-name = "gledis"
-description = "Gleam Redis client"
-repo_url = "https://github.com/HarryET/gledis"
-category = ""

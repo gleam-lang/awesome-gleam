@@ -1,4 +1,0 @@
-name = "cx"
-description = "A library, written in Gleam, to help create data structures containing different data types and levels of nesting."
-repo_url = "https://github.com/jasonprogrammer/cx"
-category = ""

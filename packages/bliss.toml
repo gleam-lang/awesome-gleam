@@ -1,4 +1,0 @@
-name = "bliss"
-description = "A micro web framework for Gleam"
-repo_url = "https://github.com/sporto/bliss"
-category = ""

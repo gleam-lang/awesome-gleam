@@ -1,4 +1,0 @@
-name = "unchained"
-description = "A framework for developing applications powered by large language models (LLMs) in Gleam"
-repo_url = "https://github.com/lostbean/unchained"
-category = ""

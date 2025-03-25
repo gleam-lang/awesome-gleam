@@ -1,4 +1,0 @@
-name = "gleamstral"
-description = "A Gleam client for the Mistral AI API"
-repo_url = "https://github.com/Neofox/gleamstral"
-category = ""

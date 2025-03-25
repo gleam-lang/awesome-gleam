@@ -1,4 +1,0 @@
-name = "chomp"
-description = "🍪 Lexer step + parser combinators + great error messages [nibble fork]"
-repo_url = "https://github.com/MystPi/chomp"
-category = ""

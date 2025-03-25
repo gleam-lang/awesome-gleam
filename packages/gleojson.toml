@@ -1,4 +1,0 @@
-name = "gleojson"
-description = "A Gleam library for encoding and decoding GeoJSON"
-repo_url = "https://github.com/guria/gleojson"
-category = ""

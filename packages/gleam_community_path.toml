@@ -1,4 +1,0 @@
-name = "gleam_community_path"
-description = "Path parsing and manipulation"
-repo_url = "https://github.com/gleam-community/path"
-category = ""

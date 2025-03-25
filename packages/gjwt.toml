@@ -1,4 +1,0 @@
-name = "gjwt"
-description = "A gleam abstraction to interact with erlang_jose for JWT's"
-repo_url = "https://github.com/BradBot1/gleam_gjwt"
-category = ""

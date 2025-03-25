@@ -1,4 +1,0 @@
-name = "gleamrpc"
-description = "Remote Procedure Calls in Gleam"
-repo_url = "https://github.com/Billuc/gleamrpc"
-category = ""

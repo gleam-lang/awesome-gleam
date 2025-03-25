@@ -1,4 +1,0 @@
-name = "glubsub"
-description = "A simple PubSub library using Gleam actors"
-repo_url = "https://github.com/okkdev/glubsub"
-category = ""

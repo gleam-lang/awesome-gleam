@@ -1,4 +1,0 @@
-name = "glisdigit"
-description = "A simple module to check if something is a numerical digit similar to std::is_digit in C++"
-repo_url = "https://github.com/tovedetered/glisdigit"
-category = ""

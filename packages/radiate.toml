@@ -1,4 +1,0 @@
-name = "radiate"
-description = "Hot reloading while in development for Gleam"
-repo_url = "https://github.com/pta2002/gleam-radiate"
-category = ""

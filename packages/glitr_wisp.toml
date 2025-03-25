@@ -1,4 +1,0 @@
-name = "glitr_wisp"
-description = "Interface for wisp to use Glitr's typed routes"
-repo_url = "https://github.com/Billuc/glitr"
-category = ""

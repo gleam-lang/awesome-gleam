@@ -1,4 +1,0 @@
-name = "gstripe"
-description = "Stripe API bindings for Gleam."
-repo_url = "https://github.com/raquentin/stripe"
-category = ""

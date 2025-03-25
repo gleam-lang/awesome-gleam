@@ -1,4 +1,0 @@
-name = "rsa_keys"
-description = "A small library to help with rsa keys and message signing"
-repo_url = "https://github.com/jmrflora/rsa_keys"
-category = ""

@@ -1,4 +1,0 @@
-name = "eventsourcing"
-description = "CQRS and Event Soucing in Gleam!"
-repo_url = "https://github.com/renatillas/eventsourcing"
-category = ""

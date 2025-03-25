@@ -1,4 +1,0 @@
-name = "input"
-description = "This package provides a single function, `input`, that prints a prompt and then reads a user's input."
-repo_url = "https://github.com/bcpeinhardt/input"
-category = ""

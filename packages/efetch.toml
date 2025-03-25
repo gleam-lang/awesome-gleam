@@ -1,4 +1,0 @@
-name = "efetch"
-description = "A multi-target http client for gleam."
-repo_url = "https://github.com/lv37/efetch"
-category = ""

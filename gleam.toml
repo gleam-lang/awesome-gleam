@@ -15,10 +15,7 @@ version = "1.0.0"
 [dependencies]
 gleam_stdlib = "~> 0.34 or ~> 1.0"
 simplifile = ">= 2.0.0 and < 3.0.0"
-gleam_httpc = "~> 2.1"
 tom = ">= 1.0.0 and < 2.0.0"
-sqlight = "~> 0.9"
-gleam_http = "~> 3.5"
 argv = ">= 1.0.2 and < 2.0.0"
 
 [dev-dependencies]

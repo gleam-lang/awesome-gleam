@@ -1,4 +1,0 @@
-name = "immutable_lru"
-description = "Immutable LRU cache"
-repo_url = "https://github.com/chrstntdd/immutable_lru"
-category = ""

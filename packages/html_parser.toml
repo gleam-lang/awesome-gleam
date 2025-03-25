@@ -1,4 +1,0 @@
-name = "html_parser"
-description = "A simple HTML parser using Gleam"
-repo_url = "https://github.com/calvinmclean/html_parser"
-category = ""

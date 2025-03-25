@@ -1,4 +1,0 @@
-name = "node_tags"
-description = "A ditributed gleam service to dynamically give nodes labels and filter by said labels."
-repo_url = "https://github.com/VioletBuse/node_tags"
-category = ""

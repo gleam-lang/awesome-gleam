@@ -1,4 +1,0 @@
-name = "carotte"
-description = "A RabbitMQ client for Gleam"
-repo_url = "https://github.com/renatillas/carotte"
-category = ""

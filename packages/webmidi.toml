@@ -1,4 +1,0 @@
-name = "webmidi"
-description = "Web MIDI API bindings for Gleam"
-repo_url = "https://github.com/enderchief/webmidi"
-category = ""

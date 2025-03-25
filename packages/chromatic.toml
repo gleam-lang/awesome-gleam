@@ -1,4 +1,0 @@
-name = "chromatic"
-description = "Beautiful, expressive and composable color and text formatting for CLI in Gleam."
-repo_url = "https://github.com/joshocalico/chromatic"
-category = ""

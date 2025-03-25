@@ -1,4 +1,0 @@
-name = "wemote"
-description = "A gleam package for executing code on remote nodes."
-repo_url = "https://github.com/VioletBuse/wemote"
-category = ""

@@ -1,4 +1,0 @@
-name = "gmysql"
-description = "Gleam mysql client."
-repo_url = "https://github.com/VioletBuse/gmysql"
-category = ""

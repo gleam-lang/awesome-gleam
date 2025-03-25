@@ -1,4 +1,0 @@
-name = "sorbet"
-description = "A simple key-value configuration format parser and formatter for Gleam with support for multi-line values."
-repo_url = "https://github.com/gleemers/glee-sorbet"
-category = ""

@@ -1,4 +1,0 @@
-name = "glitr"
-description = "Gleam typed routes library for type-safe fullstack development"
-repo_url = "https://github.com/Billuc/glitr"
-category = ""

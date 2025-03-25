@@ -1,4 +1,0 @@
-name = "starmap"
-description = "Type-Safe, ORM-like SQL Library for gleam"
-repo_url = "https://github.com/MoeDevelops/starmap"
-category = ""

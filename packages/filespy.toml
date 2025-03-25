@@ -1,4 +1,0 @@
-name = "filespy"
-description = "Get notified of filesystem events in Gleam"
-repo_url = "https://github.com/pta2002/gleam-filespy"
-category = ""

@@ -1,4 +1,0 @@
-name = "arctic"
-description = "A friendly web framework for fast response times and a lightweight or serverless backend, written in Gleam!"
-repo_url = "https://github.com/RyanBrewer317/arctic"
-category = ""

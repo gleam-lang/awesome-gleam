@@ -1,4 +1,0 @@
-name = "fswalk"
-description = "Recursively iterate over the filesystem"
-repo_url = "https://github.com/cdaringe/fswalk"
-category = ""

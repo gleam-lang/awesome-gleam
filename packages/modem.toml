@@ -1,4 +1,0 @@
-name = "modem"
-description = "A friendly Lustre package to help you build a router, handle links, and manage URLs."
-repo_url = "https://github.com/hayleigh-dot-dev/modem"
-category = ""

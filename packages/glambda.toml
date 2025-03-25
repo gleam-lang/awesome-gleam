@@ -1,4 +1,0 @@
-name = "glambda"
-description = "Write AWS Lambda functions in Gleam!"
-repo_url = "https://github.com/ryanmiville/glambda"
-category = ""

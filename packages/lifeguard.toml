@@ -1,4 +1,0 @@
-name = "lifeguard"
-description = "A simple actor pool for Gleam!"
-repo_url = "https://github.com/Pevensie/lifeguard"
-category = ""

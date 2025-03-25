@@ -1,4 +1,0 @@
-name = "glome"
-description = "A Gleam library to write and run Home Assistant automations."
-repo_url = "https://github.com/dennisschroeder/glome"
-category = ""

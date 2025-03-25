@@ -1,4 +1,0 @@
-name = "gluid"
-description = "Generate Uuid for Gleam"
-repo_url = "https://github.com/titouancreach/gluid"
-category = ""

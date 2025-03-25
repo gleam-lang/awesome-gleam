@@ -1,4 +1,0 @@
-name = "dijkstra"
-description = "A versatile implementation of Dijkstra's shortest path algorithm for Gleam."
-repo_url = "https://github.com/hraftery/gleam-dijkstra"
-category = ""

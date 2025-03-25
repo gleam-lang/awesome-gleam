@@ -1,4 +1,0 @@
-name = "silk"
-description = "Gleam binding to the builtin Erlang wxWidgets"
-repo_url = "https://github.com/enderchief/silk"
-category = ""

@@ -1,4 +1,0 @@
-name = "scrapbook"
-description = "Gleam package that can scrape parts of Facebook."
-repo_url = "https://codeberg.org/szelbi/scrapbook"
-category = ""

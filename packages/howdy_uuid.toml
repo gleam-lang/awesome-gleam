@@ -1,4 +1,0 @@
-name = "howdy_uuid"
-description = "A library for Gleam to parse UUIDs. This is a slightly modify version of gleam_uuid, to work with the latest version of gleam"
-repo_url = "https://github.com/mikeyjones/howdy_uuid"
-category = ""

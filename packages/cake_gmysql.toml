@@ -1,4 +1,0 @@
-name = "cake_gmysql"
-description = "🎂Cake 🦭MariaDB and 🐬MySQL adapters which which pass PreparedStatements to the gmysql library for execution written in Gleam."
-repo_url = "https://github.com/inoas/gleam-cake-gmysql"
-category = ""

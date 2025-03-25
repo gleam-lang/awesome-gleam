@@ -1,4 +1,0 @@
-name = "collatz"
-description = "Functions Related to the Collatz/Syracuse/3n+1 Problem"
-repo_url = "https://github.com/Skenvy/Collatz"
-category = ""

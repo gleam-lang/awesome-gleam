@@ -1,4 +1,0 @@
-name = "glacier_gleeunit"
-description = "This is a fork of Gleeunit that allows it to be called as a library/function with a list of test modules instead of just via CLI."
-repo_url = "https://github.com/inoas/gleeunit"
-category = ""

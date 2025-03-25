@@ -1,4 +1,0 @@
-name = "eventsourcing_postgres"
-description = "Postgres event store for the Eventsourcing library"
-repo_url = "https://github.com/renatillas/eventsourcing_postgres"
-category = ""

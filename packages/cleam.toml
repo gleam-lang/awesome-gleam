@@ -1,4 +1,0 @@
-name = "cleam"
-description = "Cleam for clean Gleam. Detect unused exports."
-repo_url = "https://github.com/darky/cleam"
-category = ""

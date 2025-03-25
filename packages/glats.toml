@@ -1,4 +1,0 @@
-name = "glats"
-description = "A NATS client for Gleam."
-repo_url = "https://github.com/arnarg/glats"
-category = ""

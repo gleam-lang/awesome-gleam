@@ -1,4 +1,0 @@
-name = "meadow"
-description = "A server side for glare, the web framework based on SolidJS, adding server signals and more."
-repo_url = "https://github.com/JoelVerm/meadow"
-category = ""

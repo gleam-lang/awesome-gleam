@@ -1,4 +1,0 @@
-name = "gleam_deque"
-description = "A double-ended queue data structure"
-repo_url = "https://github.com/gleam-lang/deque"
-category = ""

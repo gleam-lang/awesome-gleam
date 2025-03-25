@@ -1,4 +1,0 @@
-name = "kv_sessions"
-description = "Session management library for Wisp. Manage user sessions in a simple key-value store."
-repo_url = "https://github.com/MaxHill/kv_sessions"
-category = ""

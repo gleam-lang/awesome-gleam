@@ -1,4 +1,0 @@
-name = "gleamlz_string"
-description = "Gleam implementation of the JavaScript lz-string library"
-repo_url = "https://github.com/eelmafia/gleamlz_string"
-category = ""

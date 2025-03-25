@@ -1,4 +1,0 @@
-name = "singularity"
-description = "Singleton OTP actor registry for Gleam"
-repo_url = "https://github.com/jhillyerd/singularity"
-category = ""

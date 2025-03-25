@@ -1,4 +1,0 @@
-name = "tcpea"
-description = "A TCP library for Gleam."
-repo_url = "https://github.com/orvitpng/tcpea"
-category = ""

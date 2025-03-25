@@ -1,4 +1,0 @@
-name = "observatory"
-description = "A Gleam client library for Prometheus"
-repo_url = "https://github.com/lazorgurl/observatory"
-category = ""

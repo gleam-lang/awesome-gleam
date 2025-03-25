@@ -1,4 +1,0 @@
-name = "gladvent"
-description = "An Advent Of Code runner for gleam"
-repo_url = "https://github.com/TanklesXL/gladvent"
-category = ""

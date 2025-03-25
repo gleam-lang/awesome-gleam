@@ -1,4 +1,0 @@
-name = "starflow"
-description = "A library for building stateful chains of LLM interactions!"
-repo_url = "https://github.com/ethanthoma/starflow"
-category = ""

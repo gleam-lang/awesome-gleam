@@ -1,4 +1,0 @@
-name = "gl_wasm"
-description = "Create binary WebAssembly modules in Gleam"
-repo_url = "https://github.com/gertvv/gl_wasm"
-category = ""

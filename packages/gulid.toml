@@ -1,4 +1,0 @@
-name = "gulid"
-description = "ULID implementation in Gleam (Erlang target only)"
-repo_url = "https://github.com/vtomilin/gulid"
-category = ""

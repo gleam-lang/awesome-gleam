@@ -1,4 +1,0 @@
-name = "term_size"
-description = "Retrieve the terminal's size in rows and columns on all targets"
-repo_url = "https://github.com/MystPi/term_size"
-category = ""

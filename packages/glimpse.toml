@@ -1,4 +1,0 @@
-name = "glimpse"
-description = "Package loader and (theoretically) typechecker for glance"
-repo_url = "https://github.com/dusty-phillips/glimpse"
-category = ""

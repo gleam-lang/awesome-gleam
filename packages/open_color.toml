@@ -1,4 +1,0 @@
-name = "open_color"
-description = "Gleam implementation of the Open Color scheme"
-repo_url = "https://github.com/salif/gleam-open-color"
-category = ""

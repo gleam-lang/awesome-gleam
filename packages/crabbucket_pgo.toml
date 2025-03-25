@@ -1,4 +1,0 @@
-name = "crabbucket_pgo"
-description = "Gleam + Postgres token bucket rate limiting library"
-repo_url = "https://github.com/skinkade/crabbucket_pgo"
-category = ""

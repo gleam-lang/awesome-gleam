@@ -1,4 +1,0 @@
-name = "postgresql_protocol"
-description = "PostgreSQL protocol encoding and decoding"
-repo_url = "https://github.com/grodaus/postgresql_protocol"
-category = ""

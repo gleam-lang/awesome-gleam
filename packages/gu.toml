@@ -1,4 +1,0 @@
-name = "gu"
-description = "Zenity GUI dialogs Gleam wrapper"
-repo_url = "https://github.com/salif/gu"
-category = ""

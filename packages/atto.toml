@@ -1,4 +1,0 @@
-name = "atto"
-description = "Robust and extensible parser combinators for Gleam"
-repo_url = "https://github.com/ieeemma/atto"
-category = ""

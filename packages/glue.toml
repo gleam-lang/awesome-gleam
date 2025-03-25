@@ -1,4 +1,0 @@
-name = "glue"
-description = "Generate functions from your Gleam code!"
-repo_url = "https://github.com/lpil/glue"
-category = ""

@@ -1,4 +1,0 @@
-name = "felix"
-description = "Authentication via Passkey (WebAuthn/FIDO2)"
-repo_url = "https://github.com/crowdhailer/felix"
-category = ""

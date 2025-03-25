@@ -1,4 +1,0 @@
-name = "parser_gleam"
-description = "A porting of parser-ts, purescript-eulalie to Gleam"
-repo_url = "https://github.com/lucasavila00/parser_gleam"
-category = ""

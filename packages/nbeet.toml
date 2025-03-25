@@ -1,4 +1,0 @@
-name = "nbeet"
-description = "An NBT encoder and decoder for gleam"
-repo_url = "https://github.com/zwubs/nbeet"
-category = ""

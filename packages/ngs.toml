@@ -1,4 +1,0 @@
-name = "ngs"
-description = "Offload weight to nginx, implement HTTP server with gleam bindings to njs"
-repo_url = "https://github.com/kaiwu/ngs"
-category = ""

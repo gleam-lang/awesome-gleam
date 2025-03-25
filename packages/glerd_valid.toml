@@ -1,4 +1,0 @@
-name = "glerd_valid"
-description = "Gleam Record validators using Glerd metadata"
-repo_url = "https://github.com/darky/glerd-valid"
-category = ""

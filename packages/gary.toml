@@ -1,4 +1,0 @@
-name = "gary"
-description = "Gleam interface to Erlang sparse arrays"
-repo_url = "https://github.com/hunkyjimpjorps/gary"
-category = ""

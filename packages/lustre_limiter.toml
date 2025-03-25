@@ -1,4 +1,0 @@
-name = "lustre_limiter"
-description = "Bringing debounce and throttle utilities to Lustre for the erlang target."
-repo_url = "https://github.com/7verdy/lustre-limiter"
-category = ""

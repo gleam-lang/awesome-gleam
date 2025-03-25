@@ -1,4 +1,0 @@
-name = "convert_json"
-description = "Encode and decode JSON from and to Gleam types"
-repo_url = "https://github.com/Billuc/convert_json"
-category = ""

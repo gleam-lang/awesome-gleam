@@ -1,4 +1,0 @@
-name = "validate_monadic"
-description = "Monadic Validation in Gleam!"
-repo_url = "https://github.com/abradley2/gleam-validate"
-category = ""

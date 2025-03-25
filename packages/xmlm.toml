@@ -1,4 +1,0 @@
-name = "xmlm"
-description = "An pull-based XML parser for the Gleam programming language"
-repo_url = "https://github.com/mooreryan/gleam_xmlm"
-category = ""

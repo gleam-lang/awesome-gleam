@@ -1,4 +1,0 @@
-name = "fetch_event"
-description = "WinterCG compatible interface for creating event-driven servers in Gleam"
-repo_url = "https://github.com/joshgillies/fetch_event"
-category = ""

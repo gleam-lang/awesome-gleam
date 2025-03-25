@@ -1,4 +1,0 @@
-name = "based"
-description = "A common interface for database backends"
-repo_url = "https://github.com/stndrs/based"
-category = ""

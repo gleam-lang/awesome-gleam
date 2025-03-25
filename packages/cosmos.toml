@@ -1,4 +1,0 @@
-name = "cosmos"
-description = "A UI Library for the novdom frontend framework writte in Gleam. Focused on office application and customizability for the end user"
-repo_url = "https://gitlab.com/TobiasBinnewies/cosmos"
-category = ""

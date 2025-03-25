@@ -1,4 +1,0 @@
-name = "feature_flags"
-description = "Feature flags for Gleam"
-repo_url = "https://github.com/austinthecoder/gleam_feature_flags"
-category = ""

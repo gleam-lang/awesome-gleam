@@ -1,4 +1,0 @@
-name = "string_format"
-description = "A string formatter library inspired by Python's .format() method"
-repo_url = "https://github.com/tkanerva/string_format"
-category = ""

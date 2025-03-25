@@ -1,4 +1,0 @@
-name = "gleam_retry"
-description = "Retry code that can fail."
-repo_url = "https://github.com/JosephTLyons/retry"
-category = ""

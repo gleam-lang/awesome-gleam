@@ -1,4 +1,0 @@
-name = "node_socket_client"
-description = "Bindings to Node's TCP socket client"
-repo_url = "https://github.com/lpil/node-socket-client"
-category = ""

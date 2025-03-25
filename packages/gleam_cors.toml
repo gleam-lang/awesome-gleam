@@ -1,4 +1,0 @@
-name = "gleam_cors"
-description = "A CORS middleware for Gleam"
-repo_url = "https://github.com/megapctr/gleam_cors"
-category = ""

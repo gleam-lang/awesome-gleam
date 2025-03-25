@@ -1,4 +1,0 @@
-name = "gpsd_json"
-description = "Types and functions for working with GPSD's JSON API"
-repo_url = "https://github.com/lpil/gpsd-json"
-category = ""

@@ -1,4 +1,0 @@
-name = "simplejson"
-description = "Native gleam json parser/generator"
-repo_url = "https://github.com/pendletong/simplejson"
-category = ""

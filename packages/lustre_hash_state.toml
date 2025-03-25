@@ -1,4 +1,0 @@
-name = "lustre_hash_state"
-description = "lustre effects for maintaining application state in the hash fragment"
-repo_url = "https://github.com/jshawl/lustre_hash_state"
-category = ""

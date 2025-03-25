@@ -1,4 +1,0 @@
-name = "js_parser"
-description = "A JavaScript parser written in Gleam"
-repo_url = "https://github.com/desertthunder/js_parser"
-category = ""

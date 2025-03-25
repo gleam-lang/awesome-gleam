@@ -1,4 +1,0 @@
-name = "dinostore"
-description = "Gleam bindings to the Deno.Kv database"
-repo_url = "https://github.com/MystPi/dinostore"
-category = ""

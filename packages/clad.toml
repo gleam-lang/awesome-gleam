@@ -1,4 +1,0 @@
-name = "clad"
-description = "Command line argument decoders for Gleam"
-repo_url = "https://github.com/ryanmiville/clad"
-category = ""

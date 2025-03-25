@@ -1,4 +1,0 @@
-name = "gleam_qs"
-description = "Parse and encode URL query strings"
-repo_url = "https://github.com/sporto/gleam_qs"
-category = ""

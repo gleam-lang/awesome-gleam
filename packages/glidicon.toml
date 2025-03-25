@@ -1,4 +1,0 @@
-name = "glidicon"
-description = "Gleam library for generating identicon images."
-repo_url = "https://github.com/stevetoro/glidicon"
-category = ""

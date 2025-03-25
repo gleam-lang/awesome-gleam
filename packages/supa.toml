@@ -1,4 +1,0 @@
-name = "supa"
-description = "An isomorphic Gleam library for Supabase (Auth only so far)."
-repo_url = "https://github.com/crowdhailer/supa"
-category = ""

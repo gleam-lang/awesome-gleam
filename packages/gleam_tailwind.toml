@@ -1,4 +1,0 @@
-name = "gleam_tailwind"
-description = "Gleam modules and functions for installing and invoking TailwindCSS"
-repo_url = "https://github.com/okkdev/gleam_tailwind"
-category = ""

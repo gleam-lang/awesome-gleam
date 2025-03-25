@@ -1,4 +1,0 @@
-name = "formz_lustre"
-description = "Lustre widgets and field definitions for the formz library."
-repo_url = "https://github.com/bentomas/formz"
-category = ""

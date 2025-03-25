@@ -1,4 +1,0 @@
-name = "pevensie_redis"
-description = "The official Redis-compatible driver for the Pevensie framework"
-repo_url = "https://github.com/Pevensie/pevensie_redis"
-category = ""

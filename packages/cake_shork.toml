@@ -1,4 +1,0 @@
-name = "cake_shork"
-description = "🎂Cake 🦭MariaDB and 🐬MySQL adapters which pass PreparedStatements to the shork library for execution written in Gleam."
-repo_url = "https://github.com/inoas/gleam-cake-shork"
-category = ""

@@ -1,4 +1,0 @@
-name = "glaml"
-description = "A Gleam wrapper around yamerl that enables your app to read YAML."
-repo_url = "https://github.com/katekyy/glaml"
-category = ""

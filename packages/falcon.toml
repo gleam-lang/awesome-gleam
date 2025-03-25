@@ -1,4 +1,0 @@
-name = "falcon"
-description = "A smoother way to make HTTP requests in Gleam with Axios-like methods"
-repo_url = "https://github.com/trulyao/falcon" # This URL goes nowhere.
-category = ""

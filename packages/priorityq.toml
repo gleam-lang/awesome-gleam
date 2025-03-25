@@ -1,4 +1,0 @@
-name = "priorityq"
-description = "A priority queue implementation based on max pairing heaps. Written in pure Gleam."
-repo_url = "https://github.com/nicklimmm/priorityq"
-category = ""

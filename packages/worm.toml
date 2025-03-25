@@ -1,4 +1,0 @@
-name = "worm"
-description = "A library for caching deterministic calculations in Gleam"
-repo_url = "https://github.com/mscharley/gleam-worm"
-category = ""

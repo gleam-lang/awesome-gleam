@@ -1,4 +1,0 @@
-name = "javascript_mutable_reference"
-description = "Mutable references for Gleam JavaScript"
-repo_url = "https://github.com/lpil/javascript-mutable-reference"
-category = ""

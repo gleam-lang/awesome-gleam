@@ -1,4 +1,0 @@
-name = "reference_this"
-description = "A development tool to reference other gleam files"
-repo_url = "https://github.com/adelhult/reference_this"
-category = ""

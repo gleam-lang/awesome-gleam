@@ -1,4 +1,0 @@
-name = "glemini"
-description = "A Gleam library for building Gemini servers"
-repo_url = "https://github.com/okkdev/glemini"
-category = ""

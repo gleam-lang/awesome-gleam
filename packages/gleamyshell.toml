@@ -1,4 +1,0 @@
-name = "gleamyshell"
-description = "A cross-platform Gleam library for executing shell commands."
-repo_url = "https://github.com/patrik-kuehl/gleamyshell"
-category = ""

@@ -1,4 +1,0 @@
-name = "bummer"
-description = "A Gleam client library for controlling intimate hardware"
-repo_url = "https://github.com/FrostyX/bummer"
-category = ""

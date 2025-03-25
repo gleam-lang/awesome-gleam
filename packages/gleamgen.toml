@@ -1,4 +1,0 @@
-name = "gleamgen"
-description = "Generate type-safe gleam code (in gleam!)"
-repo_url = "https://github.com/Brewingweasel/gleamgen"
-category = ""

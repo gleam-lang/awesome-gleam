@@ -1,4 +1,0 @@
-name = "gleamstar"
-description = "The A* search algorithm implemented in gleam"
-repo_url = "https://github.com/dinkelspiel/gleamstar"
-category = ""

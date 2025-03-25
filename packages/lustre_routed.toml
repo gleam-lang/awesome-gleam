@@ -1,4 +1,0 @@
-name = "lustre_routed"
-description = "A minimal router for lustre SPAs"
-repo_url = "https://gitlab.com/kgroat/lustre_routed"
-category = ""

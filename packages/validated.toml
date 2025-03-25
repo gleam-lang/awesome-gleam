@@ -1,4 +1,0 @@
-name = "validated"
-description = "Easily accumulate errors in Gleam!"
-repo_url = "https://github.com/ryanmiville/validated"
-category = ""

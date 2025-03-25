@@ -1,4 +1,0 @@
-name = "fmt"
-description = "Type-safe (string) formatting for Gleam"
-repo_url = "https://github.com/mooreryan/gleam_fmt"
-category = ""

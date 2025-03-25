@@ -1,4 +1,0 @@
-name = "delay_times"
-description = "A Gleam library for working with delay times."
-repo_url = "https://github.com/JosephTLyons/delay_times_gleam"
-category = ""

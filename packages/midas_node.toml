@@ -1,4 +1,0 @@
-name = "midas_node"
-description = "Run midas tasks in a nodejs environment. "
-repo_url = "https://github.com/midas-framework/midas_node"
-category = ""

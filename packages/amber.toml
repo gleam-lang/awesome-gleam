@@ -1,4 +1,0 @@
-name = "amber"
-description = "Deno bindings for Gleam."
-repo_url = "https://github.com/han-tyumi/amber"
-category = ""

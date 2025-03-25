@@ -1,4 +1,0 @@
-name = "recursive"
-description = "User friendly Fixed-point combinator functions. Any block or anonymous function can run recursively!"
-repo_url = "https://github.com/olian04/gleam_recursive"
-category = ""

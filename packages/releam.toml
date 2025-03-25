@@ -1,4 +1,0 @@
-name = "releam"
-description = "Releam is an opinionated gleam release and changelog generation tool based on conventional commit"
-repo_url = "https://github.com/pedraal/releam"
-category = ""

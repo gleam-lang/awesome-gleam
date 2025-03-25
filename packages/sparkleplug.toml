@@ -1,4 +1,0 @@
-name = "sparkleplug"
-description = "A Gleam library for working with the Sparkplug IoT protocol."
-repo_url = "https://github.com/KavanPrice/sparkleplug"
-category = ""

@@ -1,4 +1,0 @@
-name = "gleam_yielder"
-description = "Unfold values on-demand from a function"
-repo_url = "https://github.com/gleam-lang/yielder"
-category = ""

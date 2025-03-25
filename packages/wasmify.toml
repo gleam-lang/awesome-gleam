@@ -1,4 +1,0 @@
-name = "wasmify"
-description = "Load and use WebAssembly in your JavaScript compiled Gleam projects"
-repo_url = "https://github.com/endercheif/wasmify"
-category = ""

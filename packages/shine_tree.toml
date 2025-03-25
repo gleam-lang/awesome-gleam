@@ -1,4 +1,0 @@
-name = "shine_tree"
-description = "A `FingerTree` implementation for general purpose functional programming in Gleam!"
-repo_url = "https://github.com/shine-coders/shine_tree"
-category = ""

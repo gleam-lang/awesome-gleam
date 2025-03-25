@@ -1,4 +1,0 @@
-name = "gleam_bbmustache"
-description = "Templates in Gleam using bbmustache"
-repo_url = "https://github.com/gleam-experiments/bbmustache"
-category = ""

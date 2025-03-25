@@ -1,4 +1,0 @@
-name = "bytesize"
-description = "Byte quantity handling and formatting in Gleam"
-repo_url = "https://github.com/wezm/gleam_bytesize"
-category = ""

@@ -1,4 +1,0 @@
-name = "facet"
-description = "A frontmatter parser for gleam."
-repo_url = "https://git.sr.ht/~blu/facet"
-category = ""

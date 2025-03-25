@@ -1,4 +1,0 @@
-name = "glethers"
-description = "Ethereum blockchain client for Gleam"
-repo_url = "https://github.com/gusinacio/glethers"
-category = ""

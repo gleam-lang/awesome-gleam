@@ -1,4 +1,0 @@
-name = "battlesnake"
-description = "A Gleam wrapper for the Battlesnake API"
-repo_url = "https://github.com/leah-u/battlesnake"
-category = ""

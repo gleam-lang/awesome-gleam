@@ -1,4 +1,0 @@
-name = "mat"
-description = "A simple and ergonomic string formatter for Gleam"
-repo_url = "https://github.com/loipesmas/mat"
-category = ""

@@ -1,4 +1,0 @@
-name = "functx"
-description = "Tiny Gleam caching Context for your functions"
-repo_url = "https://github.com/darky/functx"
-category = ""

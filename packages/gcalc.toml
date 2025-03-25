@@ -1,4 +1,0 @@
-name = "gcalc"
-description = "A math library for Gleam. Written in pure Gleam."
-repo_url = "https://github.com/korbexmachina/gcalc"
-category = ""

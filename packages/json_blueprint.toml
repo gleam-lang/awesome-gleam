@@ -1,4 +1,0 @@
-name = "json_blueprint"
-description = "Simplify JSON encoding/decoding while automatically generating JSON schemas for your data types."
-repo_url = "https://github.com/lostbean/json_blueprint"
-category = ""

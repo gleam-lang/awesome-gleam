@@ -1,4 +1,0 @@
-name = "gsmtp"
-description = "SMTP Client for Gleam"
-repo_url = "https://github.com/andre-dasilva/gsmtp"
-category = ""

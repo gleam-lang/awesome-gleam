@@ -1,4 +1,0 @@
-name = "flash"
-description = "Gleam package enabling structured logging in both Erlang and JavaScript environments"
-repo_url = "https://github.com/larzconwell/flash"
-category = ""

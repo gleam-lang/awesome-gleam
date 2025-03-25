@@ -1,4 +1,0 @@
-name = "varasto"
-description = "Typed access to LocalStorage/SessionStorage in Gleam"
-repo_url = "https://gitlab.com/Nicd/varasto"
-category = ""

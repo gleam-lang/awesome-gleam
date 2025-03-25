@@ -1,4 +1,0 @@
-name = "trust"
-description = "Data validation library for Gleam"
-repo_url = "https://github.com/krystofrezac/trust"
-category = ""

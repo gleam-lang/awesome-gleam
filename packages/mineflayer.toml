@@ -1,4 +1,0 @@
-name = "mineflayer"
-description = "Mineflayer bindings for gleam"
-repo_url = "https://github.com/wygsh/gleam_mineflayer"
-category = ""

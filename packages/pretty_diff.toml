@@ -1,4 +1,0 @@
-name = "pretty_diff"
-description = "⚖️ Pretty diffing of Gleam values"
-repo_url = "https://github.com/giacomocavalieri/pretty_diff"
-category = ""

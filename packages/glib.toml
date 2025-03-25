@@ -1,4 +1,0 @@
-name = "glib"
-description = "A collection of Gleam utilities all written in pure gleam"
-repo_url = "https://github.com/pendletong/glib"
-category = ""

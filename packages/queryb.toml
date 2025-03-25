@@ -1,4 +1,0 @@
-name = "queryb"
-description = "A very limited RDMS query builder library"
-repo_url = "https://github.com/lpil/queryb"
-category = ""

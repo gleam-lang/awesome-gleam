@@ -1,4 +1,0 @@
-name = "dotenv_conf"
-description = "Easy configurations from environment variables and .env files."
-repo_url = "https://gitlab.com/amineco/dotenv_conf"
-category = ""

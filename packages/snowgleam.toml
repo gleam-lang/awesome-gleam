@@ -1,4 +1,0 @@
-name = "snowgleam"
-description = "Gleam version of the Twitter's snowflake format for unique IDs."
-repo_url = "https://github.com/ezegros/snowgleam"
-category = ""

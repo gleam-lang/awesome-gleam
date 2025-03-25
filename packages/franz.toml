@@ -1,4 +1,0 @@
-name = "franz"
-description = "A Gleam library for interacting with Kafka"
-repo_url = "https://github.com/renatillas/franz"
-category = ""

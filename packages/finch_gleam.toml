@@ -1,4 +1,0 @@
-name = "finch_gleam"
-description = "Gleam wrapper for the Finch HTTP client"
-repo_url = "https://gitlab.com/Nicd/finch_gleam"
-category = ""

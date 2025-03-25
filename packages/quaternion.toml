@@ -1,4 +1,0 @@
-name = "quaternion"
-description = "A simple quaternion implementation made with and for Gleam. Heavily inspired by the Rust quaternion crate."
-repo_url = "https://github.com/PiaCOS/quaternion_gleam"
-category = ""

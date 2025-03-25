@@ -1,4 +1,0 @@
-name = "glormat"
-description = "A simple, readable string formatting library for Gleam!"
-repo_url = "https://github.com/SaphiraKai/glormat"
-category = ""

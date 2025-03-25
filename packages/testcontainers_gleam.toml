@@ -1,4 +1,0 @@
-name = "testcontainers_gleam"
-description = "Gleam TestContainers wrapper around Elixir TestContainers"
-repo_url = "https://github.com/darky/testcontainers-gleam"
-category = ""

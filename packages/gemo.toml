@@ -1,4 +1,0 @@
-name = "gemo"
-description = "Simple and memory efficient memoization for JavaScript and Erlang."
-repo_url = "https://github.com/lv37/gemo"
-category = ""

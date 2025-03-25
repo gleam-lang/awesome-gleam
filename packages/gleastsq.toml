@@ -1,4 +1,0 @@
-name = "gleastsq"
-description = "A least squares curve fitting library for Gleam."
-repo_url = "https://github.com/lucaspellegrinelli/gleastsq"
-category = ""

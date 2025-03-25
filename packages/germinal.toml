@@ -1,4 +1,0 @@
-name = "germinal"
-description = "Gleam bindings to crossterm in Rust"
-repo_url = "https://github.com/onelone852/germinal"
-category = ""
