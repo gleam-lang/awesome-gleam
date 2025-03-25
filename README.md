@@ -169,6 +169,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
 - [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
+- [xmb](https://github.com/lpil/xmb) - [📚](https://hexdocs.pm/xmb/) - A tiny XML builder for Gleam
 
 ### Frontend
 
@@ -342,6 +343,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Websites
 
+- [atomb](https://github.com/lpil/atomb) - [📚](https://hexdocs.pm/atomb/) - An Atom feed builder for Gleam
 - [lustre_ssg](https://github.com/lustre-labs/ssg) - [📚](https://hexdocs.pm/lustre_ssg/) - A simple static site generator for Lustre projects.
 
 ## Projects

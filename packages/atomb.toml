@@ -1,0 +1,4 @@
+name = "atomb"
+description = "An Atom feed builder for Gleam"
+repo_url = "https://github.com/lpil/atomb"
+category = "Websites"
