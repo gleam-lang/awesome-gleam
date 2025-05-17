@@ -134,6 +134,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Email
 
+- [gcourier](https://github.com/gideongrinberg/gcourier) - [📚](https://hexdocs.pm/gcourier/) - Send emails from Gleam using SMTP
 - [gleam_sendgrid](https://github.com/lpil/gleam_sendgrid) - [📚](https://hexdocs.pm/gleam_sendgrid/) - Send emails from Gleam with SendGrid
 - [plunk](https://github.com/aosasona/plunk.gleam) - [📚](https://hexdocs.pm/plunk/) - A Gleam library to send emails, manage contacts etc. using the Plunk API
 - [zeptomail](https://github.com/lpil/zeptomail) - [📚](https://hexdocs.pm/zeptomail/) - A wrapper for ZeptoMail's transactional email API
