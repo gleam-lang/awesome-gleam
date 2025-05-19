@@ -64,6 +64,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### API Clients
 
 - [aws4_request](https://github.com/lpil/aws4_request) - [📚](https://hexdocs.pm/aws4_request/) - An AWS Signature Version 4 client implementation, used for S3 auth, etc
+- [discord_gleam](https://github.com/Cyteon/discord_gleam) - [📚](https://hexdocs.pm/discord_gleam/) - A library to create discord bots in gleam
 - [glatus](https://github.com/lpil/glatus) - [📚](https://hexdocs.pm/glatus/) - Gleam bindings to the API of the Gatus health check tool
 - [gleam_hexpm](https://github.com/gleam-lang/hexpm) - [📚](https://hexdocs.pm/gleam_hexpm/) - Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem.
 - [glevatar](https://github.com/bunopnu/glevatar) - [📚](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam

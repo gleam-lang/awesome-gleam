@@ -1,0 +1,4 @@
+name = "discord_gleam"
+description = "A library to create discord bots in gleam"
+repo_url = "https://github.com/Cyteon/discord_gleam"
+category = "API Clients"
