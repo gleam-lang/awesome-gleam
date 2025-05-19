@@ -1,0 +1,4 @@
+name = "gcourier"
+description = "Send emails from Gleam using SMTP"
+repo_url = "https://github.com/gideongrinberg/gcourier"
+category = "Email"
