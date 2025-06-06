@@ -1,0 +1,4 @@
+name = "database"
+description = "A BEAM-native embedded data storage"
+repo_url = "https://github.com/R0DR160HM/database"
+category = "Databases"

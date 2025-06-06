@@ -125,6 +125,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Databases
 
 - [cake](https://github.com/inoas/gleam-cake) - [📚](https://hexdocs.pm/cake/) - An SQL query builder for dialects PostgreSQL, SQLite, MariaDB, and MySQL
+- [database](https://github.com/R0DR160HM/database) - [📚](https://hexdocs.pm/database/) - A BEAM-native embedded data storage
 - [migrant](https://github.com/aosasona/migrant) - [📚](https://hexdocs.pm/migrant/) - Database migrations for SQLite in Gleam
 - [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
 - [pog](https://github.com/lpil/pog) - [📚](https://hexdocs.pm/pog/) - A PostgreSQL database client for Gleam, based on PGO
