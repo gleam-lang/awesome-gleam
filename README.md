@@ -300,7 +300,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Templating
 
-- [glemplate](https://gitlab.com/Nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
+- [glemplate](https://git.ahlcode.fi/nicd/glemplate) - [📚](https://hexdocs.pm/glemplate/) - A simple template engine for Gleam
 - [handles](https://github.com/olian04/gleam_handles) - [📚](https://hexdocs.pm/handles/) - Pure Gleam templating language inspired by Mustache and Handlebars.js
 
 ### Testing
