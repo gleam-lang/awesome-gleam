@@ -1,4 +1,4 @@
 name = "glemplate"
 description = "A simple template engine for Gleam"
-repo_url = "https://gitlab.com/Nicd/glemplate"
+repo_url = "https://git.ahlcode.fi/nicd/glemplate"
 category = "Templating"
