@@ -1,0 +1,4 @@
+name = "bath"
+description = "A generic resource pool"
+repo_url = "https://github.com/Pevensie/bath"
+category = "Erlang and OTP"
