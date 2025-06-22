@@ -1,0 +1,4 @@
+name = "barnacle"
+description = "Self-healing clusters for Gleam applications on the BEAM"
+repo_url = "https://github.com/Pevensie/barnacle"
+category = "Erlang and OTP"

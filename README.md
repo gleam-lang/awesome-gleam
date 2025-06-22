@@ -132,6 +132,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!
 - [squirrel](https://github.com/giacomocavalieri/squirrel) - [📚](https://hexdocs.pm/squirrel/) - 🐿️ Type safe SQL in Gleam
 - [storail](https://github.com/lpil/storail) - [📚](https://hexdocs.pm/storail/) - A simple on-disc JSON based data store
+- [valkyrie](https://github.com/Pevensie/valkyrie) - [📚](https://hexdocs.pm/valkyrie/) - A lightweight, performant Redis-compatible client for Gleam
 
 ### Email
 
@@ -142,11 +143,14 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Erlang and OTP
 
+- [barnacle](https://github.com/Pevensie/barnacle) - [📚](https://hexdocs.pm/barnacle/) - Self-healing clusters for Gleam applications on the BEAM
+- [bath](https://github.com/Pevensie/bath) - [📚](https://hexdocs.pm/bath/) - A generic resource pool
 - [carpenter](https://github.com/grottohub/carpenter) - [📚](https://hexdocs.pm/carpenter/) - Bindings for Erlang's ETS tables. Forked and updated from gts.
 - [chip](https://github.com/chouzar/chip) - [📚](https://hexdocs.pm/chip/) - A Gleam registry library
 - [gen_core_erlang](https://codeberg.org/kero/gleam_codegen) - [📚](https://hexdocs.pm/gen_core_erlang/) - Generate Core Erlang from Gleam (wraps the Erlang cerl compiler module)
 - [gleam_erlang](https://github.com/gleam-lang/erlang) - [📚](https://hexdocs.pm/gleam_erlang/) - A Gleam library for working with Erlang
 - [gleam_otp](https://github.com/gleam-lang/otp) - [📚](https://hexdocs.pm/gleam_otp/) - Fault tolerant multicore Gleam programs with OTP
+- [lifeguard](https://github.com/Pevensie/lifeguard) - [📚](https://hexdocs.pm/lifeguard/) - A simple actor pool
 - [nessie_cluster](https://github.com/ckreiling/nessie_cluster) - [📚](https://hexdocs.pm/nessie_cluster/) - A small DNS clustering library for Gleam applications.
 - [process_waiter](https://github.com/lpil/process-waiter) - [📚](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
 - [puddle](https://github.com/massivefermion/puddle) - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam

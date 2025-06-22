@@ -1,0 +1,4 @@
+name = "valkyrie"
+description = "A lightweight, performant Redis-compatible client for Gleam"
+repo_url = "https://github.com/Pevensie/valkyrie"
+category = "Databases"
