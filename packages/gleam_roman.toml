@@ -1,0 +1,4 @@
+name = "gleam_roman"
+description = "A Gleam library for converting between Roman numerals and integers, with support for both string and structured representations."
+repo_url = "https://github.com/MrChaker/gleam_roman"
+category = "Numbers"

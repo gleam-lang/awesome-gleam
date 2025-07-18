@@ -265,6 +265,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [bigdecimal](https://github.com/horvathandris/bigdecimal) - [📚](https://hexdocs.pm/bigdecimal/) - Arbitrary precision decimal arithmetic for Gleam
 - [bigi](https://gitlab.com/Nicd/bigi) - [📚](https://hexdocs.pm/bigi/) - Arbitrary precision integer arithmetic for Gleam
 - [gleam_community_maths](https://github.com/gleam-community/maths) - [📚](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
+- [gleam_roman](https://github.com/MrChaker/gleam_roman) - [📚](https://hexdocs.pm/gleam_roman/) - A Gleam library for converting between Roman numerals and integers, with support for both string and structured representations.
 
 ### Parsing
 
