@@ -69,6 +69,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleam_hexpm](https://github.com/gleam-lang/hexpm) - [📚](https://hexdocs.pm/gleam_hexpm/) - Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem.
 - [glevatar](https://github.com/bunopnu/glevatar) - [📚](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam
 - [tallgrass](https://github.com/stevetoro/tallgrass) - [📚](https://hexdocs.pm/tallgrass/) - Gleam wrapper for the PokeAPI.
+- [telega](https://github.com/bondiano/telega-gleam) - [📚](https://hexdocs.pm/telega/) - A Gleam library for the Telegram Bot API with HTTP-based APIs, client implementation, wisp adapter, session bot, and conversation support
 
 ### Benchmarking
 
