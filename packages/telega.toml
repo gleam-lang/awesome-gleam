@@ -1,0 +1,4 @@
+name = "telega"
+description = "A Gleam library for the Telegram Bot API with HTTP-based APIs, client implementation, wisp adapter, session bot, and conversation support"
+repo_url = "https://github.com/bondiano/telega-gleam"
+category = "API Clients"
