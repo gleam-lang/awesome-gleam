@@ -281,6 +281,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Push Notifications
 
+- [webpush](https://github.com/imlargo/gleam-webpush) - [📚](https://hexdocs.pm/webpush/) - Web Push API library for Gleam, supports encryption and VAPID
 - [wimp](https://github.com/lpil/wimp-pushover) - [📚](https://hexdocs.pm/wimp/) - A Gleam client for the Pushover push notification API
 
 ### Randomness
