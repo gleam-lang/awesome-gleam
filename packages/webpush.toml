@@ -1,0 +1,4 @@
+name = "webpush"
+description = "Web Push API library for Gleam, supports encryption and VAPID"
+repo_url = "https://github.com/imlargo/gleam-webpush"
+category = "Push Notifications"
