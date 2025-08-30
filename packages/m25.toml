@@ -1,0 +1,4 @@
+name = "m25"
+description = "A background job library for Gleam and Postgres!"
+repo_url = "https://github.com/Pevensie/m25"
+category = "Queues and Job Processing"
