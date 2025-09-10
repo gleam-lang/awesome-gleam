@@ -118,8 +118,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [delay](https://github.com/bwireman/delay) - [📚](https://hexdocs.pm/delay/) - A dead simple data-structure for delaying side effects
 - [gleam_stdlib](https://github.com/gleam-lang/stdlib) - [📚](https://hexdocs.pm/gleam_stdlib/) - A standard library for the Gleam programming language
 - [gleam_zlists](https://github.com/mrdimosthenis/gleam_zlists) - [📚](https://hexdocs.pm/gleam_zlists/) - A library for working with lazy lists in Gleam
+- [gleamy_structures](https://github.com/schurhammer/gleamy_structures/) - [📚](https://hexdocs.pm/gleamy_structures/) - Data structures in pure Gleam! Including tree, heap, non empty list, map, set, and priority queue.
 - [glearray](https://github.com/fschwalbe/glearray) - [📚](https://hexdocs.pm/glearray/) - Immutable arrays for Gleam
 - [gleither](https://github.com/bwireman/gleither) - [📚](https://hexdocs.pm/gleither/) - A small data-structure for representing an Either Monad
+- [iv](https://gitlab.com/arkandos/iv) - [📚](https://hexdocs.pm/iv/) - A fast, safe, batteries-included array for Gleam!
 - [non_empty_list](https://github.com/giacomocavalieri/non_empty_list) - [📚](https://hexdocs.pm/non_empty_list/) - Non-empty lists in Gleam
 - [tote](https://github.com/giacomocavalieri/tote) - [📚](https://hexdocs.pm/tote/) - Bags (or multisets) in Gleam
 - [trie_again](https://github.com/giacomocavalieri/trie_again) - [📚](https://hexdocs.pm/trie_again/) - Tries in Gleam
