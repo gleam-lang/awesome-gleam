@@ -213,9 +213,11 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [formal](https://github.com/lpil/formal) - [📚](https://hexdocs.pm/formal/) - Type safe HTML form decoding and validation!
 - [glentities](https://gitlab.com/Nicd/glentities) - [📚](https://hexdocs.pm/glentities/) - HTML entity encoder/decoder for Gleam
+- [houdini](https://github.com/giacomocavalieri/houdini) - [📚](https://hexdocs.pm/houdini/) - 🪄 Fast HTML escaping
 - [htmb](https://github.com/lpil/htmb) - [📚](https://hexdocs.pm/htmb/) - A tiny HTML builder for Gleam
 - [htmgrrrl](https://github.com/lpil/htmgrrrl) - [📚](https://hexdocs.pm/htmgrrrl/) - Gleam bindings to htmerl, the fast and memory efficient Erlang HTML SAX parser.
 - [nakai](https://github.com/nakaixo/nakai) - [📚](https://hexdocs.pm/nakai/) - HTML generation for Gleam, on the server or anywhere else
+- [odysseus](https://github.com/strawmelonjuice/odysseus) - [📚](https://hexdocs.pm/odysseus/) - UN-escaping HTML
 
 ### HTTP
 

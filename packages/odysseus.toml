@@ -1,0 +1,4 @@
+name = "odysseus"
+description = "UN-escaping HTML"
+repo_url = "https://github.com/strawmelonjuice/odysseus"
+category = "HTML"

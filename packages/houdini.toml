@@ -1,0 +1,4 @@
+name = "houdini"
+description = "🪄 Fast HTML escaping"
+repo_url = "https://github.com/giacomocavalieri/houdini"
+category = "HTML"
