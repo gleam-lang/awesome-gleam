@@ -287,6 +287,8 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Queues and Job Processing
 
+- [Carotte](https://github.com/renatillas/carotte) - [📚](https://hexdocs.pm/Carotte/) - A RabbitMQ client for Gleam
+- [Franz](https://github.com/renatillas/franz) - [📚](https://hexdocs.pm/Franz/) - A Kafka client for Gleam
 - [m25](https://github.com/Pevensie/m25) - [📚](https://hexdocs.pm/m25/) - A background job library for Gleam and Postgres!
 
 ### Randomness
