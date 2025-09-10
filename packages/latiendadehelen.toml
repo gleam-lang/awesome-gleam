@@ -1,0 +1,4 @@
+name = "Eventsourcing"
+description = "A Gleam library for building event-sourced systems with Actors and Supervisors"
+repo_url = "https://github.com/renatillas/eventsourcing"
+category = "Erlang and OTP"

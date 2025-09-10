@@ -145,6 +145,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Erlang and OTP
 
+- [Eventsourcing](https://github.com/renatillas/eventsourcing) - [📚](https://hexdocs.pm/Eventsourcing/) - A Gleam library for building event-sourced systems with Actors and Supervisors
 - [barnacle](https://github.com/Pevensie/barnacle) - [📚](https://hexdocs.pm/barnacle/) - Self-healing clusters for Gleam applications on the BEAM
 - [bath](https://github.com/Pevensie/bath) - [📚](https://hexdocs.pm/bath/) - A generic resource pool
 - [carpenter](https://github.com/grottohub/carpenter) - [📚](https://hexdocs.pm/carpenter/) - Bindings for Erlang's ETS tables. Forked and updated from gts.
