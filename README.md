@@ -326,6 +326,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [dedent](https://github.com/MystPi/dedent) - [📚](https://hexdocs.pm/dedent/) - Remove shared indentation from a string
 - [edit_distance](https://github.com/giacomocavalieri/edit_distance) - [📚](https://hexdocs.pm/edit_distance/) - A pure Gleam package to compute the edit distance of two strings
+- [g18n](https://github.com/renatillas/g18n) - [📚](https://hexdocs.pm/g18n/) - A platform-agnostic internationalization library for Gleam 
 - [gap](https://github.com/JohnBjrk/gap) - [📚](https://hexdocs.pm/gap/) - A Gleam library for comparing strings/lists and producing a textual (styled) representation of the differences.
 - [glam](https://github.com/giacomocavalieri/glam) - [📚](https://hexdocs.pm/glam/) - A package to help you easily pretty print structured data
 - [hug](https://github.com/brettkolodny/gleam-hug) - [📚](https://hexdocs.pm/hug/) - Helpful and pretty CLI messages

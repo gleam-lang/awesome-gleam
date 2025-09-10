@@ -1,0 +1,4 @@
+name = "g18n"
+description = "A platform-agnostic internationalization library for Gleam "
+repo_url = "https://github.com/renatillas/g18n"
+category = "Text"
