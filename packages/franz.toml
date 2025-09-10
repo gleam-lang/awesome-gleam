@@ -1,0 +1,4 @@
+name = "Franz"
+description = "A Kafka client for Gleam"
+repo_url = "https://github.com/renatillas/franz"
+category = "Queues and Job Processing"

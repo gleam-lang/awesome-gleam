@@ -1,0 +1,4 @@
+name = "Carotte"
+description = "A RabbitMQ client for Gleam"
+repo_url = "https://github.com/renatillas/carotte"
+category = "Queues and Job Processing"
