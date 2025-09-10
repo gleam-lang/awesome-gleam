@@ -338,6 +338,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Time
 
+- [Clockwork](https://github.com/renatillas/clockwork) - [📚](https://hexdocs.pm/Clockwork/) - A cron expression parser library for Gleam
 - [birl](https://github.com/massivefermion/birl) - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
 - [gleam_time](https://github.com/gleam-lang/time) - [📚](https://hexdocs.pm/gleam_time/) - Work with time in Gleam!
 - [gtempo](https://github.com/jrstrunk/tempo) - [📚](https://hexdocs.pm/gtempo/) - A lightweight and Gleamy datetime library!

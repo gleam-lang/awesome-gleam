@@ -1,0 +1,4 @@
+name = "Clockwork"
+description = "A cron expression parser library for Gleam"
+repo_url = "https://github.com/renatillas/clockwork"
+category = "Time"
