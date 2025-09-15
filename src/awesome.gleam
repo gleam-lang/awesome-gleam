@@ -38,6 +38,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [Projects](#projects)
   - [Compilers](#compilers)
   - [Web applications](#web-applications)
+  - [Network applications](#network-applications)
 - [Tools](#tools)
   - [Editor support](#editor-support)
 - [Resources](#resources)
@@ -69,6 +70,12 @@ Web applications written in Gleam.
 - [ghivert/gloogle](https://github.com/ghivert/gloogle) - A search engine for the Gleam ecosystem, built in Lustre + Wisp.
 - [ryanmiville/lustre-todomvc](https://github.com/ryanmiville/lustre-todomvc) - A Lustre clientside implementation of TodoMVC written in Gleam!
 - [losfair/acquire](https://github.com/losfair/acquire) - A multiplayer board game written in Gleam.
+
+### Network applications
+
+Network applications/servers written in Gleam
+
+- [raineycat/gftp](https://github.com/raineycat/gleam-ftp) - A Gleam FTP server, using Erlang/OTP
 
 ## Tools
 
