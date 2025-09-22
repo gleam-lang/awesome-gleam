@@ -132,6 +132,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [cake](https://github.com/inoas/gleam-cake) - [📚](https://hexdocs.pm/cake/) - An SQL query builder for dialects PostgreSQL, SQLite, MariaDB, and MySQL
 - [migrant](https://github.com/aosasona/migrant) - [📚](https://hexdocs.pm/migrant/) - Database migrations for SQLite in Gleam
 - [mungo](https://github.com/massivefermion/mungo) - [📚](https://hexdocs.pm/mungo/) - A MongoDB driver for Gleam (formerly gleam_mongo)
+- [parrot](https://github.com/daniellionel01/parrot) - [📚](https://hexdocs.pm/parrot/) - 🦜 type-safe SQL in gleam via sqlc
 - [pog](https://github.com/lpil/pog) - [📚](https://hexdocs.pm/pog/) - A PostgreSQL database client for Gleam, based on PGO
 - [radish](https://github.com/massivefermion/radish) - [📚](https://hexdocs.pm/radish/) - A Redis client for Gleam
 - [sqlight](https://github.com/lpil/sqlight) - [📚](https://hexdocs.pm/sqlight/) - Use SQLite from Gleam!

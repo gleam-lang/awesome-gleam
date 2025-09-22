@@ -1,0 +1,4 @@
+name = "parrot"
+description = "🦜 type-safe SQL in gleam via sqlc"
+repo_url = "https://github.com/daniellionel01/parrot"
+category = "Databases"
