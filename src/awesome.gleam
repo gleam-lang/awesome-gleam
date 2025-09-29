@@ -91,6 +91,7 @@ Network applications/servers written in Gleam
 - [sbdchd/neoformat](https://github.com/sbdchd/neoformat) - A Vim/Neovim plugin for formatting code with support for `gleam format`.
 - [itsgreggreg/language-gleam](https://github.com/itsgreggreg/language-gleam) - Gleam language support in Atom.
 - [DannyLettuce/gleam_gedit](https://github.com/DannyLettuce/gleam_gedit) - Gleam syntax support for Gedit (and other GtkSourceView editors).
+- [0riginaln0/lite-xl-gleam](https://github.com/0riginaln0/lite-xl-gleam) - Gleam theme and syntax highlighting for Lite XL.
 
 ## Resources
 
