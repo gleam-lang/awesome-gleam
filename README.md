@@ -235,6 +235,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### HTTP Servers
 
 - [cgi](https://github.com/lpil/cgi) - [📚](https://hexdocs.pm/cgi/) - Common Gateway Interface (CGI) in Gleam
+- [ewe](https://github.com/vshakitskiy/ewe) - [📚](https://hexdocs.pm/ewe/) - 🐑 a fluffy Gleam web server
 - [gleam_elli](https://github.com/gleam-lang/elli) - [📚](https://hexdocs.pm/gleam_elli/) - Run Gleam HTTP services with the Elli web server
 - [mist](https://github.com/rawhat/mist) - [📚](https://hexdocs.pm/mist/) - a misty Gleam web server
 
