@@ -1,0 +1,4 @@
+name = "ewe"
+description = "🐑 a fluffy Gleam web server"
+repo_url = "https://github.com/vshakitskiy/ewe"
+category = "HTTP Servers"
