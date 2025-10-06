@@ -1,0 +1,4 @@
+name = "glogg"
+description = "A simple, structured logging library"
+repo_url = "https://github.com/webermarci/glogg"
+category = "Logging and Monitoring"
