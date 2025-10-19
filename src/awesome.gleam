@@ -81,6 +81,7 @@ Network applications/servers written in Gleam
 
 - [inoas/glychee](https://github.com/inoas/glychee) - A simple Gleam benchmark runner which wraps Benchee for the heavy lifting.
 - [tynanbe/rad](https://github.com/tynanbe/rad) - A flexible task runner companion for the Gleam build manager.
+- [jonasgruenwald/spectator](https://github.com/JonasGruenwald/spectator) - A BEAM runtime observer tool
 
 ## Editor support
 
