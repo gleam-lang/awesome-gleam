@@ -162,6 +162,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [process_waiter](https://github.com/lpil/process-waiter) - [📚](https://hexdocs.pm/process_waiter/) - Wait for Erlang processes to exit
 - [puddle](https://github.com/massivefermion/puddle) - [📚](https://hexdocs.pm/puddle/) - A resource pool manager for gleam
 - [shakespeare](https://github.com/maxdeviant/shakespeare) - [📚](https://hexdocs.pm/shakespeare/) - General-purpose OTP actors.
+- [spectator](https://github.com/JonasGruenwald/spectator) - [📚](https://hexdocs.pm/spectator/) - A BEAM runtime observer tool
 
 ### Error Handling
 
@@ -402,6 +403,7 @@ Network applications/servers written in Gleam
 
 - [inoas/glychee](https://github.com/inoas/glychee) - A simple Gleam benchmark runner which wraps Benchee for the heavy lifting.
 - [tynanbe/rad](https://github.com/tynanbe/rad) - A flexible task runner companion for the Gleam build manager.
+- [jonasgruenwald/spectator](https://github.com/JonasGruenwald/spectator) - A BEAM runtime observer tool
 
 ## Editor support
 

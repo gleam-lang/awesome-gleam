@@ -1,0 +1,4 @@
+name = "spectator"
+description = "A BEAM runtime observer tool"
+repo_url = "https://github.com/JonasGruenwald/spectator"
+category = "Erlang and OTP"
