@@ -345,7 +345,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [justin](https://github.com/lpil/justin) - [📚](https://hexdocs.pm/justin/) - Convert between snake_case, camelCase, and other cases in Gleam
 - [phonetic_gleam](https://github.com/leobm/phonetic_gleam) - [📚](https://hexdocs.pm/phonetic_gleam/) - A collection of gleam algorithms dealing with phonetics.
 - [punycode](https://codeberg.org/sotolf/gleam_punycode/) - [📚](https://hexdocs.pm/punycode/) - Gleam implementation of punycode encoding and decoding
-- [rank](https://github.com/lpil/glance) - [📚](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
+- [rank](https://github.com/lpil/rank) - [📚](https://hexdocs.pm/rank/) - Ordinals for numbers, e.g. 1st, 2nd, 3rd
 - [wink](https://github.com/MAHcodes/wink) - [📚](https://hexdocs.pm/wink/) - A simple Gleam box drawing library
 
 ### Time
