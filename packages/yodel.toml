@@ -1,0 +1,4 @@
+name = "yodel"
+description = "A type-safe configuration loader that supports JSON, YAML, and TOML with automatic format detection, environment variable resolution, and profile-based configuration."
+repo_url = "https://github.com/SnakeDoc/yodel"
+category = "Configuration"

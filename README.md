@@ -102,6 +102,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [envoy](https://github.com/lpil/envoy) - [📚](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
 - [glenv](https://github.com/custompro98/glenv) - [📚](https://hexdocs.pm/glenv/) - A library for type-safe environment variable access.
 - [glenvy](https://github.com/maxdeviant/glenvy) - [📚](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
+- [yodel](https://github.com/SnakeDoc/yodel) - [📚](https://hexdocs.pm/yodel/) - A type-safe configuration loader that supports JSON, YAML, and TOML with automatic format detection, environment variable resolution, and profile-based configuration.
 
 ### Cryptography
 
