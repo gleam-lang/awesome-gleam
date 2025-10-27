@@ -1,0 +1,4 @@
+name = "glecuid"
+description = "A Gleam implementation of CUID2 for Erlang and Javascript target."
+repo_url = "https://github.com/ilhamft/glecuid"
+category = "Cryptography"
