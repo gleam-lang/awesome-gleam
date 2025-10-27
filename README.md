@@ -108,6 +108,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [argus](https://github.com/Pevensie/argus) - [📚](https://hexdocs.pm/argus/) - Argon2 password hashing library for Gleam, based on the reference C implementation.
 - [beecrypt](https://github.com/lpil/beecrypt) - [📚](https://hexdocs.pm/beecrypt/) - Buzzing Gleam bindings to the Erlang bcrypt hashing library
 - [gleam_crypto](https://github.com/gleam-lang/crypto) - [📚](https://hexdocs.pm/gleam_crypto/) - A Gleam cryptography library supporting Erlang and JavaScript
+- [glecuid](https://github.com/ilhamft/glecuid) - [📚](https://hexdocs.pm/glecuid/) - A Gleam implementation of CUID2 for Erlang and Javascript target.
 - [ids](https://github.com/rvcas/ids) - [📚](https://hexdocs.pm/ids/) - Unique IDs for Gleam
 - [kmh](https://github.com/mdarse/kmh) - [📚](https://hexdocs.pm/kmh/) - Implementation of Knuth’s multiplicative hashing (useful for ID obfuscation, etc.)
 - [youid](https://github.com/lpil/youid) - [📚](https://hexdocs.pm/youid/) - Generate and parse UUIDs
