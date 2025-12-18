@@ -1,0 +1,4 @@
+name = "etch"
+description = "Gleam terminal backend library"
+repo_url = "https://github.com/bananaofhappiness/etch"
+category = "Command Line"

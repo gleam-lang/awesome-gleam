@@ -87,6 +87,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [argv](https://github.com/lpil/argv) - [📚](https://hexdocs.pm/argv/) - A cross platform library for getting the command line arguments
 - [clip](https://github.com/drewolson/clip) - [📚](https://hexdocs.pm/clip/) - A CLI Option Parser for Gleam
+- [etch](https://github.com/bananaofhappiness/etch) - [📚](https://hexdocs.pm/etch/) - Gleam terminal backend library
 - [gleam_community_ansi](https://github.com/gleam-community/ansi) - [📚](https://hexdocs.pm/gleam_community_ansi/) - ANSI colours, formatting, and control codes
 - [glint](https://github.com/TanklesXL/glint) - [📚](https://hexdocs.pm/glint/) - Gleam command line argument parsing with basic flag support.
 - [glitzer](https://github.com/miampf/glitzer) - [📚](https://hexdocs.pm/glitzer/) - Progress bars for gleam.
