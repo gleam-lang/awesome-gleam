@@ -1,0 +1,4 @@
+name = "str"
+description = "Unicode-aware string utilities for Gleam"
+repo_url = "https://github.com/lupodevelop/str"
+category = "Text"
