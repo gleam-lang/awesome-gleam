@@ -366,6 +366,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Web frameworks
 
 - [glen](https://github.com/MystPi/glen) - [📚](https://hexdocs.pm/glen/) - A peaceful web framework that targets JS.
+- [glimr](https://github.com/glimr-org/glimr) - [📚](https://hexdocs.pm/glimr/) - A batteries-included web framework for Gleam
 - [wisp](https://github.com/gleam-wisp/wisp) - [📚](https://hexdocs.pm/wisp/) - A practical web framework for Gleam
 
 ### Websites
