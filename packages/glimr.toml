@@ -1,0 +1,4 @@
+name = "glimr"
+description = "A batteries-included web framework for Gleam"
+repo_url = "https://github.com/glimr-org/glimr"
+category = "Web frameworks"
