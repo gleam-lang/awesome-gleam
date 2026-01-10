@@ -1,0 +1,4 @@
+name = "mork"
+description = "A Markdown (CommonMark/GFM/OFM) parser in pure Gleam"
+repo_url = "https://hex.pm/packages/mork"
+category = "Formats"

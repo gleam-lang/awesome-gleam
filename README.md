@@ -182,6 +182,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
 - [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
+- [mork](https://hex.pm/packages/mork) - [📚](https://hexdocs.pm/mork/) - A Markdown (CommonMark/GFM/OFM) parser in pure Gleam
 - [tom](https://github.com/lpil/tom) - [📚](https://hexdocs.pm/tom/) - A pure Gleam TOML parser!
 - [xmb](https://github.com/lpil/xmb) - [📚](https://hexdocs.pm/xmb/) - A tiny XML builder for Gleam
 
