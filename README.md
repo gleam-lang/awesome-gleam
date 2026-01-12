@@ -110,6 +110,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleam_crypto](https://github.com/gleam-lang/crypto) - [📚](https://hexdocs.pm/gleam_crypto/) - A Gleam cryptography library supporting Erlang and JavaScript
 - [ids](https://github.com/rvcas/ids) - [📚](https://hexdocs.pm/ids/) - Unique IDs for Gleam
 - [kmh](https://github.com/mdarse/kmh) - [📚](https://hexdocs.pm/kmh/) - Implementation of Knuth’s multiplicative hashing (useful for ID obfuscation, etc.)
+- [kryptos](https://github.com/jtdowney/kryptos) - [📚](https://hexdocs.pm/kryptos/) - Comprehensive cryptography with AEAD ciphers, key derivation, and digital signatures for Erlang and JavaScript
 - [youid](https://github.com/lpil/youid) - [📚](https://hexdocs.pm/youid/) - Generate and parse UUIDs
 
 ### Data Structures
