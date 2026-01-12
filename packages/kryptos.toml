@@ -1,0 +1,4 @@
+name = "kryptos"
+description = "Comprehensive cryptography with AEAD ciphers, key derivation, and digital signatures for Erlang and JavaScript"
+repo_url = "https://github.com/jtdowney/kryptos"
+category = "Cryptography"
