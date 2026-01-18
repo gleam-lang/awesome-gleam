@@ -334,6 +334,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glacier](https://github.com/inoas/glacier) - [📚](https://hexdocs.pm/glacier/) - Gleam Incremental Interactive Unit Testing
 - [gleeunit](https://github.com/lpil/gleeunit) - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
 - [testbldr](https://github.com/bcpeinhardt/testbldr) - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
+- [unitest](https://github.com/jtdowney/unitest) - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
 
 ### Text
 

@@ -1,0 +1,4 @@
+name = "unitest"
+description = "A test runner with random ordering, tagging, and CLI filtering"
+repo_url = "https://github.com/jtdowney/unitest"
+category = "Testing"
