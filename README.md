@@ -43,6 +43,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Randomness](#randomness)
   - [SDKs](#sdks)
   - [Standards](#standards)
+  - [TUI](#tui)
   - [Templating](#templating)
   - [Testing](#testing)
   - [Text](#text)
@@ -321,6 +322,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glisbn](https://github.com/solar05/glisbn) - [📚](https://hexdocs.pm/glisbn/) - A ISBN utility library for Gleam.
 - [marceau](https://github.com/lpil/marceau) - [📚](https://hexdocs.pm/marceau/) - A MIME types library for Gleam
 - [phony](https://github.com/massivefermion/phony) - [📚](https://hexdocs.pm/phony/) - An international phone number validator
+
+### TUI
+
+- [etch](https://github.com/bananaofhappiness/etch) - [📚](https://hexdocs.pm/etch/) - Gleam terminal backend library
 
 ### Templating
 
