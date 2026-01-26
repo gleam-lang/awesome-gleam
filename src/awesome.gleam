@@ -76,6 +76,7 @@ Web applications written in Gleam.
 Network applications/servers written in Gleam
 
 - [raineycat/gftp](https://github.com/raineycat/gleam-ftp) - A Gleam FTP server, using Erlang/OTP
+- [zwubs/betamine](https://github.com/zwubs/betamine) - A Minecraft server written in Gleam
 
 ## Tools
 
