@@ -201,6 +201,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [redraw](https://github.com/ghivert/redraw) - [📚](https://hexdocs.pm/redraw/) - React bindings for Gleam! Supports everything modern React provides, with full Gleam Type-Checking system!
 - [sketch](https://github.com/ghivert/sketch) - [📚](https://hexdocs.pm/sketch/) - A CSS-in-Gleam package, made to work with frontend, and directly with lustre!
 - [tardis](https://github.com/ghivert/tardis) - [📚](https://hexdocs.pm/tardis/) - Time traveller debugger, tailor-made for Lustre
+- [tiramisu](https://github.com/renatillas/tiramisu) - [📚](https://hexdocs.pm/tiramisu/) - A type-safe 3D game engine for Gleam
 
 ### Gleam
 
@@ -279,6 +280,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [bigdecimal](https://github.com/horvathandris/bigdecimal) - [📚](https://hexdocs.pm/bigdecimal/) - Arbitrary precision decimal arithmetic for Gleam
 - [bigi](https://gitlab.com/Nicd/bigi) - [📚](https://hexdocs.pm/bigi/) - Arbitrary precision integer arithmetic for Gleam
 - [gleam_community_maths](https://github.com/gleam-community/maths) - [📚](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
+- [vec](https://codeberg.org/gwg/vec) - [📚](https://hexdocs.pm/vec/) - A basic maths library
 
 ### Parsing
 
