@@ -1,0 +1,4 @@
+name = "blogatto"
+description = "A framework for building static blogs with Lustre and Markdown"
+repo_url = "https://github.com/veeso/blogatto"
+category = "Websites"

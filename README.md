@@ -380,6 +380,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Websites
 
 - [atomb](https://github.com/lpil/atomb) - [📚](https://hexdocs.pm/atomb/) - An Atom feed builder for Gleam
+- [blogatto](https://github.com/veeso/blogatto) - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
 - [lustre_ssg](https://github.com/lustre-labs/ssg) - [📚](https://hexdocs.pm/lustre_ssg/) - A simple static site generator for Lustre projects.
 
 ## Projects
