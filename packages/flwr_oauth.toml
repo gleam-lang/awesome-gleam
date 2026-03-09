@@ -1,0 +1,4 @@
+name = "flwr_oauth2"
+description = "An OAuth 2.0 Library based on Gleam types"
+repo_url = "https://github.com/fweingartshofer/oauth"
+category = "API Clients"
