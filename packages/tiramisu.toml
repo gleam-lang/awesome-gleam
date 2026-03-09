@@ -1,0 +1,4 @@
+name = "tiramisu"
+description = "A type-safe 3D game engine for Gleam"
+repo_url = "https://github.com/renatillas/tiramisu"
+category = "Frontend"

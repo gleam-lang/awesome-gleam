@@ -1,0 +1,4 @@
+name = "vec"
+description = "A basic maths library"
+repo_url = "https://codeberg.org/gwg/vec"
+category = "Numbers"
