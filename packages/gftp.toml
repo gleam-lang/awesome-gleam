@@ -1,0 +1,4 @@
+name = "gftp"
+description = "A Gleam FTP/FTPS client library with full RFC support for both passive and active mode"
+repo_url = "https://github.com/veeso/gftp"
+category = "Networking"

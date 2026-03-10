@@ -271,6 +271,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Networking
 
+- [gftp](https://github.com/veeso/gftp) - [📚](https://hexdocs.pm/gftp/) - A Gleam FTP/FTPS client library with full RFC support for both passive and active mode
 - [glisten](https://github.com/rawhat/glisten) - [📚](https://hexdocs.pm/glisten/) - a shiny Gleam TCP/SSL server
 - [mug](https://github.com/lpil/mug) - [📚](https://hexdocs.pm/mug/) - A TCP client for Gleam!
 - [nessie](https://github.com/ckreiling/nessie) - [📚](https://hexdocs.pm/nessie/) - Gleam bindings for Erlang's built-in DNS resolution modules.
