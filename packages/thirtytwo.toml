@@ -1,0 +1,4 @@
+name = "thirtytwo"
+description = "Base32 encoding and decoding"
+repo_url = "https://github.com/jtdowney/thirtytwo"
+category = "Standards"

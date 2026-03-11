@@ -68,6 +68,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [aws4_request](https://github.com/lpil/aws4_request) - [📚](https://hexdocs.pm/aws4_request/) - An AWS Signature Version 4 client implementation, used for S3 auth, etc
 - [discord_gleam](https://github.com/Cyteon/discord_gleam) - [📚](https://hexdocs.pm/discord_gleam/) - A library to create discord bots in gleam
+- [flwr_oauth2](https://github.com/fweingartshofer/oauth) - [📚](https://hexdocs.pm/flwr_oauth2/) - An OAuth 2.0 Library based on Gleam types
 - [glatus](https://github.com/lpil/glatus) - [📚](https://hexdocs.pm/glatus/) - Gleam bindings to the API of the Gatus health check tool
 - [gleam_hexpm](https://github.com/gleam-lang/hexpm) - [📚](https://hexdocs.pm/gleam_hexpm/) - Gleam dynamic decoders for the API of Hex, the package manager for the BEAM ecosystem.
 - [glevatar](https://github.com/bunopnu/glevatar) - [📚](https://hexdocs.pm/glevatar/) - Easily create Gravatar URLs in Gleam
@@ -324,6 +325,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glisbn](https://github.com/solar05/glisbn) - [📚](https://hexdocs.pm/glisbn/) - A ISBN utility library for Gleam.
 - [marceau](https://github.com/lpil/marceau) - [📚](https://hexdocs.pm/marceau/) - A MIME types library for Gleam
 - [phony](https://github.com/massivefermion/phony) - [📚](https://hexdocs.pm/phony/) - An international phone number validator
+- [thirtytwo](https://github.com/jtdowney/thirtytwo) - [📚](https://hexdocs.pm/thirtytwo/) - Base32 encoding and decoding
 
 ### TUI
 
@@ -341,6 +343,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [glacier](https://github.com/inoas/glacier) - [📚](https://hexdocs.pm/glacier/) - Gleam Incremental Interactive Unit Testing
 - [gleeunit](https://github.com/lpil/gleeunit) - [📚](https://hexdocs.pm/gleeunit/) - Gleam bindings to Erlang's EUnit test framework
 - [testbldr](https://github.com/bcpeinhardt/testbldr) - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
+- [testcontainers_gleam](https://github.com/darky/testcontainers-gleam) - [📚](https://hexdocs.pm/testcontainers_gleam/) - Gleam TestContainers wrapper around Elixir TestContainers
 - [unitest](https://github.com/jtdowney/unitest) - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
 
 ### Text
@@ -382,6 +385,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Websites
 
 - [atomb](https://github.com/lpil/atomb) - [📚](https://hexdocs.pm/atomb/) - An Atom feed builder for Gleam
+- [blogatto](https://github.com/veeso/blogatto) - [📚](https://hexdocs.pm/blogatto/) - A framework for building static blogs with Lustre and Markdown
 - [lustre_ssg](https://github.com/lustre-labs/ssg) - [📚](https://hexdocs.pm/lustre_ssg/) - A simple static site generator for Lustre projects.
 
 ## Projects
