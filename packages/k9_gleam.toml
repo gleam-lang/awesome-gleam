@@ -1,0 +1,4 @@
+name = "k9_gleam"
+description = "Parser and renderer for K9 (Self-Validating Components), configuration with trust levels and Nickel contracts"
+repo_url = "https://github.com/hyperpolymath/k9_gleam"
+category = "Configuration"
