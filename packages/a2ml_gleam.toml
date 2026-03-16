@@ -1,0 +1,4 @@
+name = "a2ml_gleam"
+description = "Parser and renderer for A2ML (Attested Markup Language), an AI agent identity and attestation format"
+repo_url = "https://github.com/hyperpolymath/a2ml_gleam"
+category = "Formats"
