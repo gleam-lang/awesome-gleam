@@ -1,0 +1,4 @@
+name = "vec"
+description = "A vectors library for the Gleam programming language"
+repo_url = "https://codeberg.org/gwg/vec"
+category = "Numbers"
