@@ -1,0 +1,4 @@
+name = "ftpasta"
+description = "A simple to use wrapper around Erlang's built-in ftp module."
+repo_url = "https://codeberg.org/Deepfriedice/FTPasta"
+category = "Networking"
