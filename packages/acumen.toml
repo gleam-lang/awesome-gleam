@@ -1,0 +1,4 @@
+name = "acumen"
+description = "ACME client for certificate management with Let's Encrypt and other ACME servers"
+repo_url = "https://github.com/jtdowney/acumen"
+category = "Cryptography"
