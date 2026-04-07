@@ -61,6 +61,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Websites](#websites)
   - [Courses](#courses)
   - [Social Media](#social-media)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Gleam language workflow orchestration, automated functional programming pipeline management, and multi-agent coordination. MIT licensed.
 
 ## Packages
 
