@@ -104,6 +104,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [envoy](https://github.com/lpil/envoy) - [📚](https://hexdocs.pm/envoy/) - A zero dependency cross platform Gleam package for reading environment variables
 - [glenv](https://github.com/custompro98/glenv) - [📚](https://hexdocs.pm/glenv/) - A library for type-safe environment variable access.
 - [glenvy](https://github.com/maxdeviant/glenvy) - [📚](https://hexdocs.pm/glenvy/) - A pleasant way to interact with your environment.
+- [k9_gleam](https://github.com/hyperpolymath/k9_gleam) - [📚](https://hexdocs.pm/k9_gleam/) - Parser and renderer for K9 (Self-Validating Components), configuration with trust levels and Nickel contracts
 
 ### Cryptography
 
@@ -180,6 +181,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 ### Formats
 
+- [a2ml_gleam](https://github.com/hyperpolymath/a2ml_gleam) - [📚](https://hexdocs.pm/a2ml_gleam/) - Parser and renderer for A2ML (Attested Markup Language), an AI agent identity and attestation format
 - [commonmark](https://github.com/mscharley/gleam-commonmark) - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
 - [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
 - [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
