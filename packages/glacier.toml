@@ -1,4 +1,0 @@
-name = "glacier"
-description = "Gleam Incremental Interactive Unit Testing"
-repo_url = "https://github.com/inoas/glacier"
-category = "Testing"
