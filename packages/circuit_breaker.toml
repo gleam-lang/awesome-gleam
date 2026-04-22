@@ -1,0 +1,4 @@
+name = "circuit_breaker"
+description = "Circuit breaker for Gleam — closed, open, half-open states with OTP actor support"
+repo_url = "https://github.com/manelsen/circuitbreaker"
+category = "Erlang and OTP"
