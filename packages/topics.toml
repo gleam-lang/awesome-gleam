@@ -1,0 +1,4 @@
+name = "topics"
+description = "Topic-based publish/subscribe for Gleam with automatic dead subscriber cleanup"
+repo_url = "https://github.com/manelsen/pubsub"
+category = "Erlang and OTP"
