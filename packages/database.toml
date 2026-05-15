@@ -1,0 +1,4 @@
+name = "database"
+description = "A very simple embedded database built over ETS and DETS"
+repo_url = "https://github.com/R0DR160HM/database"
+category = "Databases"
