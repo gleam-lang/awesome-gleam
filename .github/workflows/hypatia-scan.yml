@@ -19,12 +19,20 @@ concurrency:
 
 permissions:
   contents: read
-  # security-events: read lets the built-in GITHUB_TOKEN query this
-  # repo's own Dependabot alerts via the Hypatia DependabotAlerts rule
-  # (DA001-DA004). Without this, `scan_from_path` gets HTTP 403 and
-  # the rule silently returns no findings.
-  # See 007-lang/audits/audit-dependabot-automation-gap-2026-04-17.md.
-  security-events: read
+  # security-events: write serves two purposes (write implies read):
+  #   1. read — lets the built-in GITHUB_TOKEN query this repo's own
+  #      Dependabot alerts via the Hypatia DependabotAlerts rule
+  #      (DA001-DA004). Without read, `scan_from_path` gets HTTP 403
+  #      and the rule silently returns no findings.
+  #      See 007-lang/audits/audit-dependabot-automation-gap-2026-04-17.md.
+  #   2. write — lets the "Upload SARIF to code scanning" step publish
+  #      Hypatia findings to the Security → Code scanning page so they
+  #      are triaged/deduplicated like CodeQL alerts instead of living
+  #      only in a build artifact nobody is required to look at.
+  #      See hyperpolymath/burble#35 (SARIF integration).
+  # This is a single-job workflow, so job-level scoping would not
+  # narrow the grant further; it stays workflow-level and documented.
+  security-events: write
   # pull-requests: write lets the advisory "Comment on PR with findings"
   # step post its summary. Without it the built-in GITHUB_TOKEN gets
   # "Resource not accessible by integration" and (absent continue-on-error)
@@ -45,8 +53,8 @@ jobs:
       - name: Setup Elixir for Hypatia scanner
         uses: erlef/setup-beam@fc68ffb90438ef2936bbb3251622353b3dcb2f93 # v1.18.2
         with:
-          elixir-version: '1.19.4'
-          otp-version: '28.3'
+          elixir-version: '1.18'
+          otp-version: '27'
 
       - name: Clone Hypatia
         run: |
@@ -102,6 +110,143 @@ jobs:
           name: hypatia-findings
           path: hypatia-findings.json
           retention-days: 90
+
+      - name: Convert Hypatia findings to SARIF
+        # Always runs (no findings_count guard): an EMPTY SARIF run is
+        # valid and intentional — uploading it clears stale Hypatia
+        # alerts from the code-scanning page when a repo goes clean.
+        # The converter is dependency-free Node (Node ships on
+        # ubuntu-latest; no npm install — estate npm ban respected) and
+        # is hardened against the heterogeneous Hypatia JSON schema:
+        # most findings are {rule_module,severity,type,file,reason,
+        # action}; only some carry an integer `line`; `file` may be
+        # empty or absolute. See lib/hypatia/cli.ex (collect_findings).
+        run: |
+          cat > "$RUNNER_TEMP/hypatia-sarif.cjs" <<'CJS'
+          const fs = require('fs');
+          const path = require('path');
+          const crypto = require('crypto');
+
+          const ws = process.env.GITHUB_WORKSPACE || process.cwd();
+
+          let findings = [];
+          try {
+            const parsed = JSON.parse(fs.readFileSync('hypatia-findings.json', 'utf8'));
+            if (Array.isArray(parsed)) findings = parsed;
+          } catch (_) {
+            // Scanner unavailable / empty / malformed -> empty SARIF.
+            // Intentionally clears stale alerts rather than erroring.
+            findings = [];
+          }
+
+          // Mirrors Hypatia's own "github" annotation mapping
+          // (lib/hypatia/cli.ex output/2): critical|high -> error,
+          // medium -> warning, everything else -> note.
+          const levelFor = (sev) => {
+            switch (String(sev || '').toLowerCase()) {
+              case 'critical':
+              case 'high': return 'error';
+              case 'medium': return 'warning';
+              default: return 'note';
+            }
+          };
+
+          // SARIF artifactLocation.uri must be a repo-relative POSIX
+          // path. Hypatia may emit absolute paths (scanned under
+          // $GITHUB_WORKSPACE) or "" / "." for repo-level findings.
+          const relUri = (file) => {
+            if (!file) return '.';
+            let f = String(file);
+            if (path.isAbsolute(f)) {
+              const rel = path.relative(ws, f);
+              f = (rel && !rel.startsWith('..')) ? rel : path.basename(f);
+            }
+            f = f.replace(/\\/g, '/').replace(/^\.\//, '');
+            return f || '.';
+          };
+
+          const rules = new Map();
+          const results = findings.map((f) => {
+            const mod = String(f.rule_module || 'hypatia');
+            const type = String(f.type || 'finding');
+            const ruleId = `hypatia/${mod}/${type}`;
+            const level = levelFor(f.severity);
+            if (!rules.has(ruleId)) {
+              rules.set(ruleId, {
+                id: ruleId,
+                name: `${mod}.${type}`,
+                shortDescription: { text: `Hypatia ${mod}: ${type}` },
+                defaultConfiguration: { level }
+              });
+            }
+            const uri = relUri(f.file);
+            const msg = String(f.reason || f.type || 'Hypatia finding');
+            const startLine =
+              Number.isInteger(f.line) && f.line > 0 ? f.line : 1;
+            // Stable cross-run fingerprint for dedupe (no line, so a
+            // moved finding in the same file/rule stays one alert).
+            const fp = crypto
+              .createHash('sha256')
+              .update([ruleId, uri, type, msg].join('|'))
+              .digest('hex');
+            return {
+              ruleId,
+              level,
+              message: { text: msg },
+              locations: [
+                {
+                  physicalLocation: {
+                    artifactLocation: { uri },
+                    region: { startLine }
+                  }
+                }
+              ],
+              partialFingerprints: { 'hypatiaFindingHash/v1': fp }
+            };
+          });
+
+          const sarif = {
+            $schema: 'https://json.schemastore.org/sarif-2.1.0.json',
+            version: '2.1.0',
+            runs: [
+              {
+                tool: {
+                  driver: {
+                    name: 'Hypatia',
+                    informationUri: 'https://github.com/hyperpolymath/hypatia',
+                    rules: Array.from(rules.values())
+                  }
+                },
+                results
+              }
+            ]
+          };
+
+          fs.writeFileSync('hypatia.sarif', JSON.stringify(sarif, null, 2));
+          console.log(`hypatia.sarif written: ${results.length} result(s).`);
+          CJS
+          node "$RUNNER_TEMP/hypatia-sarif.cjs"
+
+      - name: Upload SARIF to GitHub code scanning
+        # Fork PRs get a read-only GITHUB_TOKEN, so security-events:write
+        # is unavailable and upload-sarif cannot publish — skip there
+        # rather than hard-fail (the push/schedule run on the default
+        # branch is the authoritative upload). Same-repo PRs and pushes
+        # do upload. This step is deliberately NOT continue-on-error:
+        # if the security-surface integration breaks we want a loud red,
+        # not a silently-ungated scanner (the exact failure mode #35
+        # exists to end). The empty-SARIF "clear stale alerts" path is
+        # handled in the converter above and does not error here.
+        if: >-
+          always() &&
+          (github.event_name != 'pull_request' ||
+           github.event.pull_request.head.repo.fork != true)
+        uses: github/codeql-action/upload-sarif@0d579ffd059c29b07949a3cce3983f0780820c98 # v3.28.1
+        with:
+          sarif_file: hypatia.sarif
+          # Distinct category so Hypatia results coexist with CodeQL's
+          # (codeql.yml) instead of overwriting them on the same surface.
+          category: hypatia
 
       - name: Submit findings to gitbot-fleet (Phase 2)
         if: steps.scan.outputs.findings_count > 0
@@ -174,11 +319,21 @@ jobs:
 
       - name: Check for critical issues
         if: steps.scan.outputs.critical > 0
+        # GATING POLICY (explicit, by design — not an oversight):
+        # Hypatia is ADVISORY here. Critical findings are surfaced
+        # (step annotation + SARIF alert on the code-scanning page +
+        # PR comment) but do NOT fail this check. Enforcement is
+        # delegated to the code-scanning surface: tighten by adding a
+        # branch-protection "required" status on the `hypatia` SARIF
+        # category, not by reintroducing an `exit 1` here. This keeps
+        # the gate decision in one auditable place (hypatia#213 gate
+        # decoupling) and lets a repo opt into fail-on-critical without
+        # editing this canonical workflow. To change the policy, change
+        # branch protection — deliberately no commented-out `exit 1`.
         run: |
-          echo "⚠️  Critical security issues found!"
-          echo "Review hypatia-findings.json for details"
-          # Don't fail the build yet - just warn
-          # exit 1
+          echo "::warning::Hypatia found critical security issue(s) — advisory."
+          echo "See the Security → Code scanning page (category: hypatia)"
+          echo "and the hypatia-findings.json artifact for details."
 
       - name: Generate scan report
         run: |
@@ -200,9 +355,14 @@ jobs:
 
           ## Next Steps
 
-          1. Review findings in the artifact: hypatia-findings.json
-          2. Auto-fixable issues will be addressed by robot-repo-automaton (Phase 3)
-          3. Manual review required for complex issues
+          1. Triage findings on the **Security → Code scanning** page
+             (SARIF category \`hypatia\`) — dismiss/track them there like
+             CodeQL alerts.
+          2. The full finding set is also attached as the
+             \`hypatia-findings.json\` build artifact for offline review.
+          3. Findings are **advisory** today (surfaced, not gated); the
+             gating policy is documented in the workflow's "Check for
+             critical issues" step.
 
           ## Learning
 
