@@ -1,0 +1,4 @@
+name = "inlay"
+description = "Embed social link previews as Lustre components or Blogatto markdown"
+repo_url = "https://github.com/kkostov/inlay"
+category = "Frontend"

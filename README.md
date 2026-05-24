@@ -196,6 +196,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [glailglind](https://github.com/okkdev/glailglind) - [📚](https://hexdocs.pm/glailglind/) - Gleam modules and functions for installing and invoking TailwindCSS
 - [grille_pain](https://github.com/ghivert/grille-pain) - [📚](https://hexdocs.pm/grille_pain/) - Toaster, made in lustre, for gleam
+- [inlay](https://github.com/kkostov/inlay) - [📚](https://hexdocs.pm/inlay/) - Embed social link previews as Lustre components or Blogatto markdown
 - [lustre](https://github.com/lustre-labs/lustre) - [📚](https://hexdocs.pm/lustre/) - An Elm-inspired framework for building web apps in Gleam!
 - [lustre_animation](https://git.chmeee.org/lustre_animation) - [📚](https://hexdocs.pm/lustre_animation/) - Animations for lustre, utilizing JS requestAnimationFrame and setTimeout
 - [lustre_http](https://codeberg.org/kero/lustre_http) - [📚](https://hexdocs.pm/lustre_http/) - HTTP requests from lustre
