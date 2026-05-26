@@ -252,6 +252,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [gleam_json](https://github.com/gleam-lang/json) - [📚](https://hexdocs.pm/gleam_json/) - Work with JSON in Gleam
 - [json_typedef](https://github.com/lpil/json-typedef) - [📚](https://hexdocs.pm/json_typedef/) - Work with JSON using a schema! RFC8927
+- [squirtle](https://github.com/alii/squirtle) - [📚](https://hexdocs.pm/squirtle/) - A JSON Patch (RFC 6902) implementation in Gleam
 
 ### JavaScript
 
