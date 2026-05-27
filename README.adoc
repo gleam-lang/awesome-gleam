@@ -2,4 +2,63 @@
 :toc: preamble
 :icons: font
 
+A curated list of awesome Gleam projects, libraries, tools, and resources.
 
+NOTE: This list was reset on 2026-05-27 as a fresh start. Earlier entries that were lost in a `.md` → `.adoc` migration accident are not restored verbatim — contributions welcome to rebuild the catalogue.
+
+== Compilers and Toolchains
+
+* https://github.com/gleam-lang/gleam[gleam-lang/gleam] — The Gleam programming language and compiler.
+* https://gleam.run/[gleam.run] — Official Gleam homepage with documentation.
+
+== Web Frameworks
+
+* https://github.com/gleam-wisp/wisp[gleam-wisp/wisp] — Practical web framework for Gleam.
+* https://github.com/lpil/mist[lpil/mist] — Elixir-style HTTP server.
+
+== HTTP Clients
+
+* https://github.com/gleam-lang/httpc[gleam-lang/httpc] — HTTP client library.
+
+== JSON and Serialisation
+
+* https://github.com/gleam-lang/json[gleam-lang/json] — Standard JSON encode/decode.
+
+== Configuration
+
+* https://github.com/hyperpolymath/k9_gleam[hyperpolymath/k9_gleam] — Parser and renderer for K9 (Self-Validating Components) — configuration with trust levels and Nickel contracts.
+
+== Formats and Markup
+
+* https://github.com/hyperpolymath/a2ml_gleam[hyperpolymath/a2ml_gleam] — Parser and renderer for A2ML (Attested Markup Language), an AI agent identity and attestation format.
+
+== Database
+
+* https://github.com/lpil/gleam-pgo[lpil/gleam-pgo] — PostgreSQL client for Gleam.
+
+== Concurrency and OTP
+
+* https://github.com/gleam-lang/otp[gleam-lang/otp] — Idiomatic Gleam over BEAM OTP primitives.
+
+== Testing
+
+* https://github.com/lpil/gleeunit[lpil/gleeunit] — Test framework for Gleam.
+
+== Resources
+
+* https://tour.gleam.run/[tour.gleam.run] — Interactive Gleam language tour.
+* https://gleam.run/documentation/[gleam.run/documentation] — Official documentation.
+
+== Contributing
+
+PRs welcome. Add entries under the most relevant section, alphabetically within the section. Each entry should have:
+
+* A link to the project repository.
+* A one-sentence description in plain English.
+* Optional: a tag indicating maturity (`(WIP)`, `(production-ready)`, `(archived)`).
+
+Avoid promotional language. The list is for orientation, not marketing.
+
+== License
+
+Content list: link:LICENSE[CC0-1.0]. List entries link to their own projects with their own licenses.
