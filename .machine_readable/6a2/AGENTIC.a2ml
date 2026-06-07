@@ -1,0 +1,51 @@
+# SPDX-License-Identifier: MPL-2.0
+# Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) <j.d.a.jewell@open.ac.uk>
+#
+# AGENTIC.a2ml — AI agent constraints and capabilities
+# Defines what AI agents can and cannot do in this repository.
+
+[metadata]
+version = "0.1.0"
+last-updated = "2026-04-11"
+
+[agent-permissions]
+can-edit-source = true
+can-edit-tests = true
+can-edit-docs = true
+can-edit-config = true
+can-create-files = true
+
+[agent-constraints]
+# What AI agents must NOT do:
+# - Never use banned language patterns (believe_me, unsafeCoerce, etc.)
+# - Never commit secrets or credentials
+# - Never use banned languages (TypeScript, Python, Go, etc.)
+# - Never place state files in repository root (must be in .machine_readable/)
+# - Never use AGPL license (use MPL-2.0)
+
+[maintenance-integrity]
+fail-closed = true
+require-evidence-per-step = true
+allow-silent-skip = false
+require-rerun-after-fix = true
+release-claim-requires-hard-pass = true
+
+# ============================================================================
+# METHODOLOGY (ADR-002)
+# ============================================================================
+# Detailed methodology configuration lives in:
+#   .machine_readable/bot_directives/methodology.a2ml
+#   .machine_readable/bot_directives/coverage.a2ml
+#   .machine_readable/bot_directives/debt.a2ml
+#
+# AGENTIC.a2ml declares WHAT agents can do (permissions, gating).
+# bot_directives/ declares HOW agents should work (methodology).
+
+[methodology]
+instructions-dir = ".machine_readable/bot_directives/"
+default-mode = "hybrid"
+
+[automation-hooks]
+# on-enter: Read 0-AI-MANIFEST.a2ml, then STATE.a2ml, then bot_directives/
+# on-exit: Update STATE.a2ml, coverage.a2ml, and debt.a2ml with session outcomes
+# on-commit: Run just validate-rsr

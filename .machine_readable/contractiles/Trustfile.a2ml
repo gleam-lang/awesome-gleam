@@ -1,0 +1,88 @@
+# SPDX-License-Identifier: MPL-2.0
+# Trustfile — Trust boundaries and integrity invariants for rsr-template-repo
+# Author: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+#
+# Defines what LLM/SLM agents are trusted to do without asking, and
+# integrity invariants that verify the repo has not been tampered with.
+
+@abstract:
+Trust boundaries and integrity checks for rsr-template-repo. This file
+combines the trust-level definitions from the original TRUST.contractile
+with the integrity invariants from the old Trustfile.a2ml. It defines
+what AI agents may do autonomously and what requires human approval,
+plus checks that verify repository integrity.
+@end
+
+## Trust Levels
+
+The rsr-template-repo operates at trust level: maximal
+
+Trust levels:
+- maximal:    Agent may read, build, test, lint, format, heal freely.
+             Only destructive/external actions require approval.
+- standard:   Agent may read and build. Test/lint need approval.
+- restricted: Agent may read only. All modifications need approval.
+- minimal:    Agent may read specific files only. Everything else blocked.
+
+Current trust level: maximal
+
+## Integrity Invariants
+
+### Secrets
+
+#### no-secrets-committed
+- description: No credential files in repo
+- run: test ! -f .env && test ! -f credentials.json && test ! -f .env.local && test ! -f .env.production
+- severity: critical
+
+#### no-private-keys
+- description: No private key files committed
+- run: "! find . -name '*.pem' -o -name '*.key' -o -name 'id_rsa' -o -name 'id_ed25519' 2>/dev/null | grep -v node_modules | head -1 | grep -q ."
+- severity: critical
+
+#### no-tokens-in-source
+- description: No hardcoded API tokens in source
+- run: "! grep -rE '(api[_-]?key|secret|token|password)\s*[:=]\s*[\"'\\''][A-Za-z0-9]{16,}' --include='*.js' --include='*.ts' --include='*.res' --include='*.py' . 2>/dev/null | grep -v node_modules | head -1 | grep -q ."
+- severity: critical
+
+## Provenance
+
+#### author-correct
+- description: Git author matches expected identity
+- run: "git log -1 --format='%ae' | grep -qE '(hyperpolymath|j\\.d\\.a\\.jewell)'"
+- severity: warning
+
+#### license-content
+- description: LICENSE contains expected identifier
+- run: grep -q 'PMPL\|MPL\|MIT\|Apache\|LGPL' LICENSE
+- severity: warning
+
+## Template-Specific Trust
+
+### template-files-readonly
+- description: Template scaffold files should not be modified except by maintainer
+- run: test -z "$(git status --short .machine_readable/ 2>/dev/null | grep -v '^??' || true)"
+- severity: advisory
+- notes: Changes to template files require careful review
+
+### trust-deny-areas
+- description: Sensitive areas from INTENT.contractile require explicit approval
+- run: echo "Check .machine_readable/ contractiles and governance docs"
+- severity: advisory
+- areas:
+  - .machine_readable/
+  - GOVERNANCE.adoc
+  - MAINTAINERS.adoc
+  - .github/CODEOWNERS
+
+## Container Security
+
+#### container-images-pinned
+- description: Containerfile uses pinned base images
+- run: test ! -f Containerfile || grep -q 'cgr.dev\|@sha256:' Containerfile
+- severity: warning
+
+#### no-dockerfile
+- description: No Dockerfile (use Containerfile)
+- run: test ! -f Dockerfile
+- severity: warning

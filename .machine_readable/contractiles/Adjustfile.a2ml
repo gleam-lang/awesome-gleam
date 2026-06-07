@@ -1,0 +1,72 @@
+# SPDX-License-Identifier: MPL-2.0
+# Adjustfile — Drift-tolerance contract for rsr-template-repo
+# Author: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+#
+# Cumulative-drift catchment: tolerance bands + corrective actions.
+# Authority: advisory (Yard) — continue-with-warnings; auto_fix where deterministic.
+# Run with: adjust check
+# Fix with: adjust fix (applies deterministic patches; advisory otherwise)
+
+@abstract:
+Drift tolerances and corrective actions for rsr-template-repo. Unlike
+MUST (hard gate), ADJUST tracks cumulative drift against tolerance bands
+and proposes corrective actions. Advisory — it warns and trends, it does
+not block.
+@end
+
+## Template Drift
+
+### placeholder-drift
+- description: Template placeholders should be replaced when copied
+- tolerance: 0 placeholder markers in copied repos
+- corrective: Search and replace all {{PLACEHOLDER}} markers
+- severity: advisory
+- notes: This check only applies to repos that copied from this template
+
+### template-version-drift
+- description: Template version should match RSR spec version
+- tolerance: Template version matches current RSR spec
+- corrective: Update template to match latest RSR spec
+- severity: advisory
+
+## Documentation Drift
+
+### readme-completeness
+- description: README should document all template features
+- tolerance: README covers all contractiles and directory structure
+- corrective: Update README.adoc with missing sections
+- severity: advisory
+
+### example-accuracy
+- description: Examples in documentation should match actual template content
+- tolerance: All code examples in docs are accurate
+- corrective: Audit and fix examples in documentation
+- severity: advisory
+
+## Structural Drift
+
+### contractile-sync
+- description: All contractiles should have matching a2ml and ncl implementations
+- tolerance: Every .a2ml has a corresponding .ncl
+- corrective: Generate missing .ncl files from .a2ml
+- severity: advisory
+
+### no-broken-symlinks
+- description: No broken symbolic links in template structure
+- tolerance: 0 broken symlinks
+- corrective: Run symlink-check script
+- severity: advisory
+
+## Accessibility Drift
+
+### adoc-not-md
+- description: Template docs should prefer AsciiDoc
+- tolerance: New prose docs are *.adoc
+- corrective: Convert any new *.md to *.adoc
+- severity: advisory
+
+### spdx-header-consistency
+- description: All template files have correct SPDX headers
+- tolerance: 0 files missing SPDX-License-Identifier
+- corrective: Add SPDX headers to files that need them
+- severity: advisory

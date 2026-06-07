@@ -1,0 +1,29 @@
+# SPDX-License-Identifier: MPL-2.0
+# ECOSYSTEM.a2ml — Ecosystem position
+# Converted from ECOSYSTEM.scm on 2026-04-14
+
+[metadata]
+project = "pseudoscript"
+ecosystem = "hyperpolymath"
+
+[position]
+type = "programming-language"
+purpose = "Pseudocode-syntax AffineScript. Write code that looks like pseudocode. Get affine resource guarantees and typed WASM out."
+
+[pipeline]
+position = "co-product"
+chain = "katagoria → typell → typed-wasm → PanLL"
+notes = "PseudoScript compiles to typed WasmGC. TypeLL grounds its type system. typed-wasm provides the shared binary layout and ABI conventions."
+coordination = "nextgen-typing"
+
+[related-projects]
+projects = [
+  { name = "typell", relationship = "type-theory-foundation", notes = "TypeLL's open-ended progressive framework grounds PseudoScript's type system. typell-pseudoscript bridge crate." },
+  { name = "typed-wasm", relationship = "aggregate-library", notes = "Shared binary layout conventions for WasmGC cross-language calls. PseudoScript Option[T]/Result[T,E]/String have agreed layouts here." },
+  { name = "nextgen-typing", relationship = "coordination-parent", notes = "Coordination monorepo for the type theory pipeline. Canonical architecture doc." },
+  { name = "affinescript", relationship = "foundation", notes = "PseudoScript is a syntactic face of AffineScript." },
+  { name = "rattlescript", relationship = "sibling", notes = "Both are syntactic faces of AffineScript." },
+  { name = "ephapax", relationship = "sibling-wasm-target", notes = "Both compile to typed WasmGC. Independent designs; converge at binary level via typed-wasm." },
+  { name = "katagoria", relationship = "research-upstream", notes = "Type theory research origination. Future PseudoScript type system extensions may originate there." },
+  { name = "panll", relationship = "consumer", notes = "PseudoScript is one of PanLL's development language targets." },
+]

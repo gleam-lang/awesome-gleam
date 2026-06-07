@@ -1,0 +1,53 @@
+# SPDX-License-Identifier: MPL-2.0
+# Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) <j.d.a.jewell@open.ac.uk>
+#
+# META.a2ml — Project meta-level information
+# Architecture decisions, design rationale, governance.
+
+[metadata]
+version = "0.1.0"
+last-updated = "2026-04-11"
+
+[project-info]
+type = "library"  # TODO: update type (library|binary|service|website|monorepo)  # library | binary | monorepo | service | website
+languages = []             # e.g. ["rust", "zig", "idris2"]
+license = "MPL-2.0"
+author = "Jonathan D.A. Jewell (hyperpolymath)"
+
+[architecture-decisions]
+# ADR format: status = proposed | accepted | deprecated | superseded | rejected
+# - { id = "ADR-001", title = "Use Zig for FFI", status = "accepted", date = "2026-02-14" }
+
+[development-practices]
+build-tool = "just"
+container-runtime = "podman"
+ci-platform = "github-actions"
+package-manager = "guix"  # guix | nix | cargo | mix
+
+[maintenance-axes]
+scoping-first = true
+execution-order = "axis-1 > axis-2 > axis-3"
+axis-1 = "must > intend > like"
+axis-2 = "corrective > adaptive > perfective"
+axis-3 = "systems > compliance > effects"
+
+[scoping]
+sources = "README, roadmap, status docs, maintenance checklist, CI/security docs"
+marker-scan = "TODO/FIXME/XXX/HACK/STUB/PARTIAL"
+idris-unsound-scan = "believe_me/assert_total"
+
+[axis-2-maintenance-rules]
+corrective-first = true
+adaptive-second = true
+adaptive-focus = "scope-change reconciliation, stale-reference removal, obsolete-work culling"
+perfective-third = true
+perfective-source = "axis-1 honest state after corrective/adaptive updates"
+
+[axis-3-audit-rules]
+audit-focus = "systems in place, documentation explains actual state, safety/security accounted for, observed effects reviewed"
+compliance-focus = "seams/compromises/exception register, bounded exceptions, anti-drift checks"
+drift-risk-example = "single exception broadening into policy violation (e.g. ReScript->TypeScript spread)"
+effects-evidence = "benchmark execution/results and maintainer status dialogue/review"
+
+[design-rationale]
+# Key design decisions and their reasoning

@@ -1,0 +1,65 @@
+// SPDX-License-Identifier: MPL-2.0
+// SPDX-FileCopyrightText: 2026 Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+= Maintainers
+:toc: preamble
+
+== Current Maintainers
+
+[cols="2,3,2",options="header"]
+|===
+| Name | Role | Contact
+
+| Jonathan D.A. Jewell | Sole Maintainer | https://github.com/hyperpolymath[@hyperpolymath]
+|===
+
+== Maintainer Responsibilities
+
+As the sole maintainer, all responsibilities apply to @hyperpolymath:
+
+* Reviewing and merging pull requests
+* Triaging issues and feature requests
+* Ensuring code quality and security standards
+* Managing releases and versioning
+* Upholding the project's Code of Conduct
+* Maintaining documentation and examples
+* Responding to security vulnerabilities
+
+== Contribution Process
+
+This is a sole-maintainer project. All contributions are welcome via:
+
+1. **Issues**: Report bugs, request features, ask questions
+2. **Pull Requests**: Submit improvements for review
+3. **Discussions**: Engage in community discussions
+
+All contributions will be reviewed by the maintainer.
+
+== Decision Making
+
+* Routine decisions (bug fixes, minor improvements): Made by maintainer
+* Significant changes: Discussed in issues before implementation
+* Breaking changes: Announced in advance with migration path
+
+== Becoming a Maintainer
+
+This project currently has a single maintainer. If you're interested in becoming a co-maintainer:
+
+1. Demonstrate consistent, high-quality contributions
+2. Show understanding of project goals and standards
+3. Participate constructively in discussions
+4. Express interest to the current maintainer
+
+Co-maintainers may be added at the discretion of the current maintainer.
+
+== Contact
+
+For questions about project governance:
+
+* Open a GitHub issue in this repository
+* Contact: https://github.com/hyperpolymath
+
+== See Also
+
+* link:GOVERNANCE.adoc[Governance Model]
+* link:CODE_OF_CONDUCT.md[Code of Conduct]
+* link:CONTRIBUTING.adoc[Contributing Guide]

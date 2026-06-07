@@ -1,0 +1,64 @@
+# SPDX-License-Identifier: MPL-2.0
+# Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) <j.d.a.jewell@open.ac.uk>
+#
+# STATE.a2ml — Project state checkpoint (META-TEMPLATE)
+#
+# This is the STATE file for rsr-template-repo itself.
+# When consumed by a new project, replace {{PLACEHOLDER}} tokens
+# and customize sections below for the target project.
+
+[metadata]
+project = "rsr-template-repo"
+version = "0.2.0"
+last-updated = "2026-02-28"
+status = "active"  # active | paused | archived
+
+[project-context]
+name = "rsr-template-repo"
+purpose = "Canonical RSR-compliant repository template providing scaffolding for all hyperpolymath projects — including CI/CD, AI manifests, ABI/FFI standards, container ecosystem, and governance infrastructure."
+completion-percentage = 95
+
+[position]
+phase = "maintenance"      # design | implementation | testing | maintenance | archived
+maturity = "production"    # experimental | alpha | beta | production | lts
+
+[route-to-mvp]
+milestones = [
+  { name = "Phase 0: Core scaffolding (justfile, CI/CD, .machine_readable)", completion = 100 },
+  { name = "Phase 1: ABI/FFI standard (Idris2/Zig templates)", completion = 100 },
+  { name = "Phase 1b: AI Gatekeeper Protocol (0-AI-MANIFEST.a2ml)", completion = 100 },
+  { name = "Phase 1c: TOPOLOGY.md standard and guide", completion = 100 },
+  { name = "Phase 1d: Maintenance gate (axes, checklist, approach)", completion = 100 },
+  { name = "Phase 1e: Trustfile / contractiles", completion = 100 },
+  { name = "Phase 2: Container ecosystem templates (stapeln)", completion = 100 },
+  { name = "Phase 3: Multi-forge sync hardening", completion = 0 },
+  { name = "Phase 4: Nix/Guix reproducible shells", completion = 50 },
+]
+
+[blockers-and-issues]
+# No active blockers
+
+[critical-next-actions]
+actions = [
+  "Container templates complete — test with `just container-init`",
+  "Validate container templates across wolfi-base and static Chainguard images",
+  "Harden multi-forge sync for GitLab/Bitbucket mirroring edge cases",
+  "Expand Nix/Guix development shell templates",
+]
+
+[maintenance-status]
+last-run-utc = "never"
+last-report = "docs/reports/maintenance/latest.json"
+last-result = "unknown"  # unknown | pass | warn | fail
+open-warnings = 0
+open-failures = 0
+
+[ecosystem]
+part-of = ["RSR Framework", "stapeln ecosystem"]
+depends-on = ["stapeln", "selur-compose", "cerro-torre", "svalinn", "vordr", "k9-svc"]
+
+# ---------------------------------------------------------------------------
+# NOTE FOR CONSUMERS: When using this template to create a new repo, reset
+# the fields above to your project's values and replace all {{PLACEHOLDER}}
+# tokens. The milestones above describe the TEMPLATE's evolution, not yours.
+# ---------------------------------------------------------------------------

@@ -1,0 +1,162 @@
+// SPDX-License-Identifier: MPL-2.0
+// SPDX-FileCopyrightText: 2026 Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+= Governance Model
+:toc: preamble
+
+This document describes the governance model for this repository.
+
+== Overview
+
+This repository follows a **Sole Maintainer Governance Model**:
+
+* Single maintainer (@hyperpolymath) has full authority over the project
+* All contributions are welcome and reviewed by the maintainer
+* Decisions are made transparently through GitHub issues and discussions
+* The project adheres to the hyperpolymath estate policies where applicable
+
+== Core Principles
+
+[cols="1,2"]
+|===
+| Principle | Description
+
+| **Benevolent Dictatorship** | Maintainer has final decision authority but seeks community input
+
+| **Meritocracy** | Contributions are judged on technical merit, not contributor identity
+
+| **Transparency** | All significant decisions are documented publicly
+
+| **Consensus-Seeking** | Maintainer prefers consensus but will decide when necessary
+
+| **Open Contribution** | Anyone can contribute via fork and pull request
+
+|===
+
+== Roles and Permissions
+
+[cols="1,2,2"]
+|===
+| Role | Permissions | Assignment
+
+| **Maintainer** | Write access, merge rights, admin | @hyperpolymath
+| **Contributors** | Read access, fork, submit PRs | All GitHub users
+| **Users** | Use the software, report issues | All GitHub users
+
+|===
+
+== Decision Making Framework
+
+=== Routine Decisions
+
+* Bug fixes
+* Documentation improvements
+* Minor feature additions
+* Dependency updates
+
+**Process**: Maintainer reviews and merges PRs that meet quality standards.
+
+=== Significant Changes
+
+* New major features
+* API changes
+* Architecture modifications
+* Breaking changes
+
+**Process**:
+. Open issue describing the change
+. Discuss with community (minimum 72 hours)
+. Maintainer makes final decision
+. Document rationale in issue/PR
+
+=== Structural Decisions
+
+* Repository purpose/renaming
+* License changes
+* Ownership transfer
+* Deprecation/archival
+
+**Process**: 
+. Extended discussion (minimum 1 week)
+. Maintainer makes final decision
+. Document in CHANGELOG and governance docs
+
+== Contribution Lifecycle
+
+[cols="1,2"]
+|===
+| Stage | Process
+
+| **Ideation** | Open issue, discuss feasibility
+
+| **Development** | Fork, implement, test thoroughly
+
+| **Review** | Submit PR, maintainer reviews within 7 days
+
+| **Merge** | Maintainer merges or requests changes
+
+| **Release** | Maintainer publishes according to project conventions
+
+|===
+
+== Conflict Resolution
+
+In case of disagreements:
+
+. Discuss in the relevant GitHub issue or PR
+. Provide technical justification for positions
+. Maintainer mediates and makes final decision
+. Decision is documented and can be revisited later
+
+== Project Policies
+
+This repository adheres to hyperpolymath estate-wide policies:
+
+* **License**: MPL-2.0 for code, CC-BY-SA-4.0 for prose (per standards/LICENCE-POLICY.adoc)
+* **Code of Conduct**: Follows hyperpolymath CODE_OF_CONDUCT.md
+* **Security**: Follows hyperpolymath SECURITY.md
+* **Contributing**: Follows hyperpolymath CONTRIBUTING.adoc conventions
+
+== Repository-Specific Conventions
+
+[cols="1,2"]
+|===
+| Convention | Description
+
+| **Signing** | All commits must be signed (SSH or GPG)
+
+| **SPDX Headers** | All source files must have SPDX license identifiers
+
+| **Contractiles** | Mustfile, Trustfile, Intendfile, Adjustfile in root
+
+| **Machine Readable** | META.a2ml in .machine_readable/6a2/
+
+| **CI/CD** | GitHub Actions workflows in .github/workflows/
+
+|===
+
+== Governance Evolution
+
+As the project grows, this governance model may evolve:
+
+* **Adding Co-Maintainers**: When contribution volume warrants it
+* **Forming a Team**: For complex multi-maintainer projects
+* **Adopting TPCF**: For large, multi-repository projects (see rhodium-standard-repositories)
+
+Changes to this document require the same process as Significant Changes above.
+
+== See Also
+
+* link:MAINTAINERS.adoc[Maintainers]
+* link:CODE_OF_CONDUCT.md[Code of Conduct]
+* link:CONTRIBUTING.adoc[Contributing Guide]
+* link:https://github.com/hyperpolymath/standards/blob/main/LICENCE-POLICY.adoc[Estate License Policy]
+* link:https://github.com/hyperpolymath/standards[rhodium-standard-repositories (TPCF)]
+
+== Changelog
+
+[cols="1,1,1"]
+|===
+| Date | Change | By
+
+| 2026-06-07 | Initial governance model established | @hyperpolymath
+|===

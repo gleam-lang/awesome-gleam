@@ -1,0 +1,99 @@
+# SPDX-License-Identifier: MPL-2.0
+# Intentfile (A2ML Canonical) — north-star contractile for rsr-template-repo
+# Author: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+#
+# Paired runner: intend.ncl
+# Verb:          intend
+#
+# Semantics: North-star contractile. Declares BOTH concrete committed
+#            next-actions AND horizon aspirations the project wishes to
+#            become. Two sections share one file because they answer
+#            the same question at different ranges:
+#              [[intents]] — "we WILL do this; track progress"
+#                            status: declared → in_progress → done |
+#                                    deferred | retired
+#              [[wishes]]  — "we WISH this were true; revisit later"
+#                            status: declared → in_progress → achieved |
+#                                    abandoned
+#                            grouped by horizon: near / mid / far.
+#            Non-gating — this is a report, not a gate. See the `must`
+#            contractile for hard gates.
+
+@abstract:
+North-star contractile for rsr-template-repo. This repository is the
+canonical template for Rhodium Standard Repository compliance. It provides
+the scaffold that all hyperpolymath repos should copy and customize.
+@end
+
+## Purpose
+
+The rsr-template-repo serves as the master template for all hyperpolymath
+repositories. It contains the complete set of contractile files, machine-readable
+specifications, and governance documentation that define the Rhodium Standard.
+
+Every new repository in the hyperpolymath estate should be initialized by
+copying this template and substituting the placeholder values with
+repo-specific content.
+
+## Anti-Purpose
+
+This repository is NOT:
+- A general-purpose project scaffold for external use (hyperpolymath-only)
+- A replacement for per-repo customization (all files must be bespoke)
+- A static template that never changes (evolves with RSR spec)
+- A runtime library or framework (build-time only)
+
+## If In Doubt
+
+If you are unsure whether a change is in scope, ask. Sensitive areas:
+- .machine_readable/ contractile definitions
+- RSR specification files
+- Governance templates
+- License policy documents
+
+## Committed Next-Actions
+
+### repo-initialization
+- description: Provide just copy-and-substitute template for new repos
+- probe: test -f scripts/init-repo.sh
+- status: done
+- notes: Run with source scripts/init-repo.sh <new-repo-name>
+
+### contractile-completeness
+- description: Every RSR contractile has an a2ml and ncl implementation
+- probe: ls .machine_readable/contractiles/*.a2ml | wc -l | grep -q "^6$"
+- status: in_progress
+- notes: Currently 6 contractile verbs: intend, must, trust, adjust, bust, dust
+
+### automation-scripts
+- description: All repetitive tasks have just recipes
+- probe: grep -c "^# " Justfile | grep -q "^[6-9][0-9]*$"
+- status: in_progress
+
+## Wishes
+
+### Near Horizon
+
+#### cross-repo-validation
+- description: Tooling to validate all repos against RSR spec
+- horizon: near
+- status: declared
+
+#### automated-substitution
+- description: Script to automate repo-specific substitution in template
+- horizon: near
+- status: declared
+
+### Mid Horizon
+
+#### formal-verification
+- description: Idris2 proofs for all critical contractile invariants
+- horizon: mid
+- status: declared
+
+### Far Horizon
+
+#### ecosystem-visualization
+- description: Interactive graph of all hyperpolymath repos and dependencies
+- horizon: far
+- status: declared

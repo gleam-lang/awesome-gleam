@@ -1,0 +1,137 @@
+# SPDX-License-Identifier: MPL-2.0
+# Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) <j.d.a.jewell@open.ac.uk>
+#
+# PLAYBOOK.a2ml — Operational playbook
+# Runbooks, incident response, deployment procedures.
+
+[metadata]
+version = "0.1.0"
+last-updated = "2026-04-11"
+
+[deployment]
+# method = "gitops"  # gitops | manual | ci-triggered
+# target = "container"  # container | binary | library | wasm
+
+[incident-response]
+# 1. Check .machine_readable/STATE.a2ml for current status
+# 2. Review recent commits and CI results
+# 3. Run `just validate` to check compliance
+# 4. Run `just security` to audit for vulnerabilities
+
+[release-process]
+# 1. Update version in STATE.a2ml, META.a2ml, Justfile
+# 2. Run `just release-preflight` (validate + quality + security + maint-hard-pass)
+# 3. Optional local permission hardening: `just perms-snapshot && just perms-lock`
+# 4. Tag and push
+# 5. Restore local permissions if needed: `just perms-restore`
+# 6. Run `just container-push` if applicable
+
+[maintenance-operations]
+# Baseline audit:
+#   just maint-audit
+# Hard release gate:
+#   just maint-hard-pass
+# Permission audit:
+#   just perms-audit
+
+[rsr-repo-skeleton]
+# Canonical organisation of any RSR-derived repository.
+# Used by tooling, human onboarding, and the scheduled downstream sweep agent.
+# The 5-PR cleanup pattern (below) brings a non-conforming repository into
+# compliance with this skeleton.
+#
+# This section is the single source of truth for "what does an RSR repo look
+# like?". Other docs (TOPOLOGY, AUDIT, etc.) describe the repo at hand;
+# this describes the canonical shape that all RSR repos share.
+
+skeleton-version = "1.0"
+last-updated = "2026-04-30"
+authority-allowlist = ".machine_readable/root-allow.txt"
+enforcement-workflow = ".github/workflows/estate-rules.yml"
+
+# === Required at root ===
+# README.adoc          High-level pitch (project entry point)
+# AUDIT.adoc           Local gate summary (release-readiness)
+# EXPLAINME.adoc       Developer deep-dive (architecture & invariants)
+# 0-AI-MANIFEST.a2ml   AI agent work-allocation policy
+# LICENSE              Repo license (root-bound by convention)
+# CHANGELOG.md         One of the recognised .md exceptions (see below)
+# Justfile             Task runner — thin, imports per-section files from build/just/
+# coordination.k9      Repo-local session binding
+
+# === Required directories ===
+# .github/             CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, workflows/
+# .machine_readable/   AI manifests (0.1-AI-MANIFEST.a2ml), 6a2/ checkpoints,
+#                      contractiles/, configs/, anchors/, policies/, scripts/, svc/
+# build/               contractile.just, flake.nix, guix.scm, Containerfile,
+#                      just/*.just (Justfile section imports)
+# docs/                onboarding/, status/, architecture/, governance/  (all .adoc)
+# session/             dispatch.sh, custom-checks.k9, local-hooks.sh
+# src/                 Project source (Idris2 ABI under abi/, Zig FFI under ffi/)
+# tests/, benches/, examples/, features/, scripts/, verification/, container/
+
+# === Documentation format rule ===
+# `.adoc` is the default for all general docs (TOPOLOGY, READINESS, ROADMAP,
+# TEST-NEEDS, PROOF-NEEDS, PROOF-STATUS, llm-warmup-*, etc.).
+#
+# `.md` is reserved ONLY for files GitHub's community-health rules
+# special-case by name:
+#   CONTRIBUTING.md  CODE_OF_CONDUCT.md  SECURITY.md  CHANGELOG.md
+#
+# Enforcement: `scripts/check-no-md-in-docs.sh` (fails if any *.md under docs/).
+
+# === Banned: ziguage ===
+# V (vlang.io) is banned estate-wide. Replaced by `zig-unified-api-adapter`
+# (16 endpoints + transaction-based firewall gating). Do not introduce
+# zig code, scaffolders, or references. Note that Coq theorem files use
+# the same `.v` extension and are unaffected — the rule looks at content
+# patterns, not the extension.
+#
+# Enforcement: `scripts/check-no-vlang.sh`.
+
+# === Justfile structure (post-split) ===
+# The root Justfile is thin — it holds `set` directives, project metadata
+# variables, and the `default`/`help`/`info` recipes. Each major section
+# lives in its own file under build/just/ and is brought in via `import?`.
+#
+# Imported sections (in the canonical split):
+#   build/just/init.just       INIT recipe (template bootstrap)
+#   build/just/assess.just     self-assess + verify (OpenSSF compliance)
+#   build/just/validate.just   validate-rsr/state/ai-install + aggregate
+#   build/just/proofs.just     proof-check-{all,idris2,lean4,agda,coq},
+#                              proof-scan-dangerous, proof-status
+#   build/just/groove.just     Groove protocol setup (after zig removed)
+#
+# Daily-use recipes (BUILD, TEST, LINT, RUN, DEPS, DOCS, CONTAINER, CI,
+# SECURITY, STATE, GUIX/NIX, MATRIX, VERSION CONTROL, UTILITIES, SESSION)
+# stay in the root Justfile where users expect to find them.
+
+# === 5-PR cleanup pattern ===
+# Apply these branches (in order) to bring a non-conforming downstream repo
+# into compliance with this skeleton:
+#
+# 1. chore/root-cleanup       Relocate root sprawl per root-allow.txt; add
+#                             scripts/check-root-shape.sh; remove stub
+#                             health files shadowed by .github/ versions.
+# 2. chore/remove-zig      Purge zig remnants (gen-v-connector recipe,
+#                             "V-TRIPLE" section header, "V-triple
+#                             connectors" comment in groove.a2ml).
+# 3. chore/md-to-adoc         Port general docs in docs/ from .md to .adoc;
+#                             update validate-template.sh to accept .adoc
+#                             fallbacks.
+# 4. chore/estate-rules-ci    Add scripts/check-no-md-in-docs.sh + check-no-
+#                             vlang.sh + .github/workflows/estate-rules.yml.
+# 5. chore/<repo>-hygiene     Repo-specific drift cleanup (case collisions,
+#                             template-derivation drift in titles, etc.).
+
+# === Reference scripts ===
+# scripts/check-root-shape.sh      Root allowlist validator
+# scripts/check-no-md-in-docs.sh   AsciiDoc-by-default validator
+# scripts/check-no-vlang.sh        zig ban validator
+# scripts/validate-template.sh     Aggregate RSR compliance (workflows, SPDX, etc.)
+
+# === Reference memory entries (for AI agents) ===
+# feedback_adoc_default_md_for_githealth   AsciiDoc-by-default rule
+# feedback_v_lang_banned                   zig ban
+# project_zig_unified_api                  Replacement for v-triple/zig
+# feedback_gh_workflow_scope               OAuth scope for workflow files
