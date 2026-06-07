@@ -1,0 +1,52 @@
+# SPDX-License-Identifier: MPL-2.0
+# Bustfile — failure mode contractile for awesome-gleam
+# Author: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+#
+# Paired runner: bust.ncl
+# Verb:          bust
+# Semantics:     Every declared failure mode must have a working recovery path
+#                that has been exercised. Status moves:
+#                  declared → drilled (probe run) → verified (recovery confirmed)
+#                  or → failing (recovery broken)
+#
+# CLI:
+#   contractile bust check  → list failure modes + recovery status
+#   contractile bust drill  → inject failures, verify recovery paths
+#
+# This repository: awesome-gleam is the canonical template for RSR compliance.
+# Failure modes here relate to template distribution and substitution.
+
+@abstract:
+Bustfile for awesome-gleam. Lists failure modes specific to the template
+repository itself, particularly around template distribution, substitution,
+and synchronization across the hyperpolymath estate.
+@end
+
+## Failure Modes
+
+### template-substitution-failure
+- class: template_processing
+- description: Template substitution fails when initializing a new repo from this template
+- injection_probe: "cp -r awesome-gleam test-repo && cd test-repo && sed -i 's/awesome-gleam/TEST/g' .machine_readable/contractiles/Intentfile.a2ml && grep -q 'TEST' .machine_readable/contractiles/Intentfile.a2ml"
+- recovery_probe: "git -C test-repo diff --quiet .machine_readable/contractiles/Intentfile.a2ml"
+- expected_recovery_time_seconds: 10
+- status: declared
+- notes: Verify that substitution scripts handle all placeholder replacements correctly
+
+### sync-drift-between-repos
+- class: synchronization
+- description: Drift occurs between awesome-gleam and other repos after template updates
+- injection_probe: "echo 'template_updated' > /tmp/test_drift_marker"
+- recovery_probe: "test -f /tmp/test_drift_marker && rm /tmp/test_drift_marker"
+- expected_recovery_time_seconds: 60
+- status: declared
+- notes: The estate-wide sync scripts (see scripts/) should prevent this; verify with scripts/verify-sync.sh
+
+### contractile-parse-error
+- class: contractile_format
+- description: A contractile file fails to parse due to syntax errors
+- injection_probe: "echo 'invalid syntax' >> awesome-gleam/.machine_readable/contractiles/Intentfile.a2ml"
+- recovery_probe: "git checkout awesome-gleam/.machine_readable/contractiles/Intentfile.a2ml"
+- expected_recovery_time_seconds: 5
+- status: declared
+- notes: All .a2ml files should be valid A2ML; use a2ml-validate runner
