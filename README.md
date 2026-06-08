@@ -83,6 +83,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 ### Build Tooling
 
 - [esgleam](https://github.com/Enderchief/esgleam) - [📚](https://hexdocs.pm/esgleam/) - esbuild for Gleam
+- [gleamdocs](https://git.sr.ht/~jturner/gleamdoc) - [📚](https://hexdocs.pm/gleamdocs/) - Sparse, terminal-first documentation lookup for Gleam packages
 - [gleescript](https://github.com/lpil/gleescript) - [📚](https://hexdocs.pm/gleescript/) - Bundle your Gleam-on-Erlang project into an escript, a single executable file!
 
 ### Command Line
