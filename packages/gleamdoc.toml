@@ -1,4 +1,4 @@
-name = "gleamdocs"
+name = "gleamdoc"
 description = "Sparse, terminal-first documentation lookup for Gleam packages"
 repo_url = "https://git.sr.ht/~jturner/gleamdoc"
 category = "Build Tooling"
