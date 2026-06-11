@@ -1,14 +1,13 @@
 # SPDX-License-Identifier: MPL-2.0
 # Hypatia Neurosymbolic CI/CD Security Scan
 name: Hypatia Security Scan
-
 on:
   push:
-    branches: [ main, master, develop ]
+    branches: [main, master, develop]
   pull_request:
-    branches: [ main, master ]
+    branches: [main, master]
   schedule:
-    - cron: '0 0 * * 0'  # Weekly on Sunday
+    - cron: '0 0 * * 0' # Weekly on Sunday
   workflow_dispatch:
 # Estate guardrail: cancel superseded runs so re-pushes don't pile up
 # queued runs across the estate. Safe here because this workflow only
@@ -16,7 +15,6 @@ on:
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
-
 permissions:
   contents: read
   # security-events: write serves two purposes (write implies read):
@@ -38,31 +36,26 @@ permissions:
   # "Resource not accessible by integration" and (absent continue-on-error)
   # hard-fails the scan — exactly what the gate-decoupling design forbids.
   pull-requests: write
-
 jobs:
   scan:
     name: Hypatia Neurosymbolic Analysis
     runs-on: ubuntu-latest
     timeout-minutes: 15
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
-          fetch-depth: 0  # Full history for better pattern analysis
-
+          fetch-depth: 0 # Full history for better pattern analysis
       - name: Setup Elixir for Hypatia scanner
         uses: erlef/setup-beam@fc68ffb90438ef2936bbb3251622353b3dcb2f93 # v1.18.2
         with:
           elixir-version: '1.18'
           otp-version: '27'
-
       - name: Clone Hypatia
         run: |
           if [ ! -d "$HOME/hypatia" ]; then
             git clone https://github.com/hyperpolymath/hypatia.git "$HOME/hypatia"
           fi
-
       - name: Build Hypatia scanner (if needed)
         run: |
           cd "$HOME/hypatia"
@@ -71,7 +64,6 @@ jobs:
             mix deps.get
             mix escript.build
           fi
-
       - name: Run Hypatia scan
         id: scan
         env:
@@ -104,14 +96,12 @@ jobs:
           echo "- Critical: $CRITICAL" >> $GITHUB_STEP_SUMMARY
           echo "- High: $HIGH" >> $GITHUB_STEP_SUMMARY
           echo "- Medium: $MEDIUM" >> $GITHUB_STEP_SUMMARY
-
       - name: Upload findings artifact
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: hypatia-findings
           path: hypatia-findings.json
           retention-days: 90
-
       - name: Convert Hypatia findings to SARIF
         # Always runs (no findings_count guard): an EMPTY SARIF run is
         # valid and intentional — uploading it clears stale Hypatia
@@ -227,7 +217,6 @@ jobs:
           console.log(`hypatia.sarif written: ${results.length} result(s).`);
           CJS
           node "$RUNNER_TEMP/hypatia-sarif.cjs"
-
       - name: Upload SARIF to GitHub code scanning
         # Fork PRs get a read-only GITHUB_TOKEN, so security-events:write
         # is unavailable and upload-sarif cannot publish — skip there
@@ -239,8 +228,12 @@ jobs:
         # exists to end). The empty-SARIF "clear stale alerts" path is
         # handled in the converter above and does not error here.
         if: >-
-          always() &&
-          (github.event_name != 'pull_request' ||
+          always() && (github.event_name != 'pull_request' ||
+
+
+
+
+
            github.event.pull_request.head.repo.fork != true)
         uses: github/codeql-action/upload-sarif@0d579ffd059c29b07949a3cce3983f0780820c98 # v3.28.1
         with:
@@ -248,7 +241,6 @@ jobs:
           # Distinct category so Hypatia results coexist with CodeQL's
           # (codeql.yml) instead of overwriting them on the same surface.
           category: hypatia
-
       - name: Submit findings to gitbot-fleet (Phase 2)
         if: steps.scan.outputs.findings_count > 0
         # Phase 2 is the collaborative LEARNING side-channel ("bots share
@@ -272,52 +264,7 @@ jobs:
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_SHA: ${{ github.sha }}
           FINDINGS_COUNT: ${{ steps.scan.outputs.findings_count }}
-        run: |
-          echo "📤 Submitting $FINDINGS_COUNT findings to gitbot-fleet..."
-
-          # Clone gitbot-fleet to temp directory. A clone failure (network,
-          # repo gone) is non-fatal: learning submission is best-effort.
-          FLEET_DIR="/tmp/gitbot-fleet-$$"
-          if ! git clone --depth 1 https://github.com/hyperpolymath/gitbot-fleet.git "$FLEET_DIR"; then
-            echo "::warning::Could not clone gitbot-fleet — skipping Phase 2 learning submission (non-fatal)."
-            exit 0
-          fi
-
-          # The submission script's location in gitbot-fleet has drifted
-          # before (it was absent from the default branch, which exit-127'd
-          # every consuming repo's scan). Probe known locations rather than
-          # hard-coding one path, and skip gracefully if none is present.
-          SUBMIT_SCRIPT=""
-          for cand in \
-            "$FLEET_DIR/scripts/submit-finding.sh" \
-            "$FLEET_DIR/scripts/submit_finding.sh" \
-            "$FLEET_DIR/bin/submit-finding.sh" \
-            "$FLEET_DIR/submit-finding.sh"; do
-            if [ -f "$cand" ]; then
-              SUBMIT_SCRIPT="$cand"
-              break
-            fi
-          done
-
-          if [ -z "$SUBMIT_SCRIPT" ]; then
-            echo "::warning::gitbot-fleet submit-finding script not found at any known path — skipping Phase 2 learning submission (non-fatal). Findings are still uploaded as an artifact and gated below."
-            rm -rf "$FLEET_DIR"
-            exit 0
-          fi
-
-          # Run submission script. Pass the findings path as ABSOLUTE —
-          # the script cd's into its own working dir before reading the
-          # file, so a relative path would resolve to the wrong place.
-          # A submission-script failure is logged but non-fatal.
-          if bash "$SUBMIT_SCRIPT" "$GITHUB_WORKSPACE/hypatia-findings.json"; then
-            echo "✅ Finding submission complete"
-          else
-            echo "::warning::gitbot-fleet submission script exited non-zero — Phase 2 learning submission skipped (non-fatal)."
-          fi
-
-          # Cleanup
-          rm -rf "$FLEET_DIR"
-
+        run: "echo \"\U0001F4E4 Submitting $FINDINGS_COUNT findings to gitbot-fleet...\"\n\n# Clone gitbot-fleet to temp directory. A clone failure (network,\n# repo gone) is non-fatal: learning submission is best-effort.\nFLEET_DIR=\"/tmp/gitbot-fleet-$$\"\nif ! git clone --depth 1 https://github.com/hyperpolymath/gitbot-fleet.git \"$FLEET_DIR\"; then\n  echo \"::warning::Could not clone gitbot-fleet — skipping Phase 2 learning submission (non-fatal).\"\n  exit 0\nfi\n\n# The submission script's location in gitbot-fleet has drifted\n# before (it was absent from the default branch, which exit-127'd\n# every consuming repo's scan). Probe known locations rather than\n# hard-coding one path, and skip gracefully if none is present.\nSUBMIT_SCRIPT=\"\"\nfor cand in \\\n  \"$FLEET_DIR/scripts/submit-finding.sh\" \\\n  \"$FLEET_DIR/scripts/submit_finding.sh\" \\\n  \"$FLEET_DIR/bin/submit-finding.sh\" \\\n  \"$FLEET_DIR/submit-finding.sh\"; do\n  if [ -f \"$cand\" ]; then\n    SUBMIT_SCRIPT=\"$cand\"\n    break\n  fi\ndone\n\nif [ -z \"$SUBMIT_SCRIPT\" ]; then\n  echo \"::warning::gitbot-fleet submit-finding script not found at any known path — skipping Phase 2 learning submission (non-fatal). Findings are still uploaded as an artifact and gated below.\"\n  rm -rf \"$FLEET_DIR\"\n  exit 0\nfi\n\n# Run submission script. Pass the findings path as ABSOLUTE —\n# the script cd's into its own working dir before reading the\n# file, so a relative path would resolve to the wrong place.\n# A submission-script failure is logged but non-fatal.\nif bash \"$SUBMIT_SCRIPT\" \"$GITHUB_WORKSPACE/hypatia-findings.json\"; then\n  echo \"✅ Finding submission complete\"\nelse\n  echo \"::warning::gitbot-fleet submission script exited non-zero — Phase 2 learning submission skipped (non-fatal).\"\nfi\n\n# Cleanup\nrm -rf \"$FLEET_DIR\"\n"
       - name: Check for critical issues
         if: steps.scan.outputs.critical > 0
         # GATING POLICY (explicit, by design — not an oversight):
@@ -335,7 +282,6 @@ jobs:
           echo "::warning::Hypatia found critical security issue(s) — advisory."
           echo "See the Security → Code scanning page (category: hypatia)"
           echo "and the hypatia-findings.json artifact for details."
-
       - name: Generate scan report
         run: |
           cat << EOF > hypatia-report.md
@@ -374,7 +320,6 @@ jobs:
           EOF
 
           cat hypatia-report.md >> $GITHUB_STEP_SUMMARY
-
       - name: Comment on PR with findings
         if: github.event_name == 'pull_request' && steps.scan.outputs.findings_count > 0
         # Advisory only — posting findings as a PR comment must never gate
@@ -384,32 +329,4 @@ jobs:
         continue-on-error: true
         uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd # v7
         with:
-          script: |
-            const fs = require('fs');
-            const findings = JSON.parse(fs.readFileSync('hypatia-findings.json', 'utf8'));
-
-            const critical = findings.filter(f => f.severity === 'critical').length;
-            const high = findings.filter(f => f.severity === 'high').length;
-
-            let comment = `## 🔍 Hypatia Security Scan\n\n`;
-            comment += `**Findings:** ${findings.length} issues detected\n\n`;
-            comment += `| Severity | Count |\n|----------|-------|\n`;
-            comment += `| 🔴 Critical | ${critical} |\n`;
-            comment += `| 🟠 High | ${high} |\n`;
-            comment += `| 🟡 Medium | ${findings.length - critical - high} |\n\n`;
-
-            if (critical > 0) {
-              comment += `⚠️ **Action Required:** Critical security issues found!\n\n`;
-            }
-
-            comment += `<details><summary>View findings</summary>\n\n`;
-            comment += `\`\`\`json\n${JSON.stringify(findings.slice(0, 10), null, 2)}\n\`\`\`\n`;
-            comment += `</details>\n\n`;
-            comment += `*Powered by Hypatia Neurosymbolic CI/CD Intelligence*`;
-
-            github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number,
-              body: comment
-            });
+          script: "const fs = require('fs');\nconst findings = JSON.parse(fs.readFileSync('hypatia-findings.json', 'utf8'));\n\nconst critical = findings.filter(f => f.severity === 'critical').length;\nconst high = findings.filter(f => f.severity === 'high').length;\n\nlet comment = `## \U0001F50D Hypatia Security Scan\\n\\n`;\ncomment += `**Findings:** ${findings.length} issues detected\\n\\n`;\ncomment += `| Severity | Count |\\n|----------|-------|\\n`;\ncomment += `| \U0001F534 Critical | ${critical} |\\n`;\ncomment += `| \U0001F7E0 High | ${high} |\\n`;\ncomment += `| \U0001F7E1 Medium | ${findings.length - critical - high} |\\n\\n`;\n\nif (critical > 0) {\n  comment += `⚠️ **Action Required:** Critical security issues found!\\n\\n`;\n}\n\ncomment += `<details><summary>View findings</summary>\\n\\n`;\ncomment += `\\`\\`\\`json\\n${JSON.stringify(findings.slice(0, 10), null, 2)}\\n\\`\\`\\`\\n`;\ncomment += `</details>\\n\\n`;\ncomment += `*Powered by Hypatia Neurosymbolic CI/CD Intelligence*`;\n\ngithub.rest.issues.createComment({\n  owner: context.repo.owner,\n  repo: context.repo.repo,\n  issue_number: context.issue.number,\n  body: comment\n});"

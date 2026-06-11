@@ -1,14 +1,11 @@
 name: test
-
 on:
   push:
     branches:
       - master
       - main
   pull_request:
-
 permissions: read-all
-
 jobs:
   test:
     runs-on: ubuntu-latest
