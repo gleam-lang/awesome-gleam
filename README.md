@@ -9,58 +9,62 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 [suggestions]: https://github.com/gleam-lang/awesome-gleam/issues/34
 
-- [Packages](#packages)
-  - [API Clients](#api-clients)
-  - [Benchmarking](#benchmarking)
-  - [Build Tooling](#build-tooling)
-  - [Command Line](#command-line)
-  - [Configuration](#configuration)
-  - [Cryptography](#cryptography)
-  - [Data Structures](#data-structures)
-  - [Databases](#databases)
-  - [Email](#email)
-  - [Erlang and OTP](#erlang-and-otp)
-  - [Error Handling](#error-handling)
-  - [File System](#file-system)
-  - [Formats](#formats)
-  - [Frontend](#frontend)
-  - [Gleam](#gleam)
-  - [Graphics](#graphics)
-  - [HTML](#html)
-  - [HTTP](#http)
-  - [HTTP Clients](#http-clients)
-  - [HTTP Servers](#http-servers)
-  - [JSON](#json)
-  - [JavaScript](#javascript)
-  - [Logging and Monitoring](#logging-and-monitoring)
-  - [Machine Learning](#machine-learning)
-  - [Networking](#networking)
-  - [Numbers](#numbers)
-  - [Parsing](#parsing)
-  - [Project Tooling](#project-tooling)
-  - [Push Notifications](#push-notifications)
-  - [Queues and Job Processing](#queues-and-job-processing)
-  - [Randomness](#randomness)
-  - [SDKs](#sdks)
-  - [Standards](#standards)
-  - [TUI](#tui)
-  - [Templating](#templating)
-  - [Testing](#testing)
-  - [Text](#text)
-  - [Time](#time)
-  - [Validation](#validation)
-  - [Web frameworks](#web-frameworks)
-  - [Websites](#websites)
-- [Projects](#projects)
-  - [Compilers](#compilers)
-  - [Web applications](#web-applications)
-  - [Network applications](#network-applications)
-- [Tools](#tools)
+- [Awesome Gleam](#awesome-gleam)
+  - [Packages](#packages)
+    - [API Clients](#api-clients)
+    - [Benchmarking](#benchmarking)
+    - [Build Tooling](#build-tooling)
+    - [Command Line](#command-line)
+    - [Configuration](#configuration)
+    - [Cryptography](#cryptography)
+    - [Data Structures](#data-structures)
+    - [Databases](#databases)
+    - [Email](#email)
+    - [Erlang and OTP](#erlang-and-otp)
+    - [Error Handling](#error-handling)
+    - [File System](#file-system)
+    - [Formats](#formats)
+    - [Frontend](#frontend)
+    - [Gleam](#gleam)
+    - [Graphics](#graphics)
+    - [HTML](#html)
+    - [HTTP](#http)
+    - [HTTP Clients](#http-clients)
+    - [HTTP Servers](#http-servers)
+    - [JSON](#json)
+    - [JavaScript](#javascript)
+    - [Logging and Monitoring](#logging-and-monitoring)
+    - [Machine Learning](#machine-learning)
+    - [Networking](#networking)
+    - [Numbers](#numbers)
+    - [Parsing](#parsing)
+    - [Project Tooling](#project-tooling)
+    - [Push Notifications](#push-notifications)
+    - [Queues and Job Processing](#queues-and-job-processing)
+    - [Randomness](#randomness)
+    - [SDKs](#sdks)
+    - [Standards](#standards)
+    - [TUI](#tui)
+    - [Templating](#templating)
+    - [Testing](#testing)
+    - [Text](#text)
+    - [Time](#time)
+    - [Validation](#validation)
+    - [Web frameworks](#web-frameworks)
+    - [Websites](#websites)
+  - [Projects](#projects)
+    - [Compilers](#compilers)
+    - [Web applications](#web-applications)
+    - [Network applications](#network-applications)
+  - [Tools](#tools)
   - [Editor support](#editor-support)
-- [Resources](#resources)
-  - [Websites](#websites)
-  - [Courses](#courses)
-  - [Social Media](#social-media)
+  - [Resources](#resources)
+    - [Websites](#websites-1)
+    - [Courses](#courses)
+    - [Talks](#talks)
+    - [Social Media](#social-media)
+      - [Twitter](#twitter)
+      - [Reddit](#reddit)
 
 ## Packages
 
@@ -186,7 +190,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [a2ml_gleam](https://github.com/hyperpolymath/a2ml_gleam) - [📚](https://hexdocs.pm/a2ml_gleam/) - Parser and renderer for A2ML (Attested Markup Language), an AI agent identity and attestation format
 - [commonmark](https://github.com/mscharley/gleam-commonmark) - [📚](https://hexdocs.pm/commonmark/) - CommonMark implementation for Gleam, for the BEAM or JS
 - [cymbal](https://github.com/lpil/cymbal) - [📚](https://hexdocs.pm/cymbal/) - Build YAML in Gleam!
-- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam 
+- [gsv](https://github.com/bcpeinhardt/gsv) - [📚](https://hexdocs.pm/gsv/) - A simple csv parser and generator written in gleam
 - [iso_8859](https://github.com/richard-viney/iso_8859) - [📚](https://hexdocs.pm/iso_8859/) - Gleam library to decode ISO/IEC 8859 binary data into native UTF-8 strings.
 - [jot](https://github.com/lpil/jot) - [📚](https://hexdocs.pm/jot/) - A parser for Djot, a markdown-like language
 - [mork](https://hex.pm/packages/mork) - [📚](https://hexdocs.pm/mork/) - A Markdown (CommonMark/GFM/OFM) parser in pure Gleam
@@ -254,6 +258,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleam_json](https://github.com/gleam-lang/json) - [📚](https://hexdocs.pm/gleam_json/) - Work with JSON in Gleam
 - [json_typedef](https://github.com/lpil/json-typedef) - [📚](https://hexdocs.pm/json_typedef/) - Work with JSON using a schema! RFC8927
 - [squirtle](https://github.com/alii/squirtle) - [📚](https://hexdocs.pm/squirtle/) - A JSON Patch (RFC 6902) implementation in Gleam
+- [gleamson](https://github.com/atesbazi/gleamson) - [📚](https://hex.pm/packages/gleamson/) - A JSON library for Gleam.
 
 ### JavaScript
 
@@ -373,7 +378,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [birl](https://github.com/massivefermion/birl) - [📚](https://hexdocs.pm/birl/) - Date / Time handling for Gleam
 - [gleam_time](https://github.com/gleam-lang/time) - [📚](https://hexdocs.pm/gleam_time/) - Work with time in Gleam!
 - [gtempo](https://github.com/jrstrunk/tempo) - [📚](https://hexdocs.pm/gtempo/) - A lightweight and Gleamy datetime library!
-- [gtz](https://github.com/jrstrunk/gtz) - [📚](https://hexdocs.pm/gtz/) - A timezone data provider for Gleam! 
+- [gtz](https://github.com/jrstrunk/gtz) - [📚](https://hexdocs.pm/gtz/) - A timezone data provider for Gleam!
 - [rada](https://github.com/michaeljones/rada) - [📚](https://hexdocs.pm/rada/) - A library for dates with no times or time zones
 
 ### Validation
@@ -464,10 +469,10 @@ Websites with Gleam related content.
 
 #### Twitter
 
-* [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
-* [@gleamlang](https://twitter.com/gleamlang) - The official twitter account.
-* [@louispilfold](https://twitter.com/louispilfold) - The creator of Gleam.
+- [#gleamlang hashtag](https://twitter.com/search?q=%23gleamlang&src=typed_query)
+- [@gleamlang](https://twitter.com/gleamlang) - The official twitter account.
+- [@louispilfold](https://twitter.com/louispilfold) - The creator of Gleam.
 
 #### Reddit
 
-* [r/gleamlang](https://reddit.com/r/gleamlang/)
+- [r/gleamlang](https://reddit.com/r/gleamlang/)
