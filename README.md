@@ -350,6 +350,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [testbldr](https://github.com/bcpeinhardt/testbldr) - [📚](https://hexdocs.pm/testbldr/) - A library for programatically building and running test cases
 - [testcontainers_gleam](https://github.com/darky/testcontainers-gleam) - [📚](https://hexdocs.pm/testcontainers_gleam/) - Gleam TestContainers wrapper around Elixir TestContainers
 - [unitest](https://github.com/jtdowney/unitest) - [📚](https://hexdocs.pm/unitest/) - A test runner with random ordering, tagging, and CLI filtering
+- [http_server_mock](https://github.com/atomfinger/http_server_mock) - [📚](https://hexdocs.pm/http_server_mock/) - A mock server for integration testing
 
 ### Text
 
