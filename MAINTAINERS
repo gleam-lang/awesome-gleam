@@ -1,0 +1,43 @@
+# Maintainers
+
+This file lists the current maintainers of this project.
+
+## Active Maintainers
+
+| Name | GitHub | Role | Since |
+|------|--------|------|-------|
+| Metadatastician | @metadatastician | Primary | Project Start |
+
+## Emeritus Maintainers
+
+None at this time.
+
+## Becoming a Maintainer
+
+To become a maintainer:
+
+1. Demonstrate consistent, high-quality contributions
+2. Show understanding of the project's goals and architecture
+3. Be active in code reviews and community discussions
+4. Be nominated by an existing maintainer
+5. Be approved by consensus of existing maintainers
+
+## Maintainer Responsibilities
+
+- Reviewing and merging pull requests
+- Managing releases
+- Triaging issues
+- Enforcing code standards
+- Mentoring new contributors
+- Participating in decision-making
+
+## Maintainer Expectations
+
+- Respond to issues and PRs in a timely manner
+- Follow the code of conduct
+- Be transparent in decision-making
+- Communicate clearly and respectfully
+
+---
+
+*Last updated: 2026-07-18*
