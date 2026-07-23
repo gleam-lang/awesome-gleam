@@ -1,0 +1,4 @@
+name = "squirtle"
+description = "A JSON Patch (RFC 6902) implementation in Gleam"
+repo_url = "https://github.com/alii/squirtle"
+category = "JSON"
