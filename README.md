@@ -93,6 +93,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gleam_community_ansi](https://github.com/gleam-community/ansi) - [📚](https://hexdocs.pm/gleam_community_ansi/) - ANSI colours, formatting, and control codes
 - [glint](https://github.com/TanklesXL/glint) - [📚](https://hexdocs.pm/glint/) - Gleam command line argument parsing with basic flag support.
 - [glitzer](https://github.com/miampf/glitzer) - [📚](https://hexdocs.pm/glitzer/) - Progress bars for gleam.
+- [gsh](https://github.com/v4rm4n/gsh) - [📚](https://hexdocs.pm/gsh/) - An Interactive REPL and hot-reloading bootloader for the Gleam programming language on the BEAM.
 - [rad](https://github.com/tynanbe/rad) - [📚](https://hexdocs.pm/rad/) - A task runner for Gleam projects
 - [shellout](https://github.com/tynanbe/shellout) - [📚](https://hexdocs.pm/shellout/) - A Gleam library for cross-platform shell operations
 - [spinner](https://github.com/lpil/spinner) - [📚](https://hexdocs.pm/spinner/) - Animated progress spinners for your console
