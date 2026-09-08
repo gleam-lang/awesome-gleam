@@ -48,6 +48,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
   - [Testing](#testing)
   - [Text](#text)
   - [Time](#time)
+  - [Tools](#tools)
   - [Validation](#validation)
   - [Web frameworks](#web-frameworks)
   - [Websites](#websites)
@@ -375,6 +376,10 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 - [gtempo](https://github.com/jrstrunk/tempo) - [📚](https://hexdocs.pm/gtempo/) - A lightweight and Gleamy datetime library!
 - [gtz](https://github.com/jrstrunk/gtz) - [📚](https://hexdocs.pm/gtz/) - A timezone data provider for Gleam! 
 - [rada](https://github.com/michaeljones/rada) - [📚](https://hexdocs.pm/rada/) - A library for dates with no times or time zones
+
+### Tools
+
+- [gsh](https://github.com/v4rm4n/gsh) - [📚](https://hexdocs.pm/gsh/) - An Interactive REPL and hot-reloading bootloader for the Gleam programming language on the BEAM.
 
 ### Validation
 
