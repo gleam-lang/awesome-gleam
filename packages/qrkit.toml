@@ -1,0 +1,4 @@
+name = "qrkit"
+description = "QR code generator with SVG, PNG, and terminal output"
+repo_url = "https://github.com/nao1215/qrkit"
+category = "Graphics"

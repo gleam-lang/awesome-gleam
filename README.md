@@ -220,6 +220,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [ansel](https://github.com/tinybackup/ansel) - [📚](https://hexdocs.pm/ansel/) - A simple and fast vips image processing library for Gleam!
 - [gleam_community_colour](https://github.com/gleam-community/colour) - [📚](https://hexdocs.pm/gleam_community_colour/) - Colour types, conversions, and other utilities
+- [qrkit](https://github.com/nao1215/qrkit) - [📚](https://hexdocs.pm/qrkit/) - QR code generator with SVG, PNG, and terminal output
 
 ### HTML
 
