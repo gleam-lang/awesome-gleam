@@ -1,0 +1,4 @@
+name = "gerbil"
+description = "A library for making charts in Gleam"
+repo_url = "https://tangled.org/giacomocavalieri.me/gerbil"
+category = "Numbers"

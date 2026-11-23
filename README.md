@@ -286,6 +286,7 @@ Looking for something to build? Check out [the suggestions list][suggestions].
 
 - [bigdecimal](https://github.com/horvathandris/bigdecimal) - [📚](https://hexdocs.pm/bigdecimal/) - Arbitrary precision decimal arithmetic for Gleam
 - [bigi](https://gitlab.com/Nicd/bigi) - [📚](https://hexdocs.pm/bigi/) - Arbitrary precision integer arithmetic for Gleam
+- [gerbil](https://tangled.org/giacomocavalieri.me/gerbil) - [📚](https://hexdocs.pm/gerbil/) - A library for making charts in Gleam
 - [gleam_community_maths](https://github.com/gleam-community/maths) - [📚](https://hexdocs.pm/gleam_community_maths/) - A basic maths library
 - [vec](https://codeberg.org/gwg/vec) - [📚](https://hexdocs.pm/vec/) - A vectors library for the Gleam programming language
 
