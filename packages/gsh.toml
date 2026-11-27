@@ -1,0 +1,4 @@
+name = "gsh"
+description = "An Interactive REPL and hot-reloading bootloader for the Gleam programming language on the BEAM."
+repo_url = "https://github.com/v4rm4n/gsh"
+category = "Tools"
